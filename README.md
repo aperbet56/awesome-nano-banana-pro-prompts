@@ -77,7 +77,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **511** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Tuesday, November 25, 2025 at 9:34:56 AM UTC** |
+| 🔄 Last Updated | **Tuesday, November 25, 2025 at 10:19:49 AM UTC** |
 
 </div>
 
@@ -138,6 +138,8 @@ A prompt for generating a wide quote card featuring a famous person’s portrait
 - **Published:** November 21, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%BC%A0%E5%AE%BD%E5%B9%85%E7%9A%84%E5%90%8D%E4%BA%BA%E9%87%91%E5%8F%A5%E5%8D%A1%EF%BC%8C%E6%A3%95%E8%89%B2%E8%83%8C%E6%99%AF%EF%BC%8C%E8%A1%AC%E7%BA%BF%E4%BD%93%E6%B5%85%E9%87%91%E8%89%B2%E2%80%9C%7Bargument%20name%3D%22%E9%87%91%E5%8F%A5%22%20default%3D%22%E4%BF%9D%E6%8C%81%E9%A5%A5%E9%A5%BF%EF%BC%8C%E4%BF%9D%E6%8C%81%E6%84%9A%E8%A0%A2%22%7D%E2%80%9D%EF%BC%8C%E5%B0%8F%E5%AD%97%E2%80%9C%E2%80%94%E2%80%94%7Bargument%20name%3D%22%E4%BD%9C%E8%80%85%22%20default%3D%22Steve%20Jobs%22%7D%E2%80%9D%EF%BC%8C%E6%96%87%E5%AD%97%E5%89%8D%E9%9D%A2%E5%B8%A6%E4%B8%80%E4%B8%AA%E5%A4%A7%E7%9A%84%E6%B7%A1%E6%B7%A1%E7%9A%84%E5%BC%95%E5%8F%B7%E3%80%82%E4%BA%BA%E7%89%A9%E5%A4%B4%E5%83%8F%E5%9C%A8%E5%B7%A6%E8%BE%B9%EF%BC%8C%E6%96%87%E5%AD%97%E5%9C%A8%E5%8F%B3%E8%BE%B9%EF%BC%8C%E6%96%87%E5%AD%97%E5%8D%A0%E7%94%BB%E9%9D%A2%E6%AF%94%E4%BE%8B%202%2F3%EF%BC%8C%E4%BA%BA%E7%89%A9%E5%8D%A0%201%2F3%EF%BC%8C%E4%BA%BA%E7%89%A9%E6%9C%89%E4%B8%80%E7%82%B9%E6%B8%90%E5%8F%98%E8%BF%87%E6%B8%A1%E7%9A%84%E6%84%9F%E8%A7%89%E3%80%82)**
+
 ---
 
 ### No. 2: Map of Germany watercolor style prompt
@@ -169,6 +171,8 @@ Erzeuge eine Karte von Deutschland im Wasserfarben-Stil, auf der alle Bundeslän
 - **Source:** [Twitter Post](https://x.com/FlorianGallwitz/status/1991796624646091091)
 - **Published:** November 21, 2025
 - **Language:** de
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Erzeuge%20eine%20Karte%20von%20Deutschland%20im%20Wasserfarben-Stil%2C%20auf%20der%20alle%20Bundesl%C3%A4nder%20mit%20Kugelschreiber%20benannt%20sind.)**
 
 ---
 
@@ -215,6 +219,8 @@ Reply includes a detailed Japanese prompt for a 16:9 book advertisement image.
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%BA%83%E5%91%8A%E7%94%BB%E5%83%8F%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%0A%0A%3D%3D%3D%3D%20%E5%BA%83%E5%91%8A%E3%81%AE%E4%BB%95%E6%A7%98%20%3D%3D%3D%0A-%20%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%3A%2016%3A9%EF%BC%88%E6%A8%AA%E9%95%B7%EF%BC%89%0A-%20%E5%BA%83%E5%91%8A%E3%81%97%E3%81%9F%E3%81%84%E5%95%86%E5%93%81%3A%20%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F1%E6%9E%9A%E7%9B%AE%E3%81%AE%E6%9C%AC%0A-%20%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%3A%20%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F1%E6%9E%9A%E7%9B%AE%E3%81%AE%E6%9C%AC%E3%82%92%E7%AB%8B%E4%BD%93%E7%9A%84%E3%81%AB%E9%85%8D%E7%BD%AE%0A-%20%E4%BD%BF%E7%94%A8%E8%A8%80%E8%AA%9E%3A%20%E6%97%A5%E6%9C%AC%E8%AA%9E%0A-%20%E3%83%86%E3%82%A4%E3%82%B9%E3%83%88%3A%20%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%9B%B8%E3%81%AE%E5%BA%83%E5%91%8A%0A%0A%23%20%E6%8E%B2%E8%BC%89%E6%96%87%E5%AD%97%3A%0A-%20%E3%83%97%E3%83%AA%E3%83%87%E3%83%83%E3%83%89%E3%82%B3%E3%83%94%E3%83%BC%3A%20%0A%E3%80%90%20%E7%99%BA%E5%A3%B21%E9%80%B1%E9%96%93%E3%81%BB%E3%81%A9%E3%81%A7%E9%87%8D%E7%89%88%E6%B1%BA%E5%AE%9A%20%E3%80%91%0A%0A%E6%9B%B8%E7%B1%8D%E3%80%8CAI%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%8D%E5%A5%BD%E8%A9%95%E7%99%BA%E5%A3%B2%E4%B8%AD)**
+
 ---
 
 ### No. 4: Pink Kirby dream diary bubble prompt
@@ -246,6 +252,8 @@ Chinese prompt for a dreamy pastel illustration of Kirby lying on a star, blowin
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991795708308189668)
 - **Published:** November 21, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A2%A6%E5%A2%83%E6%97%A5%E8%AE%B0%E3%80%82%E7%B2%89%E7%BA%A2%E8%89%B2%E7%9A%84%E6%98%9F%E4%B9%8B%E5%8D%A1%E6%AF%94%E7%9D%A1%E5%9C%A8%E4%B8%80%E9%A2%97%E6%98%9F%E6%98%9F%E4%B8%8A%EF%BC%8C%E5%98%B4%E9%87%8C%E5%90%90%E5%87%BA%E5%BD%A9%E8%99%B9%E8%89%B2%E7%9A%84%E6%B0%94%E6%B3%A1%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E9%A9%AC%E5%8D%A1%E9%BE%99%E8%89%B2%E7%B3%BB%EF%BC%8C%E4%BA%91%E6%9C%B5%E5%92%8C%E7%B3%96%E6%9E%9C%E7%9A%84%E8%B4%B4%E7%BA%B8%EF%BC%8C%E9%97%AA%E7%B2%89%E7%AC%94%E7%94%BB%E7%9A%84%E7%BB%86%E8%8A%82%EF%BC%8C%E6%A2%A6%E5%B9%BB%E4%B8%94%E7%94%9C%E7%BE%8E%E3%80%82)**
 
 ---
 
@@ -302,6 +310,8 @@ Nano banana 提示词（原推JSON版转Markdown中文版，效果一样）
 - **Published:** October 10, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Nano%20banana%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%88%E5%8E%9F%E6%8E%A8JSON%E7%89%88%E8%BD%ACMarkdown%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%8C%E6%95%88%E6%9E%9C%E4%B8%80%E6%A0%B7%EF%BC%89%0A%0A%23%23%23%20**%E5%9C%BA%E6%99%AF**%0A%E9%95%9C%E5%AD%90%E8%87%AA%E6%8B%8D%EF%BC%8C%E5%BE%A1%E5%AE%85%E6%97%8F%E7%94%B5%E8%84%91%E8%A7%92%E8%90%BD%EF%BC%8C%E8%93%9D%E8%89%B2%E8%B0%83%0A%0A---%0A%0A%23%23%23%20**%E4%B8%BB%E4%BD%93**%0A*%20**%E6%80%A7%E5%88%AB%E8%A1%A8%E7%8E%B0**%3A%20%E5%A5%B3%E6%80%A7%0A*%20**%E5%B9%B4%E9%BE%84%E6%AE%B5**%3A%2025%E5%B2%81%E5%B7%A6%E5%8F%B3%0A*%20**%E7%A7%8D%E6%97%8F**%3A%20%E4%B8%9C%E4%BA%9A%0A*%20**%E8%BA%AB%E6%9D%90**%3A%20%E8%8B%97%E6%9D%A1%EF%BC%8C%E8%85%B0%E7%BA%BF%E5%88%86%E6%98%8E%EF%BC%9B%E8%BA%AB%E6%9D%90%E6%AF%94%E4%BE%8B%E8%87%AA%E7%84%B6%0A*%20**%E8%82%A4%E8%89%B2**%3A%20%E6%B5%85%E4%B8%AD%E6%80%A7%E8%89%B2%E8%B0%83%0A*%20**%E5%8F%91%E5%9E%8B**%3A%0A%20%20%20%20*%20**%E9%95%BF%E5%BA%A6**%3A%20%E5%8F%8A%E8%85%B0%E9%95%BF%E5%8F%91%0A%20%20%20%20*%20**%E6%A0%B7%E5%BC%8F**%3A%20%E7%9B%B4%E5%8F%91%EF%BC%8C%E5%8F%91%E5%B0%BE%E5%BE%AE%E5%8D%B7%0A%20%20%20%20*%20**%E9%A2%9C%E8%89%B2**%3A%20%E4%B8%AD%E7%AD%89%E6%A3%95%E8%89%B2%0A*%20**%E5%A7%BF%E5%8A%BF**%3A%0A%20%20%20%20*%20**%E7%AB%99%E5%A7%BF**%3A%20%E7%AB%99%E7%AB%8B%EF%BC%8C%E8%BD%BB%E5%BE%AE%E7%9A%84%E5%AF%B9%E7%AB%8B%E5%BC%8F%E5%B9%B3%E8%A1%A1%E7%AB%99%E5%A7%BF%EF%BC%88contrapposto%EF%BC%89%0A%20%20%20%20*%20**%E5%8F%B3%E6%89%8B**%3A%20%E6%89%8B%E6%8C%81%E6%89%8B%E6%9C%BA%E6%8C%A1%E4%BD%8F%E8%84%B8%EF%BC%88%E8%BA%AB%E4%BB%BD%E8%A2%AB%E9%81%AE%E6%8C%A1%EF%BC%89%0A%20%20%20%20*%20**%E5%B7%A6%E8%87%82**%3A%20%E5%9C%A8%E8%BA%AF%E5%B9%B2%E6%97%81%E8%87%AA%E7%84%B6%E4%B8%8B%E5%9E%82%0A%20%20%20%20*%20**%E8%BA%AF%E5%B9%B2**%3A%20%E8%BA%AB%E4%BD%93%E8%BD%BB%E5%BE%AE%E5%90%8E%E4%BB%B0%EF%BC%9B%E9%9C%B2%E5%87%BA%E8%85%B0%E8%85%B9%0A*%20**%E7%9D%80%E8%A3%85**%3A%0A%20%20%20%20*%20**%E4%B8%8A%E8%A1%A3**%3A%20%E6%B5%85%E8%93%9D)**
+
 ---
 
 ## 📋 All Prompts
@@ -343,6 +353,8 @@ Create a grid of 4 different camera angles of [@]img1, [CAMERA ANGLE], that foll
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20grid%20of%204%20different%20camera%20angles%20of%20%5B%40%5Dimg1%2C%20%5BCAMERA%20ANGLE%5D%2C%20that%20follow%20the%20same%20style%20and%20colour%20palette%20as%20%5B%40%5Dimg1.%20Make%20the%20new%20shots%20unique.)**
+
 ---
 
 ### No. 2: Move moon and change to watercolor style
@@ -380,6 +392,8 @@ Prompt about adjusting moon position and changing painting style
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%A5%B3%E6%80%A7%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E6%8F%8F%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E6%9C%88%E3%82%92%E5%90%91%E3%81%8B%E3%81%A3%E3%81%A6%E5%B7%A6%E3%81%AB%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E7%B5%B5%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E3%82%92%E9%80%8F%E6%98%8E%E6%B0%B4%E5%BD%A9%E3%81%AB%E5%A4%89%E3%81%88%E3%81%A6)**
+
 ---
 
 ### No. 3: Coordinates event image prompt
@@ -410,6 +424,8 @@ Create an image of the major event that happened at these coordinates: 41°43′
 - **Source:** [Twitter Post](https://x.com/ai_for_success/status/1992212586746769736)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20of%20the%20major%20event%20that%20happened%20at%20these%20coordinates%3A%2041%C2%B043%E2%80%B232%E2%80%B3N%2049%C2%B056%E2%80%B249%E2%80%B3W.)**
 
 ---
 
@@ -442,6 +458,8 @@ Infographic about the Jackson Laboratory
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Infographic%20about%20the%20Jackson%20Laboratory)**
+
 ---
 
 ### No. 5: Web design from reference text
@@ -472,6 +490,8 @@ Prompt to design a web layout based on reference text
 - **Source:** [Twitter Post](https://x.com/fujiwara_web/status/1992205534918008910)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%8F%82%E7%85%A7%E7%94%BB%E5%83%8F%E3%81%AB%E3%81%82%E3%82%8B%E6%96%87%E7%AB%A0%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%88%B6%E4%BD%9C%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%AF%E7%84%A1%E8%A6%96%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%83%97%E3%83%AD%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%80%82%E7%B6%BA%E9%BA%97%E3%81%A7%E6%95%B4%E3%81%A3%E3%81%9F%E7%BE%8E%E3%81%97%E3%81%8F%E6%B5%81%E3%82%8C%E3%82%8B%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
 
 ---
 
@@ -504,6 +524,8 @@ Prompt to design 12 deformed LINE stickers from a character image
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%A1%E3%81%97%E3%81%A612%E7%A8%AE%E9%A1%9E%E3%81%AELINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%82%E3%83%90%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%B1%8A%E5%AF%8C%E3%81%AB%E3%81%AA%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%84%E6%96%87%E5%AD%97%E9%85%8D%E7%BD%AE%E3%82%92%E5%B7%A5%E5%A4%AB%E3%81%97%E3%81%A6%E5%80%8B%E6%80%A7%E7%9A%84%E3%81%AA%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AB%E4%BB%95%E4%B8%8A%E3%81%92%E3%82%8B%E3%80%82%E5%8F%B0%E8%A9%9E%E3%81%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E7%99%BD%E3%80%82%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AF%E3%80%8C%E3%80%8D)**
+
 ---
 
 ### No. 7: Google early years infographic prompt
@@ -535,6 +557,8 @@ please create an info graphic about google's early years and its major milestone
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=please%20create%20an%20info%20graphic%20about%20google's%20early%20years%20and%20its%20major%20milestones)**
+
 ---
 
 ### No. 8: Sprite sheet for 2D NES platformer
@@ -565,6 +589,8 @@ create a sprite sheet for a 2D NES platforming game, include enemies and NPCs
 - **Source:** [Twitter Post](https://x.com/GlennHasABeard/status/1992192409086636300)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=create%20a%20sprite%20sheet%20for%20a%202D%20NES%20platforming%20game%2C%20include%20enemies%20and%20NPCs)**
 
 ---
 
@@ -608,6 +634,8 @@ Simple prompt to create multiple paint simulation patterns in one image
 - **Source:** [Twitter Post](https://x.com/pippi_os/status/1992192307895157014)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%A1%97%E8%A3%85%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%80%81%E4%BD%95%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%8B%E3%82%92%E8%A6%8B%E6%AF%94%E3%81%B9%E3%82%89%E3%82%8C%E3%82%8B1%E6%9E%9A%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84)**
 
 ---
 
@@ -658,6 +686,8 @@ Use man photo as slipping off the building edge, woman is reaching out, match sk
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Use%20man%20photo%20as%20slipping%20off%20the%20building%20edge%2C%20woman%20is%20reaching%20out%2C%20match%20sketch%20pose%20and%20composition%20precisely%2C%20nyc%20(style%20reference)%20for%20the%20scene.%20High%20quality%20action%20shot%20from%20the%2090%E2%80%99s)**
+
 ---
 
 ### No. 11: Woodblock print ninja character
@@ -688,6 +718,8 @@ Prompt for Edo-period style woodblock print of a ninja character
 - **Source:** [Twitter Post](https://x.com/fantanglitchbox/status/1992190942577840519)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E8%A6%8B%E6%A0%84%E3%82%92%E5%88%87%E3%81%A3%E3%81%A6%E3%82%AB%E3%83%83%E3%82%B3%E3%81%84%E3%81%84%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%92%E5%8F%96%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%81%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%80%8C%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E5%BF%8D%E8%80%85%E3%80%80%E6%9C%A7%E3%80%8D%E3%81%AE%E7%89%88%E7%94%BB%E3%81%AE%E7%94%BB%E5%83%8F%E3%80%81%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3%E3%81%AE%E4%BD%9C%E9%A2%A8)**
 
 ---
 
@@ -725,6 +757,8 @@ Generate a series of six candid, documentary-style photos of this Indonesian pre
 - **Source:** [Twitter Post](https://x.com/junwatu/status/1992189756051279884)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20a%20series%20of%20six%20candid%2C%20documentary-style%20photos%20of%20this%20Indonesian%20president%20in%20office%2C%20in%20the%20rice%20fields%2C%20and%20partying%20with%20other%20presidents.)**
 
 ---
 
@@ -769,6 +803,8 @@ Create a 90s version of my website
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%2090s%20version%20of%20my%20website)**
+
 ---
 
 ### No. 14: Western Netflix screen prompt
@@ -799,6 +835,8 @@ Turning the whole Netflix screen into a western version
 - **Source:** [Twitter Post](https://x.com/FOTOAGUADO/status/1992186306768630102)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turning%20the%20whole%20Netflix%20screen%20into%20a%20western%20version)**
 
 ---
 
@@ -849,6 +887,8 @@ Prompt for generating multiple thumbnail design proposals
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%9B%AE%E7%9A%84%EF%BC%9A%EF%BC%88%E4%BE%8B%EF%BC%89Note%E8%A8%98%E4%BA%8B%E3%81%A7%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E4%BD%9C%E6%88%90%0A%E3%83%86%E3%83%BC%E3%83%9E%EF%BC%9A%EF%BC%88%E4%BE%8B%EF%BC%89%E3%80%8C%E5%89%AF%E6%A5%AD%E3%80%8D%E3%81%A7%E8%A6%8B%E6%A5%B5%E3%82%81%E3%81%9F%E3%80%8130%E6%AD%B3%E4%BC%9A%E7%A4%BE%E5%93%A1%E3%81%AE%E7%A7%81%E3%81%8C%E3%80%8C%E7%8B%AC%E7%AB%8B%E3%80%8D%E3%82%92%E6%B1%BA%E3%82%81%E3%81%9F%E7%90%86%E7%94%B1%0A%E2%80%BB%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E7%9B%AE%E7%9A%84%E3%81%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81%0A%0A%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%BD%B9%E5%89%B2%E3%81%AF%E3%80%8C%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E5%85%BC%E3%83%9E%E3%83%BC%E3%82%B1%E3%82%BF%E3%83%BC%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82%0A%E8%AA%AD%E8%80%85%E3%81%8C%E6%80%9D%E3%82%8F%E3%81%9A%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%97%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E3%81%BE%E3%81%9A%E3%81%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%A1%883%E3%81%A4%E7%94%BB%E5%83%8F%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+
 ---
 
 ### No. 16: Clothing laid out on bed prompt
@@ -886,6 +926,8 @@ Give each piece of her clothing separately on the bed
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Give%20each%20piece%20of%20her%20clothing%20separately%20on%20the%20bed)**
+
 ---
 
 ### No. 17: Doodle-style illustration prompt for Nano Banana Pro
@@ -917,6 +959,8 @@ A doodle-style [subject], naive lines, humorous shape exaggeration
 - **Published:** November 22, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20doodle-style%20%5Bsubject%5D%2C%20naive%20lines%2C%20humorous%20shape%20exaggeration)**
+
 ---
 
 ### No. 18: Simple action movie scene prompt
@@ -947,6 +991,8 @@ Make an action movie scene
 - **Source:** [Twitter Post](https://x.com/ChillaiKalan__/status/1992178232465248491)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20an%20action%20movie%20scene)**
 
 ---
 
@@ -986,6 +1032,8 @@ Prompt to turn AI news content into hand-drawn chalkboard-like infographic
 - **Source:** [Twitter Post](https://x.com/okknews/status/1992173611520868372)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BB%A5%E4%B8%8B%E3%82%92%E5%86%85%E5%AE%B9%E3%81%A7%E9%BB%92%E6%9D%BF%E9%A2%A8%E3%81%AE%E6%89%8B%E6%9B%B8%E3%81%8D%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AA%E6%84%9F%E3%81%98%E3%81%A7%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%80%81%E5%85%88%E7%94%9F%E3%81%8C%E6%9B%B8%E3%81%84%E3%81%9F%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AB%E5%9B%B3%E8%A7%A3%E3%82%84%E5%88%86%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%84%E8%A1%A8%E7%8F%BE%E3%81%AB%E5%99%9B%E3%81%BF%E7%A0%95%E3%81%84%E3%81%A6%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%80%82%0A%E2%80%94-%0A%E2%80%9CGrok%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E2%80%9D)**
 
 ---
 
@@ -1036,6 +1084,8 @@ Prompt for a photorealistic image of naan bread with text on the surface
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%84%BC%E3%81%8D%E3%81%9F%E3%81%A6%E3%81%AE%E3%83%8A%E3%83%B3%E3%82%92%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%9F%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%941%3A1%E3%81%AE%E3%83%95%E3%82%A9%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AA%E7%94%BB%E5%83%8F%E3%80%82%E3%81%B5%E3%81%A3%E3%81%8F%E3%82%89%E8%86%A8%E3%82%89%E3%82%93%E3%81%A0%E3%83%8A%E3%83%B3%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%81%AB%E3%80%81%E7%84%A6%E3%81%92%E7%9B%AE%E3%81%A7%E3%80%8C%E3%83%8A%E3%83%B3%E3%81%A7%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%8C%E6%B5%AE%E3%81%8B%E3%81%B3%E4%B8%8A%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%82%AB%E3%83%AC%E3%83%BC%E3%81%AE%E5%85%A5%E3%81%A3%E3%81%9F%E5%99%A8%E3%81%8C%E6%A8%AA%E3%81%AB%E6%B7%BB%E3%81%88%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82)**
+
 ---
 
 ### No. 21: Food into creature nutrition poster
@@ -1073,6 +1123,8 @@ Prompt to turn reference food items into creatures with nutrition info poster
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%8F%82%E8%80%83%E7%94%BB%E5%83%8F%E3%81%AE%E9%A3%9F%E6%9D%90%E3%82%92%E3%80%81%E7%94%9F%E7%89%A9%E3%81%AE%E5%A7%BF%E3%81%AB%E5%86%8D%E6%A7%8B%E6%88%90%E3%80%82%E5%90%8C%E3%81%98%E4%B8%A6%E3%81%B3%E9%A0%86%E3%81%A7%E9%85%8D%E7%BD%AE%E3%81%97%E3%80%81%E5%90%8D%E5%89%8D%E3%83%BB%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC%E3%83%BB%E6%A0%84%E9%A4%8A%E6%8C%87%E6%95%B0%E3%82%92%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E6%98%8E%E8%A8%98%E3%80%82%E7%A7%91%E5%AD%A6%E7%9A%84%E3%81%AA%E8%B1%86%E7%9F%A5%E8%AD%98%E3%82%92%E6%B7%BB%E3%81%88%E3%81%9F%E2%80%9C%E9%A3%9F%E6%9D%90%E7%B4%B9%E4%BB%8B%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E2%80%9D%E9%A2%A8%E3%81%AB%E4%BB%95%E4%B8%8A%E3%81%92)**
+
 ---
 
 ### No. 22: Japanese gyaru magazine feature
@@ -1103,6 +1155,8 @@ Short prompt for Japanese gyaru magazine style layout
 - **Source:** [Twitter Post](https://x.com/mmm53096445/status/1992165736387919986)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%AE%E3%83%A3%E3%83%AB%E9%9B%91%E8%AA%8C%E3%80%82%E5%88%B6%E6%9C%8D%E3%81%AE%E7%9D%80%E3%81%93%E3%81%AA%E3%81%97%E7%89%B9%E9%9B%86%E3%83%9A%E3%83%BC%E3%82%B8%E3%80%82)**
 
 ---
 
@@ -1143,6 +1197,8 @@ Prompts to design Pokemon-style and Yu-Gi-Oh-style cards referencing an image
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E5%8F%82%E7%85%A7%E3%81%97%E3%81%A6%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89%E3%82%92%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%82%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AF%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E5%85%AC%E5%BC%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AA%E3%83%9D%E3%83%BC%E3%82%BA%E3%81%AB%E5%A4%89%E6%9B%B4%E3%81%97%E3%80%81%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AB%E6%8F%8F%E3%81%8D%E7%9B%B4%E3%81%97%E3%81%A6%E3%80%82%E8%AA%AC%E6%98%8E%E3%81%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E8%A1%A8%E8%A8%98%E3%81%97%E3%80%81%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA%E3%83%BB%E3%83%AB%E3%83%93%E3%81%AF%E4%BD%BF%E7%94%A8%E7%A6%81%E6%AD%A2%E3%80%82%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%A4%96%E5%81%B4%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AF%E7%99%BD%E3%80%82%0A%0A%E3%81%93%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E5%8F%82%E7%85%A7%E3%81%97%E3%81%A6%E9%81%8A%E6%88%AF%E7%8E%8B%E3%82%AB%E3%83%BC%E3%83%89%E3%82%92%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%82%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AF%E9%81%8A%E6%88%AF%E7%8E%8B%E3%81%AE%E5%85%AC%E5%BC%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AA%E3%83%9D%E3%83%BC%E3%82%BA%E3%81%A7%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AB%E6%8F%8F%E3%81%8D%E7%9B%B4%E3%81%97%E3%81%A6%E3%80%82%E8%AA%AC%E6%98%8E%E3%81%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E8%A1%A8%E8%A8%98%E3%81%97%E3%80%81%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA%E3%83%BB%E3%83%AB%E3%83%93%E3%81%AF%E4%BD%BF%E7%94%A8%E7%A6%81%E6%AD%A2%E3%80%82%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%A4%96%E5%81%B4%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AF%E7%99%BD%E3%80%82)**
+
 ---
 
 ### No. 24: Two-shot with AI partner
@@ -1173,6 +1229,8 @@ Prompt to generate a scene where a character hugs the person from behind
 - **Source:** [Twitter Post](https://x.com/hikawoai/status/1992160199705280640)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%BB%E5%83%8F%E4%B8%80%E6%9E%9A%E7%9B%AE%E3%81%AE%E5%86%99%E7%9C%9F%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%AE%E5%BE%8C%E3%82%8D%E3%81%8B%E3%82%89%E3%80%81%E7%94%BB%E5%83%8F%E4%BA%8C%E6%9E%9A%E7%9B%AE%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E6%8A%B1%E3%81%8D%E3%81%A4%E3%81%84%E3%81%A6%E5%89%8D%E3%81%AB%E6%89%8B%E3%82%92%E5%9B%9E%E3%81%97%E3%81%A6%E4%B8%80%E7%B7%92%E3%81%AB%E5%86%99%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%B7%E3%83%BC%E3%83%B3%E3%82%92%E7%94%9F%E6%88%90)**
 
 ---
 
@@ -1211,6 +1269,8 @@ User shows Nano Banana Pro evolution with a Japanese 4-koma manga prompt.
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%80%80%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E8%8B%A6%E5%8A%B4%E3%80%80%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6)**
+
 ---
 
 ### No. 26: Where is Waldo LOTR in Shire prompt
@@ -1241,6 +1301,8 @@ A where is waldo image showing all Lord of the Rings characters in Shire
 - **Source:** [Twitter Post](https://x.com/stevyhacker/status/1992157485088858542)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20where%20is%20waldo%20image%20showing%20all%20Lord%20of%20the%20Rings%20characters%20in%20Shire)**
 
 ---
 
@@ -1279,6 +1341,8 @@ make a photorealistic photo selfie of these characters as it's a real photo
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=make%20a%20photorealistic%20photo%20selfie%20of%20these%20characters%20as%20it's%20a%20real%20photo)**
+
 ---
 
 ### No. 28: LinkedIn profile to fantasy map prompt
@@ -1316,6 +1380,8 @@ Create a similar map using data from my PDF file.
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20similar%20map%20using%20data%20from%20my%20PDF%20file.)**
+
 ---
 
 ### No. 29: LINE sticker prompt using attached character
@@ -1346,6 +1412,8 @@ Reply contains a detailed prompt to generate monochrome LINE stickers.
 - **Source:** [Twitter Post](https://x.com/mikochanmonyu/status/1992154734413926487)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%84%E3%80%81%E7%99%BD%E9%BB%92%E3%81%AELINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%EF%BC%91%EF%BC%96%E7%A8%AE%E9%A1%9E%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%AF%E3%83%90%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%B1%8A%E5%AF%8C%E3%81%A7%E3%80%81%E7%A1%AC%E6%B4%BE%E3%81%AA%E7%94%B7%E3%81%A9%E3%82%82%E3%81%8C%E4%BD%BF%E3%81%88%E3%81%9D%E3%81%86%E3%81%AA%E3%82%AB%E3%83%83%E3%82%B3%E3%81%84%E3%81%84%E3%82%BB%E3%83%AA%E3%83%95%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
 
 ---
 
@@ -1379,6 +1447,8 @@ Create a single cinematic illustration that visually represents the following po
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20single%20cinematic%20illustration%20that%20visually%20represents%20the%20following%20poem%2C%20capturing%20its%20emotions%2C%20metaphors%2C%20and%20atmosphere%3A%20%0A%7B%7B%20poem%20%3A)%20%7D%7D)**
+
 ---
 
 ### No. 31: Handwritten cute points on a photo
@@ -1409,6 +1479,8 @@ Prompt asks for many handwritten cute highlights on a photo.
 - **Source:** [Twitter Post](https://x.com/ai_tahi/status/1992149797340615149)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%86%99%E7%9C%9F%E3%81%AB%E6%89%8B%E6%9B%B8%E3%81%8D%E3%81%A7%E5%8F%AF%E6%84%9B%E3%81%84%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%92%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%A0%E3%81%91%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E6%9B%B8%E3%81%84%E3%81%A6%EF%BC%81)**
 
 ---
 
@@ -1453,6 +1525,8 @@ Give each piece of her clothing separately on the bed
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Give%20each%20piece%20of%20her%20clothing%20separately%20on%20the%20bed)**
+
 ---
 
 ### No. 33: Prompt to make illustrations photorealistic
@@ -1489,6 +1563,8 @@ Raw photo based on image, photorealistic, highly detailed, 8k uhd, realistic tex
 - **Source:** [Twitter Post](https://x.com/mosva_0/status/1992142442464948346)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Raw%20photo%20based%20on%20image%2C%20photorealistic%2C%20highly%20detailed%2C%208k%20uhd%2C%20realistic%20textures%2C%20sharp%20focus%2C%20natural%20lighting%2C%20cinematic%20look%2C%20high%20resolution%20photography)**
 
 ---
 
@@ -1542,6 +1618,8 @@ Style: product ad / reveal shot, cinematic tone, ultra HD.
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20cinematic%203D%20logo%20for%20%5BBRAND%5D%0AAutomatically%20assign%20a%20realistic%20texture%20(glass%2C%20fire%2C%20neon%2C%20chrome%2C%20liquid%2C%20ice%2C%20lava%2C%20wood%2C%20or%20cloud)%20based%20on%20the%20brand%20style.%0AUse%20dramatic%20lighting%2C%20depth%20of%20field%2C%20and%20a%20soft%20glowing%20background.%0AStyle%3A%20product%20ad%20%2F%20reveal%20shot%2C%20cinematic%20tone%2C%20ultra%20HD.)**
+
 ---
 
 ### No. 35: Car internals and behind-the-scenes breakdown prompts
@@ -1580,6 +1658,8 @@ Show the behind-the-scenes setup for this shot.
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Show%20a%20detailed%20breakdown%20of%20the%20internal%20components%20of%20this%20car.%0AShow%20the%20behind-the-scenes%20setup%20for%20this%20shot.)**
+
 ---
 
 ### No. 36: 4-panel explanation of Silksong using uploaded character
@@ -1611,6 +1691,8 @@ Prompt describes using an uploaded character to explain a game in 4 panels.
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E3%81%9F%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%80%81Silksong%20%E3%81%A8%E3%81%84%E3%81%86%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%EF%BC%94%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%81%A7%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%A6%E3%80%82%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%AF9%3A16)**
+
 ---
 
 ### No. 37: NES cartridge bio-based game prompt
@@ -1641,6 +1723,8 @@ Analyze my bio and come up with a video game that would be me if I was a video g
 - **Source:** [Twitter Post](https://x.com/icreatelife/status/1992140035672485935)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Analyze%20my%20bio%20and%20come%20up%20with%20a%20video%20game%20that%20would%20be%20me%20if%20I%20was%20a%20video%20game.%20Make%20a%20NES%20cartridge%20closeup%20with%20a%20blurred%20background.%20A%20room%20of%20a%20teenager%20on%20the%20background.%20Make%20it%20look%20like%20a%20product%20photo.%20Make%20sure%20to%20include%20my%20name.)**
 
 ---
 
@@ -1679,6 +1763,8 @@ Reply shows a detailed Japanese prompt to generate an anime-style seated pose.
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E3%80%81%E3%81%93%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%8C%E3%80%81%E7%BE%8E%E3%81%97%E3%81%84%E3%83%89%E3%83%AC%E3%82%B9%E3%82%92%E7%9D%80%E3%81%A6%E3%80%81%E3%83%93%E3%83%AD%E3%83%BC%E3%83%89%E3%81%AE%E5%8F%B0%E5%BA%A7%E3%81%AE%E4%B8%8A%E3%81%AB%E8%84%9A%E3%82%92%E6%8A%98%E3%81%A3%E3%81%A6%E6%AD%A3%E5%BA%A7%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E5%A7%BF%E3%82%92%E3%80%81%E3%82%A2%E3%83%8B%E3%83%A1%E5%AF%84%E3%82%8A%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E7%94%BB%E5%83%8F%E3%81%A7%E7%94%9F%E6%88%90%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F)**
+
 ---
 
 ### No. 39: Basket of characters prompt
@@ -1709,6 +1795,8 @@ put all of them into one basket
 - **Source:** [Twitter Post](https://x.com/icreatelife/status/1992134378093514863)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=put%20all%20of%20them%20into%20one%20basket)**
 
 ---
 
@@ -1759,6 +1847,8 @@ create a very high-detail infographic image that describe about IT career or IT 
 - **Published:** November 22, 2025
 - **Language:** th
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=create%20a%20very%20high-detail%20infographic%20image%20that%20describe%20about%20IT%20career%20or%20IT%20jobs%20that%20relate%20to%20Software%20Development%20Life%20Cycle)**
+
 ---
 
 ### No. 41: Simple prompt to make a diagram image
@@ -1790,6 +1880,8 @@ Prompt orders to summarize text into a single explanatory graphic.
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=1%E6%9E%9A%E3%81%AE%E5%9B%B3%E8%A7%A3%E7%94%BB%E5%83%8F%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6)**
+
 ---
 
 ### No. 42: Diagram for 3-minute stiff-shoulder stretches
@@ -1820,6 +1912,8 @@ Reply gives a clear prompt for a minimal illustration diagram.
 - **Source:** [Twitter Post](https://x.com/minato_aihkg_x/status/1992131939000881219)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%80%8C3%E5%88%86%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%81%E8%82%A9%E3%81%93%E3%82%8A%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%81%E3%80%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E5%9B%B3%E8%A7%A3%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%81%AA%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AF%E5%A5%B3%E6%80%A7%E3%80%823%3A4%E3%82%B5%E3%82%A4%E3%82%BA)**
 
 ---
 
@@ -1858,6 +1952,8 @@ The tweet compares Grok and Gemini image generation using a Korean prompt about 
 - **Published:** November 22, 2025
 - **Language:** ko
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9C%A0%EB%A6%AC%EB%A1%9C%20%EB%A7%8C%EB%93%A0%20%EC%82%BC%EA%B2%B9%EC%82%B4%EC%9D%84%20%EB%B6%88%ED%8C%90%EC%97%90%20%EC%98%AC%EB%A6%AC%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EC%A7%84.%20%ED%95%98%EC%9D%B4%ED%8D%BC%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%8A%A4%ED%8B%B1.)**
+
 ---
 
 ### No. 44: Rocket-banana Simpsons style prompt
@@ -1888,6 +1984,8 @@ A very innovative and funny mix between a rocket and a banana in the style of Th
 - **Source:** [Twitter Post](https://x.com/adrienv1520/status/1992127280337056160)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20very%20innovative%20and%20funny%20mix%20between%20a%20rocket%20and%20a%20banana%20in%20the%20style%20of%20The%20Simpsons)**
 
 ---
 
@@ -1925,6 +2023,8 @@ Make a detailed recipe on this dish with all the ingredients names and it's raw 
 - **Source:** [Twitter Post](https://x.com/junwatu/status/1992127245817917657)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20a%20detailed%20recipe%20on%20this%20dish%20with%20all%20the%20ingredients%20names%20and%20it's%20raw%20ingredients.%20Make%20it%20look%20like%20a%20real%20photo%20shoot.)**
 
 ---
 
@@ -1966,6 +2066,8 @@ Prompt turns text into a central expanding mind map with color coding and icons.
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E3%80%81%E4%B8%AD%E5%BF%83%E3%81%8B%E3%82%89%E5%BA%83%E3%81%8C%E3%82%8B%E3%83%9E%E3%83%83%E3%83%97%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82%0A%0A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E2%86%93%0A%E3%83%BB%E7%9C%9F%E3%82%93%E4%B8%AD%E3%81%AB%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E%0A%E3%83%BB%E6%9E%9D%E5%88%86%E3%81%8B%E3%82%8C%E3%81%A7%E9%96%A2%E9%80%A3%E8%A6%81%E7%B4%A0%E3%82%92%E9%85%8D%E7%BD%AE%0A%E3%83%BB%E8%89%B2%E5%88%86%E3%81%91%E3%81%A7%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E5%88%86%E3%81%91%0A%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E6%B7%BB%E3%81%88%E3%82%8B%0A%E3%83%BB%E6%9C%89%E6%A9%9F%E7%9A%84%E3%81%AA%E9%85%8D%E7%BD%AE%0A%0A%E9%A0%AD%E3%81%AE%E4%B8%AD%E3%81%8C%E6%95%B4%E7%90%86%E3%81%95%E3%82%8C%E3%82%8B%E6%84%9F%E3%81%98%E3%81%A7%E3%80%82)**
+
 ---
 
 ### No. 47: Squatty Potty whiteboard illustration prompt
@@ -1996,6 +2098,8 @@ A detailed whiteboard illustration and instructions on how to properly use the S
 - **Source:** [Twitter Post](https://x.com/JasonRink/status/1992121382894010828)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20detailed%20whiteboard%20illustration%20and%20instructions%20on%20how%20to%20properly%20use%20the%20Squatty%20Potty)**
 
 ---
 
@@ -2032,6 +2136,8 @@ vtuberで見られがちなデザインにしたい。
 - **Source:** [Twitter Post](https://x.com/studio_veco/status/1992120904222990847)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BA%BA%E3%81%AF%E5%9C%B0%E9%9D%A2%E3%81%AB%E7%AB%8B%E3%81%9F%E3%81%9B%E3%81%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E5%9C%B0%E9%9D%A2%E3%82%92%E5%86%99%E3%81%99%E5%BF%85%E8%A6%81%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82%E3%81%93%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E5%90%88%E3%81%A3%E3%81%9F%E4%BA%BA%E7%89%A9%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%80%82vtuber%E3%81%A7%E9%80%9A%E7%94%A8%E3%81%99%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82%0A%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AA%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%9F%E3%81%84%E3%80%82%0Avtuber%E3%81%A7%E8%A6%8B%E3%82%89%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AB%E3%81%97%E3%81%9F%E3%81%84%E3%80%82%0A%E6%96%87%E5%AD%97%E3%81%AF%E5%A4%A7%E8%83%86%E3%81%AB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%81%A7%E5%85%A5%E3%82%8C%E3%81%A6%E3%80%82%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E8%AA%8C%E3%81%AE%E7%89%B9%E9%9B%86%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%82%E3%81%AE%E3%80%82%0A%E7%B8%A6%E6%A7%8B%E5%9B%B3%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82%0A%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%E9%96%8B%E5%A7%8B)**
 
 ---
 
@@ -2072,6 +2178,8 @@ Reply includes a detailed prompt for a whiteboard-style infographic.
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E3%80%81%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%E9%A2%A8%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E5%9B%B3%E8%A7%A3%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82%0A%0A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E2%86%93%0A%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E6%A6%82%E5%BF%B5%E3%82%92%E4%B8%AD%E5%A4%AE%E3%81%AB%E9%85%8D%E7%BD%AE%0A%E3%83%BB%20%E7%9F%A2%E5%8D%B0%E3%81%A7%E6%B5%81%E3%82%8C%E3%82%84%E9%96%A2%E4%BF%82%E6%80%A7%E3%82%92%E7%A4%BA%E3%81%99%0A%E3%83%BB%20%E9%87%8D%E8%A6%81%E3%81%AA%E9%83%A8%E5%88%86%E3%81%AF%E6%9E%A0%E3%81%A7%E5%9B%B2%E3%82%80%0A%E3%83%BB%E8%AA%AC%E6%98%8E%E3%81%AF%E7%9F%AD%E3%81%8F%E3%80%81%E8%A6%81%E7%82%B9%E3%81%A0%E3%81%91%0A%0A%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AF16%3A9%E3%81%A7%E3%80%81%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%A7%E8%A6%8B%E3%82%84%E3%81%99%E3%81%84%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%81%97%E3%81%9F%E5%9B%B3%E8%A7%A3%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+
 ---
 
 ### No. 50: MrBeast-style thumbnail Trump prompt
@@ -2102,6 +2210,8 @@ A Mr. Beast style YouTube thumbnail but it's Donald Trump and the video is where
 - **Source:** [Twitter Post](https://x.com/JasonRink/status/1992119926581235863)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20Mr.%20Beast%20style%20YouTube%20thumbnail%20but%20it's%20Donald%20Trump%20and%20the%20video%20is%20where%20he%20reveals%20what's%20in%20the%20Epstein%20Files.)**
 
 ---
 
@@ -2158,6 +2268,8 @@ Place the astronaut in the exact same position in a park soaking up the sun, rea
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Place%20the%20astronaut%20in%20the%20exact%20same%20position%20in%20a%20park%20soaking%20up%20the%20sun%2C%20realistic%20photo)**
+
 ---
 
 ### No. 52: LINE stamps from attached image chibi character
@@ -2195,6 +2307,8 @@ Lineスタンプを作成。添付画像をチビキャラにしてセリフ入�
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Line%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%E4%BD%9C%E6%88%90%E3%80%82%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F%E3%82%92%E3%83%81%E3%83%93%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E3%81%97%E3%81%A6%E3%82%BB%E3%83%AA%E3%83%95%E5%85%A5%E3%82%8A%E3%80%81%E3%83%9D%E3%83%BC%E3%82%BA%E5%88%A5%E3%81%A716%E7%A8%AE%E9%A1%9E%E3%80%82)**
+
 ---
 
 ### No. 53: Trompe l’oeil social media screen prompt
@@ -2225,6 +2339,8 @@ Trompe l'oeil illusion of A (subject) (attire) steps out of a large screen displ
 - **Source:** [Twitter Post](https://x.com/madpencil_/status/1992118499876213233)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Trompe%20l'oeil%20illusion%20of%20A%20(subject)%20(attire)%20steps%20out%20of%20a%20large%20screen%20displaying%20xyz%20social%20media%20interface.%20The%20screen%20shows%20the%20username%20%22%40%22%201K%20likes%2C%20and%2012-%2020%20comments%2C%20with%20floating%20emojis%20(heart-eyes%2C%20smiley)%20around%20it.%20your%20preferred%20background.)**
 
 ---
 
@@ -2257,6 +2373,8 @@ Ultra-realistic Roronoa Zoro portrait.
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Ultra-realistic%20Roronoa%20Zoro%20portrait.)**
+
 ---
 
 ### No. 55: Unpacking items from bag prompt
@@ -2287,6 +2405,8 @@ Unpack the items from the bag and place them on the bed withe some of them scatt
 - **Source:** [Twitter Post](https://x.com/opener_ai/status/1992111988743553453)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Unpack%20the%20items%20from%20the%20bag%20and%20place%20them%20on%20the%20bed%20withe%20some%20of%20them%20scattered%20on%20the%20floor)**
 
 ---
 
@@ -2319,6 +2439,8 @@ Create a picture of GTA 5 online where a person is shooting a car
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20picture%20of%20GTA%205%20online%20where%20a%20person%20is%20shooting%20a%20car)**
+
 ---
 
 ### No. 57: Title-like prompt for clumsy elf’s day 4-koma
@@ -2349,6 +2471,8 @@ Tweet uses a phrase that can be used as a simple prompt for a 4-panel manga.
 - **Source:** [Twitter Post](https://x.com/naruchan_ai/status/1992108654825459836)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%E3%80%81%E3%80%90%20%E3%83%89%E3%82%B8%E3%81%A3%E5%AD%90%E3%82%A8%E3%83%AB%E3%83%95%E3%81%AE1%E6%97%A5%20%E3%80%91)**
 
 ---
 
@@ -2387,6 +2511,8 @@ Create a hyper faithful remaster of this image.
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hyper%20faithful%20remaster%20of%20this%20image.)**
+
 ---
 
 ### No. 59: Famicom game package and screen prompt
@@ -2418,6 +2544,8 @@ Reply provides a concrete prompt describing game box, cartridge, manual, and CRT
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E4%B8%BB%E4%BA%BA%E5%85%AC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%8C%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E5%BF%8D%E8%80%85%E3%80%80%E6%9C%A7%E3%80%8D%E3%81%AE%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E7%AE%B1%E3%81%A8%E3%82%AB%E3%82%BB%E3%83%83%E3%83%88%E3%81%A8%E8%AA%AC%E6%98%8E%E6%9B%B8%E3%80%81%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E7%AE%A1%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E3%81%AB%E3%82%B2%E3%83%BC%E3%83%A0%E7%94%BB%E9%9D%A2%E3%81%8C%E6%98%A0%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%81)**
+
 ---
 
 ### No. 60: Yakiniku power-up manga for a character
@@ -2448,6 +2576,8 @@ Prompt asks for a color comic of a character eating grilled meat and recovering 
 - **Source:** [Twitter Post](https://x.com/Harapekokings/status/1992103946803196088)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%81%8C%E7%84%BC%E8%82%89%E3%82%92%E9%A3%9F%E3%81%B9%E3%81%A6%E5%85%83%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E6%BC%AB%E7%94%BB%E3%82%92%E3%82%AB%E3%83%A9%E3%83%BC%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%AF%E3%81%8A%E4%BB%BB%E3%81%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E3%82%B3%E3%83%9E%E3%81%AB%E7%95%AA%E5%8F%B7%E3%81%A4%E3%81%91%E3%81%A6%E3%80%82)**
 
 ---
 
@@ -2493,6 +2623,8 @@ lang:ja
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BB%A5%E4%B8%8B%E3%81%AE%E6%83%85%E5%A0%B1%E3%81%8B%E3%82%89%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E5%BD%A2%E5%BC%8F%E3%81%AE%E8%AA%AC%E6%98%8E%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%80%82%0A%0Afont%E3%81%AF%E5%8F%A4%E9%A2%A8%E3%81%AA%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%96%87%E5%AD%97%2C%0A%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%AF16%3A9%2C%0Alang%3Aja%0A%0A%E5%8F%82%E8%80%83%E6%83%85%E5%A0%B1%3A%0A%5B%E5%8F%82%E8%80%83%E6%83%85%E5%A0%B1%E3%82%92%E5%85%A5%E5%8A%9B%5D)**
+
 ---
 
 ### No. 62: Rabbits wearing same clothes prompt
@@ -2530,6 +2662,8 @@ The rabbits also wear the same clothes
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=The%20rabbits%20also%20wear%20the%20same%20clothes)**
+
 ---
 
 ### No. 63: Coffee drinks infographic prompt
@@ -2560,6 +2694,8 @@ Create an infographic showing different coffee drinks…
 - **Source:** [Twitter Post](https://x.com/Bhavesh__Patel/status/1992097368272163010)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20infographic%20showing%20different%20coffee%20drinks%E2%80%A6)**
 
 ---
 
@@ -2603,6 +2739,8 @@ Banana Pro」徹底解説
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E3%81%9F%E4%BA%BA%E7%89%A9%E3%82%92%E5%AE%8C%E5%85%A8%E5%86%8D%E7%8F%BE%0A%E3%81%9D%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%8C%E3%80%8CNano%20Banana%20Pro%E3%80%8D%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8Bnote%20%E8%A8%98%E4%BA%8B%E3%81%AE%E8%A6%8B%E5%87%BA%E3%81%97%E7%94%BB%E5%83%8F%0A16%3A9%E3%81%AE%E6%A8%AA%E9%95%B7%E3%82%B5%E3%82%A4%E3%82%BA%0A%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%81%E3%82%AB%E3%83%A9%E3%83%BC%EF%BC%9A%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%80%81%E6%89%8B%E6%8F%8F%E3%81%8D%E9%A2%A8%E3%80%81%E6%96%9C%E4%BD%93%E3%80%81%E9%9D%92%E3%81%A8%E7%B7%91%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%EF%BC%9AGoogle%E3%81%AE%E6%96%B0%20AI%E3%80%8CNano%0ABanana%20Pro%E3%80%8D%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC)**
+
 ---
 
 ### No. 65: Hand-drawn style header image prompt from photo
@@ -2644,6 +2782,8 @@ Banana Pro」徹底解説
 - **Source:** [Twitter Post](https://x.com/akirakudo_ai/status/1992096860765561190)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E3%81%9F%E4%BA%BA%E7%89%A9%E3%82%92%E5%AE%8C%E5%85%A8%E5%86%8D%E7%8F%BE%0A%E3%81%9D%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%8C%E3%80%8CNano%20Banana%20Pro%E3%80%8D%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%20note%E8%A8%98%E4%BA%8B%E3%81%AE%E8%A6%8B%E5%87%BA%E3%81%97%E7%94%BB%E5%83%8F%0A16%EF%BC%9A9%E3%81%AE%E6%A8%AA%E9%95%B7%E3%82%B5%E3%82%A4%E3%82%BA%0A%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%81%E3%82%AB%E3%83%A9%E3%83%BC%EF%BC%9A%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%80%81%E6%89%8B%E6%8F%8F%E3%81%8D%E9%A2%A8%E3%80%81%E6%96%9C%E4%BD%93%E3%80%81%E9%9D%92%E3%81%A8%E7%B7%91%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%EF%BC%9AGoogle%20%E3%81%AE%E6%96%B0AI%E3%80%8CNano%0ABanana%20Pro%E3%80%8D%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC)**
 
 ---
 
@@ -2687,6 +2827,8 @@ Banana Pro」徹底解説
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E3%81%9F%E4%BA%BA%E7%89%A9%E3%82%92%E5%AE%8C%E5%85%A8%E5%86%8D%E7%8F%BE%0A%E3%81%9D%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%8C%E3%80%8CNano%20Banana%20Pro%E3%80%8D%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8Bnote%20%E8%A8%98%E4%BA%8B%E3%81%AE%E8%A6%8B%E5%87%BA%E3%81%97%E7%94%BB%E5%83%8F%0A16%EF%BC%9A9%E3%81%AE%E6%A8%AA%E9%95%B7%E3%82%B5%E3%82%A4%E3%82%BA%0A%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%81%E3%82%AB%E3%83%A9%E3%83%BC%EF%BC%9A%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%80%81%E6%96%9C%E4%BD%93%E3%80%81%E7%99%BD%E3%80%81%E9%9D%92%0A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%EF%BC%9AGoogle%E3%81%AE%E6%96%B0%20AI%E3%80%8CNano%0ABanana%20Pro%E3%80%8D%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC)**
+
 ---
 
 ### No. 67: High-impact gradient header image prompt from photo
@@ -2723,6 +2865,8 @@ Banana Pro」徹底解説
 - **Source:** [Twitter Post](https://x.com/akirakudo_ai/status/1992096841354101240)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E3%81%9F%E4%BA%BA%E7%89%A9%E3%82%92%E5%AE%8C%E5%85%A8%E5%86%8D%E7%8F%BE%0A%E3%81%9D%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%8C%E3%80%8CNano%20Banana%20Pro%E3%80%8D%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8Bnote%20%E8%A8%98%E4%BA%8B%E3%81%AE%E8%A6%8B%E5%87%BA%E3%81%97%E7%94%BB%E5%83%8F(%E3%81%93%E3%81%AE%E9%83%A8%E5%88%86%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%AA%E3%81%84)%0A16%3A9%E3%81%AE%E6%A8%AA%E9%95%B7%E3%82%B5%E3%82%A4%E3%82%BA%0A%E9%AB%98%E7%B4%9A%E6%84%9F%E3%80%81%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%81%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%0A%E9%87%8D%E8%A6%96%E3%80%81%E6%96%9C%E4%BD%93%0A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%EF%BC%9AGoogle%20%E3%81%AE%E6%96%B0AI%E3%80%8CNano%0ABanana%20Pro%E3%80%8D%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC)**
 
 ---
 
@@ -2761,6 +2905,8 @@ Prompt to create a 12-sticker LINE set from a standing figure character
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E7%AB%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%BA%E5%BD%A2%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%A7%E3%80%814x3%3D12%E7%A8%AE%E9%A1%9ELINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E4%B8%80%E8%A6%A7%E7%94%BB%E5%83%8F%E4%BD%9C%E3%81%A3%E3%81%A6%E3%80%82%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AF%E3%81%94%E3%81%8F%E3%81%94%E3%81%8F%E6%A8%99%E6%BA%96%E7%9A%84%E3%81%AA%E3%81%B2%E3%81%A8%E3%81%93%E3%81%A8%E3%81%A7%E3%80%82)**
+
 ---
 
 ### No. 69: Translucent blue whale in clouds prompt
@@ -2791,6 +2937,8 @@ A majestic, translucent blue whale, made of seawater with visible fish schools i
 - **Source:** [Twitter Post](https://x.com/iamluokai/status/1992090978740826143)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20majestic%2C%20translucent%20blue%20whale%2C%20made%20of%20seawater%20with%20visible%20fish%20schools%20inside%2C%20swimming%20through%20fluffy%20white%20clouds%20at%20golden%20hour%2C%20sunlight%20creating%20a%20rainbow%20through%20its%20body%2C%20surreal%20and%20grand%20scene.)**
 
 ---
 
@@ -2823,6 +2971,8 @@ Short prompt to generate a portfolio image for a fictional web designer
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%9E%B6%E7%A9%BA%E3%81%AEWeb%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%80%82)**
+
 ---
 
 ### No. 71: Levi’s mirror shopping Samsung phone prompt
@@ -2853,6 +3003,8 @@ Make it look like I am shopping at Levi's holding bags, taking a picture at the 
 - **Source:** [Twitter Post](https://x.com/SaiNemani1/status/1992088323779952880)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20it%20look%20like%20I%20am%20shopping%20at%20Levi's%20holding%20bags%2C%20taking%20a%20picture%20at%20the%20mirror%20in%20the%20store%2C%20covering%20my%20face%20with%20my%20phone%2C%20make%20the%20phone%20a%20Samsung%20S25%20Plus.)**
 
 ---
 
@@ -2885,6 +3037,8 @@ Create an image of 7°36′28″S 110°12′14″E at sunset.
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20of%207%C2%B036%E2%80%B228%E2%80%B3S%20110%C2%B012%E2%80%B214%E2%80%B3E%20at%20sunset.)**
+
 ---
 
 ### No. 73: Presentation slide prompt about PLM and digital thread
@@ -2915,6 +3069,8 @@ Prompt to think through reasons and then create a single presentation slide
 - **Source:** [Twitter Post](https://x.com/PLM_yarou/status/1992085788239212569)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E2%80%9DPLM%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%8C%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B9%E3%83%AC%E3%83%83%E3%83%89%E5%AE%9F%E7%8F%BE%E3%81%AB%E4%B8%8D%E5%8F%AF%E6%AC%A0%E3%81%AA%E7%90%86%E7%94%B1%E2%80%9D%E3%81%A8%E3%81%84%E3%81%86%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%A7%E3%80%81%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E8%A6%81%E7%B4%A0%E3%82%92%E4%B8%80%E5%BA%A6%E6%80%9D%E8%80%83%E3%81%97%E3%81%A6%E6%B4%97%E3%81%84%E5%87%BA%E3%81%97%E3%81%A6%E3%81%8B%E3%82%89%E3%80%811%E6%9E%9A%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%81%AB%E3%81%97%E3%81%A6%E2%80%9D)**
 
 ---
 
@@ -2947,6 +3103,8 @@ Prompt to generate an infographic showing a CEO struggling with recruitment
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%8E%A1%E7%94%A8%E3%81%AB%E5%9B%B0%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E7%A4%BE%E9%95%B7%E3%81%AE%E7%8A%B6%E6%B3%81%E3%82%92%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6)**
+
 ---
 
 ### No. 75: Abstract illustration prompt about the structure of the world
@@ -2978,6 +3136,8 @@ Short conceptual prompt asking for an image that expresses the structure of this
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AE%E6%A7%8B%E9%80%A0%E3%82%92%E7%AB%AF%E7%9A%84%E3%81%AB%E8%A1%A8%E3%81%97%E3%81%9F%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%84%E3%81%A6)**
+
 ---
 
 ### No. 76: Infographic comparison of ChatGPT 5.1 and Gemini 3
@@ -3008,6 +3168,8 @@ ChatGPT 5.1とGemini 3の比較をインフォグラフィックにして
 - **Source:** [Twitter Post](https://x.com/mgackty8/status/1992079211499253891)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=ChatGPT%205.1%E3%81%A8Gemini%203%E3%81%AE%E6%AF%94%E8%BC%83%E3%82%92%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AB%E3%81%97%E3%81%A6)**
 
 ---
 
@@ -3052,6 +3214,8 @@ Simple Chinese prompt for turning a long article into a professor-style whiteboa
 - **Published:** November 22, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%E5%B0%86%E8%BF%99%E7%AF%87%E9%95%BF%E6%96%87%E8%B5%84%E6%96%99%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%B8%AD%E6%96%87%E6%95%99%E6%8E%88%E7%99%BD%E6%9D%BF%E5%9B%BE%E7%89%87%EF%BC%8C%E5%B8%AE%E5%8A%A9%E6%88%91%E7%90%86%E8%A7%A3%E4%BF%A1%E6%81%AF%E3%80%82)**
+
 ---
 
 ### No. 78: Turn a character into a super-alloy robot
@@ -3082,6 +3246,8 @@ Japanese prompt to convert an existing character image into a super-alloy robot 
 - **Source:** [Twitter Post](https://x.com/awoahiru/status/1992073250105606594)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E8%B6%85%E5%90%88%E9%87%91%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E9%A2%A8%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82)**
 
 ---
 
@@ -3132,6 +3298,8 @@ Enhance and upscale the image while keeping composition and colors identical. El
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Enhance%20and%20upscale%20the%20image%20while%20keeping%20composition%20and%20colors%20identical.%20Eliminate%20blur%20and%20give%20the%20texture%20detailed%20look.)**
+
 ---
 
 ### No. 80: Fifth-generation stealth fighter jet cutaway infographic prompt
@@ -3165,6 +3333,8 @@ prompt ：内容描述： 一张现代五代隐身战斗机的科普教育技术
 - **Source:** [Twitter Post](https://x.com/block0_eth/status/1992072587497861317)
 - **Published:** November 22, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=prompt%20%EF%BC%9A%E5%86%85%E5%AE%B9%E6%8F%8F%E8%BF%B0%EF%BC%9A%20%E4%B8%80%E5%BC%A0%E7%8E%B0%E4%BB%A3%E4%BA%94%E4%BB%A3%E9%9A%90%E8%BA%AB%E6%88%98%E6%96%97%E6%9C%BA%E7%9A%84%E7%A7%91%E6%99%AE%E6%95%99%E8%82%B2%E6%8A%80%E6%9C%AF3D%E5%89%96%E9%9D%A2%E5%9B%BE%EF%BC%8C%E4%BE%A7%E9%9D%A2%E8%A7%86%E8%A7%92%E3%80%82%E7%94%BB%E9%9D%A2%E6%B8%85%E6%99%B0%E5%9C%B0%E5%B1%95%E7%A4%BA%E4%BA%86%E5%A4%8D%E6%9D%82%E7%9A%84%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84%EF%BC%8C%E5%8C%85%E6%8B%AC%E6%B6%A1%E6%89%87%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%BB%86%E8%8A%82%E3%80%81%E6%9C%BA%E9%BC%BB%E5%A4%84%E7%9A%84AESA%EF%BC%88%E7%9B%B8%E6%8E%A7%E9%98%B5%EF%BC%89%E9%9B%B7%E8%BE%BE%E7%B3%BB%E7%BB%9F%E3%80%81%E9%A9%BE%E9%A9%B6%E8%88%B1%E8%88%AA%E7%94%B5%E7%B3%BB%E7%BB%9F%E3%80%81%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BA%A7%E6%A4%85%E3%80%81%E7%87%83%E6%96%99%E7%AE%B1%E4%BB%A5%E5%8F%8A%E8%A3%85%E6%9C%89%E5%AF%BC%E5%BC%B9%E7%9A%84%E5%86%85%E9%83%A8%E5%BC%B9%E8%88%B1%E3%80%82%0A%E9%A3%8E%E6%A0%BC%E4%B8%8E%E7%94%BB%E8%B4%A8%EF%BC%9A%20%E9%AB%98%E7%A7%91%E6%8A%80%E4%BF%A1%E6%81%AF%E5%9B%BE%E8%A1%A8%E9%A3%8E%E6%A0%BC%EF%BC%8CDK%E8%A7%86%E8%A7%89%E5%A4%A7%E7%99%BE%E7%A7%91%EF%BC%88Dorling%20Kindersley%EF%BC%89%E9%A3%8E%E6%A0%BC%EF%BC%8C%E8%B6%85%E5%86%99%E5%AE%9E%E4%B8%BB%E4%B9%89%EF%BC%8C%E7%BB%86%E8%8A%82%E6%9E%81%E9%AB%98%E7%9A%84%E5%B7%A5%E7%A8%8B%E8%93%9D%E5%9B%BE%EF%BC%88%E5%85%A8%E5%BD%A9%E6%A8%A1%E5%BC%8F%EF%BC%89%E3%80%82%0A%E5%85%89%E7%85%A7%E4%B8%8E%E8%83%8C%E6%99%AF%EF%BC%9A%20%E5%B9%B2%E5%87%80%E7%9A%84%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E6%91%84%E5%BD%B1%E6%A3%9A%E5%B8%83%E5%85%89%EF%BC%8C%E5%AF%B9%E7%84%A6%E6%B8%85%E6%99%B0%EF%BC%8C8K%E8%B6%85%E9%AB%98%E6%B8%85%E5%88%86%E8%BE%A8%E7%8E%87%EF%BC%8C%E8%99%9A%E5%B9%BB%E5%BC%95%E6%93%8E5%EF%BC%88Unreal%20Engine%205%EF%BC%89%E6%B8%B2%E6%9F%93%E8%B4%A8%E6%84%9F%EF%BC%8C%E6%9C%BA%E6%A2%B0%E9%83%A8%E4%BB%B6%E5%88%86%E6%98%8E%EF%BC%8C%E5%85%B7%E6%9C%89%E9%87%91%E5%B1%9E%E8%B4%A8%E6%84%9F%E3%80%82%0A%E9%87%8D%E7%82%B9%E6%98%AF%E9%9C%80%E8%A6%81%E5%89%96%E9%9D%A2%20%E5%89%96%E9%9D%A2)**
 
 ---
 
@@ -3207,6 +3377,8 @@ Structured prompt describing a moody cinematic 2x2 collage of the same young wom
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%C2%A0%20%22image_description%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22overall_composition%22%3A%20%22A%20moody%2C%20cinematic%202x2%20collage%20featuring%20the%20same%20young%20woman%22%2C%0A%C2%A0%20%C2%A0%20%22subject%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22appearance%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22hair%22%3A%20%22Short%2C%20tousled%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22makeup%22%3A%20%22Bold%20red%20lipstick%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22style%22%3A%20%22Striking%2C%20androgynous%20editorial%20look%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22attire%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22suit%22%3A%20%22Oversize%22shirt%22%3A%20%22Loose%20white%20dress%20)**
+
 ---
 
 ### No. 82: Generate landmark-focused cityscape from coordinates
@@ -3238,6 +3410,8 @@ Create an image of 37° 30' 40.4424'' N and 127° 5' 52.9080'' E. Focus on a lan
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20of%2037%C2%B0%2030'%2040.4424''%20N%20and%20127%C2%B0%205'%2052.9080''%20E.%20Focus%20on%20a%20landmark%2C%20not%20a%20random%20scene)**
+
 ---
 
 ### No. 83: Studio photo with cardboard cutout prompt
@@ -3268,6 +3442,8 @@ A studio photograph of a life-size cardboard cutout standee and a real person po
 - **Source:** [Twitter Post](https://x.com/ai_tahi/status/1992069269463720003)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20studio%20photograph%20of%20a%20life-size%20cardboard%20cutout%20standee%20and%20a%20real%20person%20posing%20together%20against%20a%20plain%20grey%20background.%20On%20the%20left%20side%20of%20the%20frame%20is%20the%20standee%20based%20on%20the%20anime%20illustrat)**
 
 ---
 
@@ -3318,6 +3494,8 @@ Prompt to place a dinosaur in front of the Tokyo Metropolitan Government Buildin
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E6%81%90%E7%AB%9C%E3%82%92%E6%96%B0%E5%AE%BF%E3%81%AE%E9%83%BD%E5%BA%81%E5%89%8D%E3%81%AB%E5%87%BA%E7%8F%BE%E3%81%95%E3%81%9B%E3%82%8B)**
+
 ---
 
 ### No. 85: Outfit swap compositing prompt
@@ -3362,6 +3540,8 @@ Dress the person in the clothing from the uploaded clothing image, preserving th
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20an%20image%20of%20the%20person%20from%20the%20uploaded%20reference%20image%2C%20keeping%20the%20face%20and%20hairstyle%20exactly%20as%20in%20the%20uploaded%20image.%0ADress%20the%20person%20in%20the%20clothing%20from%20the%20uploaded%20clothing%20image%2C%20preserving%20the%20style%2C%20color%2C%20and%20details%20of%20the%20garment)**
+
 ---
 
 ### No. 86: Recursive artist photograph from 1998
@@ -3392,6 +3572,8 @@ Amateur photograph from 1998 of a middle-aged artist copying an image by hand fr
 - **Source:** [Twitter Post](https://x.com/plasm0/status/1992065152695578814)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Amateur%20photograph%20from%201998%20of%20a%20middle-aged%20artist%20copying%20an%20image%20by%20hand%20from%20a%20computer%20screen%20to%20an%20oil%20painting%20on%20stretched%20canvas%2C%20but%20the%20image%20is%20itself%20the%20photo%20of%20the%20artist%20painting%20the%20recursive%20image.)**
 
 ---
 
@@ -3424,6 +3606,8 @@ Japanese prompt to turn an illustration into a LINE sticker set with variations
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%E4%BD%9C%E6%88%90%E3%80%82%E8%A1%A8%E6%83%85%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BA%E5%88%A5%E3%83%BB%E3%82%BB%E3%83%AA%E3%83%95%E5%85%A5%E3%81%A716%E7%A8%AE%E9%A1%9E%E3%80%82)**
+
 ---
 
 ### No. 88: Logo restyling prompt for Nano Banana 2
@@ -3455,6 +3639,8 @@ change symbol to red star, change "discord" to "DPRK", change colors red white b
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=change%20symbol%20to%20red%20star%2C%20change%20%22discord%22%20to%20%22DPRK%22%2C%20change%20colors%20red%20white%20blue%2C%20keep%20all%20details.)**
+
 ---
 
 ### No. 89: Infographic about real estate investing prompt
@@ -3485,6 +3671,8 @@ Simple Japanese prompt requesting an image summarizing pros and cons of real est
 - **Source:** [Twitter Post](https://x.com/futa_1983/status/1992062450234163485)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%8D%E5%8B%95%E7%94%A3%E6%8A%95%E8%B3%87%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%83%BB%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%82%92%E7%94%BB%E5%83%8F%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%80%82)**
 
 ---
 
@@ -3524,6 +3712,8 @@ Shares a generic prompt template to create 12 variations of a LINE sticker using
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%80%90%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%80%91%0A%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%A7LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E3%80%82%E8%A1%A8%E6%83%85%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%BB%E3%83%AA%E3%83%95%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8B%E5%BD%A2%E3%81%A7%E5%85%A812%E7%A8%AE%E9%A1%9E%E3%80%82%E3%80%87%E3%80%87%E7%B3%BB%E3%81%AE%E3%82%BB%E3%83%AA%E3%83%95%E3%81%A7%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%84%E3%82%82%E3%81%AE%E3%81%A7%E3%81%8A%E9%A1%98%E3%81%84%E3%80%82)**
+
 ---
 
 ### No. 91: (Already extracted) Knowledge card prompts
@@ -3560,6 +3750,8 @@ Duplicate of earlier educational card prompts tweet.
 - **Source:** [Twitter Post](https://x.com/imxiaohu/status/1992060195691024862)
 - **Published:** November 22, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%8F%90%E7%A4%BA%E8%AF%8D%E2%86%93%EF%BC%9A%0A%0A%E7%89%A9%E7%90%86%E5%AE%9A%E5%BE%8B%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%E7%BB%99%E6%88%91%E7%94%9F%E6%88%90%E5%88%9D%E4%B8%AD%E8%AF%BE%E6%9C%AC%E4%B8%8A%E7%9A%84%E6%89%80%E6%9C%89%E7%89%A9%E7%90%86%E5%AE%9A%E5%BE%8B%E4%BF%A1%E6%81%AF%E5%9B%BE%EF%BC%8C%E6%AF%8F%E4%B8%AA%E4%B8%80%E5%BC%A0%E5%9B%BE%EF%BC%8C%E8%A6%81%E6%B1%82%E9%80%9A%E4%BF%97%E6%98%93%E6%87%82%EF%BC%8C%E5%88%9D%E4%B8%AD%E7%94%9F%E8%83%BD%E7%9C%8B%E6%87%82%E5%A5%BD%E7%90%86%E8%A7%A3%E7%9A%84%E5%86%85%E5%AE%B9%E3%80%82%0A%0A%E8%8B%B1%E8%AF%AD%E5%8D%A1%E7%89%87%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%E5%B8%AE%E6%88%91%E7%94%9F%E6%88%90%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%8D%A1%E7%89%87%EF%BC%8C%E6%AF%8F%E4%B8%AA%E4%B8%80%E5%BC%A0%EF%BC%8C%E4%BB%A5%E7%94%9F%E6%B4%BB%E5%9C%BA%E6%99%AF%E6%9D%A5%E5%B1%95%E7%8E%B0%EF%BC%8C%E6%AF%94%E5%A6%82%E7%82%B9%E5%8D%95%E3%80%81%E6%97%85%E8%A1%8C%E9%97%AE%E8%B7%AF%E3%80%81%E9%85%92%E5%BA%97%E3%80%81%E6%9C%BA%E5%9C%BAcheck%20in%E7%AD%89%E5%90%84%E7%A7%8D%E5%B8%B8%E7%94%A8%E5%9C%BA%E6%99%AF%EF%BC%8C%E6%AF%8F%E5%BC%A0%E5%8C%85%E5%90%AB%E4%BA%BA%E7%89%A9%E5%AF%B9%E8%AF%9D%E6%83%85%E6%99%AF%E5%92%8C%E4%B8%BB%E8%A6%81%E5%B8%B8%E7%94%A8%E7%9A%84%E8%AF%AD%E5%8F%A5%EF%BC%8C%E5%90%8C%E6%97%B6%E7%BB%99%E6%88%91%E5%88%97%E4%B8%BE%E4%B8%BB%E8%A6%81%E7%9A%84%E5%8D%95%E8%AF%8D%EF%BC%88%E5%8C%85%E9%9F%B3%E6%A0%87%E3%80%81%E6%84%8F%E6%80%9D%E7%AD%89%EF%BC%89%E6%9D%A5%E4%B8%AA12%E4%B8%AA%E5%9C%BA%E6%99%AF%E5%85%88%E7%9C%8B%E7%9C%8B%E3%80%82%0A%0A%E8%AF%97%E8%AF%8D%E5%8D%A1%E7%89%87%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%E7%BB%99%E6%88%91%E6%9D%A510%E9%A6%96%E8%91%97%E5%90%8D%E7%9A%84%E5%94%90%E8%AF%97%E5%AD%A6%E4%B9%A0%E5%8D%A1%E7%89%87%EF%BC%8C%E5%9B%BE%E5%83%8F%E5%8C%85%E5%90%AB%E5%94%90%E8%AF%97%E5%85%A8%E6%96%87%EF%BC%8C%E5%90%8C%E6%97%B6%E7%94%BB%E9%9D%A2%E8%A6%81%E5%92%8C%E8%AF%97%E5%8F%A5%E7%9A%84%E5%86%85%E5%AE%B9%E7%9B%B8%E5%90%BB%E5%90%88%EF%BC%8C%E6%84%8F%E5%A2%83%E5%A5%91%E5%90%88%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%AD%A6%E7%94%9F%E7%90%86%E8%A7%A3%E8%AF%97%E6%96%87%E7%9A%84%E8%83%8C%E6%99%AF%E5%92%8C%E6%84%8F%E5%A2%83%EF%BC%8C%E6%9C%89%E7%AE%80%E5%8D%95%E7%9A%84%E4%B8%AD%E6%96%87%E6%B3%A8%E9%87%8A%E3%80%82)**
 
 ---
 
@@ -3598,6 +3790,8 @@ Zoom in on the toes
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Zoom%20in%20on%20the%20toes)**
+
 ---
 
 ### No. 93: Generate night view from geographic coordinates
@@ -3628,6 +3822,8 @@ Create an image of 37°31'11.24"N 126°56'25.11"E at night.
 - **Source:** [Twitter Post](https://x.com/seti_park/status/1992058919678849106)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20of%2037%C2%B031'11.24%22N%20126%C2%B056'25.11%22E%20at%20night.)**
 
 ---
 
@@ -3660,6 +3856,8 @@ Prompt to create an image summarizing basic income
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%AB%E3%83%A0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9F%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6)**
+
 ---
 
 ### No. 95: Two-panel comic revision prompt
@@ -3690,6 +3888,8 @@ Prompt asking to mirror the second panel and revise the dialogue in an interview
 - **Source:** [Twitter Post](https://x.com/tweeting_drtaka/status/1992058111386161408)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%EF%BC%92%E3%82%B3%E3%83%9E%E3%82%81%E3%82%92%E5%B7%A6%E5%8F%B3%E5%8F%8D%E8%BB%A2%E3%81%97%E3%81%9F%E5%BD%A2%E3%81%A7%E3%80%81%E5%85%A8%E4%BD%93%E3%82%92%E6%B8%85%E6%9B%B8%E3%81%97%E3%81%A6%E9%A0%82%E3%81%8F%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F%E3%81%9D%E3%81%AE%E9%9A%9B%E3%80%81%E9%9D%A2%E6%8E%A5%E5%AE%98%E3%81%AE%E3%82%BB%E3%83%AA%E3%83%95%E3%82%92%E3%80%81%E3%80%8C%E6%88%91%E3%81%8C%E7%A4%BE%E3%81%8C%E6%B1%82%E3%82%81%E3%81%A6%E3%81%84%E3%81%9F%E4%BA%BA%E6%9D%90%E3%81%A7%E3%81%99%EF%BC%81%E3%80%8D%E3%81%AB%E4%BF%AE%E6%AD%A3%E3%81%97%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84%E3%80%82)**
 
 ---
 
@@ -3722,6 +3922,8 @@ Chinese prompt asking to generate a grid of the top 30 Water Margin characters i
 - **Published:** November 22, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%89%AF%E3%80%8A%E6%B0%B4%E6%B5%92%E3%80%8B%E6%8E%92%E5%90%8D%E5%89%8D30%E7%9A%84%E4%BA%BA%E7%89%A9%E5%9B%BE%EF%BC%8Cgrid%E6%A0%BC%E5%BC%8F%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%AC%94%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%8C%E6%AF%8F%E4%B8%AA%E4%BA%BA%E7%89%A9%E7%9A%84cell%E7%9A%84%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%86%99%E4%B8%8A%E4%BA%BA%E7%89%A9%E7%9A%84%E5%A7%93%E5%90%8D%E3%80%82)**
+
 ---
 
 ### No. 97: Aging a woman from adult to elderly
@@ -3752,6 +3954,8 @@ Japanese prompt to generate a close-up image of an adult woman as an old lady.
 - **Source:** [Twitter Post](https://x.com/Ayu_AI_0912/status/1992050902438482199)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=1%E6%9E%9A%E7%9B%AE%E3%81%AE%E6%88%90%E4%BA%BA%E5%A5%B3%E6%80%A7%E3%81%AE%E8%80%81%E5%A9%86%E3%81%AE%E5%A7%BF%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6%E3%80%82%E3%83%89%E3%82%A2%E3%83%83%E3%83%97%E3%80%82%E8%A1%A3%E8%A3%85%E3%82%82%E3%81%8A%E3%81%B0%E3%81%95%E3%82%93%E3%81%A3%E3%81%BD%E3%81%8F%E3%81%97%E3%81%A6%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E5%AE%B6)**
 
 ---
 
@@ -3789,6 +3993,8 @@ Zoom in on the bee
 - **Source:** [Twitter Post](https://x.com/ImagineArt_X/status/1992050470089580583)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Zoom%20in%20on%20the%20bee)**
 
 ---
 
@@ -3829,6 +4035,8 @@ Googleが画像生成AIの最終兵器「Nano Banana Pro」を公開
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E3%82%92%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AB%E3%80%81%E4%BB%A5%E4%B8%8B%E3%81%AE%E5%86%85%E5%AE%B9%E3%82%92%E7%9B%9B%E3%82%8A%E8%BE%BC%E3%82%93%E3%81%A7%E3%80%822%E8%A1%8C%E3%81%AB%E5%8F%8E%E3%82%81%E3%81%A6%E3%80%82%E7%B8%A6%E4%B8%AD%E5%A4%AE%E3%81%AB%E9%85%8D%E7%BD%AE%E3%80%82%0A%E2%86%93%0AGoogle%E3%81%8C%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90AI%E3%81%AE%E6%9C%80%E7%B5%82%E5%85%B5%E5%99%A8%E3%80%8CNano%20Banana%20Pro%E3%80%8D%E3%82%92%E5%85%AC%E9%96%8B)**
+
 ---
 
 ### No. 100: Portfolio strategy overview diagram
@@ -3859,6 +4067,8 @@ Prompt asking Nano Banana Pro to create a strategy overview diagram based on an 
 - **Source:** [Twitter Post](https://x.com/hm_ememem/status/1992049608558871000)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E3%81%AF%E5%80%8B%E4%BA%BA%E6%8A%95%E8%B3%87%E5%AE%B6%E3%81%A7%E3%81%82%E3%82%8B%E7%A7%81%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%81%A1%E3%82%89%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%81%AE%E6%88%A6%E7%95%A5%E3%82%92%E4%BA%BA%E3%81%AB%E4%BC%9D%E3%81%88%E3%82%8B%E9%9A%9B%E3%81%AE%E6%96%B9%E9%87%9D%E6%A6%82%E8%A6%81%E5%9B%B3%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
 
 ---
 
@@ -3897,6 +4107,8 @@ High-level request for a slide about Vietnam investment advantages
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E6%8A%95%E8%B3%87%E3%81%AE%E5%84%AA%E4%BD%8D%E6%80%A7%E3%82%921%E6%9E%9A%E3%81%AE%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%81%AB%E3%81%97%E3%81%A6)**
+
 ---
 
 ### No. 102: Shear and moment diagram prompt
@@ -3928,6 +4140,8 @@ a shear and moment diagram for a simply supported beam with a uniform load of 10
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=a%20shear%20and%20moment%20diagram%20for%20a%20simply%20supported%20beam%20with%20a%20uniform%20load%20of%20100%20plf.%20the%20beam%20is%20100%20feet%20long)**
+
 ---
 
 ### No. 103: Physicist relaxing on a hammock
@@ -3958,6 +4172,8 @@ Physicist on a hammock, with a glass and an S.P.A. Only legs, without shoes and 
 - **Source:** [Twitter Post](https://x.com/VergaraLautaro/status/1992046250514882805)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Physicist%20on%20a%20hammock%2C%20with%20a%20glass%20and%20an%20S.P.A.%20Only%20legs%2C%20without%20shoes%20and%20trees%20and%20vegetation%20are%20shown.)**
 
 ---
 
@@ -3996,6 +4212,8 @@ Create a 2x 3 grid of step-by-step visual folding instructions, from flat sheet 
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%202x%203%20grid%20of%20step-by-step%20visual%20folding%20instructions%2C%20from%20flat%20sheet%20to%20the%20final%20model.%20Each%20step%20should%20include%20a%20person%20completing%20that%20step)**
+
 ---
 
 ### No. 105: Chalkboard art rabbit king prompt
@@ -4026,6 +4244,8 @@ Detailed Japanese prompt for chalk illustration of a rabbit king on a classroom 
 - **Source:** [Twitter Post](https://x.com/masukarasulove/status/1992044862477078614)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%95%99%E5%AE%A4%E3%81%AE%E9%BB%92%E6%9D%BF%E3%81%AB%E3%83%81%E3%83%A7%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E3%81%86%E3%81%95%E3%81%8E%E3%81%AE%E7%8E%8B%E6%A7%98%E3%82%92%E6%9B%B8%E3%81%84%E3%81%A6%20%E6%96%87%E5%AD%97%E3%82%82%20%E3%81%86%E3%81%95%E7%8E%8B%E6%A7%98%E5%8F%82%E4%B8%8A%EF%BC%81%20%E5%AE%9F%E5%86%99%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%AE%E6%A7%98%E5%AD%90%E3%81%A8%E7%AA%93%E3%81%8B%E3%82%89%E5%B7%AE%E3%81%97%E8%BE%BC%E3%82%80%E5%A4%95%E6%97%A5%20%E6%96%9C%E3%82%81%E3%81%8B%E3%82%89)**
 
 ---
 
@@ -4058,6 +4278,8 @@ A full comic page bringing Ben 10 into the TMNT universe, expressive panels, cle
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20full%20comic%20page%20bringing%20Ben%2010%20into%20the%20TMNT%20universe%2C%20expressive%20panels%2C%20clean%20linework%2C%20and%20vibrant%20colours%20that%20feel%20straight%20out%20of%20an%20official%20crossover%20issue.)**
+
 ---
 
 ### No. 107: Graphic recording style output from Nano Banana
@@ -4088,6 +4310,8 @@ User says they only said “in graphic recording style” to Nano Banana to get 
 - **Source:** [Twitter Post](https://x.com/kattosomba/status/1992042434726187101)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%B0%E3%83%A9%E3%83%AC%E3%82%B3%E9%A2%A8%E3%81%A7)**
 
 ---
 
@@ -4126,6 +4350,8 @@ Detailed prompt for Nano Banana Pro to generate a POP display scene in a booksto
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E6%8F%8F%E3%81%8F%E3%80%81%E5%90%84%E8%89%B2%E3%81%AE%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%86%E4%BA%8B%E3%80%81POP%E3%81%AA%E3%81%AE%E3%81%A7%E6%AD%A3%E9%9D%A2%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E6%92%AE%E5%BD%B1%E3%80%81%E6%9C%AC%E5%B1%8B%E3%81%95%E3%82%93%E3%81%AE%E9%A2%A8%E6%99%AF%E3%80%81POP%E3%81%AF%E6%96%B0%E5%88%8A%E3%81%AE%E5%89%8D%E3%81%AB%E9%A3%BE%E3%82%89%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E4%BB%96%E3%81%AE%E6%9C%AC%E3%82%88%E3%82%8A%E7%9B%AE%E7%AB%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%81%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%8F%B3%E4%B8%8B%E3%81%AB%E3%80%8C%E3%81%AD%E3%81%93%E3%81%AE%E3%81%97%E3%81%A3%E3%81%BD%E3%80%8D%E3%81%A8%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%82%E3%82%8B)**
+
 ---
 
 ### No. 109: Vague goth makeover prompt
@@ -4163,6 +4389,8 @@ Redo this as though this person was into goth music at the time
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Redo%20this%20as%20though%20this%20person%20was%20into%20goth%20music%20at%20the%20time)**
+
 ---
 
 ### No. 110: Funny anatomical diagrams of pets
@@ -4193,6 +4421,8 @@ make a funny anatomical diagram of this pet, have humorous annotations
 - **Source:** [Twitter Post](https://x.com/GlennHasABeard/status/1992041939743789067)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=make%20a%20funny%20anatomical%20diagram%20of%20this%20pet%2C%20have%20humorous%20annotations)**
 
 ---
 
@@ -4231,6 +4461,8 @@ Change the one-piece swimsuit to a bikini and add high heels while keeping the s
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Change%20the%20one-piece%20swimsuit%20to%20a%20bikini%20and%20add%20high%20heels%20while%20keeping%20the%20same%20style%20and%20background.)**
+
 ---
 
 ### No. 112: Infographic creation prompt
@@ -4261,6 +4493,8 @@ Prompt asks Nano Banana Pro to create an infographic about political achievement
 - **Source:** [Twitter Post](https://x.com/nekoai_lab/status/1992040370017108015)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E9%AB%98%E5%B8%82%E6%94%BF%E6%A8%A9%E3%81%AE%E3%81%93%E3%81%AE1%E3%83%B6%E6%9C%88%E3%81%AE%E6%88%90%E6%9E%9C%E3%81%A8%E8%AA%B2%E9%A1%8C%E3%82%92%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AB%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84)**
 
 ---
 
@@ -4301,6 +4535,8 @@ iPadを使う時の「スーパーヒーローの姿勢（しせい）」にな�
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%8F%E5%AD%A6%E7%94%9F%E3%81%AE%E3%81%8A%E5%AD%90%E3%81%95%E3%82%93%E3%81%AB%E3%82%82%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%80%81%E8%88%88%E5%91%B3%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E8%B3%87%E6%96%99%E3%81%A7%E3%81%99%E3%81%AD%E3%80%82%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E4%BD%BF%E3%81%84%E3%80%81%E3%82%AF%E3%82%A4%E3%82%BA%E5%BD%A2%E5%BC%8F%E3%81%AA%E3%81%A9%E3%82%82%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%81%A6%E3%80%81%E6%A5%BD%E3%81%97%E3%81%8F%E5%AD%A6%E3%81%B9%E3%82%8B%E6%A7%8B%E6%88%90%E3%81%AB%E3%81%97%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%80%82%0A%0AiPad%E3%82%92%E4%BD%BF%E3%81%86%E6%99%82%E3%81%AE%E3%80%8C%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%81%AE%E5%A7%BF%E5%8B%A2%EF%BC%88%E3%81%97%E3%81%9B%E3%81%84%EF%BC%89%E3%80%8D%E3%81%AB%E3%81%AA%E3%82%8D%E3%81%86%EF%BC%81%0A%0A%EF%BD%9E%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%EF%BC%88%E3%81%8A%E4%BB%95%E4%BA%8B%E5%A0%B4%EF%BC%89%E3%81%A7%E3%82%82%E3%81%8A%E5%AE%B6%E3%81%A7%E3%82%82%E3%80%81%E3%81%8B%E3%81%A3%E3%81%93%E3%82%88%E3%81%8FiPad%E3%82%92%E4%BD%BF%E3%81%86%E3%81%B2%E3%81%BF%E3%81%A4%EF%BD%9E%0A%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AF%E3%80%81iPad%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E3%81%8D%E3%80%81%E3%81%A9%E3%82%93%E3%81%AA%E5%A7%BF%E5%8B%A2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E3%81%AA%EF%BC%9F%0A%E3%80%8C%E9%A6%96%EF%BC%88%E3%81%8F%E3%81%B3%EF%BC%89%E3%81%8C%E7%97%9B%EF%BC%88%E3%81%84%E3%81%9F%EF%BC%89%E3%81%84%E3%81%AA%E3%80%8D%E3%80%8C%E8%82%A9%EF%BC%88%E3%81%8B%E3%81%9F%EF%BC%89%E3%81%8C%E3%81%93%E3%82%8B%E3%81%AA%E3%80%8D%E3%81%A3%E3%81%A6%E6%80%9D%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AA%E3%81%84%EF%BC%9F%0A%E5%AE%9F%E3%81%AF%E3%80%81iPad%E3%81%AE%E7%BD%AE%E3%81%8D%E6%96%B9%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%A7%E3%80%81%E4%BD%93%E3%81%B8%E3%81%AE%E8%B2%A0%E6%8B%85%EF%BC%88%E3%81%B5%E3%81%9F%E3%82%93%EF%BC%89%E3%81%8C%E5%85%A8%E7%84%B6%E3%81%A1%E3%81%8C%E3%81%86%E3%82%93%E3%81%A0%E3%80%82%0A%E3%81%BE%E3%82%8B%E3%81%A7%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC)**
+
 ---
 
 ### No. 114: Four-panel anime-style manga image prompt
@@ -4337,6 +4573,8 @@ Detailed Japanese prompt for generating a vertical 4-panel manga with character 
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%97%A5%E6%9C%AC%E3%81%AE%E5%85%B8%E5%9E%8B%E7%9A%84%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E7%94%BB%E5%83%8F%E3%81%AF%E7%B8%A6%E9%95%B7%E3%81%AE%E9%95%B7%E6%96%B9%E5%BD%A2%E3%81%A7%E3%80%81%E4%B8%8A%E3%81%8B%E3%82%89%E9%A0%86%E3%81%AB4%E3%81%A4%E3%81%AE%E3%82%B3%E3%83%9E%E3%81%8C%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%80%90%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E8%A8%AD%E5%AE%9A%E3%80%91%0A*%20%E5%90%8D%E5%89%8D%EF%BC%9A%E3%83%AB%E3%83%BC%E3%82%AD%E3%83%BC%0A*%20%E7%A8%AE%E6%97%8F%EF%BC%9A%E3%83%91%E3%83%B3%E3%83%80%E4%BA%BA%E9%96%93%EF%BC%88%E4%BA%BA%E9%96%93%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%A0%E3%81%8C%E3%80%81%E9%A0%AD%E3%81%AB%E4%B8%B8%E3%81%84%E3%83%91%E3%83%B3%E3%83%80%E3%81%AE%E8%80%B3%E3%81%8C%E3%81%A4%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%89%0A*%20%E9%AB%AA%EF%BC%9A%E7%99%BD%E9%8A%80%E3%81%AE%E3%83%84%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%AB)**
+
 ---
 
 ### No. 115: Explaining think-cell with a visual
@@ -4368,6 +4606,8 @@ Prompt to create an image explaining issues in document creation and what think-
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%B3%87%E6%96%99%E4%BD%9C%E6%88%90%E3%81%AE%E5%95%8F%E9%A1%8C%E3%81%A8think-cell%E3%81%8C%E8%A7%A3%E6%B1%BA%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%9F%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6)**
+
 ---
 
 ### No. 116: Sexy knight armor bikini cosplay photo
@@ -4398,6 +4638,8 @@ A tall, confident young woman in a sexy knight armor bikini-style cosplay poses,
 - **Source:** [Twitter Post](https://x.com/eijo_AIart/status/1992036213977743574)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20tall%2C%20confident%20young%20woman%20in%20a%20sexy%20knight%20armor%20bikini-style%20cosplay%20poses%2C%20leaning%20against%20her%20sword%20in%20a%20crouched%20position%2C%20in%20a%20natural%2C%20high-resolution%20snapshot.)**
 
 ---
 
@@ -4453,6 +4695,8 @@ task: "edit-image: add full-screen analysis HUD overlay only"
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Use%20blue%20HUD%20color.%0A%0A%E2%80%A6%0A%0A%E2%97%86%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%0Atask%3A%20%22edit-image%3A%20add%20full-screen%20analysis%20HUD%20overlay%20only%22)**
+
 ---
 
 ### No. 118: Diagram of beautiful walking prompt
@@ -4483,6 +4727,8 @@ Simple Japanese prompt asking to create a diagram of beautiful walking
 - **Source:** [Twitter Post](https://x.com/hanarinblog/status/1992035551168667738)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%8D%E3%82%8C%E3%81%84%E3%81%AA%E6%AD%A9%E3%81%8D%E6%96%B9%E3%81%AE%E5%9B%B3%E8%A7%A3%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6)**
 
 ---
 
@@ -4515,6 +4761,8 @@ Simple Japanese prompt to generate a couple where an apple and a banana are pers
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BA%BA%E9%96%93%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%82%8A%E3%82%93%E3%81%94%E3%81%A8%E3%83%90%E3%83%8A%E3%83%8A%E3%81%8C%E6%93%AC%E4%BA%BA%E5%8C%96%E3%81%97%E3%81%9F%E5%A4%AB%E5%A9%A6)**
+
 ---
 
 ### No. 120: Clean infographic style settings for Nano Banana Pro
@@ -4546,6 +4794,8 @@ Japanese prompt to create simple, flat infographic-style images with minimal tex
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E3%81%8D%E3%82%8F%E3%82%81%E3%81%A6%E5%B0%91%E3%81%AA%E3%81%8F%E3%80%81%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%82%AB%E3%83%AB%E3%81%AA%E8%A1%A8%E7%8F%BE%E3%82%92%E9%87%8D%E8%A6%96%E3%80%82%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%96%87%E5%AD%97%E5%8C%96%E3%81%91%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E3%80%82%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%81%AF%E3%83%92%E3%83%A9%E3%82%AE%E3%83%8E%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%B8%AD%E5%BF%83%E3%80%82%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AF%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB%E9%85%8D%E8%89%B2%E3%82%84%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AFMicrosoft365%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%80%82%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A7%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AB%E3%80%82)**
+
 ---
 
 ### No. 121: Four-panel gag manga of Nanami eating ramen
@@ -4576,6 +4826,8 @@ Japanese prompt for a 4-panel gag manga about a young Japanese woman named Nanam
 - **Source:** [Twitter Post](https://x.com/shinya_blogger/status/1992032334301040950)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E8%8B%A5%E3%81%84%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%A5%B3%E6%80%A7%E3%80%8E%E4%B8%83%E6%B5%B7%E3%80%8F%E3%81%8C%E4%BA%8C%E9%83%8E%E7%B3%BB%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E3%82%92%E9%A3%9F%E3%81%B9%E3%82%8B%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%A7%E3%80%81%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE4%E3%82%B3%E3%83%9E%E3%82%AE%E3%83%A3%E3%82%B0%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%80%82%E6%A7%8B%E5%9B%B3%E3%82%92%E5%B7%A5%E5%A4%AB%E3%81%97%E3%81%A6%E9%A1%94%E6%BC%AB%E7%94%BB%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E3%80%82%E7%B8%A6%E3%81%AB4%E3%82%B3%E3%83%9E%E9%85%8D%E7%BD%AE%E3%80%82%E3%82%BB%E3%83%AA%E3%83%95%E3%81%AF%E7%B8%A6%E6%9B%B8%E3%81%8D%E3%81%A7%E3%80%81%E5%8F%B3%E3%81%8B%E3%82%89%E5%B7%A6%E3%81%AB%E8%AA%AD%E3%82%81%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E9%85%8D%E7%BD%AE%E3%80%82)**
 
 ---
 
@@ -4658,6 +4910,8 @@ Japanese template prompt to generate a 16:9 photo-realistic single image split l
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=16%3A9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E5%8D%98%E4%B8%80%E7%94%BB%E5%83%8F%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%80%81%E5%B7%A6%E5%8F%B3%E3%81%AB%E4%BA%8C%E5%88%86%E5%89%B2%20%E3%81%95%E3%82%8C%E3%81%9F%E6%A7%8B%E6%88%90%E3%81%AB%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%80%82%E5%B7%A6%E5%8F%B3%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AB%E3%80%81%E5%90%8C%E3%81%98%E5%A0%B4%E6%89%80%E3%80%82%0A%20%EF%BC%BBLOCATION_NAME%3A%EF%BC%88%E4%BB%BB%E6%84%8F%E3%81%AE%E5%A0%B4%E6%89%80%EF%BC%89%EF%BC%BD%0A%E3%81%AE%E5%88%A5%E5%B9%B4%E4%BB%A3%E3%81%AE%E5%A7%BF%E3%82%92%E6%8F%8F%E5%86%99%E3%81%99%E3%82%8B%E3%80%82%0A%0A%E5%B7%A6%E5%81%B4%EF%BC%88Left%20side%EF%BC%89%EF%BC%9A%EF%BC%88%E4%BB%BB%E6%84%8F%E3%81%AE%E5%B9%B4%EF%BC%89%E3%83%BB%EF%BC%88%E6%99%82%E9%96%93%EF%BC%89%0A%E5%8F%B3%E5%81%B4%EF%BC%88Right%20side%EF%BC%89%EF%BC%9A%EF%BC%88%E4%BB%BB%E6%84%8F%E3%81%AE%E5%B9%B4%EF%BC%89%E3%83%BB%EF%BC%88%E6%99%82%E9%96%93%EF%BC%89%0A%0A%E3%82%AB%E3%83%A1%E3%83%A9%E4%BD%8D%E7%BD%AE%E3%81%AF%E5%AE%8C%E5%85%A8%E3%81%AB%E5%90%8C%E4%B8%80%E3%81%A8%E3%81%97%E3%80%81%E4%BB%A5%E4%B8%8B%E3%81%AE%E5%BA%A7%E6%A8%99%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%EF%BC%9A%0A%EF%BC%BBLATIT)**
+
 ---
 
 ### No. 123: Rabbit POV shot prompt
@@ -4695,6 +4949,8 @@ Light gray rabbit's point-of-view shot
 - **Published:** November 22, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Light%20gray%20rabbit's%20point-of-view%20shot)**
+
 ---
 
 ### No. 124: 4-panel manga explaining Bitcoin from a cypherpunk perspective
@@ -4726,6 +4982,8 @@ Prompt for Nano Banana Pro to create a 4-panel manga where a reference character
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%8F%82%E7%85%A7%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A1%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF%E7%9A%84%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3%E3%81%AE%E6%88%90%E3%82%8A%E7%AB%8B%E3%81%A1%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%99%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6)**
+
 ---
 
 ### No. 125: Hand-drawn idol flyer on steamed bun vending machine
@@ -4756,6 +5014,8 @@ Take the image of the hand-drawn style idol character flyer and visually depict 
 - **Source:** [Twitter Post](https://x.com/yukiaitsinghua/status/1992027750006395319)
 - **Published:** November 22, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Take%20the%20image%20of%20the%20hand-drawn%20style%20idol%20character%20flyer%20and%20visually%20depict%20it%20as%20if%20it%20is%20adhered%20to%20a%20vending%20machine%20for%20steamed%20buns%20at%20a%20convenience%20store.%20Ensure%20the%20flyer%20is%20realistically%20integrated%20with%20the%20machine%2C%20maintaining%20consistent%20lighting%20and%20perspective%20with%20the%20surrounding%20environment.)**
 
 ---
 
@@ -4802,6 +5062,8 @@ Two prompts used with Nano Banana Pro to turn a cloudy Ho Chi Minh photo into ra
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E9%9B%A8%E3%81%8C%E9%99%8D%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E5%8A%A0%E5%B7%A5%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%0A%0A%E9%9B%A8%E3%81%AE%E6%99%82%E3%80%81%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E4%BA%BA%E3%81%AF%E3%83%AC%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%88%E3%82%92%E7%9D%80%E3%81%A6%E3%83%90%E3%82%A4%E3%82%AF%E3%81%AB%E4%B9%97%E3%82%8A%E3%81%BE%E3%81%99)**
+
 ---
 
 ### No. 127: Textbook illustration for classical Chinese poem
@@ -4833,6 +5095,8 @@ Chinese prompt to generate a teaching illustration for the poem “临江仙·�
 - **Published:** November 22, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%BB%99%E6%9D%A8%E6%85%8E%E7%9A%84%E3%80%8A%E4%B8%B4%E6%B1%9F%E4%BB%99%C2%B7%E6%BB%9A%E6%BB%9A%E9%95%BF%E6%B1%9F%E4%B8%9C%E9%80%9D%E6%B0%B4%E3%80%8B%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%E8%AF%BE%E6%9C%AC%E6%95%99%E5%AD%A6%E5%9B%BE)**
+
 ---
 
 ### No. 128: Pop flyer image for a Note article
@@ -4863,6 +5127,8 @@ Prompt to generate a pop-style flyer image introducing a Note article
 - **Source:** [Twitter Post](https://x.com/okappiki3/status/1992020474038280329)
 - **Published:** November 22, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AEnote%E3%81%AE%E8%A8%98%E4%BA%8B%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%E3%83%9D%E3%83%83%E3%83%97%E3%81%AA%E3%83%81%E3%83%A9%E3%82%B7%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%80%82%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%AF3%3A4%E3%81%A7)**
 
 ---
 
@@ -4916,6 +5182,8 @@ Prompt for Nano Banana to create an isometric living room layout for a couple’
 - **Published:** November 22, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E3%82%BD%E3%83%95%E3%82%A1%E3%81%AB%E4%BC%BC%E5%90%88%E3%81%86%E3%83%AA%E3%83%93%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E9%83%BD%E4%BC%9A%E3%81%AE%E5%B9%B3%E5%B1%8B%E4%B8%80%E6%88%B8%E5%BB%BA%E3%81%A6%E3%81%A7%E5%A4%AB%E5%A9%A6%E3%81%8C%E6%9A%AE%E3%82%89%E3%81%99%E9%83%A8%E5%B1%8B%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E9%83%A8%E5%B1%8B%E5%85%A8%E4%BD%93%E3%82%92%E3%82%A2%E3%82%A4%E3%82%BD%E3%83%A1%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%81%AA%E4%BF%AF%E7%9E%B0%E5%9B%B3%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E3%82%A2%E3%83%8B%E3%83%A1%E8%AA%BF%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+
 ---
 
 ### No. 130: Whiteboard-style paper explanation image
@@ -4946,6 +5214,8 @@ A short prompt for turning a research paper into a Chinese whiteboard-style teac
 - **Source:** [Twitter Post](https://x.com/op7418/status/1991806419948253508)
 - **Published:** November 21, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%86%E8%BF%99%E4%B8%AA%E8%AE%BA%E6%96%87%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%B8%AD%E6%96%87%E6%95%99%E6%8E%88%E7%99%BD%E6%9D%BF%E5%9B%BE%E7%89%87%EF%BC%8C%E5%B8%AE%E5%8A%A9%E6%88%91%E7%90%86%E8%A7%A3%E4%BF%A1%E6%81%AF)**
 
 ---
 
@@ -4978,6 +5248,8 @@ Prompt depicting a confused Einstein trying to selfie with a smartphone while El
 - **Published:** November 21, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%A4%B4%E5%8F%91%E8%93%AC%E4%B9%B1%E7%9A%84%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E5%9B%B0%E6%83%91%E5%9C%B0%E7%9B%AF%E7%9D%80%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%EF%BC%8C%E8%AF%95%E5%9B%BE%E8%87%AA%E6%8B%8D%E3%80%82%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AB%99%E5%9C%A8%E4%BB%96%E6%97%81%E8%BE%B9%EF%BC%8C%E8%80%90%E5%BF%83%E5%9C%B0%E6%8C%87%E7%9D%80%E5%B1%8F%E5%B9%95%E6%95%99%E4%BB%96%E3%80%82%E6%89%8B%E6%9C%BA%E5%B1%8F%E5%B9%95%E4%B8%8A%E7%9A%84%E5%AD%97%EF%BC%9A%E2%80%9C%E6%80%8E%E4%B9%88%E6%8B%8D%E7%85%A7%EF%BC%9F%E2%80%9D%E3%80%82)**
+
 ---
 
 ### No. 132: Eye-catching thumbnail about Nano Banana Pro release
@@ -5009,6 +5281,8 @@ Prompt asking the model to create an eye-catching thumbnail about the release of
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%80%8C%E3%81%AA%E3%81%AE%E3%81%B0%E3%81%AA%E3%81%AA%E3%83%97%E3%83%AD%E3%81%8C%E3%81%A7%E3%81%9F%E3%81%A8%E3%81%84%E3%81%86%E3%82%88%E3%81%86%E3%81%AA%E7%9B%AE%E3%82%92%E5%BC%95%E3%81%8F%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%80%8D)**
+
 ---
 
 ### No. 133: Bruce Lee sparring with Yoda in a dojo
@@ -5039,6 +5313,8 @@ Generate an image of Bruce Lee in a yellow jumpsuit sparring playfully with Mast
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991802097483014569)
 - **Published:** November 21, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%A9%BF%E7%9D%80%E9%BB%84%E8%89%B2%E8%BF%9E%E4%BD%93%E6%9C%8D%E7%9A%84%E6%9D%8E%E5%B0%8F%E9%BE%99%E4%B8%8E%E5%B0%A4%E8%BE%BE%E5%A4%A7%E5%B8%88%E8%BF%9B%E8%A1%8C%E5%8F%8B%E5%A5%BD%E7%9A%84%E5%88%87%E7%A3%8B%E3%80%82%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%8B%BF%E7%9D%80%E5%8F%8C%E6%88%AA%E6%A3%8D%EF%BC%8C%E5%B0%A4%E8%BE%BE%E6%8B%BF%E7%9D%80%E7%BB%BF%E8%89%B2%E5%B0%8F%E5%85%89%E5%89%91%E3%80%82%E4%BB%96%E4%BB%AC%E9%83%BD%E5%9C%A8%E5%BE%AE%E7%AC%91%E3%80%82%E4%BC%A0%E7%BB%9F%E4%B8%AD%E5%9B%BD%E9%81%93%E5%9C%BA%E8%83%8C%E6%99%AF%E3%80%82%E5%90%8E%E6%96%B9%E6%A8%AA%E5%B9%85%E5%86%99%E7%9D%80%E2%80%9C%E4%BB%A5%E6%AD%A6%E4%BC%9A%E5%8F%8B%E2%80%9D%E3%80%82)**
 
 ---
 
@@ -5076,6 +5352,8 @@ Create a hyper-realistic portrait of a strikingly beautiful, lovely woman with a
 - **Source:** [Twitter Post](https://x.com/ZaraIrahh/status/1991801843643711982)
 - **Published:** November 21, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hyper-realistic%20portrait%20of%20a%20strikingly%20beautiful%2C%20lovely%20woman%20with%20a%20beautiful%20figure%20and%20flawless%20skin.%20Use%20the%20attached%20100%25%20original%20face%20image.%20Dark%20brown%20hair%20color%20and%20a%20Sanrio%20Kurom)**
 
 ---
 
@@ -5118,6 +5396,8 @@ Beginning of a substitute prompt that describes a 3‑frame high‑definition st
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A7%8B%E5%9B%B3%EF%BC%9A3%E3%81%A4%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AB%E5%88%86%E5%89%B2%E3%81%95%E3%82%8C%E3%81%9F%E3%80%8C%E9%AB%98%E7%B2%BE%E7%B4%B0%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%88%E3%80%8D%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E3%81%AF%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%81%AE%E8%83%8C%E6%99%AF%E7%BE%8E%E8%A1%93%E5%93%81%E8%B3%AA%E3%80%82%20%20%0A%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AF%E9%AB%98%E5%AF%86%E5%BA%A6%E3%81%AE%E3%83%87%E3%82%A3%E3%83%86%E3%83%BC%E3%83%AB%E6%8F%8F%E5%86%99%E3%80%82%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%97%E3%81%A7%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%BB%E3%83%AA%E3%83%95%E3%82%92%E8%A1%A8%E7%8F%BE%E3%81%99%E3%82%8B%E3%80%82%20%20%0A%E5%85%A8%E4%BD%93%E3%81%AF%E7%94%BB%E9%9B%86%E3%81%AE)**
+
 ---
 
 ### No. 136: Pixelated game character climbing out of TV
@@ -5149,6 +5429,8 @@ Prompt for a pixel-art video game character trying to crawl out of a TV into a l
 - **Published:** November 21, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E4%B8%AA%E5%83%8F%E7%B4%A0%E5%8C%96%E7%9A%84%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E8%AF%95%E5%9B%BE%E4%BB%8E%E7%94%B5%E8%A7%86%E5%B1%8F%E5%B9%95%E7%88%AC%E5%88%B0%E5%AE%A2%E5%8E%85%E9%87%8C%E3%80%82%E4%B8%80%E4%B8%AA%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%BA%BA%E7%B1%BB%E7%8E%A9%E5%AE%B6%E6%AD%A3%E6%89%8B%E5%BF%99%E8%84%9A%E4%B9%B1%E5%9C%B0%E7%94%A8%E6%8E%A7%E5%88%B6%E5%99%A8%E6%8A%8A%E8%A7%92%E8%89%B2%E6%8E%A8%E5%9B%9E%E5%B1%8F%E5%B9%95%E3%80%82)**
+
 ---
 
 ### No. 137: Cute pink cat‑ear chibi girl illustration
@@ -5179,6 +5461,8 @@ Direct Japanese prompt to generate a cute cat‑ear chibi girl with frilly cloth
 - **Source:** [Twitter Post](https://x.com/mikage/status/1991800706719010873)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%AB%E3%83%AF%E3%82%A4%E3%82%A4%E7%8C%AB%E8%80%B3%E5%B0%91%E5%A5%B3%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6%E3%80%82%E3%81%A1%E3%81%B3%E3%81%8D%E3%82%83%E3%82%89%E9%A2%A8%E3%81%A7%E3%80%81%E3%83%95%E3%83%AA%E3%83%95%E3%83%AA%E3%81%AE%E3%81%8A%E6%B4%8B%E6%9C%8D%E3%82%92%E7%9D%80%E3%81%9B%E3%81%A6%E3%80%81%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%98%E3%82%A2%E3%83%BC%E3%81%AE%E3%83%94%E3%83%B3%E3%82%AF%E8%89%B2%E3%81%AE%E9%AB%AA%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82)**
 
 ---
 
@@ -5223,6 +5507,8 @@ Take the clothing from the reference and change mine to match it
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Take%20the%20clothing%20from%20the%20reference%20and%20change%20mine%20to%20match%20it)**
+
 ---
 
 ### No. 139: Hyper-realistic environmental portrait of stylish woman prompt (partial)
@@ -5254,6 +5540,8 @@ JSON-styled prompt describing a hyper-realistic environmental portrait of a styl
 - **Source:** [Twitter Post](https://x.com/saniaspeaks_/status/1991798571503624502)
 - **Published:** November 21, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22prompt%22%3A%20%22Hyper-realistic%20environmental%20portrait%20of%20a%20stylish%20young%20woman%20standing%20in%20a%20dense%20tropical%20bamboo%20forest.%20She%20is%20wearing%20a%20wide-brimmed%20black%20fedora%20hat%2C%20round%20dark%20sunglasses%20with%20thin%20metal%20frames%2C%20a%20plain%20black%20crew-neck%20t-shirt%20tucked%20in%2C%20and%20dark%20grey%20high-waisted%20trousers.%20She%20stands%20with%20a%20confident%20posture%2C%20leaning%20slightly%20forward%2C%20with%20her%20right%20)**
 
 ---
 
@@ -5307,6 +5595,8 @@ Makeup
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Art%20Direction%3A%20Tokyo%20Avant-Garde%20Art%20Photography%2C%20High-End%20Editorial%20Ad%2C%20LUMINE%20style%20poster.%0A%0AThe%20Muse%3A%20Sophisticated%20Japanese%20woman%2C%20expression%20of%20pure%20bliss%20and%20comfort.%0AMakeup)**
+
 ---
 
 ### No. 141: Linked 4-panel manga series prompt
@@ -5356,6 +5646,8 @@ Instruction for creating multiple four-panel comics with connected story and pun
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E4%B8%80%E3%81%A4%E3%81%A5%E3%81%A4%E3%81%AB%E3%82%AA%E3%83%81%E3%82%92%E3%81%A4%E3%81%91%E3%80%81%E7%94%BB%E5%83%8F1%E6%9E%9A%E3%81%AB2%E3%81%A4%E3%81%AE4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%80%81%E5%90%88%E8%A8%888%E3%81%A4%E3%81%AE4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%81%8C%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E3%81%A4%E3%81%AA%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB)**
+
 ---
 
 ### No. 142: PPT-style explanation of poem Shu Dao Nan
@@ -5386,6 +5678,8 @@ Chinese prompt to explain the poem 'Shu Dao Nan' in PPT-like diagrams with detai
 - **Source:** [Twitter Post](https://x.com/KeWai386772/status/1991795203947274463)
 - **Published:** November 21, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%A8PPT%E5%9B%BE%E7%A4%BA%E7%9A%84%E9%A3%8E%E6%A0%BC%E8%AE%B2%E8%A7%A3%20%E8%9C%80%E9%81%93%E9%9A%BE%E7%9A%84%E8%AF%97%E6%96%87%E3%80%82%E9%9D%9E%E5%B8%B8%E7%BF%94%E5%AE%9E%E7%9A%84%E4%BF%A1%E6%81%AF%E9%87%8F%EF%BC%8C%E9%9D%9E%E5%B8%B8%E8%B5%8F%E5%BF%83%E6%82%A6%E7%9B%AE%E7%9A%84%E8%A1%A8%E6%A0%BC%E3%80%82)**
 
 ---
 
@@ -5424,6 +5718,8 @@ Convert the attached 2D image into a highly realistic 3D visualization, showing 
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Convert%20the%20attached%202D%20image%20into%20a%20highly%20realistic%203D%20visualization%2C%20showing%20both%20the%20exterior%20and%20interior.%20Maintain%20the%20original%20design%2C%20shapes%2C%20and%20layout%2C%20but%20enhance%20the%20materials%2C%20lighting%2C%20a)**
+
 ---
 
 ### No. 144: Captain’s worn logbook One Piece sketch prompt
@@ -5454,6 +5750,8 @@ Chinese prompt describing a sketch-style collage of Luffy reaching for a treasur
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991794231263072737)
 - **Published:** November 21, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%A0%B4%E6%97%A7%E7%9A%84%E8%88%B9%E9%95%BF%E8%88%AA%E6%B5%B7%E6%97%A5%E5%BF%97%E3%80%82%E9%80%9F%E5%86%99%E6%8F%8F%E7%BB%98%E8%B7%AF%E9%A3%9E%E4%BC%B8%E9%95%BF%E6%A9%A1%E8%83%B6%E6%89%8B%E8%87%82%E5%8E%BB%E6%8A%93%E5%AE%9D%E7%AE%B1%EF%BC%8C%E4%B8%8E%E6%A1%85%E6%9D%86%E5%BD%A2%E6%88%90%E4%B8%89%E8%A7%92%E5%BD%A2%E3%80%82%E8%97%8F%E5%AE%9D%E5%9B%BE%E8%83%8C%E6%99%AF%E7%BA%B9%E7%90%86%EF%BC%8C%E6%8C%87%E5%8D%97%E9%92%88%E5%8D%B0%E7%AB%A0%EF%BC%8C%E2%80%9C%E9%80%9A%E7%BC%89%E4%BB%A4%E2%80%9D%E6%B5%B7%E6%8A%A5%E7%A2%8E%E7%89%87%EF%BC%8C%E9%87%91%E5%B8%81%E8%B4%B4%E7%BA%B8%E3%80%82%E5%86%92%E9%99%A9%E3%80%81%E6%B7%B7%E4%B9%B1%E3%80%81%E6%B5%B7%E7%9B%97%E6%89%8B%E5%B8%90%E9%A3%8E%E6%A0%BC%E3%80%82)**
 
 ---
 
@@ -5486,6 +5784,8 @@ Prompt to render an article as a stylish magazine photo with images and fancy la
 - **Published:** November 21, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E5%B0%87%E9%80%99%E6%AE%B5%E6%96%87%E5%AD%97%E5%8E%9F%E5%B0%81%E4%B8%8D%E5%8B%95%E5%9C%B0%E5%A4%8D%E5%88%B6%E5%88%B0%E4%B8%80%E5%BC%A0%E7%B2%BE%E7%BE%8E%E6%9D%82%E5%BF%97%E6%96%87%E7%AB%A0%E7%9A%84%E7%85%A7%E7%89%87%E4%B8%AD%EF%BC%8C%E7%85%A7%E7%89%87%E9%9C%80%E5%8C%85%E5%90%AB%E5%9B%BE%E7%89%87%E3%80%81%E6%BC%82%E4%BA%AE%E7%9A%84%E6%8E%92%E7%89%88%E8%AE%BE%E8%AE%A1%E3%80%81%E7%B2%BE%E9%80%89%E8%AF%AD%E5%BD%95%E5%92%8C%E5%A4%A7%E8%83%86%E7%9A%84%E6%A0%BC%E5%BC%8F%E3%80%82%E5%8E%9F%E6%96%87%E5%A6%82%E4%B8%8B%EF%BC%9A%5B%E2%80%A6%E2%80%A6%E6%9C%AA%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%9A%84%E6%96%87%E7%AB%A0%5D)**
+
 ---
 
 ### No. 146: Banana-themed AIFocus Twitter graphic in Google style
@@ -5516,6 +5816,8 @@ Prompt to draw a banana-themed graphic for AIFocus’ Twitter that matches Googl
 - **Source:** [Twitter Post](https://x.com/AIFocus360/status/1991791464733708499)
 - **Published:** November 21, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%BB%99%E6%88%91%E7%94%BB%E4%B8%80%E5%BC%A0AIFocus%E7%9A%84%E6%8E%A8%E7%89%B9%E7%9A%84BANANA%E5%9B%BE%EF%BC%8C%E8%A6%81%E7%AC%A6%E5%90%88Google%20%E5%93%81%E7%89%8C%E8%B0%83%E6%80%A7%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%85%83%E7%B4%A0)**
 
 ---
 
@@ -5566,6 +5868,8 @@ A 16-bit pixel art poster showcasing all the black and white animals of nature. 
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%2016-bit%20pixel%20art%20poster%20showcasing%20all%20the%20black%20and%20white%20animals%20of%20nature.%20The%20composition%20uses%20a%20neat%20grid%20layout%2C%20reminiscent%20of%20a%20retro%20video%20game%20character%20selection%20screen%20or%20an%20encyclopedia%20page.%20Each%20animal%20is%20labeled%20with%20its%20En)**
+
 ---
 
 ### No. 148: Annotated landmark images with overlaid descriptions
@@ -5597,6 +5901,8 @@ Generate four distinct, hyper-realistic images, each depicting a world-renowned 
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20four%20distinct%2C%20hyper-realistic%20images%2C%20each%20depicting%20a%20world-renowned%20landmark.%20For%20each%20image%2C%20include%20a%20comprehensive%20and%20clearly%20legible%20set%20of%20annotations%20directly%20overlaid%20onto%20key%20architectural%20features%2C%20historical%20elements%2C%20or%20culturally%20significant%20details.%20These%20annotations%20should%20provide%20brief%2C%20informative%20descri)**
+
 ---
 
 ### No. 149: 4-panel manga of a fairy meeting a calico cat on Earth
@@ -5627,6 +5933,8 @@ Prompt directing AI to draw a 4-panel manga where a fairy descends from the heav
 - **Source:** [Twitter Post](https://x.com/starwalker0202/status/1991789421671449071)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%A6%96%E7%B2%BE%E3%81%8C%E5%A4%A9%E3%81%8B%E3%82%89%E5%9C%B0%E7%90%83%E3%81%AB%E9%99%8D%E3%82%8A%E3%81%A6%E3%81%8D%E3%81%9F%E3%80%82%E6%9C%80%E5%88%9D%E3%81%AB%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8C%E4%B8%89%E6%AF%9B%E7%8C%AB%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%89%E3%80%81%E3%81%93%E3%81%AE%E6%98%9F%E3%81%AF%E7%8C%AB%E3%81%AE%E6%98%9F%E3%81%8B%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E7%8C%AB%E3%81%AB%E8%A9%B1%E3%81%97%E3%81%8B%E3%81%91%E3%82%8B%EF%BC%94%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E6%8F%8F%E3%81%84%E3%81%A6)**
 
 ---
 
@@ -5671,6 +5979,8 @@ A structured JSON-style English prompt focusing on a woman’s eyes with city li
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_description%22%3A%20%7B%0A%20%20%20%20%22upper_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22Her%20eyes%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22Reflecting%20blurred%20city%20lights%20below%22%2C%0A%20%20%20%20%20%20%20%20%22Thin%20layer%20of%20frost%20touching%20her%20lashes%22)**
+
 ---
 
 ### No. 151: Colorize and restore old photo prompt
@@ -5708,6 +6018,8 @@ Colorize this old black-and-
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Colorize%20this%20old%20black-and-)**
+
 ---
 
 ### No. 152: Salted fish trying to flip in a pan
@@ -5738,6 +6050,8 @@ Prompt for a minimalist hand-drawn style image of a salted fish in a frying pan 
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991786544286642625)
 - **Published:** November 21, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E6%9D%A1%E5%92%B8%E9%B1%BC%E8%BA%BA%E5%9C%A8%E5%B9%B3%E5%BA%95%E9%94%85%E9%87%8C%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9B%E8%AF%95%E5%9B%BE%E7%BF%BB%E8%BA%AB%EF%BC%8C%E4%BD%86%E7%BF%BB%E8%BF%87%E6%9D%A5%E8%BF%98%E6%98%AF%E5%92%B8%E9%B1%BC%E3%80%82%E7%94%BB%E9%A3%8E%E6%98%AF%E6%9E%81%E7%AE%80%E6%89%8B%E7%BB%98%E9%A3%8E%E3%80%82%E6%97%81%E8%BE%B9%E9%85%8D%E6%96%87%EF%BC%9A%E2%80%9C%E5%92%B8%E9%B1%BC%E7%BF%BB%E8%BA%AB%E2%80%A6%E2%80%A6%E8%BF%98%E6%98%AF%E5%92%B8%E9%B1%BC%E2%80%9D%E3%80%82)**
 
 ---
 
@@ -5780,6 +6094,8 @@ A detailed Chinese prompt for a 9:16 hand-drawn infographic card with calligraph
 - **Published:** November 21, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%89%8B%E7%BB%98%E9%A3%8E%E6%A0%BC%E7%9A%84%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%8D%A1%E7%89%87%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%88%E4%B8%BB%E9%A2%98%E5%8F%AF%E4%BB%A5%E8%87%AA%E7%94%B1%E6%9B%BF%E6%8D%A2%EF%BC%89%0A%0A----%0A%0A%E5%88%9B%E4%BD%9C%E4%B8%80%E5%BC%A0%E6%89%8B%E7%BB%98%E9%A3%8E%E6%A0%BC%E7%9A%84%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%8D%A1%E7%89%87%EF%BC%8C%E6%AF%94%E4%BE%8B%E4%B8%BA9%3A16%E7%AB%96%E7%89%88%E3%80%82%E5%8D%A1%E7%89%87%E4%B8%BB%E9%A2%98%E9%B2%9C%E6%98%8E%EF%BC%8C%E8%83%8C%E6%99%AF%E4%B8%BA%E5%B8%A6%E6%9C%89%E7%BA%B8%E8%B4%A8%E8%82%8C%E7%90%86%E7%9A%84%E7%B1%B3%E8%89%B2%E6%88%96%E7%B1%B3%E7%99%BD%E8%89%B2%EF%BC%8C%E6%95%B4%E4%BD%93%E8%AE%BE%E8%AE%A1%E4%BD%93%E7%8E%B0%E8%B4%A8%E6%9C%B4%E3%80%81%E4%BA%B2%E5%88%87%E7%9A%84%E6%89%8B%E7%BB%98%E7%BE%8E%E6%84%9F%E3%80%82%0A%0A%E5%8D%A1%E7%89%87%E4%B8%8A%E6%96%B9%E4%BB%A5%E7%BA%A2%E9%BB%91%E7%9B%B8%E9%97%B4%E3%80%81%E5%AF%B9%E6%AF%94%E9%B2%9C%E6%98%8E%E7%9A%84%E5%A4%A7%E5%8F%B7%E6%AF%9B%E7%AC%94%E8%8D%89%E4%B9%A6%E5%AD%97%E4%BD%93%E7%AA%81%E5%87%BA%E6%A0%87%E9%A2%98%EF%BC%8C%E5%90%B8%E5%BC%95%E8%A7%86%E8%A7%89%E7%84%A6%E7%82%B9%E3%80%82%E6%96%87%E5%AD%97%E5%86%85%E5%AE%B9%E5%9D%87%E9%87%87%E7%94%A8%E4%B8%AD%E6%96%87%E8%8D%89%E4%B9%A6%EF%BC%8C%E6%95%B4%E4%BD%93%E5%B8%83%E5%B1%80%E5%88%86%E4%B8%BA2%E8%87%B34%E4%B8%AA%E6%B8%85%E6%99%B0%E7%9A%84%E5%B0%8F%E8%8A%82%EF%BC%8C%E6%AF%8F%E8%8A%82%E4%BB%A5%E7%AE%80%E7%9F%AD%E3%80%81%E7%B2%BE%E7%82%BC%E7%9A%84%E4%B8%AD%E6%96%87%E7%9F%AD%E8%AF%AD%E8%A1%A8%E8%BE%BE%E6%A0%B8%E5%BF%83%E8%A6%81%E7%82%B9%E3%80%82%E5%AD%97%E4%BD%93%E4%BF%9D%E6%8C%81%E8%8D%89%E4%B9%A6%E6%B5%81%E7%95%85%E7%9A%84%E9%9F%B5%E5%BE%8B%E6%84%9F%EF%BC%8C%E6%97%A2%E6%B8%85%E6%99%B0%E5%8F%AF%E8%AF%BB%E5%8F%88%E5%AF%8C%E6%9C%89%E8%89%BA%E6%9C%AF%E6%B0%94%E6%81%AF%E3%80%82%0A%0A%E5%8D%A1%E7%89%87%E4%B8%AD%E7%82%B9%E7%BC%80%E7%AE%80%E5%8D%95%E3%80%81%E6%9C%89%E8%B6%A3%E7%9A%84%E6%89%8B%E7%BB%98%E6%8F%92%E7%94%BB%E6%88%96%E5%9B%BE%E6%A0%87%EF%BC%8C%E4%BE%8B%E5%A6%82%E4%BA%BA%E7%89%A9%E6%88%96%E8%B1%A1%E5%BE%81%E7%AC%A6%E5%8F%B7%EF%BC%8C%E4%BB%A5%E5%A2%9E%E5%BC%BA%E8%A7%86%E8%A7%89%E5%90%B8%E5%BC%95%E5%8A%9B%EF%BC%8C%E5%BC%95%E5%8F%91%E8%AF%BB%E8%80%85%E6%80%9D%E8%80%83%E4%B8%8E%E5%85%B1%E9%B8%A3%E3%80%82%E6%95%B4%E4%BD%93%E5%B8%83%E5%B1%80%E6%B3%A8%E6%84%8F%E8%A7%86%E8%A7%89%E5%B9%B3%E8%A1%A1%EF%BC%8C%E9%A2%84%E7%95%99%E8%B6%B3%E5%A4%9F%E7%9A%84%E7%A9%BA%E7%99%BD%E7%A9%BA%E9%97%B4%EF%BC%8C%E7%A1%AE%E4%BF%9D%E7%94%BB%E9%9D%A2%E7%AE%80%E6%B4%81%E6%98%8E%E4%BA%86%EF%BC%8C%E6%98%93%E4%BA%8E%E9%98%85%E8%AF%BB%E5%92%8C%E7%90%86%E8%A7%A3%E3%80%82%0A%0A%E4%B8%BB%E9%A2%98%E6%98%AF%EF%BC%9A%E2%80%9C%E5%81%9AIP%E6%98%AF%E9%95%BF%E6%9C%9F%E5%A4%8D%E5%88%A9%EF%BC%8C%E5%9D%9A%E6%8C%81%E6%AF%8F%E6%97%A5%E5%87%BA%E6%91%8A%EF%BC%8C%E6%8C%81%E7%BB%AD%E5%81%9A%EF%BC%8C%E8%82%AF%E5%AE%9A%E4%BC%9A%E6%9C%89%E7%BB%93%E6%9E%9C%EF%BC%8C%E5%9B%A0%E4%B8%BA99%25%E9%83%BD%E5%9D%9A%E6%8C%81%E4%B8%8D%E4%BD%8F%E7%9A%84%E3%80%82%E2%80%9D)**
+
 ---
 
 ### No. 154: Blackboard‑style summary image prompt
@@ -5810,6 +6126,8 @@ Very short prompt asking the AI to summarize pasted content onto a single blackb
 - **Source:** [Twitter Post](https://x.com/soutaokabe/status/1991785607828533253)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%8B%E8%A8%98%E5%86%85%E5%AE%B9%E3%82%92%E4%B8%80%E6%9E%9A%E3%81%AE%E9%BB%92%E6%9D%BF%E3%81%AB%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84)**
 
 ---
 
@@ -5842,6 +6160,8 @@ Prompt asking to create a Japanese 4-panel manga about the newly announced nano 
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%80%8C%E5%8F%82%E7%85%A7%E7%94%BB%E5%83%8F%E3%81%AB%E3%81%82%E3%82%8B%E7%94%B7%E6%80%A7%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%A8%E5%A5%B3%E6%80%A7%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%82%B3%E3%83%9E%E5%89%B2%E3%82%8A%E3%81%AF%E5%8F%82%E7%85%A7%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%BF%E3%81%86%E3%81%93%E3%81%A8%E3%80%82%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E6%96%B0%E3%81%97%E3%81%8F%E7%99%BA%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%9Fnano%20banana%20pro%E3%81%AE%E3%81%93%E3%81%A8%E3%81%A8%E3%81%97%E3%80%81%E6%9C%80)**
+
 ---
 
 ### No. 156: Python Fibonacci code on glass whiteboard
@@ -5872,6 +6192,8 @@ create a photo of python code to calculate the fibonacci numbers drawn on a glas
 - **Source:** [Twitter Post](https://x.com/patloeber/status/1991781961610981714)
 - **Published:** November 21, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=create%20a%20photo%20of%20python%20code%20to%20calculate%20the%20fibonacci%20numbers%20drawn%20on%20a%20glass%20whiteboard%20with%20coloring%20markers)**
 
 ---
 
@@ -5910,6 +6232,8 @@ Implied prompt to create a cute promotional poster introducing 'Moe Moe Kyun' in
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A8%E5%8F%B0%E6%B9%BE%E8%8F%AF%E8%AA%9E%E3%81%A7%20%E8%90%8C%E3%81%88%E8%90%8C%E3%81%88%E3%82%AD%E3%83%A5%E3%83%B3%20%E3%81%AE%E7%B4%B9%E4%BB%8B%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%9C%E3%82%89%E3%81%9B%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%88)**
+
 ---
 
 ### No. 158: LINE sticker set from existing character image
@@ -5947,6 +6271,8 @@ Prompt to turn an attached character image into 12 chibi LINE stickers with diff
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E3%81%A1%E3%81%B3%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%E4%BD%9C%E6%88%90%E3%80%82%E8%A1%A8%E6%83%85%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BA%E5%88%A5%E3%83%BB%E3%82%BB%E3%83%AA%E3%83%95%E5%85%A5%E3%81%A712%E7%A8%AE%E9%A1%9E%E3%80%82)**
+
 ---
 
 ### No. 159: Detailed Japanese policy slide prompt for medical data strategy
@@ -5977,6 +6303,8 @@ Includes a full prompt requesting a dense, Cabinet Office-style slide about futu
 - **Source:** [Twitter Post](https://x.com/hrjn/status/1991779958600134854)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AE%E5%8C%BB%E7%99%82%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%9B%BD%E7%AD%96%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7%E3%82%92%E8%AA%BF%E3%81%B9%E3%81%9F%E4%B8%8A%E3%81%A7%E3%80%81%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AE%E5%8C%BB%E7%99%82%E3%83%87%E3%83%BC%E3%82%BF%E4%BC%81%E6%A5%AD%E3%81%AE%E3%81%82%E3%82%8B%E3%81%B9%E3%81%8D%E5%A7%BF%E3%82%92%E5%86%85%E9%96%A3%E5%BA%9C%E3%81%AE%E5%A7%94%E5%93%A1%E4%BC%9A%E8%B3%87%E6%96%99%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E6%96%87%E5%AD%97%E3%81%AE%E9%87%8F%E5%A4%9A%E3%82%81%E3%81%AE%E3%83%9D%E3%83%B3%E3%83%81%E7%B5%B5%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84)**
 
 ---
 
@@ -6009,6 +6337,8 @@ nano banana proで2キャラの絵入れて「この二人の同人誌の表紙�
 - **Source:** [Twitter Post](https://x.com/8co28/status/1991779823178641681)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=nano%20banana%20pro%E3%81%A72%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AE%E7%B5%B5%E5%85%A5%E3%82%8C%E3%81%A6%E3%80%8C%E3%81%93%E3%81%AE%E4%BA%8C%E4%BA%BA%E3%81%AE%E5%90%8C%E4%BA%BA%E8%AA%8C%E3%81%AE%E8%A1%A8%E7%B4%99%E3%80%8D%E3%81%A3%E3%81%A6%E5%85%A5%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%A8%E4%B8%8B%E3%81%AE%E7%B5%B5%E3%81%8C%E5%87%BA%E3%82%8B%0A%E6%B5%81%E7%9F%B3%E3%81%AB%E5%A5%B3%E6%80%A7%E5%90%91%E3%81%91%E5%90%8C%E4%BA%BA%E8%AA%8C%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B%E5%BA%A6%E3%81%8C%E9%AB%98%E3%81%8F%E3%81%A6%E7%AC%91%E3%81%A3%E3%81%9F)**
 
 ---
 
@@ -6046,6 +6376,8 @@ Explicit prompt for generating an advertisement-like image in Japanese text for 
 - **Source:** [Twitter Post](https://x.com/akagi401/status/1991779779197157448)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%AE%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%81%AE%E5%BA%83%E5%91%8A%E3%80%82%E6%96%87%E5%AD%97%E3%81%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E5%85%A5%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%80%82%E5%95%86%E5%93%81%E5%90%8D%E3%81%AF%E3%80%8C%E3%81%9F%E3%81%AC%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%80%8D%E3%80%82%E4%BB%8A%E3%81%AA%E3%82%89%E5%B0%8F%E3%81%95%E3%81%AA%E3%81%9F%E3%81%AC%E3%81%8D%E3%81%8C%E4%BB%98%E5%B1%9E%E3%80%822026%E5%B9%B4%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A%E3%80%82%E4%BE%A1%E6%A0%BC%E6%9C%AA%E5%AE%9A%E3%80%82)**
 
 ---
 
@@ -6089,6 +6421,8 @@ Prompt asking to summarize a paper as a Chinese whiteboard photo.
 - **Source:** [Twitter Post](https://x.com/imaxichuhai/status/1991775163655024848)
 - **Published:** November 21, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A6%82%E6%8B%AC%E8%BF%99%E7%AF%87%E8%AE%BA%E6%96%87%EF%BC%8C%E8%BD%AC%E6%88%90%E4%B8%AD%E6%96%87%E7%99%BD%E6%9D%BF%E7%85%A7%E7%89%87)**
 
 ---
 
@@ -6139,6 +6473,8 @@ Prompt to create a one-page color manga ad for a radio show featuring a gorilla 
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E3%81%AE%E3%82%B4%E3%83%AA%E3%83%A9%E3%81%A8%E3%82%A6%E3%82%B5%E3%82%AE%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%BF%E7%94%A8%E3%80%82%E3%82%B4%E3%83%AA%E3%83%A9%E3%81%A8%E3%82%A6%E3%82%B5%E3%82%AE%E3%81%8C%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%81%AE%E3%83%A9%E3%82%B8%E3%82%AA%E3%80%8C%E5%85%83%E6%B0%97%E3%81%AE%E5%87%BA%E3%82%8B%E3%83%A9%E3%82%B8%E3%82%AA%E3%80%8D%E3%81%AE%E5%BA%83%E5%91%8A%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%80%82%E6%AF%8E%E9%80%B1%E6%B0%B4%E6%9B%9C%20%E5%A4%9C10%E6%99%8215%E5%88%86%EF%BD%9E%20X%E3%81%AE%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%81%AB%E3%81%A6%E6%94%BE%E9%80%81%E3%80%821%E3%83%9A%E3%83%BC%E3%82%B8%E6%BC%AB%E7%94%BB%E3%80%81%E3%82%AB%E3%83%A9%E3%83%BC%E3%80%81%E6%93%AC%E9%9F%B3%E8%AA%9E%E4%BB%98%E3%81%8D)**
+
 ---
 
 ### No. 164: Detailed four-panel manga about a woman craving pancakes
@@ -6179,6 +6515,8 @@ Gパン。赤のハイヒール。
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%A5%B3%E6%80%A7%E3%82%92%E4%B8%BB%E4%BA%BA%E5%85%AC%E3%81%AB%E3%81%97%E3%81%9F%EF%BC%94%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%9F%E3%81%84%E3%81%A7%E3%81%99%E3%80%82%0A%E5%A5%B3%E6%80%A7%E3%81%AF%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%80%82%E6%98%8E%E3%82%8B%E3%81%84%E8%A1%A8%E6%83%85%E3%80%82%0A%E9%87%91%E9%AB%AA%E3%81%AE%E3%83%9D%E3%83%8B%E3%83%BC%E3%83%86%E3%83%BC%E3%83%AB%EF%BC%88%E8%B5%A4%E3%81%84%E3%83%AA%E3%83%9C%E3%83%B3%E3%81%A7%E3%81%A8%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%89%E3%80%82%0A%E7%99%BD%E3%81%84%E3%82%B7%E3%83%A3%E3%83%84%E3%80%82%E8%83%B8%E3%81%AB%E4%B8%83%E8%89%B2%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%AF%E3%83%83%E3%83%9A%E3%83%B3%E3%80%82%0AG%E3%83%91%E3%83%B3%E3%80%82%E8%B5%A4%E3%81%AE%E3%83%8F%E3%82%A4%E3%83%92%E3%83%BC%E3%83%AB%E3%80%82%0A%0A%EF%BC%91%EF%BC%9A%E5%A5%B3%E6%80%A7%E3%81%8C%E6%AD%A9%E3%81%8D%E3%81%AA%E3%81%8C%E3%82%89%E3%80%8C%E3%81%82%E3%80%9C%E3%80%81%E3%81%8A%E8%85%B9%E3%81%99%E3%81%84%E3%81%9F%E3%81%AA%E3%80%8D%0A%EF%BC%92%EF%BC%9A%E5%A5%B3%E6%80%A7%E3%81%8C%E3%81%8A%E5%BA%97%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A6%E3%82%92%E8%A6%8B%E3%81%AA%E3%81%8C%E3%82%89%E3%80%8C%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%9D%E3%81%86%E3%81%AA%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD%E3%80%8D%0A%EF%BC%93%EF%BC%9A%E5%A5%B3%E6%80%A7%E3%81%8C%E3%81%8A%E5%BA%97%E3%81%AE%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AB%E5%BA%A7%E3%81%A3%E3%81%A6%E3%80%8C%E6%97%A9%E3%81%8F%E9%A3%9F%E3%81%B9%E3%81%9F%E3%81%84%E3%81%AA%E3%80%8D%0A%EF%BC%94%EF%BC%9A%E5%A5%B3%E6%80%A7%E3%81%8C%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD%E3%82%92%E9%A3%9F%E3%81%B9%E3%81%AA%E3%81%8C%E3%82%89%E3%80%8C%E7%BE%8E%E5%91%B3%E3%81%97%E3%80%9C%E3%81%84%EF%BC%81%E3%80%80%E3%81%A7%E3%82%82%E5%A4%AA%E3%81%A3%E3%81%A1%E3%82%83%E3%81%86%EF%BC%81%E3%80%8D)**
+
 ---
 
 ### No. 165: Summer watermelon pool scene
@@ -6214,6 +6552,8 @@ Nano Banana Pro (gemini-3-pro-image-preview) 提示词：
 - **Published:** November 21, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B8%B8%E6%B3%B3%E6%99%92%E5%A4%AA%E9%98%B3%EF%BC%8C%E8%A5%BF%E7%93%9C%E6%B1%81%E7%95%85%E9%A5%AE%EF%BC%8C%E5%93%88%E5%93%88%E5%93%88%E3%80%82%0A%0ANano%20Banana%20Pro%20(gemini-3-pro-image-preview)%20%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%9A%0A%0A%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E8%A5%BF%E7%93%9C%E7%9A%84%E5%89%96%E9%9D%A2%E5%9B%BE%E3%80%82%E7%BA%A2%E8%89%B2%E7%9A%84%E6%9E%9C%E8%82%89%E5%AE%9E%E9%99%85%E4%B8%8A%E6%98%AF%E4%B8%80%E4%B8%AA%E8%A3%85%E6%BB%A1%E7%BA%A2%E8%89%B2%E6%B0%B4%E7%9A%84%E6%B8%B8%E6%B3%B3%E6%B1%A0%E3%80%82%E9%BB%91%E8%89%B2%E7%9A%84%E8%A5%BF%E7%93%9C%E7%B1%BD%E6%98%AF%E6%B8%B8%E6%B3%B3%E5%9C%88%E3%80%82%E5%BE%AE%E7%BC%A9%E7%9A%84%E5%B0%8F%E4%BA%BA%E5%9C%A8%E8%A5%BF%E7%93%9C%E7%9A%AE%E4%B8%8A%E6%B8%B8%E6%B3%B3%E5%92%8C%E6%99%92%E5%A4%AA%E9%98%B3%E3%80%82%E5%A4%8F%E6%97%A5%E6%B0%9B%E5%9B%B4%E3%80%82%20https%3A%2F%2Ft.co%2F8jLADiJk62)**
+
 ---
 
 ### No. 166: Clickable banner for first-time portable power buyers
@@ -6244,6 +6584,8 @@ Prompt requesting a banner that makes first-time portable power buyers want to c
 - **Source:** [Twitter Post](https://x.com/Miri_Kyodera/status/1991770377694130664)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%88%9D%E3%82%81%E3%81%A6%E8%B3%BC%E5%85%A5%E3%81%99%E3%82%8B%E6%96%B9%E3%81%8C%E3%80%8E%E3%81%A4%E3%81%84%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%80%8F%E3%83%90%E3%83%8A%E3%83%BC%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6)**
 
 ---
 
@@ -6286,6 +6628,8 @@ Tweet contains a JSON-style prompt describing a moody 2x2 collage featuring the 
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%C2%A0%20%22image_description%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22overall_composition%22%3A%20%22A%20moody%2C%20cinematic%202x2%20collage%20featuring%20the%20same%20young%20woman%22%2C%0A%C2%A0%20%C2%A0%20%22subject%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22appearance%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22hair%22%3A%20%22Short%2C%20tousled%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22makeup%22%3A%20%22Bold%20red%20lipstick%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22style%22%3A%20%22Striking%2C%20androgynous%20editorial%20look%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22attire%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22suit%22%3A%20%22Oversized%20black%20su)**
+
 ---
 
 ### No. 168: Surreal sky whale and rainbow
@@ -6317,6 +6661,8 @@ Generate a surreal, majestic scene at golden hour of a giant semi-transparent bl
 - **Published:** November 21, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%EF%BC%8C%E4%B8%80%E5%8F%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E3%80%81%E5%8D%8A%E9%80%8F%E6%98%8E%E7%9A%84%E8%93%9D%E9%B2%B8%E5%9C%A8%E6%B4%81%E7%99%BD%E8%93%AC%E6%9D%BE%E7%9A%84%E4%BA%91%E6%B5%B7%E4%B8%AD%E6%B8%B8%E5%8A%A8%E3%80%82%E9%B2%B8%E9%B1%BC%E7%9A%84%E8%BA%AB%E4%BD%93%E7%94%B1%E6%B5%B7%E6%B0%B4%E6%9E%84%E6%88%90%EF%BC%8C%E9%87%8C%E9%9D%A2%E8%BF%98%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E6%B8%B8%E5%8A%A8%E7%9A%84%E9%B1%BC%E7%BE%A4%E3%80%82%E9%98%B3%E5%85%89%E7%A9%BF%E9%80%8F%E6%B0%B4%E5%81%9A%E7%9A%84%E9%B2%B8%E9%B1%BC%EF%BC%8C%E6%8A%98%E5%B0%84%E5%87%BA%E5%BD%A9%E8%99%B9%E3%80%82%E7%94%BB%E9%9D%A2%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%94%E5%AE%8F%E4%BC%9F%E5%A3%AE%E8%A7%82%E3%80%82)**
+
 ---
 
 ### No. 169: Yin-yang koi Taiji symbol
@@ -6347,6 +6693,8 @@ Generate a zen, minimalist top-down view of two koi forming a perfect yin-yang T
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991768051654762799)
 - **Published:** November 21, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%A4%E6%9D%A1%E9%94%A6%E9%B2%A4%E5%9C%A8%E6%B0%B4%E4%B8%AD%E6%B8%B8%E5%8A%A8%EF%BC%8C%E5%BD%A2%E6%88%90%E5%AE%8C%E7%BE%8E%E7%9A%84%E9%98%B4%E9%98%B3%E5%A4%AA%E6%9E%81%E5%9B%BE%E6%A1%88%E3%80%82%E4%B8%80%E6%9D%A1%E9%B1%BC%E7%94%B1%E9%BB%91%E8%89%B2%E7%9A%84%E6%B0%B4%E5%A2%A8%E7%83%9F%E9%9B%BE%E7%BB%84%E6%88%90%EF%BC%8C%E5%8F%A6%E4%B8%80%E6%9D%A1%E7%94%B1%E7%99%BD%E8%89%B2%E7%9A%84%E5%8F%91%E5%85%89%E5%85%89%E7%BA%BF%E7%BB%84%E6%88%90%E3%80%82%E4%BF%AF%E8%A7%86%E8%A7%86%E8%A7%92%EF%BC%8C%E6%B0%B4%E9%9D%A2%E6%9C%89%E6%B6%9F%E6%BC%AA%E3%80%82%E7%A6%85%E6%84%8F%EF%BC%8C%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E3%80%82)**
 
 ---
 
@@ -6396,6 +6744,8 @@ Long Japanese prompt to turn an image into an ultra‑detailed figure‑style pr
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E8%B6%85%E7%B2%BE%E5%AF%86%E3%81%AA%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E9%A2%A8%E3%81%AB%E3%81%97%E3%81%A6%0A%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E5%95%86%E5%93%81%E5%90%8D%E3%81%AF%E3%80%8C%E5%A4%B1%E6%81%8B%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82%0A1%2F7%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%81%A7%E3%81%99%E3%80%82%0A%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%90%8D%E3%81%AF%E3%80%8CTENNEN%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82%0A%E3%83%AD%E3%82%B4%E3%81%AF%E8%A7%92%E4%B8%B8%E9%9D%92%E8%89%B2%E6%AD%A3%E6%96%B9%E5%BD%A2%E3%81%ABTENNEN%E3%81%AE%E6%96%87%E5%AD%97%0A%E3%80%8CTEN%E3%80%8D%E3%81%A7%E6%94%B9%E8%A1%8C%E3%80%81%E6%96%87%E9%A0%AD%E6%8F%83%E3%81%88%E3%81%A6%E3%80%8CNEN%E3%80%8D%0A%E8%A7%92%E4%B8%B8%E9%9D%92%E8%89%B2%E6%AD%A3%E6%96%B9%E5%BD%A2%E5%86%85%E3%81%AB%E6%9C%80%E5%A4%A7%E9%85%8D%E7%BD%AE%E3%80%82%0A%E9%83%A8%E5%88%86%E6%8B%A1%E5%A4%A7%E5%9B%B3%E7%AD%89%E3%82%92%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%A6%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E3%82%89%E3%81%97%E3%81%8F%0A%E8%A6%8B%E6%A0%84%E3%81%88%E8%89%AF%E3%81%8F%E3%83%97%E3%83%AD%E3%81%A3%E3%81%BD%E3%81%8F%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E3%80%8C%E5%A4%B1%E6%81%8B%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8D%E3%82%82%E3%83%AD%E3%82%B4%E3%81%A3%E3%81%BD%E3%81%8F%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E3%83%9A%E3%83%BC%E3%82%B8)**
+
 ---
 
 ### No. 171: Outfit transfer between two images prompt
@@ -6441,6 +6791,8 @@ nano banana pro: take clothes from image1 and put on person in image2. make sri 
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=nano%20banana%20pro%3A%20take%20clothes%20from%20image1%20and%20put%20on%20person%20in%20image2.%20make%20sri%20that%20the%20clothe%20is%20oversized%0A%0A2k%20quality%200%2C14)**
+
 ---
 
 ### No. 172: Monochrome cinematic portrait of a young woman
@@ -6479,6 +6831,8 @@ A detailed English description of a cinematic, ultra-realistic monochrome portra
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22description%22%3A%20%22A%20cinematic%2C%20ultra-realistic%20monochrome%20portrait%20of%20a%20young%20woman%20with%20expressive%20eyes%20and%20a%20calm%2C%20intense%20gaze.%22%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22female%22%2C%0A%20%20%20%20%22appearance%22%3A%20%7B%0A%20%20%20%20%20%20%22hair%22%3A%20%22short%2C%20dark%2C%20neatly%20styled%22%2C%0A%20%20%20%20%20%20%22eyes%22%3A%20%22striking%2C%20reflective%20highlights%2C%20highly%20expressive%22%2C%0A%20%20%20%20%20%20%22skin%22%3A%20%22fair%20complexion%20with%20subtle%20freckles%20and%20realist)**
+
 ---
 
 ### No. 173: LINE sticker sheet of humorous internet-like stamps
@@ -6510,6 +6864,8 @@ Prompt specifying character, number of stickers, humor theme, and use of real in
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%A7%E3%80%8112%E7%A8%AE%E9%A1%9E%E3%81%AELINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E4%B8%80%E8%A6%A7%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%AF%E3%80%81%E9%80%81%E3%82%89%E3%82%8C%E3%81%9F%E7%9B%B8%E6%89%8B%E3%81%8C%E7%AC%91%E3%81%A3%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%82%88%E3%81%86%E3%81%AA%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2%E3%81%A7%E7%B5%B1%E4%B8%80%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E5%86%85%E5%AE%B9%E3%81%AF%E5%AE%9F%E9%9A%9B%E3%81%AB%E3%81%82%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%A7%E3%81%AE%E3%82%84%E3%82%8A%E5%8F%96%E3%82%8A%E3%82%92%E3%82%AA%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%A5%E3%81%A8%E3%81%97%E3%81%A6%E3%81%B5%E3%82%93%E3%81%A0%E3%82%93%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+
 ---
 
 ### No. 174: Create a landing page for a beauty essence
@@ -6540,6 +6896,8 @@ Very short Japanese instruction used with Nano Banana Pro.
 - **Source:** [Twitter Post](https://x.com/ethann_AI/status/1991764799357907422)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%BE%8E%E5%AE%B9%E6%B6%B2%E3%81%AELP%E4%BD%9C%E3%81%A3%E3%81%A6)**
 
 ---
 
@@ -6579,6 +6937,8 @@ Mentions using very short prompts like fried chicken thumbnail and Napolitan thu
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%94%90%E6%8F%9A%E3%81%92%E3%81%AE%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%0A%E3%83%8A%E3%83%9D%E3%83%AA%E3%82%BF%E3%83%B3%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB)**
+
 ---
 
 ### No. 176: Messenger sticker set based on attached person
@@ -6610,6 +6970,8 @@ Nano Banana Pro 4:3, 2K
 - **Source:** [Twitter Post](https://x.com/riddi0908/status/1991761213135765741)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Nano%20Banana%20Pro%204%3A3%2C%202K%0A%E6%B7%BB%E4%BB%98%E3%81%AE%E4%BA%BA%E7%89%A9%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%AB%E3%81%97%E3%81%9F%E3%83%A1%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E7%94%A8%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88%E3%80%82%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E6%AD%A3%E6%96%B9%E5%BD%A2%E3%81%A7%E3%80%81%E6%A8%AA5%E5%88%97%E3%80%81%E7%B8%A64%E8%A1%8C%E3%81%A7%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E3%81%AB%E5%AF%8C%E3%82%93%E3%81%A020%E5%80%8B%E3%82%92%E3%81%AA%E3%82%8B%E3%81%B9%E3%81%8F%E5%A4%A7%E3%81%8D%E3%81%8F%E4%BD%9C%E3%82%8B%E3%80%82%20%23aiart)**
 
 ---
 
@@ -6654,6 +7016,8 @@ Chinese prompt to convert arbitrary text into a photo of a grand Apple keynote e
 - **Published:** November 21, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A0%B9%E6%8D%AE%E6%96%87%E5%AD%97%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%AE%8F%E5%A4%A7%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%EF%BC%8C%E7%8E%B0%E5%9C%BA%E5%BE%88%E5%A4%9A%E8%A7%82%E4%BC%97%EF%BC%8C%E5%9C%BA%E6%99%AF%E5%BE%88%E6%9A%97%EF%BC%8C%E6%9C%89%E7%BB%9A%E4%B8%BD%E7%9A%84%E7%81%AF%E5%85%89%EF%BC%8C%E9%95%9C%E5%A4%B4%E8%81%9A%E7%84%A6%E5%9C%A8%E5%BE%88%E5%AE%BD%E7%9A%84%E5%A4%A7%E5%B1%8F%E5%B9%95%EF%BC%8C%E5%BC%A7%E5%BD%A2%E5%B1%8F%E5%B9%95%EF%BC%8C%E6%96%87%E5%AD%97%E5%92%8C%E5%B1%8F%E5%B9%95%E4%B8%80%E6%A0%B7%E6%9C%89%E4%B8%80%E5%AE%9A%E7%9A%84%E9%80%8F%E8%A7%86%E6%84%9F%EF%BC%8C%E5%BE%88%E5%B0%8F%E7%9A%84%E4%BA%BA%E7%89%A9%E5%89%AA%E5%BD%B1%E7%AB%99%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%EF%BC%8C%E7%B4%AB%E8%89%B2%E5%88%B0%E8%93%9D%E8%89%B2%E5%BC%A5%E6%95%A3%E8%83%8C%E6%99%AF%E4%B8%8A%EF%BC%8C%E7%99%BD%E8%89%B2%E6%96%87%E5%AD%97%E6%9C%89%E4%B8%80%E4%BA%9B%E6%B8%90%E5%8F%98%EF%BC%8C%E5%83%8F%E6%98%AF%E7%8E%B0%E5%9C%BA%E5%AE%9E%E6%8B%8D%EF%BC%8C%E9%AB%98%E7%BA%A7%E6%84%9F%2016%3A9)**
+
 ---
 
 ### No. 178: Essay-style manga about a family planning a trip to Universal Studios
@@ -6686,6 +7050,8 @@ Prompt asking to create a manga where a character decides to go to Universal Stu
 - **Source:** [Twitter Post](https://x.com/michipo5/status/1991759207167848748)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%8C%E3%83%A6%E3%83%8B%E3%83%90%E3%81%AB%E8%A1%8C%E3%81%93%E3%81%86%E3%81%A8%E6%80%9D%E3%81%84%E7%AB%8B%E3%81%A3%E3%81%9F%E3%80%82%E5%AE%B6%E6%97%8F%E3%81%A7%E3%81%84%E3%81%8F%E6%89%8B%E9%A0%86%E3%82%92%E8%AA%BF%E3%81%B9%E3%81%A6%E3%81%84%E3%81%9F%E3%82%89%E3%81%AA%E3%82%93%E3%81%A8%E5%AD%90%E4%BE%9B%E6%96%99%E9%87%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%EF%BC%91%EF%BC%91%E6%AD%B3%E4%BB%A5%E4%B8%8A%E3%81%A8%E4%BB%A5%E4%B8%8B%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%A7%E5%B0%8F%EF%BC%96%E3%81%AE%E5%AD%90%E3%81%A9%E3%82%82%E3%81%8C%E5%A4%A7%E4%BA%BA%E6%96%99%E9%87%91%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%99%E3%82%8B%E3%80%82%E3%81%A8%E3%81%84%E3%81%86%E6%BC%AB%E7%94%BB%E4%BD%9C%E3%81%A3%E3%81%A6%E3%80%82%0A%0A%E6%97%A5%E8%A8%98%E6%84%9F%E8%A6%9A%E3%81%A7%E6%BC%AB%E7%94%BB%E4%BD%9C%E3%82%8C%E3%81%A1%E3%82%83%E3%81%86%E3%81%AD)**
 
 ---
 
@@ -6733,6 +7099,8 @@ Detailed Japanese prompt asking the AI to design a high‑CTR YouTube thumbnail 
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%82%8C%E3%81%AFYouTube%E3%81%AE%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%A7%E3%80%81%E5%8F%B3%E5%81%B4%E3%81%AB%E3%81%AF%E7%99%BD%E3%81%84%E4%BB%AE%E9%9D%A2%E3%82%92%E8%A2%AB%E3%81%A3%E3%81%9F%E4%BA%BA%E3%81%8C%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%82%92%E5%8F%97%E3%81%91%E3%81%A6%E3%81%84%E3%82%8B%E6%A7%98%E5%AD%90%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%8C%E6%98%A0%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%E3%80%82%0A%E3%81%93%E3%81%AE%E3%83%86%E3%82%A4%E3%82%B9%E3%83%88%E3%81%A7%E3%80%81AI%E3%81%AB%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E6%83%85%E5%A0%B1%E8%A8%AD%E8%A8%88%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%A6%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%92%E4%BD%9C%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84%E3%81%AE%E3%81%A7%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%0A%E5%8F%82%E8%80%83%E7%94%BB%E5%83%8F%E3%81%AF%E3%81%82%E3%81%8F%E3%81%BE%E3%81%A7%E3%80%81%E5%8F%B3%E5%81%B4%E3%81%AB%E6%98%A0%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E4%BB%AE%E9%9D%A2%E3%81%AE%E4%BA%BA%E7%89%A9%EF%BC%88%E3%81%88%E3%82%8B%EF%BC%89%E3%82%92%E5%8F%82%E7%85%A7%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E3%81%A0%E3%81%91%E3%81%A7%E3%80%81%E6%9C%80%E3%82%82%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E7%8E%87%E3%81%8C%E6%9C%80%E5%A4%A7%E5%8C%96%E3%81%99%E3%82%8B%E6%A7%8B%E5%9B%B3%E3%80%81%E6%96%87%E5%AD%97%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%95%E3%80%81%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AB%E3%81%97%E3%81%A6%E3%81%A1%E3%82%87%E3%80%82%0A%0A%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E3%81%AF%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%8A%9B%E3%81%AB%E6%82%A9%E3%82%8020%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%8B%E3%82%8930%E4%BB%A3%E3%81%AE%E7%94%B7%E6%80%A7%E3%81%A7%E3%81%99%E3%80%82%0A%0A%23%20%E3%82%B5%E3%83%A0%E3%83%8D%E6%83%85%E5%A0%B1%E8%A8%AD%E8%A8%88%0A%EF%BC%9C%E5%B7%A6%E5%81%B4%EF%BC%9E%0A%E4%BC%9A%E8%A9%B1%E3%81%AE3%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%88%E5%B0%8F%E3%81%95%E3%81%8F)**
+
 ---
 
 ### No. 180: 4-panel manga prompt about character discovering Gemini’s Japanese text
@@ -6764,6 +7132,8 @@ Reply contains a detailed prompt for a 4-panel manga featuring an attached chara
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E7%99%BB%E5%A0%B4%E3%81%99%E3%82%8B%204%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%80%82%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%20Gemini%20%E3%81%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E5%90%AB%E3%82%80%E7%94%BB%E5%83%8F%E3%82%92%E7%94%9F%E6%88%90%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%82%92%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%92%E8%A6%8B%E3%81%A6%E7%9F%A5%E3%82%8A%E3%80%81%E6%97%A9%E9%80%9F)**
+
 ---
 
 ### No. 181: No new prompt beyond earlier plague map description
@@ -6794,6 +7164,8 @@ This tweet repeats the idea of asking for a dark-themed map of Morocco during a 
 - **Source:** [Twitter Post](https://x.com/roojdi/status/1991749840234254444)
 - **Published:** November 21, 2025
 - **Language:** ar
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%D8%B7%D9%84%D8%A8%D8%AA%20%D9%85%D9%86%C2%A0%20Nano%20Banana%20Pro%20%D9%8A%D8%B9%D8%B7%D9%8A%D9%86%D9%8A%20%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%20%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%20%D9%81%D9%8A%201799-1800%20%D9%83%D8%A7%D8%AA%D8%A8%D9%8A%D9%86%20%D9%83%D9%8A%D9%81%D9%8A%D8%A9%20%D8%A5%D9%86%D8%AA%D8%B4%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B7%D8%A7%D8%B9%D9%88%D9%86%20%D8%AF%D9%8A%D9%83%20%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9%20%D9%88%D8%A7%D9%84%D9%86%D8%AA%D8%A7%D8%A6%D8%AC%20%D8%AF%D9%8A%D8%A7%D9%84%D9%88%20%D9%88%20%D8%AA%D9%83%D9%88%D9%86%20%D8%B4%D9%88%D9%8A%D8%A9%20%D8%B3%D9%88%D8%AF%D9%88%D9%8A%D8%A9.)**
 
 ---
 
@@ -6846,6 +7218,8 @@ Series of prompts for generating product promo images with different brand feeli
 - **Published:** November 21, 2025
 - **Language:** zh
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%BB%99%E6%88%91%E7%94%9F%E6%88%90%E7%AC%A6%E5%90%88%E8%BF%99%E4%B8%AA%E4%BA%A7%E5%93%81%E8%B0%83%E6%80%A7%E7%9A%84%E5%95%86%E5%93%81%E5%AE%A3%E4%BC%A0%E5%9B%BE%0A%E8%A6%81%E6%9C%89%E5%A4%A7%E7%89%8C%E5%A5%A2%E4%BE%88%E5%93%81%E7%9A%84%E9%AB%98%E7%BA%A7%E8%B0%83%E6%80%A7%0A%E8%A6%81%E4%BC%A0%E8%BE%BE%E5%B0%8F%E4%BC%97%E6%9C%89%E5%93%81%E4%BD%8D%E7%9A%84%E9%AB%98%E7%BA%A7%E6%84%9F%E8%B0%83%E6%80%A7%EF%BC%8C%E7%B1%BB%E4%BC%BC%20Le%20Labo%20%E9%82%A3%E7%A7%8D%E6%84%9F%E8%A7%89)**
+
 ---
 
 ### No. 183: Turn person into Lego figure
@@ -6883,6 +7257,8 @@ make me into a Lego
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=make%20me%20into%20a%20Lego)**
+
 ---
 
 ### No. 184: Tesla FSD explainer infographic
@@ -6913,6 +7289,8 @@ Make an infographic that explains how Tesla FSD works
 - **Source:** [Twitter Post](https://x.com/01Ananto/status/1991747192005202004)
 - **Published:** November 21, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20an%20infographic%20that%20explains%20how%20Tesla%20FSD%20works)**
 
 ---
 
@@ -6951,6 +7329,8 @@ Request for Nano Banana Pro to create the weirdest mundane everyday photo imagin
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%22the%20most%20weird%20mundane%20photo%20you%20can%20imagine%22)**
+
 ---
 
 ### No. 186: Poster creation prompt with Nano Banana Pro
@@ -6988,6 +7368,8 @@ movies, a cinematic poster.
 - **Source:** [Twitter Post](https://x.com/prvnprvnkmr/status/1991746258646757507)
 - **Published:** November 21, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=create%20beautifull%20poster%20containing%20character%20from%20given%0Amovies%2C%20a%20cinematic%20poster.)**
 
 ---
 
@@ -7038,6 +7420,8 @@ Create a triptych of three 2.39:1 shots in a 4:5 composition. Cinematic shots, s
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20triptych%20of%20three%202.39%3A1%20shots%20in%20a%204%3A5%20composition.%20Cinematic%20shots%2C%20science%20fiction%2C%20atmospheric%2C%20shot%20by%20Roger%20Deakins%2C%20imax%2C%20high%20contrast%2C%20color%20grading%20desaturated%20blue%20and%20grey)**
+
 ---
 
 ### No. 188: Keep face and environment, change clothes to match reference dress
@@ -7076,6 +7460,8 @@ Change ONLY the clothing and accessories so they match the dress and accessories
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Keep%20my%20exact%20face%2C%20pose%2C%20body%2C%20and%20environment%20from%20my%20original%20photo.%0AChange%20ONLY%20the%20clothing%20and%20accessories%20so%20they%20match%20the%20dress%20and%20accessories%20from%20the%20second%20reference%20image)**
+
 ---
 
 ### No. 189: Minimal-word prompt: Japanese, near-future, beautiful woman, city center
@@ -7109,6 +7495,8 @@ Ultra-short Japanese prompt using four keywords to generate an image of a beauti
 - **Source:** [Twitter Post](https://x.com/atsumu_sns_ai/status/1991744659765489987)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%97%A5%E6%9C%AC%E4%BA%BA%0A%E8%BF%91%E6%9C%AA%E6%9D%A5%0A%E7%BE%8E%E5%A5%B3%0A%E9%83%BD%E5%BF%83)**
 
 ---
 
@@ -7146,6 +7534,8 @@ Prompt for generating a podcast cover using two portraits, black concept backgro
 - **Source:** [Twitter Post](https://x.com/indigo11/status/1991741508303876608)
 - **Published:** November 21, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%85%88%E6%8B%BF%E4%B8%A4%E5%BC%A0%E4%BA%BA%E5%83%8F%E4%BD%9C%E4%B8%BA%E5%8F%82%E8%80%83%E5%9B%BE%20%E7%84%B6%E5%90%8E%E8%AE%A9%20Nano%20Banana%20%E7%94%A8%E8%BF%99%E4%B8%A4%E5%BC%A0%E5%9B%BE%E7%94%9F%E6%88%90%E6%92%AD%E5%AE%A2%E5%B0%81%E9%9D%A2%20%E6%8C%87%E5%AE%9A%E8%83%8C%E6%99%AF%E2%80%9C%E9%BB%91%E8%89%B2%E6%A6%82%E5%BF%B5%E5%9B%BE%E2%80%9D%20%E7%81%AF%E5%85%89%E2%80%9C%E6%BC%94%E6%92%AD%E5%AE%A4%E2%80%9D%20pose%20%E5%8F%AF%E4%BB%A5%E6%8C%87%E5%AE%9A%E5%8F%82%E8%80%83%E7%9A%84%E7%BE%8E%E5%89%A7%E5%B0%81%E9%9D%A2%20%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%AF%B4%20%E8%87%AA%E7%94%B1%E5%8F%91%E6%8C%A5)**
 
 ---
 
@@ -7190,6 +7580,8 @@ Instruction to keep the image but replace the dialogue in speech bubbles with En
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%BB%E5%83%8F%E3%81%AF%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB%E3%81%97%E3%81%A6%E3%80%81%E3%81%93%E3%81%AE%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%AE%E3%82%BB%E3%83%AA%E3%83%95%E3%81%A0%E3%81%91%E3%82%92%E8%8B%B1%E8%AA%9E%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82%E3%82%82%E3%81%A8%E3%82%82%E3%81%A8%E3%81%AE%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%97%E3%81%AB%E7%BF%BB%E8%A8%B3%E3%81%97%E3%81%9F%E3%82%BB%E3%83%AA%E3%83%95%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%80%82)**
+
 ---
 
 ### No. 192: Old photo restoration prompt
@@ -7226,6 +7618,8 @@ Restore this old, heavily damaged photo by removing all visible scratches, dents
 - **Source:** [Twitter Post](https://x.com/coffinxp7/status/1991740699818225898)
 - **Published:** November 21, 2025
 - **Language:** en
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Restore%20this%20old%2C%20heavily%20damaged%20photo%20by%20removing%20all%20visible%20scratches%2C%20dents%2C%20folds%2C%20and%20stains.%20Reconstruct%20missing%20or%20distorted%20facial%20features%20naturally%20and%20realistically%20while%20preservi)**
 
 ---
 
@@ -7288,6 +7682,8 @@ Part of a longer prompt to generate the first page of a manga titled ‘キラ�
 - **Published:** November 21, 2025
 - **Language:** ja
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%BB%E5%83%8F%E3%81%AE%E5%B0%91%E5%A5%B3%E3%80%8C%E3%83%8D%E3%82%AA%E3%83%B3%E3%80%8D%E3%81%AE%E4%BB%A5%E4%B8%8B%E3%81%AE%E6%BC%AB%E7%94%BB%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B81%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%0A%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%97%E3%81%AF%E7%B8%A6%E6%9B%B8%E3%81%8D%E3%81%A7%E3%81%99%E3%80%82%0A%E3%82%B3%E3%83%9E%E3%81%AF%E5%8F%B3%E3%81%8B%E3%82%89%E5%B7%A6%E3%80%81%E4%B8%8A%E3%81%8B%E3%82%89%E4%B8%8B%E3%81%AB%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%99%E3%80%82%0A9%3A16%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%AE%E6%BC%AB%E7%94%BB%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%0A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%3A%20%E3%80%8C%E3%82%AD%E3%83%A9%E3%81%A3%E3%81%A8%E8%B5%B7%E5%8B%95%EF%BC%81%E3%83%8D%E3%82%AA%E3%83%B3%E3%81%A0%E3%82%88%EF%BC%81%E3%80%8D%0A%0A1%E3%83%9A%E3%83%BC%E3%82%B8%E7%9B%AE%0A%0A1%E3%82%B3%E3%83%9E%E7%9B%AE%3A%0A%0A%E3%82%B7%E3%83%BC%E3%83%B3%3A)**
+
 ---
 
 ### No. 194: Stereogram of Lake Amatitlán from above
@@ -7318,6 +7714,8 @@ Imita el siguiente estereograma usando la técnica estereoscopía, pero con el l
 - **Source:** [Twitter Post](https://x.com/crstn_hrndz/status/1991737399161024855)
 - **Published:** November 21, 2025
 - **Language:** es
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Imita%20el%20siguiente%20estereograma%20usando%20la%20t%C3%A9cnica%20estereoscop%C3%ADa%2C%20pero%20con%20el%20lago%20de%20Amatitl%C3%A1n%20visto%20desde%20arriba%20(vista%20satelital)%20y%20con%20la%20cordillera%20de%20monta%C3%B1as%20alrededor%20del%20lago%20que%20d%C3%A9%20un)**
 
 ---
 
@@ -7356,6 +7754,8 @@ Make me an infographic for:
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20me%20an%20infographic%20for%3A)**
+
 ---
 
 ### No. 196: Taxi in Kabukicho on a rainy night
@@ -7386,6 +7786,8 @@ Japanese prompt for a cinematic shot of a taxi parked on Yasukuni-dori in front 
 - **Source:** [Twitter Post](https://x.com/UminekoStudio/status/1991735510143049864)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E9%9B%A8%E3%81%AE%E5%A4%9C%E3%81%AE%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA1%E7%95%AA%E8%A1%97%E3%81%AE%E5%89%8D%E3%81%AE%E9%9D%96%E5%9B%BD%E9%80%9A%E3%82%8A%E3%81%AB%E6%AD%A2%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E3%82%92%E5%89%8D%E6%96%B9%E6%96%9C%E3%82%81%E3%81%8B%E3%82%89%E6%98%A0%E7%94%BB%E7%9A%84%E3%81%AA%E8%A7%92%E5%BA%A6%E3%81%A8%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A7%E6%92%AE%E5%BD%B1%E3%80%82)**
 
 ---
 
@@ -7424,6 +7826,8 @@ Reply includes a detailed instruction prompt asking Nano Banana Pro to interpret
 - **Published:** November 21, 2025
 - **Language:** ko
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9D%B4%20%EA%B3%B5%EC%A7%80%EB%8A%94%20%ED%95%9C%EA%B5%AD%EC%9D%B8%EC%9D%B4%20%EC%9D%B4%ED%95%B4%ED%95%A0%20%EC%88%98%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%ED%98%B9%EC%8B%9C%20%EC%9D%B4%EA%B1%B8%20%ED%95%B4%EC%84%9D%20%ED%95%A0%20%EC%88%98%20%EC%9E%88%EC%96%B4%EC%9A%94%3F%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EB%A7%8C%EC%95%BD%20%ED%95%B4%EC%84%9D%20%EA%B0%80%EB%8A%A5%ED%95%98%EB%8B%A4%EB%A9%B4%20%EC%9B%90%EB%B3%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%9C%84%EC%97%90%20%EC%B2%A8%EC%82%AD%ED%95%B4%EC%84%9C%20%ED%95%B4%EC%84%9D%ED%95%9C%20%ED%82%A4%EC%9B%8C%EB%93%9C%EB%82%98%20%EA%B0%84%EB%9E%B5%ED%95%9C%20%EB%AC%B8%EC%9E%A5%EB%93%A4%EC%9D%84%20%EC%A0%81%EC%96%B4%EC%A4%84%20%EC%88%98%20%EC%9E%88%EC%96%B4%EC%9A%94%3F%20%EC%9D%BC%EC%A2%85%EC%9D%98%20%EC%95%94%ED%98%B8%ED%99%94%EB%90%9C%20%ED%91%9C%ED%98%84%EB%93%A4%20%EC%A4%91%EC%97%90%20%ED%8F%AC%EC%9D%B8%ED%8A%B8%EA%B0%80%20%EB%90%A0%20%EB%A7%8C%ED%95%9C%20%EB%B6%80%EB%B6%84%EC%9D%80%20%EB%8F%99%EA%B7%B8%EB%9D%BC%EB%AF%B8%20%EC%B3%90%EC%A3%BC%EA%B3%A0%2C%20%EA%B7%B8%20%EC%98%86%EC%97%90%20%EC%B2%A8%EC%82%AD%ED%95%B4%EC%A3%BC%EB%A9%B4)**
+
 ---
 
 ### No. 198: Short Japanese prompt for a bureaucrat-style diagram slide
@@ -7454,6 +7858,8 @@ Clearly states a prompt asking for a bureaucrat-style diagram (“kanryo-fu no z
 - **Source:** [Twitter Post](https://x.com/official74049/status/1991735122438279517)
 - **Published:** November 21, 2025
 - **Language:** ja
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%AE%98%E5%83%9A%E9%A2%A8%E3%81%AE%E5%9B%B3%E8%A7%A3%E3%81%AB%E3%81%97%E3%81%A6)**
 
 ---
 
@@ -7486,6 +7892,8 @@ I asked Nano Banana Pro to merge me with my pfp :)
 - **Published:** November 21, 2025
 - **Language:** en
 
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=I%20asked%20Nano%20Banana%20Pro%20to%20merge%20me%20with%20my%20pfp%20%3A))**
+
 ---
 
 ### No. 200: Aperture comparison portrait at blue hour
@@ -7516,6 +7924,8 @@ Chinese prompt to generate multiple aperture effects of a gentle beautiful woman
 - **Source:** [Twitter Post](https://x.com/Jimmy_JingLv/status/1991730551531925570)
 - **Published:** November 21, 2025
 - **Language:** zh
+
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BD%B3%E8%83%BD%E7%9B%B8%E6%9C%BA%EF%BC%8C85mm%20%E5%AE%9A%E5%A4%B4%EF%BC%8C%E7%94%9F%E6%88%90%201.8F%E3%80%812.8F%E3%80%8110F%E3%80%81%2014F%20%E5%85%89%E5%9C%88%E9%80%90%E6%B8%90%E5%8F%98%E5%8C%96%E7%9A%84%E6%95%88%E6%9E%9C%EF%BC%8C%E6%B8%A9%E6%9F%94%E5%A4%A7%E7%BE%8E%E5%A5%B3%E4%BD%9C%E4%B8%BA%E6%A8%A1%E7%89%B9%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E9%BB%84%E6%98%8F%E4%B9%8B%E5%90%8E%E7%9A%84%E5%9F%8E%E5%B8%82%E8%93%9D%E8%B0%83%E6%97%B6%E5%88%BB)**
 
 ---
 
@@ -7588,6 +7998,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-25T09:34:56.952Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-25T10:19:50.175Z</sub>
 
 </div>
