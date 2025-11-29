@@ -90,7 +90,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **519** |
 | ⭐ In evidenza | **5** |
-| 🔄 Ultimo aggiornamento | **sabato 29 novembre 2025 alle ore 08:14:36 UTC** |
+| 🔄 Ultimo aggiornamento | **sabato 29 novembre 2025 alle ore 12:19:16 UTC** |
 
 </div>
 
@@ -8387,6 +8387,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-11-29T08:14:36.053Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-11-29T12:19:16.990Z</sub>
 
 </div>
