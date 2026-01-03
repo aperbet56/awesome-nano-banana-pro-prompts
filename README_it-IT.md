@@ -140,7 +140,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **3464** |
 | ⭐ In evidenza | **10** |
-| 🔄 Ultimo aggiornamento | **sabato 3 gennaio 2026 alle ore 16:14:10 UTC** |
+| 🔄 Ultimo aggiornamento | **sabato 3 gennaio 2026 alle ore 20:14:33 UTC** |
 
 </div>
 
@@ -281,20 +281,19 @@ Genera una mappa della Germania in stile acquerello, su cui tutti i Länder sono
 
 ---
 
-### No. 4: Servizio fotografico puzzle a quattro pannelli per il Capodanno 2026
+### No. 4: Speciale Capodanno: Puzzle a quattro pannelli per la benedizione del 2026
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Un prompt complesso per la generazione di immagini multi-pannello, per un servizio fotografico a griglia 2x2 che celebra il Capodanno 2026. Il prompt richiede di mantenere le esatte caratteristiche facciali del soggetto attraverso quattro pannelli distinti, ciascuno con colori, abiti, temi (Blu Navy/20, Rosa/26, Verde Menta/Capodanno, Giallo Limone/Felice) e azioni specifiche legate all'assemblaggio di un puzzle centrale.
+Un prompt dettagliato a pannelli multipli per Nano Banana Pro, che crea un collage fotografico a griglia 2x2 in cui un'unica protagonista femminile, in quattro abiti e ambientazioni diverse, ricompone un puzzle che al centro forma la scritta "2026 New Year's Day Happy". Il prompt specifica la precisa conservazione dei tratti del viso, i dettagli dell'abbigliamento, gli elementi dello sfondo e i parametri fotografici per uno stile da rivista di moda.
 
 #### 📝 Prompt
 
 ```
-[Chiave: Mantenere lineamenti precisi, conservare la struttura originale del viso, il personaggio nell'immagine deve essere esattamente coerente con l'immagine di riferimento caricata] Servizio fotografico avanzato in studio con griglia 2x2. Griglia in alto a sinistra (sfondo blu navy): La persona indossa un vestito blu navy in stile uniforme con decorazioni a bottoni dorati, ricci vintage con un basco blu e orecchini di perle. Solleva un gigantesco pezzo di puzzle (il pezzo in alto a sinistra, con il numero "{argument name="top left number" default="20"}" sopra), muovendolo verso il centro dell'inquadratura, guardando intensamente l'area centrale del puzzle, con un'espressione seria e un leggero sorriso. Lo sfondo presenta strisce blu navy, un'ancora e la scritta "Set Sail for the New Year." Griglia in alto a destra (sfondo rosa fiore di ciliegio): La stessa donna indossa un vestito di pizzo rosa, una collana di perle, un'acconciatura da principessa con una forcina a rosa rosa e orecchini di cristallo. Solleva il pezzo di puzzle in alto a destra (con il numero "{argument name="top right number" default="26"}" sopra) muovendolo verso il centro per connettersi con la griglia in alto a sinistra, guardando intensamente la giuntura del puzzle, con un'espressione concentrata e attenta, chinandosi in avanti. Lo sfondo presenta fiori di ciliegio rosa, la scritta "Beautiful Encounter", farfalle e petali. Griglia in basso a sinistra (sfondo verde menta): La stessa donna indossa un vestito di cotone e lino verde menta, in stile letterario, con lunghi capelli naturali, una fascia per capelli verde e orecchini di legno. Solleva il pezzo di puzzle in basso a sinistra (con il testo "{argument name="bottom left text" default="New Year's Day"}" sopra) muovendolo verso l'alto per connettersi con la griglia in alto a sinistra, guardando il puzzle, con un'espressione seria e le labbra leggermente serrate. Lo sfondo presenta piante verdi, la scritta "Hope Grows", germogli e foglie. Griglia in basso a destra (sfondo giallo limone): La stessa donna indossa un vestito giallo con un motivo a girasole e trecce con fiocchi gialli. Solleva l'ultimo pezzo di puzzle in basso a destra (con il testo "{argument name="bottom right text" default="Happy"}" sopra) completando il puzzle. I quattro pezzi formano perfettamente il motivo completo "2026 Happy New Year's Day" al centro dell'inquadratura. Inclina la testa all'indietro, guardando il puzzle completato, il suo viso raggiante di un sorriso di gioia per il successo. Luce dorata e coriandoli esplodono dal centro dell'inquadratura. Lo sfondo presenta un sole giallo, la scritta "Complete Success", faccine sorridenti e girasoli. I pezzi del puzzle convergono dai quattro angoli per formare un'immagine completa al centro, con trucco chiaro, luce anulare brillante, obiettivo da 85 mm, apertura f/1.8, composizione interattiva del puzzle a quattro pannelli e uno stile da rivista di moda.
+[Chiave: Mantenere lineamenti facciali precisi, conservare la struttura originale del viso, il personaggio nell'immagine deve essere completamente coerente con l'immagine di riferimento caricata] Foto da studio fotografico di alta qualità, griglia 2x2. Pannello in alto a sinistra (sfondo blu navy): Il personaggio indossa un abito in stile uniforme blu navy, decorato con bottoni dorati, riccioli vintage con un basco blu e orecchini di perle. Solleva con entrambe le mani un enorme pezzo di puzzle (il pezzo in alto a sinistra, con il numero "20" sopra), muovendolo verso il centro dell'inquadratura. I suoi occhi sono fissi sull'area centrale del puzzle, la sua espressione è seria, con un leggero sorriso. Lo sfondo presenta strisce blu navy, un'ancora e la scritta "Set Sail for the New Year". Pannello in alto a destra (sfondo rosa fiore di ciliegio): La stessa donna indossa un abito di pizzo rosa, una collana di perle, un'acconciatura da principessa con una forcina a forma di rosa rosa e orecchini di cristallo. Solleva con entrambe le mani il pezzo di puzzle in alto a destra (con il numero "26" sopra), muovendolo verso il centro per connetterlo con il pezzo in alto a sinistra. I suoi occhi guardano la giuntura del puzzle, la sua espressione è concentrata e piena di aspettativa, e il suo corpo si protende in avanti. Lo sfondo presenta fiori di ciliegio rosa, la scritta "Beautiful Encounter", farfalle e petali. Pannello in basso a sinistra (sfondo verde menta): La stessa donna indossa un abito di cotone e lino verde menta, in stile artistico, con capelli lunghi naturali, una fascia per capelli verde e orecchini di legno. Solleva con entrambe le mani il pezzo di puzzle in basso a sinistra (con la scritta "New Year's Day" sopra), muovendolo verso l'alto per connetterlo con il pezzo in alto a sinistra. I suoi occhi guardano il puzzle, la sua espressione è seria e la sua bocca è leggermente serrata. Lo sfondo presenta piante verdi, la scritta "Hope Grows", nuovi germogli e foglie. Pannello in basso a destra (sfondo giallo limone): La stessa donna indossa un abito giallo con un motivo a girasole, trecce con fiocchi gialli. Inserisce l'ultimo pezzo di puzzle in basso a destra (con la scritta "Happy" sopra) per completare il puzzle. I quattro pezzi formano perfettamente il motivo completo "2026 New Year's Day Happy" al centro dell'inquadratura. Inclina la testa all'indietro, guardando il puzzle completato, il suo viso raggiante di un sorriso di successo e gioioso. Il centro dell'inquadratura esplode con luce dorata e coriandoli. Lo sfondo presenta un sole giallo, la scritta "Complete Success", faccine sorridenti e girasoli. I pezzi del puzzle convergono dai quattro angoli al centro per formare un'immagine completa. Trucco leggero, luce anulare brillante, obiettivo 85mm, apertura f/1.8, composizione a quattro pannelli con interazione puzzle, stile rivista di moda.
 ```
 
 #### 🖼️ Immagini generate
@@ -302,7 +301,7 @@ Un prompt complesso per la generazione di immagini multi-pannello, per un serviz
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455034932_ivuvu0_G9V-MszakAEAIBw.jpg" width="700" alt="Servizio fotografico puzzle a quattro pannelli per il Capodanno 2026 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767455034932_ivuvu0_G9V-MszakAEAIBw.jpg" width="700" alt="Speciale Capodanno: Puzzle a quattro pannelli per la benedizione del 2026 - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -316,7 +315,7 @@ Un prompt complesso per la generazione di immagini multi-pannello, per un serviz
 
 ---
 
-### No. 5: Documento di Brevetto d'Epoca per un'Invenzione
+### No. 5: Documento di brevetto d'epoca per un'invenzione
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -324,12 +323,12 @@ Un prompt complesso per la generazione di immagini multi-pannello, per un serviz
 
 #### 📖 Descrizione
 
-Un prompt progettato per generare un'immagine di un documento di brevetto vintage degli Stati Uniti della fine del 1800. Specifica dettagli come disegni tecnici precisi, annotazioni scritte a mano, texture di carta invecchiata, macchie di fioritura, un sigillo in rilievo e un timbro di ceralacca, rendendolo ideale per estetiche storiche o archivistiche.
+Un prompt progettato per generare un'immagine di un documento di brevetto vintage degli Stati Uniti della fine del 1800. Specifica dettagli come disegni tecnici precisi, annotazioni scritte a mano, texture della carta invecchiata, macchie di fioritura, un sigillo in rilievo e un timbro di ceralacca, rendendolo ideale per estetiche storiche o archivistiche.
 
 #### 📝 Prompt
 
 ```
-Un documento di brevetto d'epoca per {argument name="invention" default="INVENTION"}, nello stile dei depositi dell'Ufficio Brevetti degli Stati Uniti di fine Ottocento. La pagina presenta disegni tecnici precisi con richiami numerati (Fig. 1, Fig. 2, Fig. 3) che mostrano viste frontali, laterali ed esplose. Annotazioni scritte a mano con inchiostro di penna stilografica descrivono i meccanismi. La carta è color avorio invecchiato con macchie di fioritura e leggere pieghe. Un sigillo ufficiale in rilievo e un timbro di ceralacca rossa appaiono nell'angolo. Il nome e la data dell'inventore, firmati a mano, compaiono in fondo. L'intera immagine sembra un documento d'archivio recuperato: autorevole, storico e leggermente misterioso.
+Un documento di brevetto d'epoca per {argument name="invention" default="INVENTION"}, nello stile dei depositi dell'Ufficio Brevetti degli Stati Uniti di fine Ottocento. La pagina presenta disegni tecnici precisi con richiami numerati (Fig. 1, Fig. 2, Fig. 3) che mostrano viste frontali, laterali ed esplose. Annotazioni scritte a mano con inchiostro di penna stilografica descrivono i meccanismi. La carta è color avorio invecchiato con macchie di fioritura e leggere pieghe. Un sigillo ufficiale in rilievo e un timbro di ceralacca rossa appaiono nell'angolo. Il nome dell'inventore firmato a mano e la data appaiono in fondo. L'intera immagine sembra un documento d'archivio recuperato: autorevole, storico e leggermente misterioso.
 ```
 
 #### 🖼️ Immagini generate
@@ -337,25 +336,25 @@ Un documento di brevetto d'epoca per {argument name="invention" default="INVENTI
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766940094520_1mg5pd_G8_m2ZVWEAAMG7y.jpg" width="700" alt="Documento di Brevetto d'Epoca per un'Invenzione - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766940094520_1mg5pd_G8_m2ZVWEAAMG7y.jpg" width="700" alt="Documento di brevetto d'epoca per un'invenzione - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766940095035_8t8iil_G8_mW4FWwAEwERE.jpg" width="700" alt="Documento di Brevetto d'Epoca per un'Invenzione - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766940095035_8t8iil_G8_mW4FWwAEwERE.jpg" width="700" alt="Documento di brevetto d'epoca per un'invenzione - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766940095188_kt8ksq_G8_m_7hWoAAw19u.jpg" width="700" alt="Documento di Brevetto d'Epoca per un'Invenzione - Image 3">
+<img src="https://cms-assets.youmind.com/media/1766940095188_kt8ksq_G8_m_7hWoAAw19u.jpg" width="700" alt="Documento di brevetto d'epoca per un'invenzione - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766940096864_fhv4oo_G8_nePrXUAAHvgn.jpg" width="700" alt="Documento di Brevetto d'Epoca per un'Invenzione - Image 4">
+<img src="https://cms-assets.youmind.com/media/1766940096864_fhv4oo_G8_nePrXUAAHvgn.jpg" width="700" alt="Documento di brevetto d'epoca per un'invenzione - Image 4">
 </div>
 
 #### 📌 Dettagli
@@ -411,7 +410,7 @@ Risultati di ricerca da Grok
 
 ---
 
-### No. 7: Prompt per il diagramma "Swamp" dello sviluppo di agenti AI
+### No. 7: Prompt per il diagramma della "palude" dello sviluppo di agenti AI
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -419,13 +418,13 @@ Risultati di ricerca da Grok
 
 #### 📖 Descrizione
 
-Un prompt JSON dettagliato per Nano Banana Pro per generare un diagramma "Swamp" (un popolare formato di meme di internet) che illustra la natura circolare del rimanere bloccati nello sviluppo di AI Agent. Il prompt definisce la struttura, lo stile (editoriale semplice e carino), il layout (una traccia introduttiva diritta che porta a un loop in senso orario) e nodi specifici con personaggi, elementi visivi e termini di dialogo/pensiero del diagramma.
+Un prompt JSON dettagliato per Nano Banana Pro per generare un diagramma "Swamp" (un popolare formato di meme di internet) che illustra la natura circolare del rimanere bloccati nello sviluppo di AI Agent. Il prompt definisce la struttura, lo stile (editoriale semplice e carino), il layout (traccia introduttiva diritta che porta a un ciclo in senso orario) e i nodi specifici del diagramma con personaggi, elementi visivi e termini di dialogo/pensiero.
 
 #### 📝 Prompt
 
 ```
 diagramma:
-  titolo: "{argument name="diagram title" default="Il Ciclo della Palude dello Sviluppo degli Agenti AI Generativi"}"
+  titolo: "{argument name="diagram title" default="Il Ciclo della Palude dello Sviluppo di Agenti AI Generativi"}"
   stile:
     personaggio: "simple_editorial_cute"
     tono: "light_like_original"
@@ -442,7 +441,7 @@ diagramma:
 
 layout:
   traccia_introduzione: "La sezione superiore è una linea retta (da sinistra a destra), poi scende per unirsi al ciclo"
-  traccia_ciclo: "Disposta come un ciclo (anello), con frecce che curvano in senso orario lungo la circonferenza"
+  traccia_ciclo: "Disposta a ciclo (anello), con frecce che si curvano in senso orario lungo la circonferenza"
 
 nodi:
   # ===== Sezione Superiore: Introduzione Diretta =====
@@ -450,7 +449,7 @@ nodi:
     zona: "intro"
     posizione: "upper_left"
     attore: "Persona diversa (Ingegnere Senior)"
-    visuale: "Indica un laptop"
+    visivo: "Indica un laptop"
     elemento: "Schermata Demo Agente AI"
     dice: "Ti renderà felice."
     freccia_a: { id: B, forma: "straight", direzione: "right" }
@@ -459,7 +458,7 @@ nodi:
     zona: "intro"
     posizione: "upper_center"
     attore: "Protagonista (Stessa persona)"
-    visuale: "Saluta leggermente"
+    visivo: "Saluta leggermente"
     dice: "Anche un semplice agente..."
     freccia_a: { id: C, forma: "straight", direzione: "right" }
 
@@ -467,7 +466,7 @@ nodi:
     zona: "intro"
     posizione: "upper_right"
     attore: "Protagonista (Stessa persona)"
-    visuale: "Esegue codice di esempio"
+    visivo: "Esegue codice di esempio"
     elemento: "Esempio LangChain / CrewAI"
     freccia_a: { id: D, forma: "straight", direzione: "down" }
 
@@ -476,7 +475,7 @@ nodi:
     zona: "connector"
     posizione: "right_outer_before_loop"
     attore: "Protagonista (Stessa persona)"
-    visuale:
+    visivo:
       faccia: "Occhi spalancati (carino)"
       effetto: "Piccolo lampo di linea di ispirazione"
       postura: "Si china in avanti"
@@ -493,12 +492,12 @@ nodi:
     zona: "loop"
     posizione: "loop_right_upper"
     attore: "Protagonista (Stessa persona)"
-    visuale: "Si tiene la testa tra le mani (carino)"
+    visivo: "Si tiene la testa tra le mani (carino)"
     stato: "Inizia Ansia/Irritazione"
     dice: "Irritato"
     termini_pensiero:
       - "Prompt Design"
-      - "Selezione Strumenti"
+      - "Tool Selection"
       - "Memory Design"
     testo_pensiero: "Non funziona come previsto..."
     freccia_a: { id: F, forma: "curved_along_ring", direzione: "clockwise" }
@@ -507,10 +506,10 @@ nodi:
     zona: "loop"
     posizione: "loop_right_lower"
     attore: "Protagonista (Stessa persona)"
-    visuale: "Circondato da codice e log"
+    visivo: "Circondato da codice e log"
     stato: "L'irritazione si stabilizza"
     dice: "In uno stato di irritazione"
-    callout: "Ciclo! Fuori controllo! Allucinazione!"
+    didascalia: "Ciclo! Fuori controllo! Allucinazione!"
     termini_pensiero:
       - "RAG"
       - "Function Calling"
@@ -521,7 +520,7 @@ nodi:
     zona: "loop"
     posizione: "loop_bottom"
     attore: "Protagonista (Stessa persona)"
-    visuale: "Coperto di post-it e diagrammi"
+    visivo: "Coperto di post-it e diagrammi"
     dice: "Il corpo sviluppa gradualmente tolleranza e l'uso aumenta."
     elementi:
       - "Diagramma Architettura Agente"
@@ -533,7 +532,7 @@ nodi:
     zona: "loop"
     posizione: "loop_left_lower"
     attore: "Protagonista (Stessa persona)"
-    visuale: "Funziona bene, piccolo pugno di gioia"
+    visivo: "Funziona bene, piccolo pugno di gioia"
     stato: "Soddisfazione Temporanea"
     dice: "Il desiderio è temporaneamente soddisfatto"
     freccia_a: { id: I, forma: "curved_along_ring", direzione: "clockwise" }
@@ -542,9 +541,9 @@ nodi:
     zona: "loop"
     posizione: "loop_left_upper"
     attore: "Protagonista (Stessa persona)"
-    visuale: "Pensa di nuovo"
+    visivo: "Pensa di nuovo"
     stato: "Ossessione/Occupazione del Pensiero"
-    dice: "Pensando all'agente"
+    dice: "Pensa all'agente"
 ```
 
 #### 🖼️ Immagini generate
@@ -552,7 +551,7 @@ nodi:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766667407596_i77nzi_G8ybmHWagAUO-CF.jpg" width="700" alt="Prompt per il diagramma "Swamp" dello sviluppo di agenti AI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766667407596_i77nzi_G8ybmHWagAUO-CF.jpg" width="700" alt="Prompt per il diagramma della "palude" dello sviluppo di agenti AI - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -761,7 +760,7 @@ Il rapporto d'aspetto è 3:4, poster verticale. Includere calligrafia giapponese
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
-### No. 1: Profilo / Avatar - Prompt per ritratto di profilo in studio in bianco e nero
+### No. 1: Profilo / Avatar - Prompt per un ritratto di profilo in studio in bianco e nero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -774,7 +773,7 @@ Un prompt Nano Banana Pro conciso per un ritratto in studio iperrealistico in bi
 
 ```
 {
-  "Use the attached image of the person as reference. Ritratto in studio iperrealistico in bianco e nero del giovane di profilo, capelli naturali che gli ricadono delicatamente intorno al viso. Forte luce di contorno che accentua la mascella e il naso, sfondo scuro e minimalista. Espressione pensierosa e serena, illuminazione cinematografica che crea un contrasto drammatico e dettagli fotografici raffinati.",
+  "Use the attached image of the person as reference. Ritratto in studio iperrealistico in bianco e nero del giovane di profilo, con i capelli naturali che gli ricadono delicatamente intorno al viso. Forte luce di contorno che accentua la mascella e il naso, sfondo scuro e minimalista. Espressione pensierosa e serena, illuminazione cinematografica che crea un contrasto drammatico e dettagli fotografici raffinati.",
   "size": "{argument name=\"image size\" default=\"1024x1024\"}",
   "n": {argument name=\"number of images\" default=\"1\"}
 }
@@ -785,7 +784,7 @@ Un prompt Nano Banana Pro conciso per un ritratto in studio iperrealistico in bi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="600" alt="Profilo / Avatar - Prompt per ritratto di profilo in studio in bianco e nero - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="600" alt="Profilo / Avatar - Prompt per un ritratto di profilo in studio in bianco e nero - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -799,19 +798,19 @@ Un prompt Nano Banana Pro conciso per un ritratto in studio iperrealistico in bi
 
 ---
 
-### No. 2: Profilo / Avatar - Prompt: istantanea di una food court nel centro commerciale con una Sony CyberShot del 2005
+### No. 2: Profilo / Avatar - 2005 Sony CyberShot, istantanea di una food court di un centro commerciale, prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Un prompt per immagini che ricrea una foto di un'area ristorazione di un centro commerciale scattata con una delle prime fotocamere digitali, con adolescenti, flash potente, data impressa e un'estetica in stile Myspace.
+Un prompt per immagini che ricrea una foto scattata in una food court di un centro commerciale con adolescenti, con una delle prime fotocamere digitali, flash potente, data impressa e un'estetica in stile Myspace.
 
 #### 📝 Prompt
 
 ```
-Una foto digitale a bassa risoluzione scattata con una Sony CyberShot del 2005. Un gruppo di adolescenti che si ritrova nella zona ristorazione di un centro commerciale. Flash diretto della fotocamera, luci leggermente sovraesposte, rumore digitale nelle ombre. La texture della pelle appare leggermente cerosa a causa dell'elaborazione digitale primordiale. Una data arancione appare nell'angolo in basso a destra, con la scritta "{argument name="date stamp in english" default="04/12/2005"}". Angolazioni spontanee e impacciate, estetica da foto di Myspace.
+Una foto digitale a bassa risoluzione scattata con una Sony CyberShot del 2005. Un gruppo di adolescenti che si ritrova nella zona ristorazione di un centro commerciale. Flash diretto della fotocamera, luci leggermente bruciate, rumore digitale nelle ombre. La texture della pelle appare leggermente cerosa a causa dell'elaborazione digitale primordiale. Una data arancione appare nell'angolo in basso a destra, con la scritta "{argument name="date stamp in english" default="04/12/2005"}". Angolazioni spontanee e un po' goffe, estetica da foto di Myspace.
 ```
 
 #### 🖼️ Immagini generate
@@ -819,13 +818,13 @@ Una foto digitale a bassa risoluzione scattata con una Sony CyberShot del 2005. 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="600" alt="Profilo / Avatar - Prompt: istantanea di una food court nel centro commerciale con una Sony CyberShot del 2005 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="600" alt="Profilo / Avatar - 2005 Sony CyberShot, istantanea di una food court di un centro commerciale, prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="600" alt="Profilo / Avatar - Prompt: istantanea di una food court nel centro commerciale con una Sony CyberShot del 2005 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="600" alt="Profilo / Avatar - 2005 Sony CyberShot, istantanea di una food court di un centro commerciale, prompt - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -881,19 +880,19 @@ Un prompt JSON altamente specifico e strutturato per Nano Banana Pro, progettato
 
 ---
 
-### No. 4: Profilo / Avatar - Photorealistic Mirror Selfie Prompt
+### No. 4: Profilo / Avatar - Prompt per selfie allo specchio fotorealistico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A detailed photorealistic prompt for generating a close-up mirror selfie of a woman with platinum blonde hair and extensive blackwork tattoos, emphasizing high resolution, specific clothing (Nike bodysuit), and a warm, intimate bedroom setting.
+Un prompt fotorealistico dettagliato per generare un selfie ravvicinato allo specchio di una donna con capelli biondo platino e numerosi tatuaggi blackwork, enfatizzando l'alta risoluzione, l'abbigliamento specifico (body Nike) e un'ambientazione intima e calda in camera da letto.
 
 #### 📝 Prompt
 
 ```
 {
-  "prompt": "Photorealistic close-up mirror selfie of a stunning young woman with long, voluminous platinum blonde hair styled in loose waves, fair skin with a subtle natural glow, striking green eyes with bold winged eyeliner, long lashes, and glossy deep nude-pink lips in a confident, slightly sultry pout. She has a small silver nose septum piercing and extensive intricate blackwork tattoos covering her upper chest, shoulders, and arms (including detailed roses, skulls, and abstract patterns). She wears an oversized beige Nike ribbed knit bodysuit with a deep plunging neckline and thin straps that accentuate her ample bust and hourglass figure, the fabric clinging to her toned midriff. A prominent black tattoo reading 'amour' in gothic script is visible on her upper chest, along with a small heart and cloud design. Pose: leaning forward slightly toward the camera with one arm raised to take the selfie, the other hand resting on her hip, head tilted subtly with a playful, seductive gaze directly at the lens. Background: bright modern bedroom with light gray walls, a large window letting in soft natural daylight, a beige tufted headboard, and a chunky knit throw on the bed, creating a warm, intimate atmosphere. Ultra-detailed skin texture with realistic subtle sheen, intricate tattoo details and ribbed fabric texture, sharp focus on face and upper body, shallow depth of field with gentle background blur, high dynamic range, 8K resolution, photorealism, masterpiece quality."
+  "prompt": "Selfie speculare fotorealistico in primo piano di una splendida giovane donna con lunghi e voluminosi capelli biondo platino acconciati a onde morbide, pelle chiara con un sottile bagliore naturale, occhi verdi sorprendenti con eyeliner alato audace, ciglia lunghe e labbra lucide rosa-nude intenso in un broncio sicuro e leggermente sensuale. Ha un piccolo piercing al setto nasale argentato e estesi e intricati tatuaggi blackwork che le coprono la parte superiore del petto, le spalle e le braccia (inclusi rose dettagliate, teschi e motivi astratti). Indossa un body a costine oversize beige di Nike con una scollatura profonda e spalline sottili che accentuano il suo seno abbondante e la sua figura a clessidra, il tessuto che aderisce al suo addome tonico. Un prominente tatuaggio nero con la scritta 'amour' in caratteri gotici è visibile sulla parte superiore del petto, insieme a un piccolo cuore e un disegno di nuvola. Posa: leggermente inclinata in avanti verso la fotocamera con un braccio alzato per scattare il selfie, l'altra mano appoggiata sul fianco, la testa leggermente inclinata con uno sguardo giocoso e seducente direttamente sull'obiettivo. Sfondo: luminosa camera da letto moderna con pareti grigio chiaro, una grande finestra che lascia entrare la morbida luce naturale del giorno, una testiera trapuntata beige e un plaid a maglia grossa sul letto, creando un'atmosfera calda e intima. Texture della pelle ultra-dettagliata con un sottile bagliore realistico, dettagli intricati dei tatuaggi e texture del tessuto a costine, messa a fuoco nitida sul viso e sulla parte superiore del corpo, profondità di campo ridotta con una leggera sfocatura dello sfondo, alta gamma dinamica, risoluzione 8K, fotorealismo, qualità da capolavoro."
 }
 ```
 
@@ -902,7 +901,7 @@ A detailed photorealistic prompt for generating a close-up mirror selfie of a wo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456139553_niplxs_G9hKjgRW0AAIBY7.jpg" width="600" alt="Profilo / Avatar - Photorealistic Mirror Selfie Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456139553_niplxs_G9hKjgRW0AAIBY7.jpg" width="600" alt="Profilo / Avatar - Prompt per selfie allo specchio fotorealistico - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -967,59 +966,59 @@ Un prompt dettagliato per la generazione di immagini, progettato per creare una 
 
 ---
 
-### No. 6: Profilo / Avatar - Boho-Chic Ultra Photorealistic Portrait Prompt
+### No. 6: Profilo / Avatar - Prompt per ritratto ultra fotorealistico Boho-Chic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A highly detailed, structured prompt for an ultra-photorealistic portrait of a young woman with bohemian styling. It focuses heavily on facial details (freckles, green eyes, natural skin texture), intricate accessories (layered gold jewelry, hair cuffs), and a specific aesthetic (Coachella vibe, raw photography) with technical camera specifications (Sony A7R V, 35mm f/1.8).
+Un prompt altamente dettagliato e strutturato per un ritratto ultra-fotorealistico di una giovane donna con uno stile bohémien. Si concentra molto sui dettagli del viso (lentiggini, occhi verdi, texture naturale della pelle), accessori intricati (gioielli d'oro a strati, polsini per capelli) e un'estetica specifica (atmosfera Coachella, fotografia raw) con specifiche tecniche della fotocamera (Sony A7R V, 35mm f/1.8).
 
 #### 📝 Prompt
 
 ```
 {
-  "prompt_type": "Ultra Photorealistic Portrait",
+  "prompt_type": "Ritratto Ultra Fotorealistico",
   "subject": {
-    "demographics": "Young female, light skin tone",
+    "demographics": "Giovane donna, carnagione chiara",
     "facial_features": {
-      "eyes": "Piercing green eyes, sharp focus, natural eyelashes",
-      "skin": "Natural texture with visible pores, prominent freckles across nose and cheeks, rosy flushed cheeks, subsurface scattering",
-      "lips": "Full, glossy pink lips",
-      "expression": "Soft, alluring gaze, looking directly at camera, relaxed mouth"
+      "eyes": "Occhi verdi penetranti, messa a fuoco nitida, ciglia naturali",
+      "skin": "Texture naturale con pori visibili, lentiggini prominenti su naso e guance, guance rosee arrossate, diffusione sottocutanea",
+      "lips": "Labbra piene, rosa lucide",
+      "expression": "Sguardo dolce e seducente, che guarda direttamente in camera, bocca rilassata"
     },
     "hair": {
-      "style": "Long, dark, wavy, bohemian style",
-      "details": " interwoven with colorful embroidery threads (blue, red, green), adorned with small gold cuffs, beads, and hair rings, loose strands framing face"
+      "style": "Lunghi, scuri, mossi, stile bohémien",
+      "details": "intrecciati con fili da ricamo colorati (blu, rosso, verde), adornati con piccoli bracciali d'oro, perline e anelli per capelli, ciocche sciolte che incorniciano il viso"
     }
   },
   "apparel": {
-    "top": "Olive green textured crinkle fabric crop top, deep V-neck wrap style",
+    "top": "Crop top in tessuto increspato testurizzato verde oliva, scollo a V profondo a portafoglio",
     "accessories": {
-      "arms": "Gold snake-style arm cuffs on both upper biceps",
-      "neck": "Layered jewelry: beaded choker with gemstones, thin gold chain with star and moon charms, longer gold pendant necklace",
-      "held_item": "Pink plush doll purse/bag with brown hair and a smiling face held in lap"
+      "arms": "Bracciali a serpente d'oro su entrambi i bicipiti superiori",
+      "neck": "Gioielli a strati: choker di perline con pietre preziose, catena sottile d'oro con ciondoli a stella e luna, collana con pendente d'oro più lunga",
+      "held_item": "Borsa/borsetta di peluche rosa con capelli castani e un viso sorridente tenuta in grembo"
     }
   },
   "pose": {
-    "type": "Selfie angle",
-    "perspective": "Close-up POV, slightly high angle, arms visible extending to hold camera"
+    "type": "Angolazione selfie",
+    "perspective": "POV ravvicinato, angolazione leggermente alta, braccia visibili che si estendono per tenere la fotocamera"
   },
   "environment": {
-    "background": "Neutral beige textured mesh screen or sunshade fabric",
-    "context": "Outdoor or semi-outdoor shaded area, festival or beach club setting"
+    "background": "Schermo a rete testurizzato beige neutro o tessuto parasole",
+    "context": "Area ombreggiata esterna o semi-esterna, ambiente da festival o beach club"
   },
   "lighting": {
-    "type": "Soft natural daylight",
-    "quality": "Diffused, even lighting, no harsh shadows, soft catchlights in eyes"
+    "type": "Luce diurna naturale morbida",
+    "quality": "Illuminazione diffusa, uniforme, senza ombre dure, morbidi riflessi negli occhi"
   },
   "technical_specs": {
     "camera": "Sony A7R V",
-    "lens": "35mm f/1.8 lens",
+    "lens": "Obiettivo 35mm f/1.8",
     "resolution": "8k, UHD",
     "render_style": "Octane Render, Unreal Engine 5",
-    "details": "Hyper-detailed, sharp focus on eyes and freckles, depth of field blurring the mesh background slightly, film grain, chromatic aberration",
-    "aesthetic": "Boho-chic, Coachella vibe, summer aesthetic, raw photography"
+    "details": "Iper-dettagliato, messa a fuoco nitida su occhi e lentiggini, profondità di campo che sfoca leggermente lo sfondo a rete, grana della pellicola, aberrazione cromatica",
+    "aesthetic": "Boho-chic, atmosfera Coachella, estetica estiva, fotografia raw"
   }
 }
 ```
@@ -1029,7 +1028,7 @@ A highly detailed, structured prompt for an ultra-photorealistic portrait of a y
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456174566_ove8rh_G9evEkvXAAAnGrX.jpg" width="600" alt="Profilo / Avatar - Boho-Chic Ultra Photorealistic Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456174566_ove8rh_G9evEkvXAAAnGrX.jpg" width="600" alt="Profilo / Avatar - Prompt per ritratto ultra fotorealistico Boho-Chic - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1043,18 +1042,18 @@ A highly detailed, structured prompt for an ultra-photorealistic portrait of a y
 
 ---
 
-### No. 7: Profilo / Avatar - 2D Cartoon Illustration from Photo Prompt
+### No. 7: Profilo / Avatar - Illustrazione a fumetti 2D da prompt fotografico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A prompt for converting an uploaded photo into a miniature 2D cartoon illustration. It specifies a flat, cute, chibi-inspired style with clean outlines, pastel colors, smooth shading, and demands preservation of facial features while simplifying them in a playful, non-realistic manner.
+Un prompt per convertire una foto caricata in un'illustrazione a cartone animato 2D in miniatura. Specifica uno stile piatto, carino, ispirato ai chibi, con contorni puliti, colori pastello, sfumature morbide e richiede la conservazione dei tratti del viso, semplificandoli in modo giocoso e non realistico.
 
 #### 📝 Prompt
 
 ```
-Create a miniature 2D cartoon illustration based on my uploaded photo. Keep the style flat, cute, and slightly chibi inspired with clean outlines and soft pastel colors. Preserve my facial features, hairstyle, and expression accurately, but simplify them in a playful, cartoonish way. Use smooth shading, minimal details, and a neat, aesthetic look. The character should feel lightweight, adorable, and modern, like a sticker or tiny avatar. No realism, no 3D, strictly 2D cartoon style.
+Crea un'illustrazione 2D in miniatura in stile cartone animato basata sulla mia foto caricata. Mantieni uno stile piatto, carino e leggermente ispirato ai chibi, con contorni puliti e colori pastello tenui. Preserva accuratamente i miei tratti del viso, l'acconciatura e l'espressione, ma semplificali in modo giocoso e fumettistico. Utilizza sfumature morbide, dettagli minimi e un aspetto ordinato ed estetico. Il personaggio dovrebbe apparire leggero, adorabile e moderno, come un adesivo o un piccolo avatar. Nessun realismo, nessun 3D, rigorosamente stile cartone animato 2D.
 ```
 
 #### 🖼️ Immagini generate
@@ -1062,7 +1061,7 @@ Create a miniature 2D cartoon illustration based on my uploaded photo. Keep the 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456178888_r9br0a_G9ei8WtbYAAiMwT.jpg" width="600" alt="Profilo / Avatar - 2D Cartoon Illustration from Photo Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456178888_r9br0a_G9ei8WtbYAAiMwT.jpg" width="600" alt="Profilo / Avatar - Illustrazione a fumetti 2D da prompt fotografico - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1076,34 +1075,34 @@ Create a miniature 2D cartoon illustration based on my uploaded photo. Keep the 
 
 ---
 
-### No. 8: Profilo / Avatar - 2000s Aesthetic Flash Selfie Prompt
+### No. 8: Profilo / Avatar - Prompt per selfie flash con estetica anni 2000
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A prompt for generating a casual, high-contrast internal selfie portrait using direct flash lighting, mimicking the aesthetic of a 2000s compact point-and-shoot camera, while preserving the user's face and focusing on specific details like messy hair and accessories.
+Un prompt per generare un selfie-ritratto interno casuale e ad alto contrasto, utilizzando un'illuminazione a flash diretto, che imiti l'estetica di una fotocamera digitale compatta "punta e scatta" degli anni 2000, preservando il viso dell'utente e concentrandosi su dettagli specifici come capelli spettinati e accessori.
 
 #### 📝 Prompt
 
 ```
-Create Use photo to create an
-Internal selfie portrait with flash lighting and playful yet confident expression taken with a compact point-and-shoot camera.long,black messy hair
-Expression: Normal innocent angle, looking directly at the camera Pose: lying on the bed side ways, angled Face: sharp focus with high contrast direct flash,makeup natural with brown lipliner glossy,no expression blur Top: white crop with transparent neckline and a small embroidered logo
-Background: black sweatpants
-Accessories:
-Layered necklace: gold chains with mixed pendants
-Bracelets: Bead and gold bracelets stacked on a wrist
-Earrings: Small gold ring earrings
-Visual Effects:
-Lighting: Direct flash on camera, strong highlight style, deep dark shadows in background
-Film grain: analog coating, instant 2000s aesthetic, medium texture, with flash flower visible Tom: casual inner party, warm skin tones with neutral shadows
-Motion Blur: None
-Bokeh: None, flat background:
-Type: Interior room
-Details:al sheets, dim ambient light mainly dominated by flash
-: casual snapshot, flash photography, early 2000s aesthetic, sincere playful
-Aspect Ratio: 3: 4..don't change my face
+Crea Usa una foto per creare un
+Autoritratto interno con illuminazione flash e un'espressione giocosa ma sicura, scattato con una fotocamera compatta "punta e scatta". Capelli lunghi, neri e disordinati.
+Espressione: Angolazione normale e innocente, guarda direttamente la fotocamera. Posa: sdraiata sul letto di lato, angolata. Viso: a fuoco nitido con flash diretto ad alto contrasto, trucco naturale con matita labbra marrone lucida, nessuna sfocatura dell'espressione. Top: crop top bianco con scollo trasparente e un piccolo logo ricamato.
+Sfondo: pantaloni della tuta neri.
+Accessori:
+Collana a strati: catene d'oro con ciondoli misti.
+Bracciali: bracciali di perline e oro impilati su un polso.
+Orecchini: piccoli orecchini a cerchio d'oro.
+Effetti visivi:
+Illuminazione: flash diretto sulla fotocamera, stile di illuminazione forte, ombre scure e profonde sullo sfondo.
+Grana della pellicola: rivestimento analogico, estetica istantanea anni 2000, texture media, con "flash flower" visibile. Tonalità: festa informale, tonalità della pelle calde con ombre neutre.
+Sfocatura di movimento: nessuna.
+Bokeh: nessuno, sfondo piatto:
+Tipo: stanza interna.
+Dettagli: lenzuola, luce ambientale fioca dominata principalmente dal flash.
+: istantanea casual, fotografia con flash, estetica primi anni 2000, giocosa e sincera.
+Rapporto d'aspetto: 3:4... non cambiare il mio viso.
 ```
 
 #### 🖼️ Immagini generate
@@ -1111,13 +1110,13 @@ Aspect Ratio: 3: 4..don't change my face
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456152804_9juxam_G9eOrtLbEAEXofE.jpg" width="600" alt="Profilo / Avatar - 2000s Aesthetic Flash Selfie Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456152804_9juxam_G9eOrtLbEAEXofE.jpg" width="600" alt="Profilo / Avatar - Prompt per selfie flash con estetica anni 2000 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456153404_mgh997_G9eOr3cakAAIWyK.jpg" width="600" alt="Profilo / Avatar - 2000s Aesthetic Flash Selfie Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767456153404_mgh997_G9eOr3cakAAIWyK.jpg" width="600" alt="Profilo / Avatar - Prompt per selfie flash con estetica anni 2000 - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -1131,18 +1130,18 @@ Aspect Ratio: 3: 4..don't change my face
 
 ---
 
-### No. 9: Profilo / Avatar - Dramatic Low-Light Portrait Generation Prompt
+### No. 9: Profilo / Avatar - Prompt per la generazione di ritratti drammatici in condizioni di scarsa illuminazione
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A detailed image generation prompt designed to create a dramatic, moody, and intimate portrait of a young man in a low-light setting, emphasizing warm, golden illumination and strong shadows. It specifies the subject's appearance, clothing, and the artistic lighting style.
+Un prompt dettagliato per la generazione di immagini, progettato per creare un ritratto drammatico, malinconico e intimo di un giovane uomo in un ambiente con poca luce, enfatizzando un'illuminazione calda e dorata e ombre marcate. Specifica l'aspetto del soggetto, l'abbigliamento e lo stile di illuminazione artistica.
 
 #### 📝 Prompt
 
 ```
-Create this image a handsome young man, use my face on this image, with dark brown hair, is captured in a moody. low-light setting. He is looking off to his right, with a thoughtful and slightly introspective expression, his lips slightly parted. He wears round, thin-rimmed glasses and a light-colored, possibly off-white or light grey, crew-neck knit sweater. The scene is illuminated by dramatic, warm, golden or orange light coming from the left, strongly highlighting his face, jawline, and the texture of his hair and sweater, while casting the rest of the background into deep shadow, A blurred shoulder or figure is visible in the foreground to the left. The overall ambiance is artistic, warm, and intimate
+Crea questa immagine di un bel giovane, usa il mio viso su questa immagine, con capelli castano scuro, ripreso in un ambiente suggestivo e poco illuminato. Guarda alla sua destra, con un'espressione pensierosa e leggermente introspettiva, le labbra leggermente dischiuse. Indossa occhiali rotondi con montatura sottile e un maglione girocollo in maglia di colore chiaro, forse bianco sporco o grigio chiaro. La scena è illuminata da una luce drammatica, calda, dorata o arancione proveniente da sinistra, che evidenzia fortemente il suo viso, la mascella e la texture dei suoi capelli e del maglione, mentre il resto dello sfondo è immerso in una profonda ombra. Una spalla o una figura sfocata è visibile in primo piano a sinistra. L'atmosfera generale è artistica, calda e intima.
 ```
 
 #### 🖼️ Immagini generate
@@ -1150,7 +1149,7 @@ Create this image a handsome young man, use my face on this image, with dark bro
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456131725_jbkbx9_G9d-N0haYAAbgj4.jpg" width="600" alt="Profilo / Avatar - Dramatic Low-Light Portrait Generation Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456131725_jbkbx9_G9d-N0haYAAbgj4.jpg" width="600" alt="Profilo / Avatar - Prompt per la generazione di ritratti drammatici in condizioni di scarsa illuminazione - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1197,67 +1196,67 @@ Fotografia su pellicola ad alta risoluzione, estetica artistica, fotografia JKC,
 
 ---
 
-### No. 11: Profilo / Avatar - Glamorous Mirror Selfie in Dior Oblique Top and Low-Rise Jeans
+### No. 11: Profilo / Avatar - Glamoroso selfie allo specchio con top Dior Oblique e jeans a vita bassa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A JSON prompt for generating a standing mirror selfie of a glamorous young woman, detailing her platinum blonde hair, full glam makeup, specific accessories (Louis Vuitton bag, iPhone Pro), and outfit (Dior Oblique scarf top and low-rise jeans) in a brightly lit, minimalist indoor setting.
+Un prompt JSON per generare un selfie allo specchio di una giovane donna affascinante, con i suoi capelli biondo platino, trucco "full glam", accessori specifici (borsa Louis Vuitton, iPhone Pro) e outfit (top a sciarpa Dior Oblique e jeans a vita bassa) in un ambiente interno minimalista e ben illuminato.
 
 #### 📝 Prompt
 
 ```
 {
   "subject": {
-    "demographics": "Young female",
-    "physique": "Slim, toned, tan skin",
-    "pose": "Standing mirror selfie, holding phone with right hand, facing forward"
+    "demographics": "Giovane donna",
+    "physique": "Sottile, tonica, pelle abbronzata",
+    "pose": "Selfie allo specchio in piedi, tiene il telefono con la mano destra, rivolta in avanti"
   },
   "appearance": {
     "hair": {
-      "color": "Platinum blonde with visible dark roots",
-      "style": "Long, straight, sleek, center part, draped over shoulders"
+      "color": "Biondo platino con radici scure visibili",
+      "style": "Lunghi, lisci, eleganti, riga centrale, drappeggiati sulle spalle"
     },
     "face": {
-      "makeup": "Full glam, sharp winged eyeliner, sculpted contour, nude glossy lips, defined eyebrows",
-      "eyes": "Light colored (blue/green)"
+      "makeup": "Trucco completo, eyeliner alato affilato, contouring scolpito, labbra nude lucide, sopracciglia definite",
+      "eyes": "Colori chiari (blu/verde)"
     },
-    "nails": "Long, almond-shaped, nude beige polish"
+    "nails": "Lunghe, a mandorla, smalto beige nude"
   },
   "outfit": {
     "top": {
-      "type": "Strapless scarf top (handkerchief style)",
-      "pattern": "{argument name="top pattern" default="Dior Oblique motif"} (navy blue and beige logo print)",
-      "fit": "Fitted, cropped, showing midriff"
+      "type": "Top a fascia senza spalline (stile foulard)",
+      "pattern": "{argument name=\"top pattern\" default=\"motivo Dior Oblique\"} (stampa logo blu navy e beige)",
+      "fit": "Aderente, corto, che mostra l'addome"
     },
     "bottoms": {
-      "type": "Blue denim jeans",
-      "style": "Low-rise, visible waistband"
+      "type": "Jeans di denim blu",
+      "style": "A vita bassa, vita visibile"
     }
   },
   "accessories": {
     "jewelry": [
-      "Small gold necklace with a horseshoe pendant",
-      "Gold bangle bracelets on both wrists (stacked)",
-      "Gold ring on right ring finger",
-      "Silver belly button stud piercing"
+      "Piccola collana d'oro con un ciondolo a ferro di cavallo",
+      "Bracciali rigidi d'oro su entrambi i polsi (impilati)",
+      "Anello d'oro sull'anulare destro",
+      "Piercing all'ombelico a bottone d'argento"
     ],
     "bag": {
-      "type": "Shoulder bag with gold chain",
-      "material": "{argument name="bag material" default="Louis Vuitton Monogram canvas"} (brown)",
-      "position": "Slung over right shoulder"
+      "type": "Borsa a tracolla con catena d'oro",
+      "material": "{argument name=\"bag material\" default=\"tela Louis Vuitton Monogram\"} (marrone)",
+      "position": "Appesa alla spalla destra"
     },
     "tech": {
-      "item": "iPhone Pro (triple camera lens)",
-      "case_color": "Grey/Greenish solid color"
+      "item": "iPhone Pro (obiettivo a tripla fotocamera)",
+      "case_color": "Colore solido grigio/verdastro"
     }
   },
   "environment": {
-    "setting": "Indoor, likely a bathroom or bedroom",
-    "background": "Clean white walls, white door frame, minimalist aesthetic",
-    "lighting": "Bright, cool-toned natural light, even illumination"
+    "setting": "Interno, probabilmente un bagno o una camera da letto",
+    "background": "Pareti bianche pulite, telaio della porta bianco, estetica minimalista",
+    "lighting": "Luce naturale brillante, fredda, illuminazione uniforme"
   }
 }
 ```
@@ -1267,7 +1266,7 @@ A JSON prompt for generating a standing mirror selfie of a glamorous young woman
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454931283_lw2gi2_G9bxLY9bMAAd2BT.jpg" width="600" alt="Profilo / Avatar - Glamorous Mirror Selfie in Dior Oblique Top and Low-Rise Jeans - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767454931283_lw2gi2_G9bxLY9bMAAd2BT.jpg" width="600" alt="Profilo / Avatar - Glamoroso selfie allo specchio con top Dior Oblique e jeans a vita bassa - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1281,14 +1280,14 @@ A JSON prompt for generating a standing mirror selfie of a glamorous young woman
 
 ---
 
-### No. 12: Profilo / Avatar - Avatar Zuko Fan Photo Prompt for Nano Banana Pro
+### No. 12: Profilo / Avatar - Prompt per foto fan di Avatar Zuko per Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A structured JSON prompt for Nano Banana Pro, instructing the generation of a hyper-realistic image of a subject posing with a giant 2D Zuko character from Avatar: The Last Airbender.
+Un prompt JSON strutturato per Nano Banana Pro, che istruisce la generazione di un'immagine iperrealistica di un soggetto in posa con un gigantesco personaggio 2D di Zuko da Avatar: The Last Airbender.
 
 #### 📝 Prompt
 
@@ -1296,21 +1295,22 @@ A structured JSON prompt for Nano Banana Pro, instructing the generation of a hy
 [
   {
     "image_generation": {
-      "quality": "hyper-realistic",
+      "quality": "iperrealistico",
       "face": { "preserve_original": true },
       "subject": {
-        "clothing": "{argument name="clothing" default="dark red knitted sweater, dark brown sweatpants with yellow vertical lines on the sides, brown high-top sneakers"}",
-        "pose": "standing with arm around giant 2D Zuco from avatar",
-        "expression": "fun, mischievous",
+        "clothing": "{argument name=\"clothing\" default=\"maglione lavorato a maglia rosso scuro, pantaloni della tuta marrone scuro con linee verticali gialle sui lati, scarpe da ginnastica alte marroni\"}",
+        "pose": "in piedi con un braccio attorno al gigantesco Zuco 2D di Avatar",
+        "expression": "divertente, malizioso",
         "character_element": {
           "name": "Zuco",
-          "type": "3D & 2D photorealistic duo",
-          "interaction": "Zuco posing confidently"
+          "type": "duo fotorealistico 3D e 2D",
+          "interaction": "Zuco in posa fiduciosa"
         }
       },
-      "environment": "clean light green backdrop"
+      "environment": "sfondo verde chiaro pulito"
     }
-  }]
+  }
+]
 ```
 
 #### 🖼️ Immagini generate
@@ -1318,7 +1318,7 @@ A structured JSON prompt for Nano Banana Pro, instructing the generation of a hy
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455071473_bev27t_G9boq29WEAgpDKY.jpg" width="600" alt="Profilo / Avatar - Avatar Zuko Fan Photo Prompt for Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767455071473_bev27t_G9boq29WEAgpDKY.jpg" width="600" alt="Profilo / Avatar - Prompt per foto fan di Avatar Zuko per Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1332,25 +1332,25 @@ A structured JSON prompt for Nano Banana Pro, instructing the generation of a hy
 
 ---
 
-### No. 13: Profilo / Avatar - Studio Portrait of Young Man with Focused Lighting
+### No. 13: Profilo / Avatar - Ritratto in studio di giovane uomo con illuminazione mirata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A concise, structured prompt for Nano Banana Pro on the Gemini App, requesting a photorealistic studio portrait of a young man based on a reference image. The prompt emphasizes minimal, focused key lighting, a blue studio wall background, and a clean, cinematic aesthetic using an 85mm lens and shallow depth of field.
+Un prompt conciso e strutturato per Nano Banana Pro sull'app Gemini, che richiede un ritratto in studio fotorealistico di un giovane uomo basato su un'immagine di riferimento. Il prompt enfatizza un'illuminazione chiave minima e mirata, uno sfondo blu da parete di studio e un'estetica pulita e cinematografica utilizzando un obiettivo da 85 mm e una profondità di campo ridotta.
 
 #### 📝 Prompt
 
 ```
 {
-  "prompt": "Studio portrait of a young man, same appearance as the reference, posing confidently with relaxed body language. Minimal studio lighting, soft directional light fully focused on him while background remains subtle. He is wearing a {argument name="outfit" default="stylish casual outfit (casual shirt or tee, fitted jeans, clean sneakers)"}. {argument name="background color" default="Blue"} studio wall background, clean professional look, high-resolution, sharp details, cinematic yet natural, DSLR depth of field, realistic textures.",
-  "style": "photorealistic",
-  "lighting": "soft minimal focused key light",
-  "camera": "85mm lens, shallow depth of field",
+  "prompt": "Ritratto in studio di un giovane uomo, con lo stesso aspetto del riferimento, in posa sicura con un linguaggio del corpo rilassato. Illuminazione da studio minimale, luce direzionale morbida completamente focalizzata su di lui mentre lo sfondo rimane tenue. Indossa un {argument name=\"outfit\" default=\"elegante outfit casual (camicia o maglietta casual, jeans aderenti, sneakers pulite)\"}. Sfondo a parete da studio {argument name=\"background color\" default=\"blu\"}, aspetto pulito e professionale, alta risoluzione, dettagli nitidi, cinematografico ma naturale, profondità di campo DSLR, texture realistiche.",
+  "style": "fotorealistico",
+  "lighting": "luce chiave morbida, minimale e focalizzata",
+  "camera": "obiettivo 85mm, bassa profondità di campo",
   "resolution": "4k",
-  "mood": "confident, modern, composed"
+  "mood": "sicuro, moderno, composto"
 }
 ```
 
@@ -1359,19 +1359,19 @@ A concise, structured prompt for Nano Banana Pro on the Gemini App, requesting a
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455081728_x70uv2_G9ZO73laUAEJ0MK.jpg" width="600" alt="Profilo / Avatar - Studio Portrait of Young Man with Focused Lighting - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767455081728_x70uv2_G9ZO73laUAEJ0MK.jpg" width="600" alt="Profilo / Avatar - Ritratto in studio di giovane uomo con illuminazione mirata - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455082090_boksjb_G9ZO70eaYAIGxen.jpg" width="600" alt="Profilo / Avatar - Studio Portrait of Young Man with Focused Lighting - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767455082090_boksjb_G9ZO70eaYAIGxen.jpg" width="600" alt="Profilo / Avatar - Ritratto in studio di giovane uomo con illuminazione mirata - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455082376_jilp1t_G9ZO76Ha8AAd_Ek.jpg" width="600" alt="Profilo / Avatar - Studio Portrait of Young Man with Focused Lighting - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767455082376_jilp1t_G9ZO76Ha8AAd_Ek.jpg" width="600" alt="Profilo / Avatar - Ritratto in studio di giovane uomo con illuminazione mirata - Image 3">
 </div>
 
 #### 📌 Dettagli
@@ -1913,14 +1913,14 @@ Un prompt per generare un'istantanea fotorealistica e casual di lifestyle che si
 
 ---
 
-### No. 20: Post sui social media - Immagine di pubblicità di un libro in stile annuncio ferroviario
+### No. 20: Post sui social media - Immagine di pubblicità di un libro in stile annuncio del treno
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Un prompt giapponese dettagliato per generare una pubblicità in stile libro aziendale 16:9 con un'immagine di libro specifica e punti di copia in giapponese.
+Un prompt giapponese dettagliato per generare una pubblicità in stile libro aziendale 16:9 con un'immagine di libro specifica e punti di testo in giapponese.
 
 #### 📝 Prompt
 
@@ -1930,7 +1930,7 @@ Si prega di generare un'immagine pubblicitaria.
 ==== Specifiche annuncio ===
 - Proporzioni: 16:9 (orizzontale)
 - Prodotto da pubblicizzare: il libro nella prima immagine allegata
-- Elemento principale che attira l'attenzione: posizionare il libro dalla prima immagine allegata in modo tridimensionale
+- Elemento principale che cattura l'attenzione: posizionare il libro dalla prima immagine allegata in modo tridimensionale
 - Lingua: giapponese
 - Stile: pubblicità per un libro di business
 
@@ -1940,7 +1940,7 @@ Si prega di generare un'immagine pubblicitaria.
 Il libro “{argument name="book_title_en" default="Designing from Zero with AI"}” è ora in vendita e sta andando bene.
 
 Classifica Bestseller di Amazon
-Classificato al 1° posto nelle vendite di design commerciale (al 15/10)
+Classificato n. 1 nelle vendite di design commerciale (al 15/10)
 https://t.co/QxbYpfFVj6
 ```
 
@@ -1949,7 +1949,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="600" alt="Post sui social media - Immagine di pubblicità di un libro in stile annuncio ferroviario - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="600" alt="Post sui social media - Immagine di pubblicità di un libro in stile annuncio del treno - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1963,19 +1963,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Post sui social media - Ritratto di ristorante all'aperto a Londra con Nano Banana Pro
+### No. 21: Post sui social media - Ritratto di un ristorante all'aperto di Londra con Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Un prompt fotorealistico per una giovane donna in un tranquillo ristorante all'aperto di Londra in una frizzante mattina di marzo, con una profondità di campo ridotta e un'atmosfera da foto spontanea scattata con il telefono.
+Un prompt fotorealistico per una giovane donna in un tranquillo ristorante all'aperto di Londra, in una frizzante mattina di marzo, con una profondità di campo ridotta e un'atmosfera da foto spontanea scattata con il telefono.
 
 #### 📝 Prompt
 
 ```
-Crea un'immagine fotorealistica di una giovane donna seduta in un ristorante all'aperto rilassato a {argument name="city in english" default="Londra"} in una fresca mattina di mercoledì di marzo {argument name="year in english" default="2025"}. Il cielo è limpido, l'aria primaverile è frizzante e la città appare calma mentre si risveglia. Lei è il punto focale dello scatto: indossa una sciarpa leggera, mescola delicatamente il suo tè mentre guarda di lato con un'espressione pensierosa. Tutto ciò che si trova dietro di lei, dal cameriere che si muove al leggero traffico mattutino, dovrebbe sfumare dolcemente, conferendo all'immagine l'atmosfera spontanea e disinvolta di un momento catturato casualmente con un telefono.
+Crea un'immagine fotorealistica di una giovane donna seduta in un rilassante ristorante all'aperto a {argument name="city in english" default="Londra"} in una fresca mattina di mercoledì di marzo {argument name="year in english" default="2025"}. Il cielo è limpido, l'aria primaverile è frizzante e la città si risveglia con una sensazione di calma. Lei è il punto focale dello scatto: indossa una sciarpa leggera, mescola delicatamente il suo tè mentre guarda di lato con un'espressione pensierosa. Tutto ciò che si trova dietro di lei, dal cameriere che si muove al leggero traffico mattutino, dovrebbe sfumare dolcemente, conferendo all'immagine l'atmosfera spontanea e disinvolta di un momento catturato casualmente con un telefono.
 ```
 
 #### 🖼️ Immagini generate
@@ -1983,13 +1983,13 @@ Crea un'immagine fotorealistica di una giovane donna seduta in un ristorante all
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="600" alt="Post sui social media - Ritratto di ristorante all'aperto a Londra con Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="600" alt="Post sui social media - Ritratto di un ristorante all'aperto di Londra con Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="600" alt="Post sui social media - Ritratto di ristorante all'aperto a Londra con Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="600" alt="Post sui social media - Ritratto di un ristorante all'aperto di Londra con Nano Banana Pro - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -2276,13 +2276,13 @@ Un prompt JSON strutturato per Nano Banana Pro per generare un ritratto fotoreal
 
 ---
 
-### No. 27: Post sui social media - Nighttime Cityscape Portrait with Fireworks
+### No. 27: Post sui social media - Ritratto di paesaggio urbano notturno con fuochi d'artificio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A structured prompt for generating a portrait of a woman standing in the foreground of a nighttime cityscape, looking back at the camera. The background features gold and white fireworks, emphasizing a dramatic, celebratory, and cinematic tone.
+Un prompt strutturato per generare un ritratto di una donna in piedi in primo piano in uno scenario urbano notturno, che guarda indietro verso la fotocamera. Lo sfondo presenta fuochi d'artificio dorati e bianchi, enfatizzando un tono drammatico, celebrativo e cinematografico.
 
 #### 📝 Prompt
 
@@ -2290,46 +2290,46 @@ A structured prompt for generating a portrait of a woman standing in the foregro
 {
   "type": "image",
   "scene": {
-    "setting": "outdoor nighttime cityscape",
+    "setting": "paesaggio urbano notturno all'aperto",
     "background": {
-      "sky": "dark night sky",
+      "sky": "cielo notturno scuro",
       "fireworks": {
         "present": true,
-        "colors": ["gold", "white"],
-        "pattern": "bursting and sparkling"
+        "colors": ["oro", "bianco"],
+        "pattern": "esplosioni e scintille"
       },
       "city_elements": {
         "buildings": true,
-        "notable_structure": "tall building with illuminated logo"
+        "notable_structure": "edificio alto con logo illuminato"
       }
     }
   },
   "subject": {
     "count": 1,
-    "position": "foreground, turned slightly away, looking back at camera",
+    "position": "primo piano, leggermente girata, guarda indietro verso la fotocamera",
     "appearance": {
       "hair": {
-        "color": "blonde",
-        "style": "long ponytail"
+        "color": "biondo",
+        "style": "coda di cavallo lunga"
       },
-      "expression": "calm, confident",
-      "makeup": "natural with highlighted skin"
+      "expression": "calma, sicura di sé",
+      "makeup": "naturale con pelle illuminata"
     },
     "clothing": {
-      "top": "Red sleeveless dress",
-      "outerwear": "Red leather jacket draped off shoulders"
+      "top": "vestito rosso senza maniche",
+      "outerwear": "giacca di pelle rossa appoggiata sulle spalle"
     }
   },
   "lighting": {
-    "source": ["fireworks", "ambient city light"],
-    "mood": "dramatic, celebratory"
+    "source": ["fuochi d'artificio", "luce ambientale della città"],
+    "mood": "drammatico, celebrativo"
   },
   "composition": {
-    "orientation": "portrait",
-    "focus": "subject in foreground with fireworks overhead",
-    "contrast": "bright fireworks against dark sky"
+    "orientation": "verticale",
+    "focus": "soggetto in primo piano con fuochi d'artificio sopra la testa",
+    "contrast": "fuochi d'artificio luminosi contro cielo scuro"
   },
-  "overall_tone": "stylish, festive, cinematic"
+  "overall_tone": "elegante, festoso, cinematografico"
 }
 ```
 
@@ -2338,7 +2338,7 @@ A structured prompt for generating a portrait of a woman standing in the foregro
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456205924_o1hk1u_G9h9WOoaMAIc0fL.jpg" width="600" alt="Post sui social media - Nighttime Cityscape Portrait with Fireworks - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456205924_o1hk1u_G9h9WOoaMAIc0fL.jpg" width="600" alt="Post sui social media - Ritratto di paesaggio urbano notturno con fuochi d'artificio - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2352,33 +2352,33 @@ A structured prompt for generating a portrait of a woman standing in the foregro
 
 ---
 
-### No. 28: Post sui social media - Board Game Scene with Multiple Characters Prompt
+### No. 28: Post sui social media - Scena di gioco da tavolo con più personaggi Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A detailed prompt for generating a lifestyle photograph of three friends playing a board game in a cozy modern living room during golden hour. It specifies the appearance, pose, and action of each of the three subjects, details the game components, and includes a sleeping cat in the foreground, along with a negative prompt for quality control.
+Un prompt dettagliato per generare una fotografia lifestyle di tre amici che giocano a un gioco da tavolo in un accogliente soggiorno moderno durante l'ora d'oro. Specifica l'aspetto, la posa e l'azione di ciascuno dei tre soggetti, descrive i componenti del gioco e include un gatto che dorme in primo piano, insieme a un prompt negativo per il controllo qualità.
 
 #### 📝 Prompt
 
 ```
-A cozy modern living room in the late afternoon, 
-three friends playing a board game around a low wooden coffee table:
+Un accogliente soggiorno moderno nel tardo pomeriggio,
+tre amici giocano a un gioco da tavolo attorno a un tavolino da caffè basso in legno:
 
-– On the LEFT side of the table: a tall man in a {argument name="sweater color" default="red"} sweater, wearing glasses, reaching forward with his RIGHT hand to move a game piece.  
-– In the CENTER: a woman with curly hair in a {argument name="hoodie color" default="yellow"} hoodie, leaning back and laughing, holding a blue mug of tea in BOTH hands.  
-– On the RIGHT side of the table: a person with short dyed {argument name="hair color" default="green"} hair, wearing a black t‑shirt, resting their chin on their LEFT hand while studying the board.
+– Sul lato SINISTRO del tavolo: un uomo alto con un maglione {argument name="sweater color" default="rosso"}, occhiali, che si protende con la mano DESTRA per muovere un pezzo del gioco.
+– Al CENTRO: una donna con capelli ricci, con una felpa con cappuccio {argument name="hoodie color" default="gialla"}, che si appoggia all'indietro e ride, tenendo una tazza di tè blu con ENTRAMBE le mani.
+– Sul lato DESTRO del tavolo: una persona con capelli corti tinti di {argument name="hair color" default="verde"}, che indossa una maglietta nera, che appoggia il mento sulla mano SINISTRA mentre studia il tabellone.
 
-The board game has a square grid with tiny colorful tokens, a visible six‑sided die showing the number 3 on top.  
-Foreground: a sleeping cat on a gray couch, partially cropped.  
-Background: large window with soft golden‑hour light, plants on the windowsill, blurred city skyline.
+Il gioco da tavolo ha una griglia quadrata con piccole pedine colorate, un dado a sei facce visibile che mostra il numero 3 in alto.
+Primo piano: un gatto che dorme su un divano grigio, parzialmente tagliato.
+Sfondo: grande finestra con una luce morbida dell'ora d'oro, piante sul davanzale, skyline della città sfocato.
 
-Shot at 35mm, eye‑level camera, natural soft lighting, realistic proportions and hands, 
-warm inviting color grading, lifestyle photography style.
+Scatto a 35mm, fotocamera all'altezza degli occhi, illuminazione naturale e morbida, proporzioni e mani realistiche,
+color grading caldo e invitante, stile fotografia lifestyle.
 
-Negative prompt (optional): characters merged together, wrong number of arms, extra fingers, surreal distortions, horror, glitch
+Negative prompt (opzionale): personaggi fusi insieme, numero sbagliato di braccia, dita in più, distorsioni surreali, horror, glitch
 ```
 
 #### 🖼️ Immagini generate
@@ -2386,7 +2386,7 @@ Negative prompt (optional): characters merged together, wrong number of arms, ex
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456185684_wqs0kk_G9haLwqbIAAo4q3.jpg" width="600" alt="Post sui social media - Board Game Scene with Multiple Characters Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456185684_wqs0kk_G9haLwqbIAAo4q3.jpg" width="600" alt="Post sui social media - Scena di gioco da tavolo con più personaggi Prompt - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2477,13 +2477,13 @@ Un prompt strutturato per generare un ritratto cinematografico di una donna che 
 
 ---
 
-### No. 30: Post sui social media - Cottagecore Garden Portrait Prompt
+### No. 30: Post sui social media - Prompt per un ritratto da giardino in stile Cottagecore
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A detailed image generation prompt for a romantic, elegant portrait of a young woman in a vintage cottagecore dress, set in a formal estate garden. It specifies her pose, attire, accessories, the detailed background elements (fountain, hedges, pergola), and the high-contrast natural lighting.
+Un prompt dettagliato per la generazione di immagini di un ritratto romantico ed elegante di una giovane donna in un abito vintage stile cottagecore, ambientato in un giardino formale di una tenuta. Specifica la sua posa, l'abbigliamento, gli accessori, gli elementi dettagliati dello sfondo (fontana, siepi, pergola) e l'illuminazione naturale ad alto contrasto.
 
 #### 📝 Prompt
 
@@ -2491,51 +2491,51 @@ A detailed image generation prompt for a romantic, elegant portrait of a young w
 {
   "image_prompt": {
     "subject": {
-      "demographics": "Young woman, fit physique, sun-kissed skin tone",
-      "hair": "Long, voluminous, brown wavy hair, side-parted and flowing over the back",
-      "expression": "Calm, looking away to the right in profile view",
-      "pose": "Standing upright, legs crossed at the ankles, holding a yellow flower near the chest, slightly lifting the skirt edge with the other hand"
+      "demographics": "Giovane donna, fisico atletico, carnagione baciata dal sole",
+      "hair": "Capelli lunghi, voluminosi, mossi castani, con riga laterale e che scendono sulla schiena",
+      "expression": "Calma, guarda in lontananza verso destra di profilo",
+      "pose": "In piedi, gambe incrociate alle caviglie, tiene un fiore giallo vicino al petto, sollevando leggermente il bordo della gonna con l'altra mano"
     },
     "attire": {
-      "garment": "Short, pale green mini dress with a delicate floral pattern",
+      "garment": "Mini abito corto, verde pallido con un delicato motivo floreale",
       "details": [
-        "Puff sleeves",
-        "Sweetheart neckline with a center tie string",
-        "Corset-style fitted bodice",
-        "Pleated, flared A-line skirt",
-        "Vintage cottagecore aesthetic"
+        "Maniche a sbuffo",
+        "Scollatura a cuore con laccetto centrale",
+        "Corpetto aderente stile corsetto",
+        "Gonna a balze svasata a trapezio",
+        "Estetica vintage cottagecore"
       ],
-      "footwear": "White pointed-toe heels"
+      "footwear": "Tacchi bianchi a punta"
     },
     "accessories": {
       "items": [
-        "Single long-stemmed pink rose held in left hand",
-        "Gold ring on left ring finger"
+        "Una singola rosa rosa a gambo lungo tenuta nella mano sinistra",
+        "Anello d'oro sull'anulare sinistro"
       ]
     },
     "setting": {
-      "location": "Formal estate garden",
+      "location": "Giardino formale di una tenuta",
       "elements": [
-        "Manicured geometric boxwood hedges",
-        "Green grassy lawn",
-        "Stone fountain with a statue of a boy and a dolphin (mid-ground right)",
-        "Large tiered stone fountain base (foreground left)",
-        "Grand stone staircase and white pergola structure in background",
-        "Palm trees and lush greenery in distance"
+        "Siepi di bosso geometriche ben curate",
+        "Prato verde",
+        "Fontana in pietra con una statua di un ragazzo e un delfino (a metà campo a destra)",
+        "Grande base di fontana in pietra a più livelli (in primo piano a sinistra)",
+        "Grande scalinata in pietra e struttura a pergola bianca sullo sfondo",
+        "Palme e vegetazione lussureggiante in lontananza"
       ]
     },
     "lighting_and_atmosphere": {
-      "time_of_day": "Mid-day, bright sunlight",
-      "sky": "Clear, vibrant blue sky",
-      "lighting_quality": "High contrast, sharp shadows, natural hard light",
-      "mood": "Romantic, summery, elegant, serene"
+      "time_of_day": "Mezzogiorno, luce solare intensa",
+      "sky": "Cielo limpido, azzurro vibrante",
+      "lighting_quality": "Alto contrasto, ombre nette, luce dura naturale",
+      "mood": "Romantico, estivo, elegante, sereno"
     },
     "technical_specs": {
       "aspect_ratio": "9:16",
-      "style": "Realistic candid photography",
-      "shot_type": "Full-body shot",
-      "angle": "Eye-level",
-      "focus": "Sharp focus on subject, deep depth of field"
+      "style": "Fotografia realistica spontanea",
+      "shot_type": "Inquadratura a figura intera",
+      "angle": "Altezza occhi",
+      "focus": "Messa a fuoco nitida sul soggetto, profondità di campo elevata"
     }
   }
 }
@@ -2546,7 +2546,7 @@ A detailed image generation prompt for a romantic, elegant portrait of a young w
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456167150_mvg4i2_G9hL2zPXwAAqU8X.jpg" width="600" alt="Post sui social media - Cottagecore Garden Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456167150_mvg4i2_G9hL2zPXwAAqU8X.jpg" width="600" alt="Post sui social media - Prompt per un ritratto da giardino in stile Cottagecore - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2687,14 +2687,14 @@ Un prompt dettagliato in formato JSON, progettato per generare un'immagine POV i
 
 ---
 
-### No. 33: Post sui social media - Luxury Holiday Couple Editorial Portrait
+### No. 33: Post sui social media - Ritratto editoriale di coppia per vacanze di lusso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A highly structured JSON prompt for generating an ultra-photorealistic, high-fashion editorial portrait of a couple during the holidays. It includes detailed constraints for identity matching, pose (man kissing woman's cheek), wardrobe (red dress, black suit), and setting (Christmas tree, warm luxury lighting), along with an extensive negative prompt list.
+Un prompt JSON altamente strutturato per generare un ritratto editoriale di alta moda ultra-fotorealistico di una coppia durante le festività. Include vincoli dettagliati per la corrispondenza dell'identità, la posa (uomo che bacia la guancia della donna), il guardaroba (abito rosso, completo nero) e l'ambientazione (albero di Natale, illuminazione calda e lussuosa), insieme a un'ampia lista di prompt negativi.
 
 #### 📝 Prompt
 
@@ -2708,9 +2708,9 @@ A highly structured JSON prompt for generating an ultra-photorealistic, high-fas
       "priority": "highest"
     },
     "references": {
-      "female_character_reference_image": "UPLOAD_FEMALE_REFERENCE (OPTIONAL: for identity lock)",
-      "male_character_reference_image": "UPLOAD_MALE_REFERENCE (OPTIONAL: for identity lock)",
-      "pose_reference_image": "UPLOAD_POSE_REFERENCE (OPTIONAL: use this image for same pose/framing)"
+      "female_character_reference_image": "UPLOAD_FEMALE_REFERENCE (OPZIONALE: per blocco identità)",
+      "male_character_reference_image": "UPLOAD_MALE_REFERENCE (OPZIONALE: per blocco identità)",
+      "pose_reference_image": "UPLOAD_POSE_REFERENCE (OPZIONALE: usa questa immagine per la stessa posa/inquadratura)"
     },
     "output_settings": {
       "aspect_ratio": "2:3",
@@ -2722,29 +2722,29 @@ A highly structured JSON prompt for generating an ultra-photorealistic, high-fas
       "color_grade": "warm_luxury_true_to_life"
     },
     "hard_constraints": [
-      "EXACTLY 2 people only: one woman and one man.",
-      "If reference images are provided: perfect identity match (no face/body changes).",
-      "Match the pose and framing: the couple hugging; the man kissing the woman’s cheek; the woman’s arms around his neck; close, intimate stance.",
-      "No text, no logos, no watermarks.",
-      "Perfect anatomy: hands/fingers/teeth correct; no extra limbs.",
-      "Photoreal skin texture (no plastic smoothing).",
-      "Luxury holiday vibe; no cheap party props; no neon club lighting."
+      "ESATTAMENTE 2 persone: una donna e un uomo.",
+      "Se vengono fornite immagini di riferimento: corrispondenza perfetta dell'identità (nessun cambiamento di viso/corpo).",
+      "Corrispondenza della posa e dell'inquadratura: la coppia che si abbraccia; l'uomo che bacia la guancia della donna; le braccia della donna intorno al collo di lui; posa ravvicinata e intima.",
+      "Nessun testo, nessun logo, nessuna filigrana.",
+      "Anatomia perfetta: mani/dita/denti corretti; nessun arto in più.",
+      "Texture della pelle fotorealistica (nessuna levigatura plastica).",
+      "Atmosfera di lusso per le vacanze; nessun accessorio da festa economico; nessuna illuminazione al neon da club."
     ],
     "creative_prompt": {
-      "scene_summary": "Ultra-photoreal luxury holiday editorial portrait. A couple stands in front of a decorated Christmas tree with warm fairy lights and red ornaments. The woman wears a fitted elegant {argument name="woman's dress color" default="red"} dress (sleek, sophisticated; floor-length or fitted midi with a long red ribbon/scarf detail trailing down), glamorous makeup with classic red lipstick, soft bronzy blush, and defined brows; long glossy dark-to-warm brunette waves with volume. Her nails are painted red. She smiles subtly toward camera while the man kisses her cheek. The man wears a black suit with a white shirt and a red pocket square; groomed dark hair and a neat beard; one hand at her waist. Lighting: high-end editorial strobe + soft fill, warm ambient bokeh from tree lights, controlled shadows, cinematic but clean. Background: upscale indoor setting with a neutral wall, the Christmas tree positioned to the left, tasteful decorations, premium warm atmosphere. Camera: 85mm portrait look, shallow depth of field for creamy bokeh while keeping faces sharp."
+      "scene_summary": "Ritratto editoriale di lusso ultra-fotorealistico per le vacanze. Una coppia si trova di fronte a un albero di Natale decorato con calde lucine e ornamenti rossi. La donna indossa un elegante abito aderente {argument name=\"woman's dress color\" default=\"rosso\"} (elegante, sofisticato; lungo fino al pavimento o midi aderente con un lungo nastro/sciarpa rossa che scende), trucco glamour con classico rossetto rosso, blush bronzato delicato e sopracciglia definite; lunghi capelli mossi castano scuro-caldo e lucidi con volume. Le sue unghie sono dipinte di rosso. Sorride sottilmente verso la fotocamera mentre l'uomo le bacia la guancia. L'uomo indossa un abito nero con una camicia bianca e un fazzoletto da taschino rosso; capelli scuri curati e una barba ordinata; una mano alla vita di lei. Illuminazione: flash editoriale di alta gamma + luce di riempimento morbida, bokeh ambientale caldo dalle luci dell'albero, ombre controllate, cinematografico ma pulito. Sfondo: ambiente interno di lusso con una parete neutra, l'albero di Natale posizionato a sinistra, decorazioni di buon gusto, atmosfera calda e premium. Fotocamera: look da ritratto 85mm, profondità di campo ridotta per un bokeh cremoso mantenendo i volti nitidi."
     },
     "negative_prompt": [
-      "any text, logo, watermark",
-      "extra people",
-      "blurred faces",
-      "identity drift",
-      "deformed hands, extra fingers, warped anatomy",
-      "cartoon, anime, CGI look",
-      "plastic skin, heavy smoothing, beauty blur",
-      "overexposed highlights, harsh blown-out flash",
-      "neon lighting, nightclub look",
-      "messy background clutter",
-      "duplicate limbs, double heads"
+      "qualsiasi testo, logo, filigrana",
+      "persone extra",
+      "volti sfocati",
+      "deriva dell'identità",
+      "mani deformate, dita extra, anatomia distorta",
+      "cartone animato, anime, aspetto CGI",
+      "pelle di plastica, levigatura pesante, sfocatura bellezza",
+      "alte luci sovraesposte, flash bruciato e duro",
+      "illuminazione al neon, aspetto da night club",
+      "disordine di sfondo disordinato",
+      "arti duplicati, doppie teste"
     ]
   }
 }
@@ -2755,7 +2755,7 @@ A highly structured JSON prompt for generating an ultra-photorealistic, high-fas
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456198186_d11u31_G9hDJOQWEAA9Q4O.jpg" width="600" alt="Post sui social media - Luxury Holiday Couple Editorial Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456198186_d11u31_G9hDJOQWEAA9Q4O.jpg" width="600" alt="Post sui social media - Ritratto editoriale di coppia per vacanze di lusso - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2845,18 +2845,18 @@ Infografica in flat design, 16:9
 
 ---
 
-### No. 35: Infografica / Contenuto Visual Educativo - Sketch Drawing Annotation Prompt
+### No. 35: Infografica / Contenuto Visual Educativo - Prompt per l'annotazione di schizzi e disegni
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A simple prompt instructing the model to convert an uploaded photograph into a hand-drawn sketch with annotations, lines, doodles, and arrows identifying each item of clothing on notebook paper.
+Un semplice prompt che istruisce il modello a convertire una fotografia caricata in uno schizzo disegnato a mano con annotazioni, linee, scarabocchi e frecce che identificano ogni capo di abbigliamento su carta per appunti.
 
 #### 📝 Prompt
 
 ```
-create a sketch of a hand-drawn drawing with lines on notebook paper, doodles, and arrows identifying each item of clothing
+crea uno schizzo di un disegno fatto a mano con linee su carta da quaderno, scarabocchi e frecce che identificano ogni capo di abbigliamento
 ```
 
 #### 🖼️ Immagini generate
@@ -2864,19 +2864,19 @@ create a sketch of a hand-drawn drawing with lines on notebook paper, doodles, a
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456138460_sbjocm_G9hBFL4WgAAjBwK.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Sketch Drawing Annotation Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456138460_sbjocm_G9hBFL4WgAAjBwK.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Prompt per l'annotazione di schizzi e disegni - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456139757_xaiq60_G9hBFL5WgAAWUXg.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Sketch Drawing Annotation Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767456139757_xaiq60_G9hBFL5WgAAWUXg.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Prompt per l'annotazione di schizzi e disegni - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456141294_vsebwq_G9hBFL7XkAANtv8.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Sketch Drawing Annotation Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767456141294_vsebwq_G9hBFL7XkAANtv8.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Prompt per l'annotazione di schizzi e disegni - Image 3">
 </div>
 
 #### 📌 Dettagli
@@ -2890,39 +2890,39 @@ create a sketch of a hand-drawn drawing with lines on notebook paper, doodles, a
 
 ---
 
-### No. 36: Infografica / Contenuto Visual Educativo - Magic Prompt for Automatic Infographic Generation with Nano Banana Pro
+### No. 36: Infografica / Contenuto Visual Educativo - Magic Prompt per la generazione automatica di infografiche con Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-This prompt is designed for Nano Banana Pro, allowing users to input an entire article or report and automatically generate Napkin AI-quality infographics or visual summaries. It acts as a powerful tool for visual content creation from long-form text.
+Questo prompt è progettato per Nano Banana Pro e consente agli utenti di inserire un intero articolo o report per generare automaticamente infografiche o riassunti visivi di qualità Napkin AI. Agisce come un potente strumento per la creazione di contenuti visivi da testi lunghi.
 
 #### 📝 Prompt
 
 ```
-You are an expert in infographics. Read the article or report provided by the user and automatically generate a visually clear and attractive infographic that summarizes its content. Specifically, please create it considering the following elements:
+Sei un esperto di infografiche. Leggi l'articolo o il report fornito dall'utente e genera automaticamente un'infografica visivamente chiara e accattivante che ne riassuma il contenuto. In particolare, creala considerando i seguenti elementi:
 
-### Objective
-To visualize the main message, key data, process, or structure of the article or report so that it can be understood at a glance.
+### Obiettivo
+Visualizzare il messaggio principale, i dati chiave, il processo o la struttura dell'articolo o del report in modo che possa essere compreso a colpo d'occhio.
 
-### Style and Tone
-*   **Style**: A hand-drawn or minimal and sophisticated diagram style, similar to Napkin AI.
-*   **Tone**: Professional yet approachable and visually appealing.
+### Stile e Tono
+*   **Stile**: Uno stile di diagramma disegnato a mano o minimale e sofisticato, simile a Napkin AI.
+*   **Tono**: Professionale ma accessibile e visivamente accattivante.
 
-### Components
-1.  **Title**: An attractive title that concisely represents the article's theme.
-2.  **Key Points**: 3 to 5 of the most important points extracted from the entire article.
-3.  **Diagrams**: Graphs, flowcharts, icons, or conceptual diagrams to represent the key points or processes.
-4.  **Data**: If there are specific numbers or statistical data in the article, display them in an emphasized manner.
-5.  **Conclusion/Action**: A summary of the article or the next action expected from the reader.
+### Componenti
+1.  **Titolo**: Un titolo accattivante che rappresenti concisamente il tema dell'articolo.
+2.  **Punti chiave**: Da 3 a 5 dei punti più importanti estratti dall'intero articolo.
+3.  **Diagrammi**: Grafici, diagrammi di flusso, icone o diagrammi concettuali per rappresentare i punti chiave o i processi.
+4.  **Dati**: Se ci sono numeri specifici o dati statistici nell'articolo, visualizzali in modo enfatizzato.
+5.  **Conclusione/Azione**: Un riassunto dell'articolo o la prossima azione attesa dal lettore.
 
-### Output Format
-Based on the content of the provided article, output the overall image of the infographic, integrating the above components, as detailed instructions. Describe the diagram ideas, layout suggestions, and the image of the colors and fonts to be used specifically.
+### Formato di Output
+Basandosi sul contenuto dell'articolo fornito, restituisci l'immagine complessiva dell'infografica, integrando i componenti di cui sopra, come istruzioni dettagliate. Descrivi le idee per il diagramma, i suggerimenti per il layout e l'immagine dei colori e dei caratteri da utilizzare in modo specifico.
 
-### Article/Report
-{argument name="Content of the Article or Report" default="[Paste the full text of the article or report here]"}
+### Articolo/Report
+{argument name="Content of the Article or Report" default="[Incolla qui il testo completo dell'articolo o del report]"}
 ```
 
 #### 🖼️ Immagini generate
@@ -2930,7 +2930,7 @@ Based on the content of the provided article, output the overall image of the in
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455045745_s83lhl_G9clYFEWoAAgGDo.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Magic Prompt for Automatic Infographic Generation with Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767455045745_s83lhl_G9clYFEWoAAgGDo.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Magic Prompt per la generazione automatica di infografiche con Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -2944,55 +2944,55 @@ Based on the content of the provided article, output the overall image of the in
 
 ---
 
-### No. 37: Infografica / Contenuto Visual Educativo - Historical Archivist Prompt for Flawed Inventions
+### No. 37: Infografica / Contenuto Visual Educativo - Prompt per l'archivista storico: Invenzioni imperfette
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A complex, multi-phase prompt designed for the AI to act as a Historical Archivist, generating a photorealistic macro photograph of a container overflowing with the physical forms of four obscure, failed historical prototypes from a user-specified era, complete with legible, handwritten labels detailing the invention and its fatal flaw.
+Un prompt complesso e multifase progettato affinché l'IA agisca come un Archivista Storico, generando una macro fotografia fotorealistica di un contenitore straripante di forme fisiche di quattro prototipi storici oscuri e falliti di un'epoca specificata dall'utente, completa di etichette leggibili e scritte a mano che descrivono l'invenzione e il suo difetto fatale.
 
 #### 📝 Prompt
 
 ```
-Role: Historical Archivist & Technical Illustrator.
-Input Era/Region: {argument name="era and region" default="US, 1820s"}
+Ruolo: Archivista Storico e Illustratore Tecnico.
+Epoca/Regione di Input: {argument name="era and region" default="USA, anni '20 dell'Ottocento"}
 
-Phase 1: The Deep Dive (AI to Deduce)
-1.  Identify Container: Era-appropriate storage (Chest, Cabinet, Box).
-2.  Identify Paperwork: Era-appropriate medium (Vellum, Blueprints, Floppy Disks).
-3.  Identify 4 Obscure Failures:
-    Constraint: Do NOT select famous successes. Select Bizarre, Failed, or Dangerous prototypes.
-   Data Extraction: For each item, identify its Historical Name and its Fatal Flaw.
+Fase 1: L'Immersione Profonda (L'IA deve dedurre)
+1.  Identificare il Contenitore: Contenitore appropriato all'epoca (Cassa, Armadietto, Scatola).
+2.  Identificare la Documentazione: Supporto appropriato all'epoca (Pergamena, Progetti, Floppy Disk).
+3.  Identificare 4 Fallimenti Oscuri:
+    Vincolo: NON selezionare successi famosi. Selezionare prototipi Bizzarri, Falliti o Pericolosi.
+    Estrazione Dati: Per ogni elemento, identificare il suo Nome Storico e il suo Difetto Fatale.
 
-Phase 2: The Visual Translation Layer (Geometry)
-Logic: The AI must explicitly analyze the Physical Form Factor of each selected invention.
-Instruction: Do not render generic shapes. If it's a "Steam Man," render a brass robot. If it's a "Pneumatic Tube," render the piping.
+Fase 2: Lo Strato di Traduzione Visiva (Geometria)
+Logica: L'IA deve analizzare esplicitamente il Fattore di Forma Fisico di ogni invenzione selezionata.
+Istruzione: Non rappresentare forme generiche. Se è un "Uomo a Vapore", rappresenta un robot di ottone. Se è un "Tubo Pneumatico", rappresenta le tubazioni.
 
-Phase 3: Visual Execution
-Subject: The [Container] overflowing with the [Signature Geometries] of the lost inventions.
+Fase 3: Esecuzione Visiva
+Soggetto: Il [Contenitore] straripante delle [Geometrie Distintive] delle invenzioni perdute.
 
-1. The "Lost" Prototypes:
-Render the 4 inventions based strictly on their Physical Form Factor.
-Material: Authentic materials (Brass, Wood, Bakelite, Clay) based on the era.
+1. I Prototipi "Perduti":
+Rappresentare le 4 invenzioni basandosi strettamente sul loro Fattore di Forma Fisico.
+Materiale: Materiali autentici (Ottone, Legno, Bachelite, Argilla) basati sull'epoca.
 
-2. The Labels (CRITICAL UPDATE):
-Format: Each item has a clearly attached tag (String/Wax/Adhesive) with Legible Text.
-Text Structure:
-Line 1:[The Invention Name] (e.g., "The Dynasphere").
-Line 2:[The Flaw] (e.g., "Unstable Steering").
-Note:Ensure the text looks handwritten or stamped according to the time period.
+2. Le Etichette (AGGIORNAMENTO CRITICO):
+Formato: Ogni elemento ha un'etichetta chiaramente attaccata (Spago/Cera/Adesivo) con Testo Leggibile.
+Struttura del Testo:
+Riga 1: [Nome dell'Invenzione] (es. "La Dynasphere").
+Riga 2: [Il Difetto] (es. "Sterzo Instabile").
+Nota: Assicurarsi che il testo appaia scritto a mano o timbrato in base al periodo storico.
 
-3. The Narrative:
-The Inventors: Tiny figurines reacting to the failure (frustrated, crying, kicking the machine).
-The Contrast: A generic Modern Smartphone (or futuristic device) sitting on the edge for scale/irony.
+3. La Narrazione:
+Gli Inventori: Piccole statuette che reagiscono al fallimento (frustrati, piangenti, che prendono a calci la macchina).
+Il Contrasto: Uno Smartphone moderno generico (o un dispositivo futuristico) posizionato sul bordo per scala/ironia.
 
-4. Atmosphere:
-Lighting: Dramatic, moody, specific to the era.
-Texture: Macro details of rust, dust, and age.
+4. Atmosfera:
+Illuminazione: Drammatica, suggestiva, specifica dell'epoca.
+Texture: Macro dettagli di ruggine, polvere e invecchiamento.
 
-Output: ONE image, 4:5, Photorealistic Macro Photography, Legible Text Labels.
+Output: UN'immagine, 4:5, Fotografia Macro Fotorealistica, Etichette Testuali Leggibili.
 ```
 
 #### 🖼️ Immagini generate
@@ -3000,13 +3000,13 @@ Output: ONE image, 4:5, Photorealistic Macro Photography, Legible Text Labels.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454930384_i85347_G9TrT6_WQAE5a3t.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Historical Archivist Prompt for Flawed Inventions - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767454930384_i85347_G9TrT6_WQAE5a3t.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Prompt per l'archivista storico: Invenzioni imperfette - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454930718_xcrera_G9Trm2aXIAAcNTP.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Historical Archivist Prompt for Flawed Inventions - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767454930718_xcrera_G9Trm2aXIAAcNTP.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Prompt per l'archivista storico: Invenzioni imperfette - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -3020,18 +3020,18 @@ Output: ONE image, 4:5, Photorealistic Macro Photography, Legible Text Labels.
 
 ---
 
-### No. 38: Infografica / Contenuto Visual Educativo - Taylor Swift Eras Tour vs. Human Civilization Ages Comparison
+### No. 38: Infografica / Contenuto Visual Educativo - Confronto tra il Taylor Swift Eras Tour e le Ere della Civiltà Umana
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A prompt for generating a visual comparison chart that matches Taylor Swift's 10 Eras Tour albums with 10 specific ages of human civilization (Stone Age, Bronze Age, etc.), requiring an explanation and visual aesthetic match for each pairing.
+Un prompt per generare un grafico comparativo visivo che abbini i 10 album del "Eras Tour" di Taylor Swift a 10 età specifiche della civiltà umana (Età della Pietra, Età del Bronzo, ecc.), richiedendo una spiegazione e una corrispondenza estetica visiva per ogni abbinamento.
 
 #### 📝 Prompt
 
 ```
-Create a beautiful visual comparison chart that matches these 10 eras/ages of human civilization with Taylor Swift’s 10 Eras Tour albums. For each pairing, explain and show why the aesthetic and mood match. The 10 Ages: Stone Age, Bronze Age, Iron Age, Classical Antiquity, Medieval, Renaissance, Age of Exploration, Industrial Revolution, Space Age, Digital Age
+Crea una splendida tabella comparativa visiva che abbini queste 10 ere/età della civiltà umana ai 10 album del The Eras Tour di Taylor Swift. Per ogni abbinamento, spiega e mostra perché l'estetica e l'atmosfera corrispondono. Le 10 età: Età della Pietra, Età del Bronzo, Età del Ferro, Antichità Classica, Medioevo, Rinascimento, Età delle Esplorazioni, Rivoluzione Industriale, Era Spaziale, Era Digitale
 ```
 
 #### 🖼️ Immagini generate
@@ -3039,7 +3039,7 @@ Create a beautiful visual comparison chart that matches these 10 eras/ages of hu
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454973939_ltycsp_G9cHzphWgAEnUeN.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Taylor Swift Eras Tour vs. Human Civilization Ages Comparison - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767454973939_ltycsp_G9cHzphWgAEnUeN.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Confronto tra il Taylor Swift Eras Tour e le Ere della Civiltà Umana - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3053,44 +3053,44 @@ Create a beautiful visual comparison chart that matches these 10 eras/ages of hu
 
 ---
 
-### No. 39: Infografica / Contenuto Visual Educativo - Exploded View Taco Infographic for Commercial Use
+### No. 39: Infografica / Contenuto Visual Educativo - Infografica Taco in Vista Esplosa per Uso Commerciale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A detailed prompt for generating a clean, commercial-style infographic showing an exploded view of a taco. It specifies the exact ingredients, weights, vertical alignment, and annotation design guidelines for high visual clarity and instructional quality.
+Un prompt dettagliato per generare un'infografica pulita, in stile commerciale, che mostri una vista esplosa di un taco. Specifica gli ingredienti esatti, i pesi, l'allineamento verticale e le linee guida per la progettazione delle annotazioni, al fine di ottenere un'elevata chiarezza visiva e qualità didattica.
 
 #### 📝 Prompt
 
 ```
-Exploded view of the same taco, presented as a clean, commercial recipe-style breakdown.
-Exactly five ingredients, matching the first image, separated and arranged vertically from top to bottom, evenly spaced and perfectly aligned.
+Vista esplosa dello stesso taco, presentata come una scomposizione pulita e in stile ricetta commerciale.
+Esattamente cinque ingredienti, corrispondenti alla prima immagine, separati e disposti verticalmente dall'alto verso il basso, equamente distanziati e perfettamente allineati.
 
-Ingredient order (top → bottom):
+Ordine degli ingredienti (dall'alto → in basso):
 
-Fresh tomato salsa — 40 g
+Salsa fresca di pomodoro — 40 g
 
-Shredded cheddar cheese — 30 g
+Formaggio cheddar grattugiato — 30 g
 
-Grilled chicken pieces — 80 g
+Pezzetti di pollo grigliato — 80 g
 
-Crisp lettuce — 25 g
+Lattuga croccante — 25 g
 
-Soft wheat taco tortilla — 60 g (bottom base)
+Tortilla di taco di grano tenero — 60 g (base inferiore)
 
-Add clear infographic-style annotations for each ingredient.
-Each annotation includes the ingredient name and its exact weight in grams, written exactly as listed above.
+Aggiungere annotazioni chiare in stile infografico per ogni ingrediente.
+Ogni annotazione include il nome dell'ingrediente e il suo peso esatto in grammi, scritto esattamente come elencato sopra.
 
-Annotation design guidelines:
-– Clean sans-serif font, medium weight
-– Text placed inside minimal frames or boxes
-– Thin, precise connector lines pointing directly to each ingredient
-– High readability, no overlap, no decorative excess
-– Structured vertical layout, like a modern recipe card
+Linee guida per il design delle annotazioni:
+– Carattere sans-serif pulito, peso medio
+– Testo inserito all'interno di cornici o riquadri minimali
+– Linee di collegamento sottili e precise che puntano direttamente a ciascun ingrediente
+– Alta leggibilità, nessuna sovrapposizione, nessun eccesso decorativo
+– Layout verticale strutturato, come una moderna scheda ricetta
 
-Background is light, neutral, and optimized for text clarity and visual cleanliness.
-Overall style is minimal, instructional, and commercial, suitable for marketing, explainer visuals, and product breakdowns.
+Lo sfondo è chiaro, neutro e ottimizzato per la chiarezza del testo e la pulizia visiva.
+Lo stile generale è minimale, didattico e commerciale, adatto per marketing, visualizzazioni esplicative e scomposizioni di prodotti.
 ```
 
 #### 🖼️ Immagini generate
@@ -3098,7 +3098,7 @@ Overall style is minimal, instructional, and commercial, suitable for marketing,
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454939739_huher3_G9bbFHObEAEUBvC.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Exploded View Taco Infographic for Commercial Use - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767454939739_huher3_G9bbFHObEAEUBvC.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Infografica Taco in Vista Esplosa per Uso Commerciale - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3112,27 +3112,27 @@ Overall style is minimal, instructional, and commercial, suitable for marketing,
 
 ---
 
-### No. 40: Infografica / Contenuto Visual Educativo - Evolutionary Blueprint Sheet for an Invention
+### No. 40: Infografica / Contenuto Visual Educativo - Scheda del Progetto Evolutivo per un'Invenzione
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A detailed prompt for generating a large, technical blueprint sheet that visualizes the complete evolutionary journey of an invention, transitioning across multiple stages from a flat 2D line drawing to a photorealistic 3D working model, complete with evolving inventor figures and technical annotations.
+Un prompt dettagliato per generare un grande foglio di progetto tecnico che visualizzi l'intero percorso evolutivo di un'invenzione, passando attraverso più fasi da un disegno lineare 2D piatto a un modello 3D fotorealistico funzionante, completo di figure di inventori in evoluzione e annotazioni tecniche.
 
 #### 📝 Prompt
 
 ```
-Single large horizontal blueprint sheet, 16:9 aspect ratio, showing the complete evolutionary journey of **{argument name="invention name" default="[INVENTION]"}** from its first concept to its modern form, presented as a technical blueprint coming to life.
-Authentic aged blueprint paper with white technical lines on deep blue background, subtle coffee stained edges and worn paper texture. Forced perspective across the page from left to right.
-Left side shows the original patent era design of **{argument name="invention name" default="[INVENTION]"}** as a pure flat 2D technical line drawing, precise drafting style, no depth. Inventor figure on the far left also drawn fully in 2D blueprint line art.
-Gradual transformation across 7 to 9 clearly separated stages moving rightward: Stage 1 pure technical line drawing. Stage 2 blueprint lines beginning to lift off the page with a paper craft effect. Stage 3 partial miniature model emerging from the blueprint. Stage 4 fully formed 3D miniature model, unpainted. Stage 5 painted miniature with realistic materials. Final stage shows a photo realistic tiny working version of **{argument name="invention name" default="[INVENTION]"}**.
-The inventor figure evolves in parallel from flat 2D drawing on the left into a fully 3D miniature figurine on the right, matching the same transformation stages.
-Each stage labeled with technical annotations, measurement markings, arrows, and small evolution dates in blueprint drafting style typography.
-Drafting tools including compass, protractor, mechanical pencil, ruler, and T square interacting with the flat blueprint areas, while the 3D sections break free from the page.
-Lighting transitions from cool LED blueprint table backlight on the left to realistic practical lighting on the right, emphasizing depth and realism.
-Ultra detailed technical illustration meets practical effects, high realism, clean composition, museum quality concept visualization.
+Un unico grande foglio orizzontale di progetto, con proporzioni 16:9, che mostra il percorso evolutivo completo di **{argument name="invention name" default="[INVENTION]"}** dal suo primo concetto alla sua forma moderna, presentato come un progetto tecnico che prende vita.
+Autentica carta da progetto invecchiata con linee tecniche bianche su sfondo blu scuro, sottili bordi macchiati di caffè e texture di carta usurata. Prospettiva forzata attraverso la pagina da sinistra a destra.
+Il lato sinistro mostra il design originale di **{argument name="invention name" default="[INVENTION]"}** dell'epoca del brevetto come un puro disegno tecnico 2D piatto, stile di disegno preciso, senza profondità. La figura dell'inventore all'estrema sinistra è anch'essa disegnata interamente con linee di progetto 2D.
+Trasformazione graduale attraverso 7-9 fasi chiaramente separate che si muovono verso destra: Fase 1 puro disegno tecnico a linee. Fase 2 linee di progetto che iniziano a sollevarsi dalla pagina con un effetto di papercraft. Fase 3 modello in miniatura parziale che emerge dal progetto. Fase 4 modello in miniatura 3D completamente formato, non verniciato. Fase 5 miniatura verniciata con materiali realistici. La fase finale mostra una versione minuscola e funzionante fotorealistica di **{argument name="invention name" default="[INVENTION]"}**.
+La figura dell'inventore si evolve in parallelo dal disegno piatto 2D a sinistra in una statuetta in miniatura completamente 3D a destra, corrispondente alle stesse fasi di trasformazione.
+Ogni fase è etichettata con annotazioni tecniche, marcature di misurazione, frecce e piccole date di evoluzione in tipografia stile disegno tecnico.
+Strumenti di disegno inclusi compasso, goniometro, matita meccanica, righello e squadra a T che interagiscono con le aree piatte del progetto, mentre le sezioni 3D si liberano dalla pagina.
+L'illuminazione passa dalla retroilluminazione fredda del tavolo da progetto a LED a sinistra all'illuminazione pratica realistica a destra, enfatizzando profondità e realismo.
+Illustrazione tecnica ultra dettagliata incontra effetti pratici, alto realismo, composizione pulita, visualizzazione concettuale di qualità museale.
 ```
 
 #### 🖼️ Immagini generate
@@ -3140,7 +3140,7 @@ Ultra detailed technical illustration meets practical effects, high realism, cle
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454977957_85f2jx_G9aZXrAbQAAACme.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Evolutionary Blueprint Sheet for an Invention - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767454977957_85f2jx_G9aZXrAbQAAACme.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Scheda del Progetto Evolutivo per un'Invenzione - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3154,18 +3154,18 @@ Ultra detailed technical illustration meets practical effects, high realism, cle
 
 ---
 
-### No. 41: Infografica / Contenuto Visual Educativo - Macro Diorama of a Historical Scientist's Workspace
+### No. 41: Infografica / Contenuto Visual Educativo - Macrodiorama del luogo di lavoro di uno scienziato storico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-This is a detailed image generation prompt designed to create a photorealistic historical macro diorama. The scene focuses on a messy laboratory bench where an open, antique notebook serves as the centerpiece. A tiny, hyper-realistic figurine of a specified scientist is shown working on the notes, surrounded by giant, period-accurate objects that relate to their work, such as massive scientific tools and a newspaper, all captured in a warm, late-night library lamp light.
+Questo è un prompt dettagliato per la generazione di immagini, progettato per creare un diorama macro storico fotorealistico. La scena si concentra su un banco da laboratorio disordinato dove un quaderno antico e aperto funge da fulcro. Una minuscola statuetta iperrealistica di uno scienziato specifico è raffigurata mentre lavora sulle note, circondata da oggetti giganti e fedeli all'epoca che si riferiscono al suo lavoro, come enormi strumenti scientifici e un giornale, il tutto catturato da una calda luce di lampada da biblioteca a tarda notte.
 
 #### 📝 Prompt
 
 ```
-Analyze: Determine the scientist responsible, the specific era, and the visual diagrams associated with the theory. Goal: A Macro Diorama on a Laboratory Bench. A messy, highly detailed flat-lay of a historical workspace that serves as a giant landscape for a living miniature version of the scientist. Centerpiece: An open, antique notebook lying flat. The pages must be visible and filled with specific handwritten equations and diagrams relevant to the Input Theory. Sitting directly on top of these open pages is a tiny, hyper-realistic figurine of the scientist sitting at a proportionally tiny wooden desk, working on the very notes beneath him. Surroundings: The environment is cluttered with giant-scale period-accurate objects that relate to the scientist's work. This includes a newspaper from the era acting as a backdrop, a giant coffee mug leaving stains, and massive scientific tools relevant to the theory (such as compasses, lenses, or pocket watches) scattered like terrain. Perspective: Slightly angled 45-degree macro shot looking down at the notebook. Texture: Wood grain, scratched metal, paper texture, dust particles. Lighting: Warm, late-night library lamp lighting creating a spotlight on the tiny scientist and deep shadows behind the giant props. Output: one image, 4:5 aspect ratio, photorealistic historical macro photography.
+Analisi: Determinare lo scienziato responsabile, l'epoca specifica e i diagrammi visivi associati alla teoria. Obiettivo: Un Macro Diorama su un Banco da Laboratorio. Una vista dall'alto disordinata e altamente dettagliata di uno spazio di lavoro storico che funge da paesaggio gigante per una versione in miniatura vivente dello scienziato. Pezzo centrale: Un quaderno antico aperto, appoggiato in piano. Le pagine devono essere visibili e piene di equazioni e diagrammi specifici scritti a mano, pertinenti alla Teoria di Input. Direttamente sopra queste pagine aperte c'è una minuscola statuetta iperrealistica dello scienziato seduto a una scrivania di legno proporzionalmente minuscola, che lavora sulle note proprio sotto di lui. Dintorni: L'ambiente è ingombrato da oggetti giganti e accurati per l'epoca, che si riferiscono al lavoro dello scienziato. Questo include un giornale dell'epoca che funge da sfondo, una tazza di caffè gigante che lascia macchie e massicci strumenti scientifici pertinenti alla teoria (come bussole, lenti o orologi da tasca) sparsi come terreno. Prospettiva: Scatto macro leggermente angolato di 45 gradi, che guarda in basso verso il quaderno. Texture: Venature del legno, metallo graffiato, texture della carta, particelle di polvere. Illuminazione: Illuminazione calda da lampada da biblioteca a tarda notte che crea un riflettore sul minuscolo scienziato e ombre profonde dietro gli oggetti giganti. Output: un'immagine, rapporto d'aspetto 4:5, fotografia macro storica fotorealistica.
 ```
 
 #### 🖼️ Immagini generate
@@ -3173,7 +3173,7 @@ Analyze: Determine the scientist responsible, the specific era, and the visual d
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455015216_gkx0d5_G9BRzJ5WgAAaOCm.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Macro Diorama of a Historical Scientist's Workspace - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767455015216_gkx0d5_G9BRzJ5WgAAaOCm.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Macrodiorama del luogo di lavoro di uno scienziato storico - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3187,19 +3187,39 @@ Analyze: Determine the scientist responsible, the specific era, and the visual d
 
 ---
 
-### No. 42: Infografica / Contenuto Visual Educativo - Futuristic AI Age Checker Infographic Portrait
+### No. 42: Infografica / Contenuto Visual Educativo - Infografica ritratto: verificatore di età futuristico basato su AI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A complex prompt for generating a hyper-realistic portrait infographic based on a user's photo, overlaid with a futuristic, subtle facial analysis grid and laser line. It requires the AI to estimate and display five aging factors with percentage scores and a final estimated age, styled like a premium cosmetic-tech advertisement.
+Un prompt complesso per generare un'infografica di un ritratto iperrealistico basata sulla foto di un utente, sovrapposta a una griglia di analisi facciale futuristica e sottile e a una linea laser. Richiede all'IA di stimare e visualizzare cinque fattori di invecchiamento con punteggi percentuali e un'età stimata finale, il tutto nello stile di una pubblicità di cosmetici-tech di alta gamma.
 
 #### 📝 Prompt
 
 ```
-A hyper-realistic, high-resolution portrait infographic based on (your photo). Keep the same person, identity, hairstyle, clothing and natural skin tone from (your photo), with a neutral studio background.Overlay a subtle, semi-transparent facial analysis grid on the entire face, very similar to a 3D face-scanning mesh: thin, soft white lines following the facial contours, slightly glowing but not hiding the skin details. Add one clean vertical red laser line running down one side of the face, like a futuristic scan. All analysis lines must be soft, minimal and elegant, exactly like a cosmetic-tech advertisement.Create a clean medical–aesthetic infographic that evaluates 5 aging factors using global data percentages:1. Fine lines and wrinkles2. Skin texture and elasticity3. Facial volume and sagging4. Eye area aging signs5. Skin tone and pigmentationFor each factor, place a small label with a thin line pointing to the relevant facial area, and next to it write a short title and a realistic percentage score from 0–100% (based on global data), for example:“Fine lines & wrinkles – 18%”“Skin texture & elasticity – 72%”“Facial volume & sagging – 35%”“Eye area aging signs – 41%”“Skin tone & pigmentation – 63%”Use clean, modern, sans-serif typography and small technical-style text, like a scientific facial analysis UI. At the bottom of the image, in the center, write a large bold text showing the final estimated real age based on the analysis, for example:“ESTIMATED AGE: {argument name="estimated age" default="(random number based on face analysis )"}”Overall style: futuristic AI-guided skincare analysis, minimalistic, premium editorial lighting, no gender mentioned, suitable for any human face.
+Un'infografica ritratto iperrealistica ad alta risoluzione basata sulla (tua foto). Mantieni la stessa persona, identità, acconciatura, abbigliamento e tonalità naturale della pelle della (tua foto), con uno sfondo neutro da studio. Sovrapponi una griglia di analisi facciale sottile e semitrasparente sull'intero viso, molto simile a una mesh di scansione facciale 3D: linee sottili e morbide bianche che seguono i contorni del viso, leggermente luminose ma senza nascondere i dettagli della pelle. Aggiungi una linea laser rossa verticale pulita che scorre lungo un lato del viso, come una scansione futuristica. Tutte le linee di analisi devono essere morbide, minimali ed eleganti, esattamente come una pubblicità di tecnologia cosmetica. Crea un'infografica medico-estetica pulita che valuti 5 fattori di invecchiamento utilizzando percentuali di dati globali:
+
+1. Linee sottili e rughe
+2. Texture ed elasticità della pelle
+3. Volume facciale e cedimenti
+4. Segni di invecchiamento del contorno occhi
+5. Tono della pelle e pigmentazione
+
+Per ogni fattore, posiziona una piccola etichetta con una linea sottile che punta all'area facciale pertinente, e accanto ad essa scrivi un breve titolo e un punteggio percentuale realistico da 0–100% (basato su dati globali), ad esempio:
+
+"Linee sottili e rughe – 18%"
+"Texture ed elasticità della pelle – 72%"
+"Volume facciale e cedimenti – 35%"
+"Segni di invecchiamento del contorno occhi – 41%"
+"Tono della pelle e pigmentazione – 63%"
+
+Usa una tipografia pulita, moderna, senza grazie e un testo piccolo in stile tecnico, come un'interfaccia utente di analisi facciale scientifica. Nella parte inferiore dell'immagine, al centro, scrivi un testo grande e in grassetto che mostri l'età reale stimata finale basata sull'analisi, ad esempio:
+
+"ETÀ STIMATA: {argument name="estimated age" default="(numero casuale basato sull'analisi del viso)"}"
+
+Stile generale: analisi della cura della pelle futuristica guidata dall'IA, minimalista, illuminazione editoriale premium, nessun genere menzionato, adatta a qualsiasi volto umano.
 ```
 
 #### 🖼️ Immagini generate
@@ -3207,13 +3227,13 @@ A hyper-realistic, high-resolution portrait infographic based on (your photo). K
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454915693_6ikr48_G9Z9qZ-XYAAdyI0.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Futuristic AI Age Checker Infographic Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767454915693_6ikr48_G9Z9qZ-XYAAdyI0.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Infografica ritratto: verificatore di età futuristico basato su AI - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454916002_wdvgln_G9Z9qN9XwAA2xb-.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Futuristic AI Age Checker Infographic Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767454916002_wdvgln_G9Z9qN9XwAA2xb-.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Infografica ritratto: verificatore di età futuristico basato su AI - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -3227,35 +3247,35 @@ A hyper-realistic, high-resolution portrait infographic based on (your photo). K
 
 ---
 
-### No. 43: Infografica / Contenuto Visual Educativo - Miniature Diorama Prompt for Visualizing the Historical Journey of Calculus
+### No. 43: Infografica / Contenuto Visual Educativo - Prompt di Diorama in Miniatura per Visualizzare il Percorso Storico del Calcolo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A highly detailed, ultra-wide image generation prompt designed to visualize the historical journey and cultural spread of a technological concept, using Calculus as the example. It instructs the AI to create a 3D topographic miniature Silk Road caravan scene, showing the technology transforming across different civilizations and time periods, complete with micro-dioramas at each stop and specific material and lighting instructions for an epic historical adventure aesthetic.
+Un prompt per la generazione di immagini ultra-ampie e altamente dettagliate, progettato per visualizzare il percorso storico e la diffusione culturale di un concetto tecnologico, utilizzando il Calcolo come esempio. Istruisce l'IA a creare una scena 3D topografica in miniatura di una carovana sulla Via della Seta, mostrando la tecnologia che si trasforma attraverso diverse civiltà e periodi storici, completa di micro-diorami a ogni fermata e istruzioni specifiche su materiali e illuminazione per un'estetica da epica avventura storica.
 
 #### 📝 Prompt
 
 ```
-Input A: {argument name="concept" default="calculus"}
-Input A is a technology that traveled historical trade routes (papermaking, gunpowder, astronomy, silk production, algebra, etc.).
-Analyze: origin civilization, the journey route, cultural adaptations at each stop, timeline of spread.
-Goal: Miniature Silk Road/trade route caravan scene showing technology being transported and transformed.
-Rules:
-- Base: 3D topographic map showing actual historical route (mountains, deserts, seas)
-- Caravan: 8-12 miniature merchant/scholar figurines progressing along route with pack animals
-- Each stop: micro-diorama of how that civilization adapted the technology
-  * Origin point: technology in pure form with inventor culture's aesthetic
-  * Midpoint stops: hybrid versions showing cultural fusion
-  * Destination: fully transformed/adapted version
-- Include: the technology itself transforming—paper becoming different textures, numbers changing symbol systems, etc.
-- Obstacles: miniature barriers that were overcome (mountain passes, hostile territories, language barriers shown as scroll fragments in different scripts)
-- Time markers: seasons/years labeled along route
-- Materials: actual sand/terrain materials, tiny textiles from different cultures, brass caravans
-- Lighting: journey from dawn (origin) to dusk (destination) across the scene
-Output: ONE image, 21:9 ultra-wide to capture full journey, epic historical adventure photography
+Input A: {argument name="concept" default="calcolo"}
+Input A è una tecnologia che ha percorso le rotte commerciali storiche (fabbricazione della carta, polvere da sparo, astronomia, produzione della seta, algebra, ecc.).
+Analisi: civiltà d'origine, percorso del viaggio, adattamenti culturali ad ogni tappa, cronologia della diffusione.
+Obiettivo: Scena in miniatura di una carovana sulla Via della Seta/rotta commerciale che mostra la tecnologia trasportata e trasformata.
+Regole:
+- Base: Mappa topografica 3D che mostra il percorso storico reale (montagne, deserti, mari)
+- Carovana: 8-12 statuette in miniatura di mercanti/studiosi che avanzano lungo il percorso con animali da soma
+- Ogni tappa: micro-diorama di come quella civiltà ha adattato la tecnologia
+  * Punto d'origine: tecnologia nella sua forma pura con l'estetica della cultura dell'inventore
+  * Tappe intermedie: versioni ibride che mostrano la fusione culturale
+  * Destinazione: versione completamente trasformata/adattata
+- Includere: la tecnologia stessa che si trasforma — la carta che assume diverse trame, i numeri che cambiano sistemi di simboli, ecc.
+- Ostacoli: barriere in miniatura che sono state superate (passi di montagna, territori ostili, barriere linguistiche mostrate come frammenti di pergamena in diverse scritture)
+- Indicatori temporali: stagioni/anni etichettati lungo il percorso
+- Materiali: sabbia/materiali del terreno reali, minuscoli tessuti di diverse culture, carovane in ottone
+- Illuminazione: viaggio dall'alba (origine) al tramonto (destinazione) attraverso la scena
+Output: UNA immagine, ultra-wide 21:9 per catturare l'intero viaggio, fotografia epica di avventura storica
 ```
 
 #### 🖼️ Immagini generate
@@ -3263,7 +3283,7 @@ Output: ONE image, 21:9 ultra-wide to capture full journey, epic historical adve
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455007745_dlku5z_G9OmbKIXsAAeQGM.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Miniature Diorama Prompt for Visualizing the Historical Journey of Calculus - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767455007745_dlku5z_G9OmbKIXsAAeQGM.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Prompt di Diorama in Miniatura per Visualizzare il Percorso Storico del Calcolo - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3277,35 +3297,35 @@ Output: ONE image, 21:9 ultra-wide to capture full journey, epic historical adve
 
 ---
 
-### No. 44: Infografica / Contenuto Visual Educativo - Nano-banana Pro Persona Generation Prompt
+### No. 44: Infografica / Contenuto Visual Educativo - Prompt per la generazione di Nano-banana Pro Persona
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-This tweet showcases the power of Nano-banana Pro, an AI tool, to instantly generate a detailed persona. The prompt is designed to create a comprehensive profile for a target audience member, including demographics, psychographics, needs, and pain points, which is highly useful for marketing, content creation, and product development.
+Questo tweet mostra la potenza di Nano-banana Pro, uno strumento di intelligenza artificiale, nel generare istantaneamente una persona dettagliata. Il prompt è progettato per creare un profilo completo per un membro del pubblico target, includendo dati demografici, psicografici, bisogni e punti dolenti, il che è estremamente utile per il marketing, la creazione di contenuti e lo sviluppo del prodotto.
 
 #### 📝 Prompt
 
 ```
-You are a professional persona designer. Based on the following information, please design a detailed persona.
+Sei un designer di persona professionale. Sulla base delle seguenti informazioni, progetma una persona dettagliata.
 
-**Target Audience:** {argument name="target audience" default="Women in their 30s, living in the city center, working at an IT company"}
-**Objective:** {argument name="objective" default="Developing a marketing strategy for a new beauty serum"}
+**Target Audience:** {argument name="target audience" default="Donne sui 30 anni, che vivono in centro città, lavorano in un'azienda IT"}
+**Obiettivo:** {argument name="objective" default="Sviluppare una strategia di marketing per un nuovo siero di bellezza"}
 
-**Elements to include in the persona:**
-1. Basic information (Name, Age, Occupation, Residence, Family structure)
-2. Personality and Values
-3. Lifestyle (Daily routine, Hobbies, Information sources)
-4. Challenges and Needs (Beauty concerns, Desired solutions)
-5. Goals and Motivation
-6. Purchasing behavior (Points of emphasis, Budget range, Purchase channels)
-7. Touchpoints with the service/product (Usage scenarios, Expected effects)
+**Elementi da includere nella persona:**
+1. Informazioni di base (Nome, Età, Occupazione, Residenza, Struttura familiare)
+2. Personalità e Valori
+3. Stile di vita (Routine quotidiana, Hobby, Fonti di informazione)
+4. Sfide e Bisogni (Preoccupazioni di bellezza, Soluzioni desiderate)
+5. Obiettivi e Motivazioni
+6. Comportamento d'acquisto (Punti di enfasi, Fascia di budget, Canali d'acquisto)
+7. Punti di contatto con il servizio/prodotto (Scenari d'uso, Effetti attesi)
 
-**Output format:**
-- Use appropriate headings for an easily readable structure.
-- Include specific descriptions that could be used for a persona image.
+**Formato di output:**
+- Utilizza titoli appropriati per una struttura facilmente leggibile.
+- Includi descrizioni specifiche che potrebbero essere utilizzate per un'immagine della persona.
 ```
 
 #### 🖼️ Immagini generate
@@ -3313,7 +3333,7 @@ You are a professional persona designer. Based on the following information, ple
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455052602_plknk6_G9Y3axwakAA5VH5.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Nano-banana Pro Persona Generation Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767455052602_plknk6_G9Y3axwakAA5VH5.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Prompt per la generazione di Nano-banana Pro Persona - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3419,45 +3439,45 @@ Prompt Nano BananaPro nello stile di una guida strategica di gioco.
 
 ---
 
-### No. 47: Infografica / Contenuto Visual Educativo - Prompt per poster infografico medico umanizzato (Bento Grid)
+### No. 47: Infografica / Contenuto Visual Educativo - Infografica medica a poster per informazioni sui farmaci (stile Bento Grid)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Una versione rivista del prompt dell'infografica medica (dal tweet 2005552861753827692), migliorata per includere "cura umanizzata" e "leggibilità" nel tono e nello stile. Specifica bordi morbidi, icone amichevoli e illuminazione delicata per rendere le informazioni complesse sui farmaci (usando Semaglutide come esempio) più accessibili e affidabili per l'utente.
+Un prompt completo in formato JSON per Nano Banana Pro, progettato per generare un poster infografico medico professionale, umanizzato e di facile lettura per un farmaco (in particolare, Semaglutide è usato come esempio predefinito). Lo stile utilizza un layout modulare a griglia Bento, un design pulito dell'interfaccia utente medica e una specifica tavolozza di colori clinici per presentare informazioni complesse come farmacologia, uso e precauzioni.
 
 #### 📝 Prompt
 
 ```
 {
 "image_analysis": {
-"subject": "{argument name=\"drug name\" default=\"Semaglutide\"} Infografica Scientifica, 9:16",
+"subject": "{argument name=\"drug name\" default=\"Semaglutide\"} Infografica scientifica, 9:16",
 "style": "Design a griglia modulare Bento / Design UI medico minimalista / Sensazione accogliente",
-"tone": "Professionale, Clinico, Rigoroso, Scientifico, Affidabile, Umanizzato, Leggibile",
+"tone": "Professionale, Clinico, Rigoroso, Scientifico, Affidabile, Umanizzato, Facile da leggere",
 "primary_colors": ["Bianco Clinico", "Blu Medico", "Grigio Ardesia", "Verde Menta"]
 },
 "prompt_elements": {
-"subject_description": "Un poster infografico scientifico di alta qualità su {argument name=\"drug name\" default=\"Semaglutide\"}, progettato per combinare rigore professionale con cura umanizzata.",
-"layout": "Layout a griglia modulare in stile Bento box, design dell'interfaccia UI/UX medica pulita, diviso in chiare schede rettangolari con bordi morbidi, che offre un'esperienza visiva confortevole.",
+"subject_description": "Un poster infografico scientifico di alta qualità su [Nome del Farmaco], progettato per combinare rigore professionale con cura umanizzata.",
+"layout": "Layout a griglia modulare stile Bento box, design pulito dell'interfaccia UI/UX medica, diviso in chiare schede rettangolari con bordi morbidi, che offre un'esperienza visiva confortevole.",
 "visual_details": [
-"Intestazione superiore con un titolo in un sorprendente carattere sans-serif moderno 'Nome del farmaco cinese' e il suo nome chimico/generico, opzionalmente includendo una delicata icona medica (come un cuore o una foglia verde) accanto al titolo",
-"Al centro in alto presenta una fotografia macro ultra-realistica della [Forma/Confezione del farmaco] (ad es. compressa, capsula o flacone), con illuminazione soffusa, che appare sicura e affidabile",
-"Un disegno al tratto minimalista della [Struttura Chimica] nell'angolo, con linee morbide, non eccessivamente invadente",
-"Sezione 1: Analisi dei principi attivi e della farmacologia con grafici a torta e a barre, visualizzazione dei dati, utilizzando delicati colori blu medico e verde menta, grafici progettati per essere semplici e intuitivi",
-"Sezione 2: Indicazioni con icone a linea minimaliste, icone progettate per essere amichevoli, evitando simboli eccessivamente clinici o freddi",
-"Sezione 3: Matrice di dosaggio e somministrazione con icone a linea minimaliste ([Orale/Iniezione], [Frequenza], [Dose]), con semplici descrizioni testuali accanto alle icone, come 'Una compressa al giorno, facile da assumere'",
-"Sezione 4: Farmacocinetica o asse del tempo di insorgenza con grafici lineari, linee morbide, chiara etichettatura dei punti temporali, che infonde fiducia basata su prove scientifiche",
-"Sezione 5: Griglia delle precauzioni con semplici icone di avvertimento ([Interazioni Farmacologiche], [Controindicazioni], [Effetti Collaterali]), icone progettate per un avvertimento delicato piuttosto che per il panico, descrizioni testuali concise e mirate",
-"Sezione 6: Icone del profilo della popolazione applicabile (ad es. indicatori di idoneità per anziani, bambini, donne in gravidanza), icone progettate per essere calde, che riflettono la cura per i diversi gruppi",
-"Sezione 7: Linee guida per la conservazione dei farmaci con icone di termometro e umidità, icone progettate per essere semplici e chiare, descrizioni testuali facili da capire"
+"Intestazione superiore con un titolo sorprendente in carattere sans-serif moderno 'Nome Cinese del Farmaco' e il suo nome chimico/generico. Un'icona medica delicata (come un cuore o una foglia verde) può essere aggiunta accanto al titolo.",
+"Al centro in alto presenta una macrofotografia iperrealistica della [Forma Farmaceutica/Confezione del Farmaco] (ad esempio, compressa, capsula o fiala), con illuminazione soffusa, che appare sicura e affidabile.",
+"Nell'angolo, un disegno al tratto minimalista della [Struttura Chimica], con linee morbide, non eccessivamente invadente.",
+"Parte 1: Analisi dei principi attivi e dell'azione farmacologica con grafici ad anello e a barre, visualizzazione dei dati utilizzando colori blu medico delicato e verde menta, grafici progettati per essere semplici e intuitivi.",
+"Parte 2: Indicazioni con icone lineari minimaliste, icone progettate per essere amichevoli, evitando simboli eccessivamente clinici o freddi.",
+"Parte 3: Matrice di dosaggio e somministrazione con icone lineari minimaliste ([Orale/Iniezione], [Frequenza], [Dose]), descrizioni testuali semplici possono essere aggiunte accanto alle icone, come 'Una compressa al giorno, facile da assumere'.",
+"Parte 4: Farmacocinetica o asse del tempo di insorgenza con grafici lineari, linee morbide, punti temporali chiaramente contrassegnati, che infondono fiducia basata su prove scientifiche.",
+"Parte 5: Griglia delle precauzioni con semplici icone di avvertimento ([Interazioni Farmacologiche], [Controindicazioni], [Effetti Collaterali]), le icone dovrebbero ricordare delicatamente piuttosto che causare panico, le descrizioni testuali dovrebbero essere concise ed evidenziare i punti chiave.",
+"Parte 6: Icone del profilo della popolazione applicabile (ad esempio, indicatori di idoneità per anziani, bambini, donne in gravidanza), icone progettate per essere calde, che riflettono la cura per i diversi gruppi.",
+"Parte 7: Linee guida per la conservazione dei farmaci con icone di termometro e umidità, icone progettate per essere semplici e chiare, descrizioni testuali facili da capire."
 ],
 "art_style": "Design di visualizzazione scientifica minimalista, che combina illustrazioni mediche dettagliate con fotografia di prodotto, icone mediche piatte, tipografia in stile svizzero, focalizzandosi sulla leggibilità e l'accessibilità.",
-"lighting": "Illuminazione da laboratorio brillante senza ombre, pulita e chiara, che enfatizza la sterilità e la chiarezza, mentre la luce è morbida e non aspra.",
-"color_palette": "Sfondo monocromatico bianco clinico o grigio chiaro, schede in vetro smerigliato traslucido, testo grigio scuro e blu navy, accentato con blu medico o ciano per evidenziare i punti chiave, schema di colori generale che conferisce una sensazione fresca e confortevole."
+"lighting": "Illuminazione da laboratorio luminosa e senza ombre, pulita e trasparente, che enfatizza la sterilità e la chiarezza, mentre la luce è soffusa e non aspra.",
+"color_palette": "Sfondo monocromatico bianco clinico o grigio chiaro, schede in vetro smerigliato traslucido, testo grigio scuro e blu navy, accentato con blu medico o ciano per evidenziare i punti chiave, la combinazione di colori complessiva dona una sensazione fresca e confortevole."
 },
-"negative_prompt": "Disordine, toni caldi (eccetto per accenti delicati), stile vintage, scrittura a mano, bassa risoluzione, sfocatura, testo distorto, rumore, sfondo scuro, non igienico, sovrasaturato, filigrana, texture alimentare, sensazione clinica eccessivamente fredda, icone di avvertimento che inducono panico"
+"negative_prompt": "Disordine, toni caldi (eccetto per accenti delicati), stile retrò, scrittura a mano, bassa risoluzione, sfocatura, testo distorto, rumore, sfondo scuro, non igienico, sovrasaturo, filigrana, texture alimentare, sensazione clinica eccessivamente fredda, icone di avvertimento che inducono panico"
 }
 ```
 
@@ -3466,7 +3486,7 @@ Una versione rivista del prompt dell'infografica medica (dal tweet 2005552861753
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455039068_4r3318_G9WQV2GbwAAeih1.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Prompt per poster infografico medico umanizzato (Bento Grid) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767455039068_4r3318_G9WQV2GbwAAeih1.jpg" width="600" alt="Infografica / Contenuto Visual Educativo - Infografica medica a poster per informazioni sui farmaci (stile Bento Grid) - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3532,28 +3552,28 @@ Ridisegna un'immagine di copertina di alta qualità, raffinata ed esteticamente 
 
 ---
 
-### No. 49: Miniatura di YouTube - Youtube Thumbnail Concept: The New Weapon
+### No. 49: Miniatura di YouTube - Concetto per la miniatura di YouTube: La Nuova Arma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A prompt for generating a YouTube thumbnail concept split 50/50 between a grayscale 'War' side and a high-saturation 'Fusion' side, with a central cutout of Trump acting as the divider, featuring large yellow text reading 'THE NEW WEAPON'.
+Un prompt per generare un concept di miniatura di YouTube diviso 50/50 tra un lato "Guerra" in scala di grigi e un lato "Fusione" ad alta saturazione, con un ritaglio centrale di Trump che funge da divisorio, con un grande testo giallo che recita "THE NEW WEAPON".
 
 #### 📝 Prompt
 
 ```
-Youtube thumbnail Concept:
-Background (Split 50/50):
+Concetto per la miniatura di YouTube:
+Sfondo (diviso 50/50):
 
-Left Side (War): Grayscale or desaturated sepia tone. Shows a chaotic background of smoke or tanks.
-Right Side (Fusion): High-saturation, deep blues and glowing purples. Shows a futuristic tokamak reactor core.
-Subject: A large, shoulder up cutout of Trump placed dead center, acting as the divider between the two worlds. He should look confident/determined, facing slightly toward the "Fusion" side.
-Text (Top, full width):
+Lato sinistro (Guerra): Tonalità in scala di grigi o seppia desaturata. Mostra uno sfondo caotico di fumo o carri armati.
+Lato destro (Fusione): Alta saturazione, blu intensi e viola luminosi. Mostra il nucleo di un reattore tokamak futuristico.
+Soggetto: Un grande ritaglio di Trump, dalle spalle in su, posizionato esattamente al centro, che funge da divisorio tra i due mondi. Dovrebbe apparire fiducioso/determinato, rivolto leggermente verso il lato "Fusione".
+Testo (in alto, a tutta larghezza):
 
-"{argument name="main text" default="THE NEW WEAPON"}" (in large, blocky #FFFF00 Yellow font).
-Note: Add a heavy black drop shadow or a dark gradient vignette at the very top to ensure the yellow text is readable against the glowing background."
+"{argument name="main text" default="LA NUOVA ARMA"}" (in un carattere grande, squadrato, Giallo #FFFF00).
+Nota: Aggiungere un'ombra nera pesante o una vignettatura a gradiente scuro nella parte superiore per garantire che il testo giallo sia leggibile sullo sfondo luminoso.
 ```
 
 #### 🖼️ Immagini generate
@@ -3561,7 +3581,7 @@ Note: Add a heavy black drop shadow or a dark gradient vignette at the very top 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454950751_5bzahg_G9c452JWUAA95hp.png" width="600" alt="Miniatura di YouTube - Youtube Thumbnail Concept: The New Weapon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767454950751_5bzahg_G9c452JWUAA95hp.png" width="600" alt="Miniatura di YouTube - Concetto per la miniatura di YouTube: La Nuova Arma - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3575,94 +3595,94 @@ Note: Add a heavy black drop shadow or a dark gradient vignette at the very top 
 
 ---
 
-### No. 50: Miniatura di YouTube - Nano Banana Pro Image Generation Prompt for MBTI Character Visualization
+### No. 50: Miniatura di YouTube - Prompt di generazione immagini Nano Banana Pro per la visualizzazione dei personaggi MBTI
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-An extensive image generation prompt for Nano Banana Pro, designed to visualize an MBTI personality type as an anime-style character. It takes the MBTI diagnosis results (type and reason) from a previous LLM analysis and uses them to customize a base character profile (anime girl with brown hair and red eyes). The prompt includes detailed instructions for UI layout (9:16 vertical image, text placement), character layering rules based on the 16 MBTI types (e.g., ENTJ gets a military-style jacket and a crown), and specific color themes for each MBTI group.
+Un prompt esteso per la generazione di immagini per Nano Banana Pro, progettato per visualizzare un tipo di personalità MBTI come un personaggio in stile anime. Prende i risultati della diagnosi MBTI (tipo e motivazione) da una precedente analisi LLM e li utilizza per personalizzare un profilo di personaggio base (ragazza anime con capelli castani e occhi rossi). Il prompt include istruzioni dettagliate per il layout dell'interfaccia utente (immagine verticale 9:16, posizionamento del testo), regole di stratificazione dei personaggi basate sui 16 tipi MBTI (ad esempio, ENTJ ottiene una giacca in stile militare e una corona) e temi di colore specifici per ogni gruppo MBTI.
 
 #### 📝 Prompt
 
 ```
-## 1. Input Variables (Rewrite this)
-Generate an illustration based on the following information.
+## 1. Variabili di Input (Riscrivi questo)
+Genera un'illustrazione basata sulle seguenti informazioni.
 
-User Information:
+Informazioni Utente:
 target_account: "{argument name="Account Name" default="@schnapoon"}"
 mbti_type: {argument name="MBTI Type" default="ENTJ (Commander)"}
 reason: "{argument name="Diagnosis Reason" default="Posts structurally share how to utilize AI tools and actively engage with users. Efficient prompt creation and creative idea proposals stand out, showing a leadership-oriented thought pattern."}"
 
-Character Setting (base_character_profile):
-Appearance: Anime-style girl. Brown medium hair, red eyes, slightly pointed teeth (giza-ba).
+Impostazione del Personaggio (base_character_profile):
+Aspetto: Ragazza in stile anime. Capelli castani di media lunghezza, occhi rossi, denti leggermente appuntiti (giza-ba).
 
-## 2. Generation Instructions
-A. Overall Image Composition (UI Layout)
-Generate a vertical 9:16 image. The background color is clean off-white (#F5F5F7).
-The screen is composed of the following elements from top to bottom:
+## 2. Istruzioni per la Generazione
+A. Composizione Generale dell'Immagine (Layout UI)
+Genera un'immagine verticale 9:16. Il colore di sfondo è un bianco sporco pulito (#F5F5F7).
+Lo schermo è composto dai seguenti elementi dall'alto verso il basso:
 
-1. Header Text:
-   Place the text `target_account` + "'s diagnosis result is" at the top of the screen.
-   Color: Dark gray (#333333), Font size: Medium, Alignment: Center.
+1. Testo dell'Intestazione:
+   Posiziona il testo `target_account` + "'s diagnosis result is" nella parte superiore dello schermo.
+   Colore: Grigio scuro (#333333), Dimensione del carattere: Media, Allineamento: Centrale.
 
-2. Main Character Illustration:
-   Important (Consistency): Maintain the "physical features (face, hair, body type)" and "basic clothing (innerwear, bottoms, etc.)" of the `base_character_profile` without alteration.
-   Changes (Layering): Express the individuality of each type by "layering" the specified outerwear, mantle, and decorations from "B. MBTI Style Definitions" below over the basic clothing.
-   Presentation: Draw specified effects and floating items around the character.
-   Style: High-quality anime coloring.
+2. Illustrazione del Personaggio Principale:
+   Importante (Coerenza): Mantieni le "caratteristiche fisiche (viso, capelli, tipo di corpo)" e l'"abbigliamento di base (intimo, pantaloni, ecc.)" del `base_character_profile` senza alterazioni.
+   Modifiche (Stratificazione): Esprimi l'individualità di ogni tipo "stratificando" il capospalla, il mantello e le decorazioni specificati da "B. Definizioni di Stile MBTI" di seguito sopra l'abbigliamento di base.
+   Presentazione: Disegna effetti specifici e oggetti fluttuanti intorno al personaggio.
+   Stile: Colorazione anime di alta qualità.
 
-3. MBTI Type Label:
-   Place the `mbti_type` text largely directly below the illustration.
-   Color: Theme color of each type definition.
-   Font: Bold for high visibility.
+3. Etichetta del Tipo MBTI:
+   Posiziona il testo `mbti_type` in grande direttamente sotto l'illustrazione.
+   Colore: Colore tema di ogni definizione di tipo.
+   Carattere: Grassetto per alta visibilità.
 
-4. Diagnosis Reason Text Box:
-   Place a white, rounded-corner box (card-like design) at the bottom of the screen.
-   Write the `reason` text in Japanese inside it.
-   Text color: Gray (#555555), Left-aligned, readable size.
+4. Casella di Testo della Ragione della Diagnosi:
+   Posiziona una casella bianca con angoli arrotondati (design a card) nella parte inferiore dello schermo.
+   Scrivi il testo `reason` in giapponese al suo interno.
+   Colore del testo: Grigio (#555555), Allineato a sinistra, dimensione leggibile.
 
-B. MBTI Style Definitions (16 Types Layering Rules)
-Apply the style matching the input `mbti_type` and add the following items over the basic clothing:
+B. Definizioni di Stile MBTI (Regole di Stratificazione per 16 Tipi)
+Applica lo stile corrispondente all'input `mbti_type` e aggiungi i seguenti elementi sopra l'abbigliamento di base:
 
-[Analysts - Purple/Dark Blue/Deep Red]
-   INTJ (Architect):
-       Layering: Black long coat or a chic jacket with a standing collar.
-       Items: Chess pieces, hologram of blueprints.
-   INTP (Logician):
-       Layering: Lab coat (slightly disheveled), or a loose hoodie.
-       Items: Flasks, floating mathematical formulas, gadget parts.
-   ENTJ (Commander):
-       Layering: Military-style Napoleon jacket, or a heavy mantle with a red lining.
-       Items: Baton, crown-like decoration.
-   ENTP (Debater):
-       Layering: Unconventional design blazer, or a magician-like cape.
-       Items: Microphone, smirking expression, jack-in-the-box effect.
+[Analisti - Viola/Blu Scuro/Rosso Intenso]
+   INTJ (Architetto):
+       Stratificazione: Cappotto lungo nero o una giacca chic con colletto alla coreana.
+       Oggetti: Pezzi degli scacchi, ologramma di progetti.
+   INTP (Logico):
+       Stratificazione: Camice da laboratorio (leggermente spettinato), o una felpa con cappuccio larga.
+       Oggetti: Fiaschette, formule matematiche fluttuanti, parti di gadget.
+   ENTJ (Comandante):
+       Stratificazione: Giacca alla napoleonica in stile militare, o un mantello pesante con fodera rossa.
+       Oggetti: Bastone, decorazione a forma di corona.
+   ENTP (Dibattitore):
+       Stratificazione: Blazer dal design non convenzionale, o un mantello da mago.
+       Oggetti: Microfono, espressione sardonica, effetto a scatola a sorpresa.
 
-[Diplomats - Green/Gold/Pastel]
-   INFJ (Advocate):
-       Layering: Hooded robe, or a mystical shawl.
-       Items: Lantern, staff, mystical light particles.
-   INFP (Mediator):
-       Layering: Oversized knit cardigan, or a forest-girl style poncho.
-       Items: Flower crown, butterflies, books.
-   ENFJ (Protagonist):
-       Layering: Hero-like mantle, shining brooch or sash on the chest.
-       Items: Holy sword (light-shaped), halo-like effect.
-   ENFP (Campaigner):
-       Layering: Colorful patchwork vest, or a flashy scarf.
-       Items: Balloons, confetti, party goods.
+[Diplomatici - Verde/Oro/Pastello]
+   INFJ (Sostenitore):
+       Stratificazione: Tunica con cappuccio, o uno scialle mistico.
+       Oggetti: Lanterna, bastone, particelle di luce mistica.
+   INFP (Mediatore):
+       Stratificazione: Cardigan in maglia oversize, o un poncho in stile ragazza del bosco.
+       Oggetti: Corona di fiori, farfalle, libri.
+   ENFJ (Protagonista):
+       Stratificazione: Mantello da eroe, spilla o fascia lucente sul petto.
+       Oggetti: Spada sacra (a forma di luce), effetto alone.
+   ENFP (Campagnolo):
+       Stratificazione: Gilet patchwork colorato, o una sciarpa vistosa.
+       Oggetti: Palloncini, coriandoli, articoli per feste.
 
-[Sentinels - Blue/White/Teal]
-   ISTJ (Logistician):
-       Layering: Neat navy blazer, armband.
-       Items: Clipboard, glasses, neatly arranged documents.
-   ISFJ (Defender):
-       Layering: Clean apron, or medical coat/nurse uniform-style outerwear.
-       Items: First aid kit, warm drink (tea, etc.).
-   ESTJ (Executive):
-       Layering: Formal suit jacket,
+[Sentinelle - Blu/Bianco/Verde Acqua]
+   ISTJ (Logistico):
+       Stratificazione: Blazer blu navy pulito, fascia da braccio.
+       Oggetti: Blocco note, occhiali, documenti ordinatamente disposti.
+   ISFJ (Difensore):
+       Stratificazione: Grembiule pulito, o capospalla in stile camice medico/uniforme da infermiera.
+       Oggetti: Kit di pronto soccorso, bevanda calda (tè, ecc.).
+   ESTJ (Esecutivo):
+       Stratificazione: Giacca da completo formale,
 ```
 
 #### 🖼️ Immagini generate
@@ -3670,19 +3690,19 @@ Apply the style matching the input `mbti_type` and add the following items over 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455062382_v5ky6k_G9YMqlCb0AAQ0jd.png" width="600" alt="Miniatura di YouTube - Nano Banana Pro Image Generation Prompt for MBTI Character Visualization - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767455062382_v5ky6k_G9YMqlCb0AAQ0jd.png" width="600" alt="Miniatura di YouTube - Prompt di generazione immagini Nano Banana Pro per la visualizzazione dei personaggi MBTI - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455063584_p5r46e_G9YMyEfa8AAWWsv.jpg" width="600" alt="Miniatura di YouTube - Nano Banana Pro Image Generation Prompt for MBTI Character Visualization - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767455063584_p5r46e_G9YMyEfa8AAWWsv.jpg" width="600" alt="Miniatura di YouTube - Prompt di generazione immagini Nano Banana Pro per la visualizzazione dei personaggi MBTI - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455063856_v84bp3_G9YMq3PasAA-huH.jpg" width="600" alt="Miniatura di YouTube - Nano Banana Pro Image Generation Prompt for MBTI Character Visualization - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767455063856_v84bp3_G9YMq3PasAA-huH.jpg" width="600" alt="Miniatura di YouTube - Prompt di generazione immagini Nano Banana Pro per la visualizzazione dei personaggi MBTI - Image 3">
 </div>
 
 #### 📌 Dettagli
@@ -4356,23 +4376,23 @@ Qui, Nano Banana Pro deve generare almeno 5 immagini di processo intermedie in m
 
 ---
 
-### No. 64: Fumetto / Storyboard - 16:9 Contact Sheet Generation from Reference Image
+### No. 64: Fumetto / Storyboard - Generazione di provini a contatto 16:9 da immagine di riferimento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A prompt for generating a stacked contact sheet of 16:9 aspect ratio images, derived from an original uploaded picture, featuring close-ups of the characters and a final panel showing a phone screen recording audio, while respecting the original image's details and lighting.
+Un prompt per generare un foglio contatti impilato di immagini con rapporto d'aspetto 16:9, derivato da un'immagine originale caricata, con primi piani dei personaggi e un pannello finale che mostra uno schermo di telefono che registra l'audio, rispettando i dettagli e l'illuminazione dell'immagine originale.
 
 #### 📝 Prompt
 
 ```
-I want a stacked contact sheet of 16:9 aspect ratio images that respect the details of the character and setting details and well as the lighting of the original picture. 
+Voglio un contact sheet impilato di immagini con rapporto d'aspetto 16:9 che rispettino i dettagli del personaggio e dell'ambientazione, nonché l'illuminazione dell'immagine originale.
 
-Top panel: Original uploaded image 
-Next panel: Medium close up of her
-Next panel: Medium close up of him
-Bottom panel: close up of the phone screen with a graphic showing it is recording audio
+Pannello superiore: Immagine originale caricata
+Pannello successivo: Primo piano medio di lei
+Pannello successivo: Primo piano medio di lui
+Pannello inferiore: Primo piano dello schermo del telefono con una grafica che mostra la registrazione audio
 ```
 
 #### 🖼️ Immagini generate
@@ -4380,7 +4400,7 @@ Bottom panel: close up of the phone screen with a graphic showing it is recordin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454970138_mrpeml_G9cK_39XUAALkvE.jpg" width="600" alt="Fumetto / Storyboard - 16:9 Contact Sheet Generation from Reference Image - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767454970138_mrpeml_G9cK_39XUAALkvE.jpg" width="600" alt="Fumetto / Storyboard - Generazione di provini a contatto 16:9 da immagine di riferimento - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -4394,27 +4414,27 @@ Bottom panel: close up of the phone screen with a graphic showing it is recordin
 
 ---
 
-### No. 65: Fumetto / Storyboard - Cinematic Storyboard of Woman and Bear in Forest
+### No. 65: Fumetto / Storyboard - Storyboard cinematografico di donna e orso nella foresta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A prompt for generating a 3x3 grid storyboard collage featuring a young woman in traditional patterned clothing sitting beside a large, calm bear in a misty mountain forest. The style is highly realistic, cinematic, and emphasizes detailed textures and golden hour lighting.
+Un prompt per generare un collage storyboard a griglia 3x3 che raffigura una giovane donna in abiti tradizionali a motivi geometrici seduta accanto a un grande orso calmo in una foresta montana nebbiosa. Lo stile è altamente realistico, cinematografico e enfatizza texture dettagliate e l'illuminazione dell'ora d'oro.
 
 #### 📝 Prompt
 
 ```
 {
-  "subject": "3x3 grid storyboard collage of a young woman sitting beside a large calm bear in a natural mountain forest setting",
-  "clothing": "Traditional patterned clothing with beads and earth-tone fabrics, textured material with handcrafted details",
-  "hair": "Long dark braided hair, neat braids resting over shoulders",
-  "face": "Serious, calm, focused expression with natural skin texture, subtle emotion and intensity",
-  "accessories": "Handcrafted bead details, natural fabric elements, no modern items",
-  "environment": "Outdoor mountain landscape with trees, misty forest background, soft depth of field, atmospheric wilderness",
-  "lighting": "Warm sunlight rays, gentle shadows, golden hour tones with soft natural highlights across face and fur",
-  "camera": "Full body, medium shots, dramatic close-ups, over-the-shoulder, cinematic low angle, atmospheric wide establishing shots",
-  "style": "Highly realistic, cinematic, film still aesthetic, warm tones, natural imperfections, detailed textures on fur, skin, and fabric"
+  "subject": "Collage storyboard a griglia 3x3 di una giovane donna seduta accanto a un grande orso calmo in un ambiente naturale di montagna e foresta",
+  "clothing": "Abbigliamento tradizionale a motivi, con perline e tessuti color terra, materiale testurizzato con dettagli artigianali",
+  "hair": "Capelli lunghi e scuri intrecciati, trecce ordinate che poggiano sulle spalle",
+  "face": "Espressione seria, calma, concentrata con texture della pelle naturale, sottile emozione e intensità",
+  "accessories": "Dettagli di perline artigianali, elementi in tessuto naturale, nessun oggetto moderno",
+  "environment": "Paesaggio montano esterno con alberi, sfondo di foresta nebbiosa, morbida profondità di campo, natura selvaggia suggestiva",
+  "lighting": "Raggi di sole caldi, ombre delicate, toni dell'ora d'oro con morbidi riflessi naturali su viso e pelliccia",
+  "camera": "Corpo intero, inquadrature medie, primi piani drammatici, inquadrature da dietro la spalla, angolazione bassa cinematografica, ampie inquadrature di ambientazione suggestive",
+  "style": "Altamente realistico, cinematografico, estetica da fermo immagine di film, toni caldi, imperfezioni naturali, texture dettagliate su pelliccia, pelle e tessuto"
 }
 ```
 
@@ -4423,7 +4443,7 @@ A prompt for generating a 3x3 grid storyboard collage featuring a young woman in
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454935203_o4hr6p_G9bIWdJaYAAmzxM.jpg" width="600" alt="Fumetto / Storyboard - Cinematic Storyboard of Woman and Bear in Forest - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767454935203_o4hr6p_G9bIWdJaYAAmzxM.jpg" width="600" alt="Fumetto / Storyboard - Storyboard cinematografico di donna e orso nella foresta - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -5085,31 +5105,31 @@ Illuminazione cinematografica, forte luce di contorno, ombre drammatiche, messa 
 
 ---
 
-### No. 81: Marketing di Prodotto - Fotografia di prodotto minimalista di lusso basata su un'immagine di riferimento
+### No. 81: Marketing di Prodotto - Fotografia di prodotti di lusso minimalista basata su un'immagine di riferimento
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Descrizione
 
-Un prompt per generare fotografie di prodotti commerciali di alta gamma e minimaliste, nello stile delle pubblicità di marchi di lusso, utilizzando come base un'immagine di riferimento caricata del prodotto principale.
+Un prompt per generare fotografie di prodotti commerciali di alta gamma e minimaliste nello stile delle pubblicità di marchi di lusso, utilizzando come base un'immagine di riferimento caricata del prodotto principale.
 
 #### 📝 Prompt
 
 ```
 Utilizzando l'immagine di riferimento caricata come base, genera una fotografia still life commerciale minimalista e di alta qualità con l'estetica di una pubblicità di un marchio di lusso.
 
-Conserva la forma generale, le proporzioni e la combinazione di colori principale del prodotto di base nel riferimento, in modo che sia immediatamente riconoscibile come lo stesso prodotto, ma migliora la texture complessiva e l'atmosfera dell'immagine, facendola sembrare una pubblicità per una fragranza internazionale di alto livello, un prodotto per la cura della pelle o un prodotto elettronico di fascia alta.
+Mantieni la forma generale, le proporzioni e la combinazione di colori principale del prodotto centrale nel riferimento in modo che sia immediatamente riconoscibile come lo stesso prodotto, ma migliora la texture complessiva e l'atmosfera dell'immagine, facendola sembrare una pubblicità per una fragranza internazionale di alto livello, un prodotto per la cura della pelle o un prodotto elettronico di fascia alta.
 
-Utilizza una composizione verticale 4:5. Lo sfondo dovrebbe essere un'ampia area di spazio negativo pulito e neutro, come un morbido bianco sporco, un grigio freddo o un beige chiaro, creando un ambiente da studio tranquillo, sobrio e costoso. A parte il prodotto principale e un numero minimo di supporti necessari, non aggiungere decorazioni extra. Nessun disordine, nessuna elaborata scenografia: mantieni solo supporti geometrici molto semplici (come un cubo bianco semplice, un cilindro o un sottile pannello trasparente). I supporti devono essere semplici e discreti, esistenti solo per sostenere e accentuare il prodotto.
+Utilizza una composizione verticale 4:5. Lo sfondo dovrebbe essere un'ampia area di spazio negativo pulito e neutro, come un morbido bianco sporco, un grigio freddo o un beige chiaro, creando un ambiente da studio silenzioso, sobrio e costoso. A parte il prodotto centrale e un numero minimo di supporti necessari, non aggiungere decorazioni extra. Nessun disordine, nessuna elaborata scenografia: mantieni solo supporti geometrici molto semplici (come un cubo bianco semplice, un cilindro o un sottile pannello trasparente). I supporti devono essere semplici e discreti, esistenti solo per sostenere e accentuare il prodotto.
 
-Enfatizza fortemente i dettagli del materiale del prodotto e lascia che l'illuminazione serva pienamente tali materiali:
-Mostra vetro smerigliato con una texture fine e morbida opaca, ceramica con una sensazione opaca o leggermente smaltata e metallo lucidato con riflessi speculari puliti e nitidi. I liquidi dovrebbero avere una viscosità e un volume chiaramente visibili. Evita qualsiasi sensazione di plastica economica, motivi complessi o adesivi vistosi; la qualità complessiva del materiale deve risultare fresca, sobria e lussuosa.
+Enfatizza fortemente i dettagli del materiale del prodotto e lascia che l'illuminazione serva pienamente questi materiali:
+Mostra vetro smerigliato con una texture fine, morbida e opaca, ceramiche con una sensazione opaca o leggermente smaltata e metallo lucidato con riflessi speculari puliti e nitidi. I liquidi dovrebbero avere una viscosità e un volume chiaramente visibili. Evita qualsiasi sensazione di plastica economica, motivi complessi o adesivi vistosi; la qualità complessiva del materiale deve risultare fresca, sobria e lussuosa.
 
-Utilizza un'illuminazione da studio professionale: principalmente luce morbida e diffusa da softbox, più una precisa luce di contorno che delinea la forma del prodotto. I contorni dovrebbero essere nitidi e stratificati, e le ombre dovrebbero essere morbide e pulite, senza rumore o macchie d'ombra sporche. Puoi utilizzare un punto di vista quasi macro, avvicinandoti al prodotto per evidenziare materiali e dettagli, pur mantenendo un ampio spazio negativo intorno all'inquadratura in modo che il prodotto possa "parlare da sé" nel vuoto.
+Utilizza un'illuminazione da studio professionale: principalmente luce morbida e diffusa da softbox, più una precisa luce di contorno che delinei la forma del prodotto. I contorni dovrebbero essere nitidi e stratificati, e le ombre dovrebbero essere morbide e pulite, senza rumore o macchie d'ombra sporche. Puoi utilizzare un punto di vista quasi macro, avvicinandoti al prodotto per evidenziare materiali e dettagli, pur preservando un ampio spazio negativo intorno all'inquadratura in modo che il prodotto possa "parlare da sé" nel vuoto.
 
 Mantieni la combinazione di colori complessiva neutra e calma. Il colore del prodotto stesso può essere leggermente più saturo, rendendolo l'unico punto focale visivo nella scena. Non utilizzare sfondi con gradienti esagerati, illuminazione colorata appariscente o estetiche promozionali e-commerce. Nessun testo con prezzi grandi, etichette o grafici a fumetti.
 
-Il risultato finale deve essere un visual chiave commerciale ad alta risoluzione che sembri pronto per la quarta di copertina di una rivista o un poster pubblicitario di un marchio di fascia alta: minimalista, tranquillo, di alta classe, con il prodotto principale posizionato con sicurezza al centro, circondato da uno spazio negativo pulito e un'illuminazione precisamente controllata.
+Il risultato finale deve essere un'immagine chiave commerciale ad alta risoluzione che sembri pronta per la copertina posteriore di una rivista o un poster pubblicitario di un marchio di fascia alta: minimalista, silenziosa, di alta qualità, con il prodotto centrale saldamente al centro, circondato da uno spazio negativo pulito e un'illuminazione precisamente controllata.
 ```
 
 #### 🖼️ Immagini generate
@@ -5117,7 +5137,7 @@ Il risultato finale deve essere un visual chiave commerciale ad alta risoluzione
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="600" alt="Marketing di Prodotto - Fotografia di prodotto minimalista di lusso basata su un'immagine di riferimento - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="600" alt="Marketing di Prodotto - Fotografia di prodotti di lusso minimalista basata su un'immagine di riferimento - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -5294,13 +5314,13 @@ Un prompt altamente dettagliato e strutturato per un servizio fotografico editor
 
 ---
 
-### No. 84: Marketing di Prodotto - Cinematic Food Photography Prompt for Cookies
+### No. 84: Marketing di Prodotto - Prompt per fotografia cinematografica di cibo per biscotti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A highly structured, cinematic production manifest prompt designed to generate high-resolution, stylized images of cookies and desserts, specifying technical details like camera (ARRI Alexa 65), film emulation (Kodak Portra 400), lighting (Greta Gerwig style), and four distinct flavor profiles with associated liquid effects and debris, all set against a flat studio background.
+Un prompt di produzione cinematografica altamente strutturato, pensato per generare immagini stilizzate e ad alta risoluzione di biscotti e dessert, specificando dettagli tecnici come la fotocamera (ARRI Alexa 65), l'emulazione della pellicola (Kodak Portra 400), l'illuminazione (stile Greta Gerwig) e quattro distinti profili di sapore con effetti liquidi e detriti associati, il tutto ambientato su uno sfondo piatto da studio.
 
 #### 📝 Prompt
 
@@ -5319,59 +5339,59 @@ A highly structured, cinematic production manifest prompt designed to generate h
       },
       "film_emulation": {
         "stock": "Kodak Portra 400",
-        "characteristics": ["Fine grain", "Natural skin tones", "Warm highlights"]
+        "characteristics": ["Grana fine", "Tonalità della pelle naturali", "Luci calde"]
       },
       "lighting_rig": {
-        "style": "Cinematic soft glow",
-        "atmosphere": "Timeless indoor",
-        "diffusion": "High"
+        "style": "Bagliore morbido cinematografico",
+        "atmosphere": "Interni senza tempo",
+        "diffusion": "Alta"
       }
     },
     "artistic_direction": {
       "visionary_style": "Greta Gerwig",
-      "composition_rule": "Graphic centered symmetry",
-      "physics_engine": "Suspended animation / Zero gravity",
-      "background_specification": "Flat off-white / Studio bone"
+      "composition_rule": "Simmetria centrata grafica",
+      "physics_engine": "Animazione sospesa / Gravità zero",
+      "background_specification": "Bianco sporco piatto / Osso studio"
     },
     "variant_registry": [
       {
         "id": "VAR-001",
-        "flavor_profile": "Dark Chocolate Chip & Oat",
-        "tonal_emotion": "Playful, cheeky yet chic",
+        "flavor_profile": "Gocce di cioccolato fondente e avena",
+        "tonal_emotion": "Giocoso, sfacciato ma chic",
         "ingredients": {
-          "primary_solids": ["Dark chocolate chip cookies"],
-          "fluid_fx": ["Oat milk splash"],
-          "debris": ["Cookie crumbs"]
+          "primary_solids": ["Biscotti con gocce di cioccolato fondente"],
+          "fluid_fx": ["Spruzzo di latte d'avena"],
+          "debris": ["Briciole di biscotto"]
         }
       },
       {
         "id": "VAR-002",
         "flavor_profile": "Red Velvet",
-        "tonal_emotion": "Bold, playful chic",
+        "tonal_emotion": "Audace, giocoso e chic",
         "ingredients": {
-          "primary_solids": ["Red velvet cake pieces"],
-          "fluid_fx": ["Cream cheese frosting swirls"],
-          "debris": ["Cocoa dust", "Fine red cake crumbs"]
+          "primary_solids": ["Pezzi di torta Red Velvet"],
+          "fluid_fx": ["Vortici di glassa al formaggio cremoso"],
+          "debris": ["Polvere di cacao", "Briciole fini di torta rossa"]
         }
       },
       {
         "id": "VAR-003",
-        "flavor_profile": "Pistachio Macaron",
-        "tonal_emotion": "Refined, playful chic",
+        "flavor_profile": "Macaron al pistacchio",
+        "tonal_emotion": "Raffinato, giocoso e chic",
         "ingredients": {
-          "primary_solids": ["Pistachio macarons"],
-          "fluid_fx": ["Cream filling swirls"],
-          "debris": ["Crushed pistachio nuts"]
+          "primary_solids": ["Macaron al pistacchio"],
+          "fluid_fx": ["Vortici di crema di riempimento"],
+          "debris": ["Pistacchi tritati"]
         }
       },
       {
         "id": "VAR-004",
-        "flavor_profile": "Strawberry Shortcake",
-        "tonal_emotion": "Sweet, playful yet chic",
+        "flavor_profile": "Torta di fragole",
+        "tonal_emotion": "Dolce, giocoso ma chic",
         "ingredients": {
-          "primary_solids": ["Fresh strawberry slices"],
-          "fluid_fx": ["Whipped cream swirls"],
-          "debris": ["Shortcake biscuit crumbs"]
+          "primary_solids": ["Fette di fragole fresche"],
+          "fluid_fx": ["Vortici di panna montata"],
+          "debris": ["Briciole di biscotto shortcake"]
         }
       }
     ]
@@ -5384,7 +5404,7 @@ A highly structured, cinematic production manifest prompt designed to generate h
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456165319_r13gyk_G9gtOOdbMAAsOLW.jpg" width="600" alt="Marketing di Prodotto - Cinematic Food Photography Prompt for Cookies - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456165319_r13gyk_G9gtOOdbMAAsOLW.jpg" width="600" alt="Marketing di Prodotto - Prompt per fotografia cinematografica di cibo per biscotti - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -5398,13 +5418,13 @@ A highly structured, cinematic production manifest prompt designed to generate h
 
 ---
 
-### No. 85: Marketing di Prodotto - Tennis Player Golden Hour Portrait Prompt
+### No. 85: Marketing di Prodotto - Prompt per ritratto di tennista all'ora d'oro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A structured image generation prompt detailing a young woman in tennis attire on an outdoor court. The prompt specifies her pose, clothing (sky blue pleated skirt), environment (blurred net, golden hour lighting), and camera style (photorealistic medium shot, shallow depth of field) to achieve a sporty, sunlit aesthetic.
+Un prompt strutturato per la generazione di immagini che descrive una giovane donna in tenuta da tennis su un campo all'aperto. Il prompt specifica la sua posa, l'abbigliamento (gonna a pieghe azzurra), l'ambiente (rete sfocata, illuminazione golden hour) e lo stile della fotocamera (primo piano fotorealistico, profondità di campo ridotta) per ottenere un'estetica sportiva e illuminata dal sole.
 
 #### 📝 Prompt
 
@@ -5412,26 +5432,26 @@ A structured image generation prompt detailing a young woman in tennis attire on
 {
   "prompt_data": {
     "subject_details": {
-      "demographic": "Young woman, slim athletic build,",
-      "hair": "blonde hair styled in a high, voluminous ponytail with loose, windblown strands framing the face",
-      "face": "Neutral expression, direct gaze at camera, natural features",
-      "pose": "Standing knees bent facing forward, both hands grabbing tennis racket by the handle, playing position"
+      "demographic": "Giovane donna, corporatura snella e atletica,",
+      "hair": "capelli biondi acconciati in una coda di cavallo alta e voluminosa con ciocche sciolte e scompigliate dal vento che incorniciano il viso",
+      "face": "Espressione neutra, sguardo diretto verso la fotocamera, lineamenti naturali",
+      "pose": "In piedi, ginocchia piegate, rivolta in avanti, entrambe le mani afferrano la racchetta da tennis per il manico, posizione di gioco"
     },
     "attire": {
-      "hat": "sky blue tennis hat",
-      "upper_body": "white sleeveless fitted athletic polo top",
-      "lower_body": "sky blue pleated mini tennis skirt",
-      "accessories": "Tennis racket held in right hand (grip visible)"
+      "hat": "cappello da tennis azzurro cielo",
+      "upper_body": "polo sportiva bianca aderente senza maniche",
+      "lower_body": "minigonna da tennis a pieghe azzurro cielo",
+      "accessories": "Racchetta da tennis tenuta nella mano destra (impugnatura visibile)"
     },
     "environment": {
-      "setting": "Outdoor tennis court",
-      "foreground": "Blurred, out-of-focus tennis net mesh stretching across the bottom of the frame",
-      "background": "Green court surface with white lines, lush green trees, and a blurred brick suburban house in the distance"
+      "setting": "Campo da tennis all'aperto",
+      "foreground": "Rete da tennis sfocata, fuori fuoco, che si estende lungo la parte inferiore dell'inquadratura",
+      "background": "Superficie del campo verde con linee bianche, alberi verdi lussureggianti e una casa suburbana in mattoni sfocata in lontananza"
     },
     "lighting_and_style": {
-      "lighting": "Soft natural daylight, likely golden hour, with backlighting creating a halo/rim-light effect on the hair",
-      "camera_style": "Photorealistic medium shot, shallow depth of field (bokeh background), sharp focus on subject, shot through the net",
-      "color_palette": "Muted earth tones (sage, grey, green) with soft warm lighting"
+      "lighting": "Luce diurna naturale e morbida, probabilmente all'ora d'oro, con retroilluminazione che crea un effetto alone/rim-light sui capelli",
+      "camera_style": "Inquadratura media fotorealistica, profondità di campo ridotta (sfondo bokeh), messa a fuoco nitida sul soggetto, scattata attraverso la rete",
+      "color_palette": "Toni della terra tenui (salvia, grigio, verde) con illuminazione calda e morbida"
     }
   }
 }
@@ -5442,7 +5462,7 @@ A structured image generation prompt detailing a young woman in tennis attire on
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456166091_b95yl1_G9gpPBFWAAMQ_Yf.jpg" width="600" alt="Marketing di Prodotto - Tennis Player Golden Hour Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456166091_b95yl1_G9gpPBFWAAMQ_Yf.jpg" width="600" alt="Marketing di Prodotto - Prompt per ritratto di tennista all'ora d'oro - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -5456,14 +5476,14 @@ A structured image generation prompt detailing a young woman in tennis attire on
 
 ---
 
-### No. 86: Marketing di Prodotto - Luxury New Year's Eve Portrait with Props
+### No. 86: Marketing di Prodotto - Ritratto di lusso di Capodanno con oggetti di scena
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A detailed JSON prompt for generating a luxurious, festive New Year's Eve portrait of a woman sitting on a white velvet sofa. The prompt specifies her glamorous attire (rhinestone corset dress, white faux fur), makeup, and props (champagne coupe, 'Hello 2026' sign) set against a background of city fireworks and a chandelier.
+Un prompt JSON dettagliato per generare un ritratto lussuoso e festivo di Capodanno di una donna seduta su un divano di velluto bianco. Il prompt specifica il suo abbigliamento glamour (abito a corsetto con strass, pelliccia sintetica bianca), il trucco e gli oggetti di scena (coppa di champagne, cartello "Hello 2026") sullo sfondo di fuochi d'artificio della città e un lampadario.
 
 #### 📝 Prompt
 
@@ -5471,63 +5491,63 @@ A detailed JSON prompt for generating a luxurious, festive New Year's Eve portra
 {
   "image_description": {
     "subject": {
-      "gender": "female",
+      "gender": "femminile",
       "hair": {
-        "color": "brown with blonde highlights",
-        "style": "long, wavy, loose",
-        "parting": "middle part"
+        "color": "castano con mèches bionde",
+        "style": "lunghi, mossi, sciolti",
+        "parting": "riga centrale"
       },
       "attire": {
         "dress": {
           "color": "nude/beige",
-          "style": "corset-style bodice, sweetheart neckline, fitted",
-          "embellishments": "silver rhinestones/crystals scattered throughout",
-          "details": "cutout at the bust, boning in the corset"
+          "style": "corpetto a corsetto, scollo a cuore, aderente",
+          "embellishments": "strass/cristalli argentati sparsi",
+          "details": "taglio sul busto, stecche nel corsetto"
         },
         "outerwear": {
-          "item": "faux fur coat/stole",
-          "color": "white",
-          "placement": "draped loosely over arms/shoulders"
+          "item": "cappotto/stola in pelliccia sintetica",
+          "color": "bianco",
+          "placement": "drappeggiato morbidamente su braccia/spalle"
         }
       },
       "accessories": {
-        "earrings": "pearl drop earrings"
+        "earrings": "orecchini pendenti di perle"
       },
       "makeup": {
-        "style": "glamorous",
-        "lips": "glossy nude pink",
-        "eyes": "smoky eye, defined brows",
-        "skin": "light and fair"
+        "style": "glamour",
+        "lips": "rosa nude lucido",
+        "eyes": "smoky eye, sopracciglia definite",
+        "skin": "chiara e luminosa"
       },
       "pose": {
-        "position": "sitting",
-        "right_hand": "holding a coupe glass with champagne",
-        "left_hand": "holding a glittery '{argument name="sign text" default="Hello 2026"}' sign",
-        "expression": "pouting lips, looking directly at camera"
+        "position": "seduta",
+        "right_hand": "tiene un calice coupé con champagne",
+        "left_hand": "tiene un cartello glitterato '{argument name=\"sign text\" default=\"Hello 2026\"}'",
+        "expression": "labbra imbronciate, guarda direttamente in camera"
       }
     },
     "props": {
       "sign": {
         "text": "Hello 2026",
-        "material": "gold glitter",
-        "style": "cursive font for 'Hello', bold numbers for '2026'"
+        "material": "glitter dorati",
+        "style": "carattere corsivo per 'Hello', numeri in grassetto per '2026'"
       }
     },
     "environment": {
-      "setting": "luxury interior/hotel room or lounge",
+      "setting": "interno di lusso/camera d'albergo o lounge",
       "furniture": {
-        "seating": "white velvet sofa/couch"
+        "seating": "divano/sofà in velluto bianco"
       },
       "background": {
         "features": [
-          "mirrored wall paneling reflecting the room",
-          "large windows with city view at night",
-          "fireworks visible outside the window",
-          "crystal chandelier hanging from ceiling"
+          "pannelli a specchio che riflettono la stanza",
+          "grandi finestre con vista sulla città di notte",
+          "fuochi d'artificio visibili fuori dalla finestra",
+          "lampadario di cristallo appeso al soffitto"
         ],
-        "lighting": "warm, ambient indoor lighting with confetti falling"
+        "lighting": "illuminazione interna calda e soffusa con coriandoli che cadono"
       },
-      "atmosphere": "celebratory, festive, luxurious, New Year's Eve"
+      "atmosphere": "celebrativa, festosa, lussuosa, Capodanno"
     }
   }
 }
@@ -5538,7 +5558,7 @@ A detailed JSON prompt for generating a luxurious, festive New Year's Eve portra
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456200924_anfqb7_G9gnWZZaUAAIWWX.jpg" width="600" alt="Marketing di Prodotto - Luxury New Year's Eve Portrait with Props - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456200924_anfqb7_G9gnWZZaUAAIWWX.jpg" width="600" alt="Marketing di Prodotto - Ritratto di lusso di Capodanno con oggetti di scena - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -5552,43 +5572,43 @@ A detailed JSON prompt for generating a luxurious, festive New Year's Eve portra
 
 ---
 
-### No. 87: Marketing di Prodotto - Devilish Beauty Lipstick Advertisement Prompt
+### No. 87: Marketing di Prodotto - Prompt per l'annuncio del rossetto Devilish Beauty
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A highly detailed prompt for generating an ultra-photorealistic beauty advertisement image, featuring a woman leaning against a gigantic, glossy red MAC lipstick, emphasizing professional studio lighting, luxury cosmetic aesthetic, and a handwritten 'Devilish Beauty' text element.
+Un prompt altamente dettagliato per generare un'immagine pubblicitaria di bellezza ultra-fotorealistica, con una donna appoggiata a un gigantesco rossetto MAC rosso lucido, che enfatizza l'illuminazione professionale da studio, l'estetica dei cosmetici di lusso e un elemento testuale scritto a mano "Devilish Beauty".
 
 #### 📝 Prompt
 
 ```
-A high-end, hyper-realistic beauty advertisement shot.
+Una ripresa pubblicitaria di bellezza di alta gamma e iperrealistica.
 
-Composition:
-Side-view composition of an attractive brunette woman, positioned slightly in profile. She is leaning her back confidently against a gigantic red lipstick, scaled dramatically larger than life. Her arms are crossed, posture strong and elegant, while she turns her head to look directly at the camera with a bold, self-assured expression.
+Composizione:
+Composizione di profilo di una donna bruna attraente, posizionata leggermente di profilo. È appoggiata con sicurezza contro un gigantesco rossetto rosso, ingrandito drammaticamente rispetto alla realtà. Le sue braccia sono incrociate, la postura forte ed elegante, mentre gira la testa per guardare direttamente la fotocamera con un'espressione audace e sicura di sé.
 
-Appearance:
-She has smooth, luminous skin, deep brown hair styled sleek and polished, and striking red lipstick that perfectly matches the oversized product behind her. Her facial features are symmetrical and refined, with confident eyes and a subtle, knowing gaze.
-She wears a minimalist black dress, form-fitting, elegant, and timeless.
+Aspetto:
+Ha una pelle liscia e luminosa, capelli castano scuro acconciati in modo elegante e lucido, e un sorprendente rossetto rosso che si abbina perfettamente al prodotto oversize dietro di lei. I suoi tratti del viso sono simmetrici e raffinati, con occhi sicuri e uno sguardo sottile e consapevole.
+Indossa un abito nero minimalista, aderente, elegante e senza tempo.
 
-Product:
-The oversized lipstick is bright red, glossy, perfectly cylindrical, clearly branded {argument name="brand" default="MAC"} with realistic logo placement and premium material finish.
+Prodotto:
+Il rossetto oversize è rosso brillante, lucido, perfettamente cilindrico, chiaramente marchiato {argument name="brand" default="MAC"} con un posizionamento realistico del logo e una finitura in materiale premium.
 
-Text Element:
-At the top of the image, the slogan “{argument name="slogan" default="Devilish Beauty"}” is written as if handwritten with red lipstick—bold, sensual strokes, slightly imperfect, glossy texture, natural lipstick smudge edges.
+Elemento testuale:
+Nella parte superiore dell'immagine, lo slogan “{argument name="slogan" default="Devilish Beauty"}” è scritto come se fosse a mano con un rossetto rosso — tratti audaci e sensuali, leggermente imperfetti, texture lucida, bordi naturali sbavati dal rossetto.
 
-Background:
-Pure white studio background, seamless, high-key, no visible shadows or distractions.
+Sfondo:
+Sfondo in studio bianco puro, senza cuciture, ad alta luminosità, senza ombre visibili o distrazioni.
 
-Lighting:
-Professional studio lighting—soft key light on her face, gentle rim light to define her silhouette, subtle reflections on the lipstick tube. Clean, luxury cosmetic ad lighting.
+Illuminazione:
+Illuminazione professionale da studio — luce chiave morbida sul suo viso, delicata luce di contorno per definire la sua silhouette, sottili riflessi sul tubetto di rossetto. Illuminazione pulita e lussuosa da pubblicità cosmetica.
 
-Style & Quality:
-Ultra-photorealistic, luxury fashion photography, crisp focus, natural skin texture, premium cosmetics campaign aesthetic, editorial magazine quality.
+Stile e qualità:
+Ultra-fotorealistico, fotografia di moda di lusso, messa a fuoco nitida, texture della pelle naturale, estetica da campagna di cosmetici premium, qualità da rivista editoriale.
 
-Negative Prompt; anime, illustration, CGI, cartoon, flat lighting, low detail, blurry, distorted anatomy, plastic skin, over-smoothed face, low-budget ad, cluttered background
+Negative Prompt: anime, illustrazione, CGI, cartone animato, illuminazione piatta, dettagli scarsi, sfocato, anatomia distorta, pelle di plastica, viso troppo levigato, pubblicità a basso budget, sfondo disordinato
 ```
 
 #### 🖼️ Immagini generate
@@ -5596,7 +5616,7 @@ Negative Prompt; anime, illustration, CGI, cartoon, flat lighting, low detail, b
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456159819_qs7un9_G9gQrljWIAACrUb.jpg" width="600" alt="Marketing di Prodotto - Devilish Beauty Lipstick Advertisement Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456159819_qs7un9_G9gQrljWIAACrUb.jpg" width="600" alt="Marketing di Prodotto - Prompt per l'annuncio del rossetto Devilish Beauty - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -5610,19 +5630,19 @@ Negative Prompt; anime, illustration, CGI, cartoon, flat lighting, low detail, b
 
 ---
 
-### No. 88: Marketing di Prodotto - Luxury Car Showroom Portrait
+### No. 88: Marketing di Prodotto - Ritratto di showroom di auto di lusso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A prompt for generating an ultra-realistic, high-detail portrait of a young man in a black leather jacket posing next to a red supercar in a luxury car showroom. The prompt specifies cinematic lighting, glossy reflections, and an editorial fashion style, requiring the AI to match the subject's appearance from a reference photo.
+Un prompt per generare un ritratto ultra-realistico e altamente dettagliato di un giovane uomo con una giacca di pelle nera in posa accanto a una supercar rossa in uno showroom di auto di lusso. Il prompt specifica illuminazione cinematografica, riflessi lucidi e uno stile editoriale di moda, richiedendo all'IA di abbinare l'aspetto del soggetto da una foto di riferimento.
 
 #### 📝 Prompt
 
 ```
-Young man in his 20s, same appearance as reference photo, stylish short hair, trimmed beard, wearing black leather jacket and black leather pants, confident expression, posing beside a sleek red supercar ({argument name="car style" default="Lamborghini style"}), one hand resting on the car and the other in pocket, luxury car showroom interior, cinematic lighting, glossy reflections, high detail, ultra-realistic, 8k, shallow depth of field, professional photography, editorial fashion style, dramatic modern atmosphere
+Giovane uomo sui 20 anni, aspetto identico alla foto di riferimento, capelli corti alla moda, barba curata, indossa giacca e pantaloni in pelle nera, espressione sicura, in posa accanto a una supercar rossa elegante ({argument name="car style" default="stile Lamborghini"}), una mano appoggiata sull'auto e l'altra in tasca, interno di un autosalone di lusso, illuminazione cinematografica, riflessi lucidi, alta definizione, ultra-realistico, 8k, profondità di campo ridotta, fotografia professionale, stile editoriale di moda, atmosfera moderna e drammatica
 ```
 
 #### 🖼️ Immagini generate
@@ -5630,13 +5650,13 @@ Young man in his 20s, same appearance as reference photo, stylish short hair, tr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456195736_t2f60f_G9gQhpXaYAAQi_V.jpg" width="600" alt="Marketing di Prodotto - Luxury Car Showroom Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456195736_t2f60f_G9gQhpXaYAAQi_V.jpg" width="600" alt="Marketing di Prodotto - Ritratto di showroom di auto di lusso - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456197210_yu6tp6_G9gQhpDb0AEZ4Q5.jpg" width="600" alt="Marketing di Prodotto - Luxury Car Showroom Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767456197210_yu6tp6_G9gQhpDb0AEZ4Q5.jpg" width="600" alt="Marketing di Prodotto - Ritratto di showroom di auto di lusso - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -6154,18 +6174,18 @@ Profondità di campo ridotta
 
 ---
 
-### No. 95: Marketing di Prodotto - Macro Product Shot of Seltzer Can
+### No. 95: Marketing di Prodotto - Macro inquadratura del prodotto: Lattina di Seltzer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A prompt for generating a vibrant, ultra-detailed macro product shot of an ice-cold lime seltzer can balanced on a wet, sun-drenched pool deck, focusing on texture, water beads, and a strong shadow for a summer commercial aesthetic.
+Un prompt per generare uno scatto macro di prodotto vibrante e ultra-dettagliato di una lattina di seltzer al lime ghiacciata, bilanciata su un bordo piscina bagnato e illuminato dal sole, con un focus su texture, goccioline d'acqua e un'ombra marcata per un'estetica da spot estivo.
 
 #### 📝 Prompt
 
 ```
-A vibrant, ice-cold lime seltzer can balanced on a wet, sun-drenched pool deck. Water beads cling to the can’s matte texture. A strong shadow defines the ground. Ultra-detailed, macro product shot, vibrant color palette, summer commercial aesthetic
+Una lattina di seltzer al lime vivace e ghiacciato in equilibrio su un bordo piscina bagnato e soleggiato. Goccioline d'acqua aderiscono alla texture opaca della lattina. Un'ombra netta definisce il terreno. Scatto macro del prodotto ultra-dettagliato, palette di colori vivaci, estetica da spot pubblicitario estivo.
 ```
 
 #### 🖼️ Immagini generate
@@ -6173,25 +6193,25 @@ A vibrant, ice-cold lime seltzer can balanced on a wet, sun-drenched pool deck. 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456169166_qyixhd_G9fPqrpbIAAWAW5.jpg" width="600" alt="Marketing di Prodotto - Macro Product Shot of Seltzer Can - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767456169166_qyixhd_G9fPqrpbIAAWAW5.jpg" width="600" alt="Marketing di Prodotto - Macro inquadratura del prodotto: Lattina di Seltzer - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456169706_cagp3j_G9fPqsmakAAeyzI.jpg" width="600" alt="Marketing di Prodotto - Macro Product Shot of Seltzer Can - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767456169706_cagp3j_G9fPqsmakAAeyzI.jpg" width="600" alt="Marketing di Prodotto - Macro inquadratura del prodotto: Lattina di Seltzer - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456169330_umsa0j_G9fPqsja4AANwwF.jpg" width="600" alt="Marketing di Prodotto - Macro Product Shot of Seltzer Can - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767456169330_umsa0j_G9fPqsja4AANwwF.jpg" width="600" alt="Marketing di Prodotto - Macro inquadratura del prodotto: Lattina di Seltzer - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767456172114_sc7i1w_G9fPqrwb0AAUwsH.jpg" width="600" alt="Marketing di Prodotto - Macro Product Shot of Seltzer Can - Image 4">
+<img src="https://cms-assets.youmind.com/media/1767456172114_sc7i1w_G9fPqrwb0AAUwsH.jpg" width="600" alt="Marketing di Prodotto - Macro inquadratura del prodotto: Lattina di Seltzer - Image 4">
 </div>
 
 #### 📌 Dettagli
@@ -6205,32 +6225,32 @@ A vibrant, ice-cold lime seltzer can balanced on a wet, sun-drenched pool deck. 
 
 ---
 
-### No. 96: Immagine principale e-commerce - Premium Winter Product Photography in Alpine Setting
+### No. 96: Immagine principale e-commerce - Servizio fotografico di prodotti invernali premium in ambiente alpino
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A prompt template for generating high-end product photography for a winter brand, featuring a single product centrally positioned in deep snow against a backdrop of a sunlit alpine landscape and evergreen trees, emphasizing crisp natural daylight and shallow depth of field.
+Un modello di prompt per la generazione di fotografie di prodotti di alta gamma per un marchio invernale, con un singolo prodotto posizionato centralmente nella neve alta, su uno sfondo di paesaggio alpino illuminato dal sole e alberi sempreverdi, enfatizzando la luce naturale nitida e una profondità di campo ridotta.
 
 #### 📝 Prompt
 
 ```
-A single, high-quality product item positioned centrally in the snow.
-(Note for generation:
+Un singolo articolo di prodotto di alta qualità posizionato centralmente nella neve.
+(Nota per la generazione:
 
-Insert specific object here, e.g., "{argument name="product example 1" default="A white ceramic teapot with gold trim and 'WINTERBREW' logo"}," "{argument name="product example 2" default="A clear glass perfume bottle with silver cap and 'ALPINE ESSENCE' text"}," or "{argument name="product example 3" default="A pair of brown leather hiking boots covered in light snow"}.")
-accessories
-Natural, thematic elements scattered artfully on the immediate snow surface surrounding the main subject. Examples include pinecones, whole cinnamon sticks, star anise, frosted lavender sprigs, small pine branches, or complementary items like a knit beanie.
-environment
-A pristine, sunlit winter alpine landscape. The immediate foreground is deep, textured powder snow. The mid-ground features snow-laden evergreen trees. The background is dominated by majestic, rugged alpine mountain peaks under a clear or slightly hazy blue sky. A rustic wooden chalet or cabin is visible in the middle distance, slightly blurred.
-lighting
-Bright, crisp, natural daylight. Sunny conditions creating sparkling highlights on the snow crystals and the product surface, casting distinct, cool shadows.
-camera
-Professional commercial photography. High resolution, macro detail sharp focus on the main subject. Shallow depth of field (bokeh), creating a softly blurred background of the mountains and trees. Shot from a slightly low or eye-level angle relative to the product placed on the snow.
-style
-High-end product photography with a cozy, luxurious, fresh, and serene winter atmosphere. The composition is balanced and naturalistic.
+Inserire qui l'oggetto specifico, ad esempio, "{argument name="product example 1" default="Una teiera in ceramica bianca con bordo dorato e logo 'WINTERBREW'"}," "{argument name="product example 2" default="Una bottiglia di profumo in vetro trasparente con tappo argentato e testo 'ALPINE ESSENCE'"}," o "{argument name="product example 3" default="Un paio di scarponi da trekking in pelle marrone coperti da neve leggera"}").
+accessori
+Elementi naturali e tematici sparsi artisticamente sulla superficie della neve circostante il soggetto principale. Esempi includono pigne, bastoncini di cannella interi, anice stellato, rametti di lavanda ghiacciati, piccoli rami di pino o articoli complementari come un berretto di lana.
+ambiente
+Un paesaggio alpino invernale incontaminato e illuminato dal sole. Il primo piano è costituito da neve fresca e profonda, ricca di texture. Il piano intermedio presenta alberi sempreverdi carichi di neve. Lo sfondo è dominato da maestose e aspre cime montuose alpine sotto un cielo azzurro limpido o leggermente velato. Uno chalet o una baita rustica in legno è visibile a media distanza, leggermente sfocato.
+illuminazione
+Luce diurna naturale, brillante e nitida. Condizioni di sole che creano riflessi scintillanti sui cristalli di neve e sulla superficie del prodotto, proiettando ombre distinte e fredde.
+fotocamera
+Fotografia commerciale professionale. Alta risoluzione, messa a fuoco nitida sui dettagli macro del soggetto principale. Profondità di campo ridotta (bokeh), che crea uno sfondo leggermente sfocato delle montagne e degli alberi. Scatto da un'angolazione leggermente bassa o all'altezza degli occhi rispetto al prodotto posizionato sulla neve.
+stile
+Fotografia di prodotto di alta gamma con un'atmosfera invernale accogliente, lussuosa, fresca e serena. La composizione è equilibrata e naturalistica.
 ```
 
 #### 🖼️ Immagini generate
@@ -6238,25 +6258,25 @@ High-end product photography with a cozy, luxurious, fresh, and serene winter at
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454966661_n2ojtb_G9bOQxDaYAA6Z2v.jpg" width="600" alt="Immagine principale e-commerce - Premium Winter Product Photography in Alpine Setting - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767454966661_n2ojtb_G9bOQxDaYAA6Z2v.jpg" width="600" alt="Immagine principale e-commerce - Servizio fotografico di prodotti invernali premium in ambiente alpino - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454967396_lbw9gu_G9bOQxfbAAALGdV.jpg" width="600" alt="Immagine principale e-commerce - Premium Winter Product Photography in Alpine Setting - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767454967396_lbw9gu_G9bOQxfbAAALGdV.jpg" width="600" alt="Immagine principale e-commerce - Servizio fotografico di prodotti invernali premium in ambiente alpino - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454967882_rnp7z6_G9bOQzGbkAE9jnc.jpg" width="600" alt="Immagine principale e-commerce - Premium Winter Product Photography in Alpine Setting - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767454967882_rnp7z6_G9bOQzGbkAE9jnc.jpg" width="600" alt="Immagine principale e-commerce - Servizio fotografico di prodotti invernali premium in ambiente alpino - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454969142_c826ow_G9bOQz5aYAAjgG4.jpg" width="600" alt="Immagine principale e-commerce - Premium Winter Product Photography in Alpine Setting - Image 4">
+<img src="https://cms-assets.youmind.com/media/1767454969142_c826ow_G9bOQz5aYAAjgG4.jpg" width="600" alt="Immagine principale e-commerce - Servizio fotografico di prodotti invernali premium in ambiente alpino - Image 4">
 </div>
 
 #### 📌 Dettagli
@@ -6270,19 +6290,19 @@ High-end product photography with a cozy, luxurious, fresh, and serene winter at
 
 ---
 
-### No. 97: Immagine principale e-commerce - A detailed prompt for generating a photorealistic image of a nano-banana-pro
+### No. 97: Immagine principale e-commerce - Un prompt dettagliato per generare un'immagine fotorealistica di un nano-banana-pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-This is a highly detailed image generation prompt used to compare the output quality of different AI models (Imagen 4, ChatGPT, and Nano banana pro). The prompt requests a photorealistic, high-resolution image of a nano-banana-pro, emphasizing specific visual details like texture, lighting, and background.
+Questo è un prompt di generazione di immagini altamente dettagliato, utilizzato per confrontare la qualità dell'output di diversi modelli di IA (Imagen 4, ChatGPT e Nano banana pro). Il prompt richiede un'immagine fotorealistica e ad alta risoluzione di un nano-banana-pro, enfatizzando dettagli visivi specifici come la texture, l'illuminazione e lo sfondo.
 
 #### 📝 Prompt
 
 ```
-photorealistic, high resolution, 8k, ultra detailed, a nano-banana-pro, on a {argument name="surface" default="wooden table"}, soft studio lighting, macro lens, shallow depth of field, {argument name="background" default="minimalist background"}, cinematic lighting, detailed texture, volumetric light, highly detailed, sharp focus, {argument name="style" default="photorealistic"}
+fotorealistico, alta risoluzione, 8k, ultra dettagliato, una nano-banana-pro, su un {argument name="surface" default="tavolo di legno"}, illuminazione morbida da studio, obiettivo macro, profondità di campo ridotta, {argument name="background" default="sfondo minimalista"}, illuminazione cinematografica, texture dettagliata, luce volumetrica, altamente dettagliato, messa a fuoco nitida, {argument name="style" default="fotorealistico"}
 ```
 
 #### 🖼️ Immagini generate
@@ -6290,19 +6310,19 @@ photorealistic, high resolution, 8k, ultra detailed, a nano-banana-pro, on a {ar
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455018798_ujd4f8_G9at91uaYAUqBoj.jpg" width="600" alt="Immagine principale e-commerce - A detailed prompt for generating a photorealistic image of a nano-banana-pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767455018798_ujd4f8_G9at91uaYAUqBoj.jpg" width="600" alt="Immagine principale e-commerce - Un prompt dettagliato per generare un'immagine fotorealistica di un nano-banana-pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455020607_0fena3_G9at911bYAAblNX.jpg" width="600" alt="Immagine principale e-commerce - A detailed prompt for generating a photorealistic image of a nano-banana-pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767455020607_0fena3_G9at911bYAAblNX.jpg" width="600" alt="Immagine principale e-commerce - Un prompt dettagliato per generare un'immagine fotorealistica di un nano-banana-pro - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455021869_6jehjd_G9at90pb0AENSoP.jpg" width="600" alt="Immagine principale e-commerce - A detailed prompt for generating a photorealistic image of a nano-banana-pro - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767455021869_6jehjd_G9at90pb0AENSoP.jpg" width="600" alt="Immagine principale e-commerce - Un prompt dettagliato per generare un'immagine fotorealistica di un nano-banana-pro - Image 3">
 </div>
 
 #### 📌 Dettagli
@@ -6316,14 +6336,14 @@ photorealistic, high resolution, 8k, ultra detailed, a nano-banana-pro, on a {ar
 
 ---
 
-### No. 98: Immagine principale e-commerce - Hyper-photorealistic cosmetic skincare jar product shot with watermelon and ice cubes
+### No. 98: Immagine principale e-commerce - Scatto di prodotto iper-fotorealistico di un vasetto di cosmetici per la cura della pelle con anguria e cubetti di ghiaccio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A detailed JSON-formatted prompt for generating a hyper-photorealistic commercial image of a cosmetic skincare jar. The scene features the jar centered on a pink liquid puddle, surrounded by watermelon slices and ice cubes, utilizing high-end studio lighting and a clean, luxury aesthetic.
+Un prompt dettagliato in formato JSON per generare un'immagine commerciale iperrealistica di un vasetto di cosmetico per la cura della pelle. La scena presenta il vasetto centrato su una pozzanghera di liquido rosa, circondato da fette di anguria e cubetti di ghiaccio, utilizzando un'illuminazione da studio di alta gamma e un'estetica pulita e lussuosa.
 
 #### 📝 Prompt
 
@@ -6335,42 +6355,42 @@ A detailed JSON-formatted prompt for generating a hyper-photorealistic commercia
   "aspect_ratio": "1:1",
   "quality": "premium commercial",
   "scene": {
-    "subject": "{argument name="subject" default="A cosmetic skincare jar placed at center"}",
-    "surface": "Smooth puddle of translucent pink liquid spreading organically beneath the jar with soft reflections and fluid edges",
+    "subject": "{argument name=\"subject\" default=\"Un vasetto di cosmetico per la cura della pelle posizionato al centro\"}",
+    "surface": "Pozza liscia di liquido rosa traslucido che si espande organicamente sotto il vasetto con riflessi morbidi e bordi fluidi",
     "props": [
-      "Fresh triangular watermelon wedge with visible black seeds placed on the right",
-      "Several ice cubes embedded with small watermelon pieces around the jar"
+      "Fetta triangolare fresca di anguria con semi neri visibili posizionata a destra",
+      "Diversi cubetti di ghiaccio con piccoli pezzi di anguria incorporati intorno al vasetto"
     ],
     "background": {
-      "color": "{argument name="background color" default="soft pastel pink gradient"}",
-      "texture": "smooth, seamless, no visible lines or edges"
+      "color": "{argument name=\"background color\" default=\"sfumatura rosa pastello tenue\"}",
+      "texture": "liscia, senza soluzione di continuità, senza linee o bordi visibili"
     }
   },
   "lighting": {
-    "type": "high-end studio lighting",
-    "key_light": "bright diffused light from upper left",
-    "fill_light": "soft fill for even exposure",
-    "shadows": "soft natural shadows grounding the product",
-    "effects": "enhanced sparkle on sugar crystals and crystal-clear ice"
+    "type": "illuminazione da studio di alta gamma",
+    "key_light": "luce diffusa brillante dall'alto a sinistra",
+    "fill_light": "luce di riempimento morbida per un'esposizione uniforme",
+    "shadows": "ombre naturali morbide che ancorano il prodotto",
+    "effects": "brillantezza accentuata sui cristalli di zucchero e sul ghiaccio cristallino"
   },
   "color_palette": [
-    "watermelon red",
-    "blush pink",
-    "soft peach",
-    "clear ice tones",
-    "crisp white highlights"
+    "rosso anguria",
+    "rosa cipria",
+    "pesca tenue",
+    "tonalità di ghiaccio trasparente",
+    "punti luce bianchi nitidi"
   ],
   "composition": {
-    "camera_angle": "eye-level",
-    "shot_type": "close-up hero shot",
-    "depth_of_field": "moderate, sharp foreground with smooth background blur"
+    "camera_angle": "all'altezza degli occhi",
+    "shot_type": "primo piano ravvicinato (hero shot)",
+    "depth_of_field": "moderata, primo piano nitido con sfocatura dello sfondo morbida"
   },
   "aesthetic": [
-    "clean skincare advertising",
-    "fresh and refreshing mood",
-    "glossy realism",
-    "ultra-detailed textures",
-    "luxury commercial finish"
+    "pubblicità pulita per la cura della pelle",
+    "atmosfera fresca e rinfrescante",
+    "realismo lucido",
+    "texture ultra-dettagliate",
+    "finitura commerciale di lusso"
   ]
 }
 ```
@@ -6380,25 +6400,25 @@ A detailed JSON-formatted prompt for generating a hyper-photorealistic commercia
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455019311_3qaf4q_G9ZSy-iaQAAKXhk.jpg" width="600" alt="Immagine principale e-commerce - Hyper-photorealistic cosmetic skincare jar product shot with watermelon and ice cubes - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767455019311_3qaf4q_G9ZSy-iaQAAKXhk.jpg" width="600" alt="Immagine principale e-commerce - Scatto di prodotto iper-fotorealistico di un vasetto di cosmetici per la cura della pelle con anguria e cubetti di ghiaccio - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455019064_ngrnc3_G9ZSyyMaYAAOkPd.jpg" width="600" alt="Immagine principale e-commerce - Hyper-photorealistic cosmetic skincare jar product shot with watermelon and ice cubes - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767455019064_ngrnc3_G9ZSyyMaYAAOkPd.jpg" width="600" alt="Immagine principale e-commerce - Scatto di prodotto iper-fotorealistico di un vasetto di cosmetici per la cura della pelle con anguria e cubetti di ghiaccio - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455020133_y0d6yo_G9ZSy50aYAEDS1E.jpg" width="600" alt="Immagine principale e-commerce - Hyper-photorealistic cosmetic skincare jar product shot with watermelon and ice cubes - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767455020133_y0d6yo_G9ZSy50aYAEDS1E.jpg" width="600" alt="Immagine principale e-commerce - Scatto di prodotto iper-fotorealistico di un vasetto di cosmetici per la cura della pelle con anguria e cubetti di ghiaccio - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455021892_497wjj_G9ZSzLBaYAAdgz-.jpg" width="600" alt="Immagine principale e-commerce - Hyper-photorealistic cosmetic skincare jar product shot with watermelon and ice cubes - Image 4">
+<img src="https://cms-assets.youmind.com/media/1767455021892_497wjj_G9ZSzLBaYAAdgz-.jpg" width="600" alt="Immagine principale e-commerce - Scatto di prodotto iper-fotorealistico di un vasetto di cosmetici per la cura della pelle con anguria e cubetti di ghiaccio - Image 4">
 </div>
 
 #### 📌 Dettagli
@@ -7451,19 +7471,19 @@ Una nano banana iperrealistica e futuristica, texture metallica, luce al neon, s
 
 ---
 
-### No. 115: Asset di gioco - Medium Shot of Character Interacting with Floating Interface
+### No. 115: Asset di gioco - Inquadratura media di un personaggio che interagisce con un'interfaccia fluttuante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-An image generation prompt capturing a medium shot of a 3D character gently turning off a transparent floating interface panel. The scene transitions from cool to warm lighting, emphasizing a calm, focused expression and emotional realism within a modern minimal environment.
+Un prompt per la generazione di immagini che cattura un primo piano medio di un personaggio 3D che spegne delicatamente un pannello di interfaccia trasparente fluttuante. La scena passa da un'illuminazione fredda a una calda, enfatizzando un'espressione calma e concentrata e un realismo emotivo all'interno di un ambiente moderno e minimale.
 
 #### 📝 Prompt
 
 ```
-{argument name="Character Name" default="Mia"} Medium shot of the 3D character gently reaching out to turn off a transparent floating interface panel, other panels fading softly, warm light slowly replacing cool tones, calm, focused expression, modern minimal environment, emotional realism, clean composition
+{argument name="Character Name" default="Mia"} Inquadratura media del personaggio 3D che allunga delicatamente la mano per spegnere un pannello di interfaccia galleggiante trasparente, altri pannelli che svaniscono dolcemente, luce calda che sostituisce lentamente i toni freddi, espressione calma e concentrata, ambiente moderno e minimale, realismo emotivo, composizione pulita
 ```
 
 #### 🖼️ Immagini generate
@@ -7471,25 +7491,25 @@ An image generation prompt capturing a medium shot of a 3D character gently turn
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455028777_bhqiy8_G9bcrv2bUAA3jd4.jpg" width="600" alt="Asset di gioco - Medium Shot of Character Interacting with Floating Interface - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767455028777_bhqiy8_G9bcrv2bUAA3jd4.jpg" width="600" alt="Asset di gioco - Inquadratura media di un personaggio che interagisce con un'interfaccia fluttuante - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455029082_53jeub_G9bcsvhaYAAh4pf.jpg" width="600" alt="Asset di gioco - Medium Shot of Character Interacting with Floating Interface - Image 2">
+<img src="https://cms-assets.youmind.com/media/1767455029082_53jeub_G9bcsvhaYAAh4pf.jpg" width="600" alt="Asset di gioco - Inquadratura media di un personaggio che interagisce con un'interfaccia fluttuante - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455031048_ztpfms_G9bcup5aYAE_eLd.jpg" width="600" alt="Asset di gioco - Medium Shot of Character Interacting with Floating Interface - Image 3">
+<img src="https://cms-assets.youmind.com/media/1767455031048_ztpfms_G9bcup5aYAE_eLd.jpg" width="600" alt="Asset di gioco - Inquadratura media di un personaggio che interagisce con un'interfaccia fluttuante - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767455029316_4hxssk_G9bctsMbAAADJsC.jpg" width="600" alt="Asset di gioco - Medium Shot of Character Interacting with Floating Interface - Image 4">
+<img src="https://cms-assets.youmind.com/media/1767455029316_4hxssk_G9bctsMbAAADJsC.jpg" width="600" alt="Asset di gioco - Inquadratura media di un personaggio che interagisce con un'interfaccia fluttuante - Image 4">
 </div>
 
 #### 📌 Dettagli
@@ -7503,19 +7523,19 @@ An image generation prompt capturing a medium shot of a 3D character gently turn
 
 ---
 
-### No. 116: Asset di gioco - Character Sheet for Deep-Sea Creature with Bioluminescent Skeleton
+### No. 116: Asset di gioco - Scheda del personaggio per una creatura abissale con scheletro bioluminescente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A creative prompt instructing the AI to invent a new animation style and character, specifically a deep-sea creature. The prompt details the creature's appearance, featuring an iridescent oil-slick surface and a pulsing bioluminescent skeletal structure.
+Un prompt creativo che istruisce l'IA a inventare un nuovo stile di animazione e un personaggio, in particolare una creatura degli abissi. Il prompt descrive l'aspetto della creatura, caratterizzata da una superficie iridescente simile a una chiazza di petrolio e da una struttura scheletrica bioluminescente pulsante.
 
 #### 📝 Prompt
 
 ```
-Character sheet showing Front, Back, and Side views of a deep-sea creature. The surface is a swirling, iridescent oil-slick with rainbow fuel-tints. Underneath the oily surface, a pulsing bioluminescent skeletal structure glows {argument name="skeleton color" default="soft blue"}. Wet, viscous texture, dark underwater studio lighting.
+Scheda personaggio che mostra le viste frontale, posteriore e laterale di una creatura degli abissi marini. La superficie è una chiazza di petrolio iridescente e vorticosa, con sfumature di carburante arcobaleno. Sotto la superficie oleosa, una struttura scheletrica bioluminescente pulsante si illumina di {argument name="skeleton color" default="soft blue"}. Texture umida e viscosa, illuminazione scura da studio subacqueo.
 ```
 
 #### 🖼️ Immagini generate
@@ -7523,7 +7543,7 @@ Character sheet showing Front, Back, and Side views of a deep-sea creature. The 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1767454912876_0o11bd_G9agG0XaYAIS5jr.jpg" width="600" alt="Asset di gioco - Character Sheet for Deep-Sea Creature with Bioluminescent Skeleton - Image 1">
+<img src="https://cms-assets.youmind.com/media/1767454912876_0o11bd_G9agG0XaYAIS5jr.jpg" width="600" alt="Asset di gioco - Scheda del personaggio per una creatura abissale con scheletro bioluminescente - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -7793,6 +7813,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-01-03T16:14:10.082Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-01-03T20:14:33.077Z</sub>
 
 </div>
