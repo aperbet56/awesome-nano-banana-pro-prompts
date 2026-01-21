@@ -136,9 +136,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **6021** |
+| 📝 คำสั่งทั้งหมด | **6198** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันพุธที่ 21 มกราคม พ.ศ. 2569 เวลา 4 นาฬิกา 36 นาที 43 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพุธที่ 21 มกราคม พ.ศ. 2569 เวลา 8 นาฬิกา 18 นาที 32 วินาที UTC** |
 
 </div>
 
@@ -647,7 +647,1055 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### No. 1: โปรไฟล์ / รูปประจำตัว - ภาพบุคคลสไตล์บรรณาธิการ: แฟลชเซลฟี่ในยามค่ำคืน
+### No. 1: โปรไฟล์ / รูปประจำตัว - พรอมต์เซลฟี่ภาพบุคคลบนถนนยามค่ำคืนที่มืดมิด
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งที่ละเอียดมากสำหรับการสร้างภาพเซลฟี่แนวสตรีทพอร์เทรตยามค่ำคืนที่ให้ความรู้สึกหม่นหมองของหญิงสาวคนหนึ่ง โดยระบุถึงการแสดงออกที่เย้ายวนและหม่นหมอง บรรยากาศเมืองยามค่ำคืนที่แสงน้อยและเป็นส่วนตัว เอฟเฟกต์แสงเฉพาะ (แสงไฟถนนโซเดียมสีส้มนวลผสมกับแสงจันทร์สีนวลเย็น แสงขอบสีทอง) และความสวยงามแบบกล้องโทรศัพท์วินเทจที่มีเกรนและโทนสีอบอุ่น โดยเน้นที่พื้นผิวผิวที่ละเอียดเป็นพิเศษและความไม่สมบูรณ์ตามธรรมชาติ
+
+#### 📝 คำสั่ง
+
+```
+{
+  "main_prompt": "ภาพเซลฟี่แนวสตรีทพอร์เทรตยามค่ำคืนที่ดูหม่นหมอง ของหญิงสาวสวยสะดุดตาช่วงปลายวัยรุ่นถึงต้น 20 ต้นๆ มีผิวขาวอมเหลืองถึงผิวสีมะกอกที่ดูสว่าง และผิวเปล่งปลั่งเป็นธรรมชาติ ผมยาวตรงสลวยสีน้ำตาลเข้มเป็นลอนอ่อนๆ ทิ้งตัวลงบนไหล่ แต่งหน้าเบาๆ เป็นธรรมชาติพร้อมคิ้วที่คมชัด อายไลเนอร์แบบปีกสีเข้ม ขนตายาว ริมฝีปากสีนู้ดอมชมพูมันวาวในท่าเม้มปากเบาๆ แสดงออกถึงความเศร้าโศกเย้ายวนด้วยดวงตาที่หรี่ลงมองตรงมาที่กล้อง นิ้วแตะริมฝีปากล่างเบาๆ ในท่าทางยั่วยวน สวมเสื้อฮู้ดหรือแจ็คเก็ตตัวใหญ่หลวมๆ {argument name=\"clothing color\" default=\"gray\"} โดยมีฮู้ดลง บรรยากาศยามค่ำคืนในเมืองที่ดูใกล้ชิดและแสงสลัว: ฉากหลังเป็นถนนที่สลัวๆ พร้อมแสงไฟเมืองที่เบลอๆ ต้นไม้และทางเท้าในยามค่ำคืน แสงไฟถนนสีส้มอมเหลืองที่อบอุ่นผสมผสานกับแสงจันทร์ที่เย็นสบายและแสงแฟลชเติมที่ละเอียดอ่อน แสงขอบคล้ายช่วง golden hour บนเส้นผมและโหนกแก้มจากด้านข้าง แสงแฟลร์และแสงรั่วของเลนส์ที่นุ่มนวลบริเวณมุมภาพ สุนทรียภาพของกล้องโทรศัพท์วินเทจที่มีเกรนเล็กน้อย ขอบภาพมืดลง และโทนสีส้มอบอุ่น ภาพถ่ายสมจริง รายละเอียดผิวชัดเจนเป็นพิเศษพร้อมรูขุมขน กระ และความไม่สมบูรณ์แบบตามธรรมชาติ เส้นผมแต่ละเส้นจับแสง การปรับสีแบบภาพยนตร์ด้วยโทนสีผิวที่อบอุ่น เงาที่ลึก และคอนทราสต์ที่ลดลง ถ่ายด้วย iPhone ในโหมดกลางคืนแบบพอร์เทรตพร้อมแฟลช ระยะชัดตื้นโฟกัสที่ใบหน้าและมือพร้อมโบเก้ที่นุ่มนวลบนถนนด้านหลัง พลังงานยามค่ำคืนที่ชวนฝันและใกล้ชิด บรรยากาศแฟนตาซีในเมืองที่ดิบและไม่ปรุงแต่ง สุนทรียภาพของแฟชั่นชั้นสูงผสมผสานกับเซลฟี่แนวสตรีทแบบ candid --ar 3:4 --stylize 250 --v 6 --q 2",
+  "negative_prompt": "เบลอ, ความละเอียดต่ำ, มือผิดรูป, นิ้วเกิน, นิ้วติดกัน, กายวิภาคไม่ดี, ใบหน้าวาดไม่ดี, สัดส่วนไม่ดี, แขนขาเกิน, มือกลายพันธุ์, น่าเกลียด, ผิดรูป, เป็นกระเบื้อง, หลุดเฟรม, สิ่งแปลกปลอมจาก jpeg, ลายเซ็น, ลายน้ำ, ข้อความ, ข้อผิดพลาด, ครอปไม่ดี, คุณภาพแย่ที่สุด, คุณภาพต่ำ, การ์ตูน, ภาพเรนเดอร์ 3 มิติ, ผิวพลาสติก, เหมือนตุ๊กตา, ผิวที่ถูกแอร์บรัช, แฟลชโอเวอร์, เงาจัด, ผิวซีด, แต่งหน้าจัดเกินไป, หน้าแบบอินสตาแกรม, ปากเป็ด, ยิ้มมีความสุข, ผู้สูงอายุ, เด็ก, ผู้ชาย, ถ่ายหมู่, แสงแดดจ้า, ฉากในร่ม, ฉากหลังที่สะอาดเรียบง่าย, ไม่มีนิ้วแตะริมฝีปาก, สีซีดจาง, โทนสีฟ้าเย็น, ดูสังเคราะห์, ใบหน้าสมมาตรสมบูรณ์แบบ, ไม่มีเกรน, ฟิลเตอร์ความละเอียดสูงที่ทันสมัย, เห็นโทรศัพท์ในเฟรม, ภาพสะท้อนผิดรูป, พื้นหน้ารก",
+  "style_tags": [
+    "photorealistic",
+    "nighttime urban selfie",
+    "finger on lip teasing pose",
+    "moody low-light street aesthetic",
+    "warm sodium + cool moonlight mix",
+    "raw candid energy",
+    "cinematic warm grading",
+    "film grain and light leaks",
+    "dreamy melancholic expression",
+    "high fashion meets street vibe",
+    "intimate late-night fantasy"
+  ],
+  "technical": {
+    "aspect_ratio": "3:4 หรือ 9:16 (สไตล์เซลฟี่แนวตั้งด้วยโทรศัพท์)",
+    "lighting": "แสงไฟถนนโซเดียมที่อบอุ่น (~2800K) จากด้านข้างสร้างแสงขอบสีทองบนเส้นผม/โหนกแก้ม, แสงจันทร์เย็นๆ จากด้านบน, แฟลชโทรศัพท์ที่ละเอียดอ่อนเพิ่มไฮไลท์นุ่มนวลบนใบหน้า/ริมฝีปาก, เงาที่นุ่มนวลเน้นคุณสมบัติ, แสงแฟลร์และแสงรั่วของเลนส์ที่ละเอียดอ่อน"
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977290066_yf3dc2_G_JXiw8WEAAdMm2.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - พรอมต์เซลฟี่ภาพบุคคลบนถนนยามค่ำคืนที่มืดมิด - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Lex](https://x.com/katmanai)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/katmanai/status/2013768242368582064)
+- **เผยแพร่เมื่อ:** 21 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6915)**
+
+---
+
+### No. 2: โปรไฟล์ / รูปประจำตัว - อินฟลูเอนเซอร์กับเซลฟี่ก่อนนอนแบบเป็นกันเอง (สไตล์ Clean Girl)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+JSON prompt ที่มีรายละเอียดสูงสำหรับสร้างภาพเซลฟี่ก่อนนอนที่ดูสมจริงและเป็นธรรมชาติในสไตล์ 'clean girl aesthetic' โดยระบุให้ใช้กล้องหน้า iPhone 15 Pro Max, เกรนภาพในที่แสงน้อย และแสงเย็นนวลจากหน้าจอโทรศัพท์เพื่อส่องสว่างใบหน้า เน้นผิวที่ไร้ที่ติแต่ดูสมจริง และฉากห้องนอนที่หรูหรา
+
+#### 📝 คำสั่ง
+
+```
+{ "meta": { "aspect_ratio": "9:16", "quality": "raw_photo, uncompressed, 8k", "camera": "iPhone 15 Pro Max front camera", "lens": "23mm f/1.9", "style": "influencer candid bedtime selfie, clean girl aesthetic, natural beauty, ultra-realistic", "iso": "800-1600 (natural low light grain)" }, "scene": { "location": "ห้องนอนหรูหรา", "environment": [ "เครื่องนอนผ้าฝ้ายเนื้อละเอียดสีขาวหรือสีครีม", "หมอนขนเป็ดฟูฟ่อง", "แสงไฟสลัวอบอุ่นจากด้านหลัง", "มีผ้าหัวเตียงผ้าไหมเล็กน้อย" ], "time": "กลางดึก / เวลานอน", "atmosphere": "เป็นกันเอง, ผ่อนคลาย, หรูหรานุ่มนวล" }, "lighting": { "type": "เอฟเฟกต์ซอฟต์บ็อกซ์จากหน้าจอโทรศัพท์", "key_light": "แสงเย็นนุ่มนวลจากหน้าจอโทรศัพท์ส่องสว่างกลางใบหน้า", "fill_light": "โคมไฟข้างเตียงสีวอร์มไลท์สลัวๆ ด้านหลัง สร้างมิติ", "shadows": "เงาที่ช่วยสร้างโครงหน้าอย่างอ่อนโยนใต้โหนกแก้มและคาง", "highlights": "ไฮไลต์ฉ่ำวาวที่สันจมูก โหนกแก้ม และหน้าผาก (ผิวเปล่งประกายจากการบำรุง)" }, "camera_perspective": { "pov": "เซลฟี่ (ยื่นแขนออกไป)", "angle": "มุมสูง, เอียงศีรษะเล็กน้อย (มุมถ่ายภาพบุคคลที่ดูดี)", "framing": "ถ่ายใกล้ใบหน้าและหน้าอกส่วนบน", "focus": "โฟกัสคมชัดที่ดวงตาและริมฝีปาก, เบลอเล็กน้อยที่หูและพื้นหลัง" }, "subject": { "demographics": { "gender": "หญิง", "age": "32 ปี", "ethnicity": "ฮิสแปนิก / ลาตินา", "look": "นางแบบแฟชั่นชั้นสูงในวันหยุด" }, "face": { "structure": "โครงหน้าสมมาตรแบบนางแบบ, โหนกแก้มสูงได้รูป, กรามคมชัด, จมูกสง่างาม", "skin_texture": "ผิวไร้ที่ติแต่ดูสมจริง, เอฟเฟกต์ 'glass skin' (ผิวชุ่มชื้นดี), รูขุมขนมองเห็นได้แต่ไม่มีตำหนิ, ผิวเปล่งปลั่งเป็นธรรมชาติ (ไม่ใช้รองพื้น)", "lips": "ริมฝีปากอวบอิ่มเป็นธรรมชาติ, สีชมพูอมม่วง/สีกุหลาบอ่อนๆ, ผิวสัมผัสชุ่มชื้น", "eyes": "ดวงตาสีเข้มขนาดใหญ่ที่แสดงออกถึงอารมณ์, ขนตาธรรมชาติสีเข้มยาว (ไม่มีมาสคาร่าจับตัวเป็นก้อน, แค่ความยาว), มองตรงมาที่เลนส์กล้อง", "brows": "คิ้วหนาเป็นธรรมชาติ, จัดทรงอย่างดี, ปัดขึ้น" }, "hair": { "color": "สีน้ำตาลช็อกโกแลตเข้ม", "style": "ผมลอนคลายๆ มีวอลลุ่มทิ้งตัวลงบนหมอน", "texture": "เงางามดุจแพรไหม, สุขภาพดี" }, "expression": "อ่อนโยน, มั่นใจ, เย้ายวนแต่ดูง่วงนอน, ยิ้มเล็กน้อยอย่างผ่อนคลาย" }, "outfit": { "headwear": { "item": "ผ้าปิดตานอนผ้าไหมหรูหรา", "position": "ดันขึ้นไปบนหน้าผาก/ผม", "color": "สีทองแชมเปญหรือสีชมพูอ่อน", "texture": "เงาซาติน" }, "top": { "type": "เสื้อสายเดี่ยวชุดนอนผ้าไหมหรือซาติน", "color": "สีแชมเปญหรือสีขาวนวลที่เข้ากัน", "details": "ขอบลูกไม้ละเอียดอ่อนที่คอเสื้อ, สายเสื้อเส้นเล็ก, ผ้าทิ้งตัวอย่างเป็นธรรมชาติเหนือไหปลาร้า" } }, "details": { "realism_focus": [ "ความเงางามของมอยส์เจอร์ไรเซอร์บนผิว (ลุคผิวที่ผ่านการบำรุง)", "พื้นผิวริมฝีปากที่สมจริง (รอยพับ, ความชุ่มชื้น)", "เงาสะท้อนของหน้าจอโทรศัพท์ในรูม่านตา", "รอยพับของผ้าไหมชุดนอนและเครื่องนอนที่เป็นธรรมชาติ", "หลีกเลี่ยงการปรับผิวให้เรียบเนียนแบบพลาสติก - คงไว้ซึ่งพื้นผิวของผิว" ], "negative_prompt": [ "แต่งหน้าจัด", "รองพื้น", "ผิวหนาเตอะ", "ผิวพลาสติก", "แอร์บรัช", "สิว", "ตำหนิ" ] } }
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977260182_ejn5wq_G_JClnmXEAAeclj.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - อินฟลูเอนเซอร์กับเซลฟี่ก่อนนอนแบบเป็นกันเอง (สไตล์ Clean Girl) - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Wujek AI](https://x.com/Wujek_AI)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Wujek_AI/status/2013745228033741182)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6872)**
+
+---
+
+### No. 3: โปรไฟล์ / รูปประจำตัว - ภาพประกอบบทความสำหรับผู้ก่อตั้งบริษัทเทคโนโลยีสมัยใหม่
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งที่กระชับสำหรับการสร้างภาพลักษณ์แบรนด์ส่วนบุคคลสำหรับผู้ก่อตั้งบริษัทเทคโนโลยีสมัยใหม่ โดยเน้นที่สไตล์ภาพบุคคลแบบบรรณาธิการพร้อมแสงธรรมชาติที่นุ่มนวล โทนสีกลาง และการแสดงออกที่เป็นธรรมชาติและเข้าถึงง่าย ซึ่งออกแบบมาเพื่อสื่อถึงความน่าเชื่อถือ
+
+#### 📝 คำสั่ง
+
+```
+ภาพลักษณ์แบรนด์ส่วนบุคคลสำหรับผู้ก่อตั้งบริษัทเทคโนโลยีสมัยใหม่
+แสงธรรมชาติที่นุ่มนวล โทนสีกลาง
+สไตล์ภาพบุคคลแบบบทบรรณาธิการ การแสดงออกที่เป็นธรรมชาติ
+ความชัดลึกที่ละเอียดอ่อน
+สงบ มั่นใจ และเข้าถึงง่าย
+ออกแบบมาเพื่อความน่าเชื่อถือในระยะยาว
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977274842_0aa9um_G_JAT-vWAAESZeb.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพประกอบบทความสำหรับผู้ก่อตั้งบริษัทเทคโนโลยีสมัยใหม่ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [SRKDAN](https://x.com/SRKDAN)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/SRKDAN/status/2013742835799818698)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6891)**
+
+---
+
+### No. 4: โปรไฟล์ / รูปประจำตัว - พรอมต์สร้างสติกเกอร์ LINE
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 คำอธิบาย
+
+นี่คือพรอมต์ง่ายๆ สำหรับ Nano Banana Pro ที่ใช้สร้างสติกเกอร์ LINE 30 แบบอย่างรวดเร็ว โดยสั่งให้โมเดลแปลงบุคคลให้เป็นไอคอนตัวละครและสร้างสติกเกอร์ 30 แบบจากไอคอนนั้น
+
+#### 📝 คำสั่ง
+
+```
+เปลี่ยนคนนี้ให้เป็นไอคอนตัวละครและสร้างสติกเกอร์ LINE 30 แบบ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977351711_eipyt2_G_I4swzXsAEpvGG.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - พรอมต์สร้างสติกเกอร์ LINE - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [だてっち｜Web資産化](https://x.com/datetch)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/datetch/status/2013734569384780279)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** ja
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=7002)**
+
+---
+
+### No. 5: โปรไฟล์ / รูปประจำตัว - Playful Mirror Selfie in a Bedroom (Duplicate)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+A detailed JSON prompt for generating a photorealistic image of a 19-year-old female subject taking a playful mirror selfie in a modern bedroom setting, specifying facial features, attire, pose, and soft natural lighting. (Duplicate of 2013656407074316669)
+
+#### 📝 คำสั่ง
+
+```
+{
+  "image_generation_prompt": {
+    "subject": {
+      "age": 19,
+      "gender": "female",
+      "facial_features": {
+        "skin_tone": "fair, youthful, flawless",
+        "lips": "pink, plump, tongue sticking out playfully",
+        "eyes": "dark brown, one eye winking, the other open",
+        "cheeks": "rosy, youthful",
+        "nose": "defined, straight"
+      },
+      "hair": "long, light brown, styled with pink bows and white over-ear headphones",
+      "expression": "playful wink and tongue out"
+    },
+    "attire": {
+      "top": "pink ribbed tank top",
+      "bottom": "white pleated mini skirt with white waistband"
+    },
+    "pose": "sitting on grey carpet, legs bent, leaning back slightly, holding an iPhone with a clear case to take a mirror selfie",
+    "environment": {
+      "location": "bedroom",
+      "bed": "large white bed with textured white duvet and pillows",
+      "furniture": "white side table next to bed, white doors, one closed, one open showing bathroom",
+      "walls": "light grey",
+      "flooring": "grey patterned carpet",
+      "objects": "lamp on side table, small items on bathroom counter"
+    },
+    "lighting": "soft, natural daylight from a window",
+    "aspect_ratio": "4:5"
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977310374_qai5kw_G_IAzYQWAAEY7fM.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Playful Mirror Selfie in a Bedroom (Duplicate) - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Vishnudxe/status/2013672869084176541)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6946)**
+
+---
+
+### No. 6: โปรไฟล์ / รูปประจำตัว - Playful Mirror Selfie in a Bedroom
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+A detailed JSON prompt for generating a photorealistic image of a 19-year-old female subject taking a playful mirror selfie in a modern bedroom setting, specifying facial features, attire, pose, and soft natural lighting.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "image_generation_prompt": {
+    "subject": {
+      "age": 19,
+      "gender": "female",
+      "facial_features": {
+        "skin_tone": "fair, youthful, flawless",
+        "lips": "pink, plump, tongue sticking out playfully",
+        "eyes": "dark brown, one eye winking, the other open",
+        "cheeks": "rosy, youthful",
+        "nose": "defined, straight"
+      },
+      "hair": "long, light brown, styled with pink bows and white over-ear headphones",
+      "expression": "playful wink and tongue out"
+    },
+    "attire": {
+      "top": "pink ribbed tank top",
+      "bottom": "white pleated mini skirt with white waistband"
+    },
+    "pose": "sitting on grey carpet, legs bent, leaning back slightly, holding an iPhone with a clear case to take a mirror selfie",
+    "environment": {
+      "location": "bedroom",
+      "bed": "large white bed with textured white duvet and pillows",
+      "furniture": "white side table next to bed, white doors, one closed, one open showing bathroom",
+      "walls": "light grey",
+      "flooring": "grey patterned carpet",
+      "objects": "lamp on side table, small items on bathroom counter"
+    },
+    "lighting": "soft, natural daylight from a window",
+    "aspect_ratio": "4:5"
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977296259_vmqe8f_G_Hx0wqWkAgZ7CA.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Playful Mirror Selfie in a Bedroom - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [sammy](https://x.com/sumiturkude007)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/sumiturkude007/status/2013656407074316669)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6925)**
+
+---
+
+### No. 7: โปรไฟล์ / รูปประจำตัว - Ana de Armas Playful Portrait in Modern Living Room
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A photorealistic prompt for generating an image of Ana de Armas seated playfully on a white plush sofa in a modern, sunlit living room, emphasizing high contrast, deep shadows, and a playful expression with a wink.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "image": {
+    "general": {
+      "style": "photorealistic",
+      "mood": "candid, playful",
+      "lighting": {
+        "type": "natural",
+        "intensity": "harsh",
+        "effect": {
+          "high_contrast": true,
+          "highlights": {
+            "intensity": "strong",
+            "focus": "on the subject and couch"
+          },
+          "shadows": {
+            "intensity": "deep",
+            "focus": "on the subject, couch"
+          }
+        }
+      },
+      "image_ratio": "3:4"
+    },
+    "scene": {
+      "location": {
+        "type": "indoor",
+        "style": "modern living room",
+        "elements": {
+          "sofa": {
+            "type": "plush",
+            "color": "white",
+            "texture": "soft, luxurious"
+          },
+          "lighting_source": {
+            "type": "sunlight",
+            "direction": "streaming from a large window",
+            "effect": "bright and direct"
+          },
+          "room_features": [
+            "minimalistic decor",
+            "large windows",
+            "open space with natural light"
+          ]
+        }
+      }
+    },
+    "subject": {
+      "identity": {
+        "name": "{argument name="celebrity name" default="Ana de Armas"}",
+        "age_range": "mid-20s to early 30s",
+        "characteristics": [
+          "Latin descent",
+          "light skin",
+          "youthful appearance"
+        ]
+      },
+      "physical_appearance": {
+        "hair": {
+          "color": "brown",
+          "texture": "wavy",
+          "length": "long",
+          "style": "high pigtails",
+          "details": "loose strands around the face"
+        },
+        "eyes": {
+          "expression": "playful",
+          "focus": "winking at the camera"
+        },
+        "facial_expression": {
+          "emotion": "playful",
+          "details": "slight smile with a wink"
+        },
+        "body_type": {
+          "build": "slender",
+          "focus": "natural curves"
+        }
+      },
+      "outfit": {
+        "top": {
+          "type": "corset-style",
+          "color": "black",
+          "details": "fitted design accentuating the figure"
+        },
+        "bottom": {
+          "type": "mini dress",
+          "fit": "tight",
+          "material": "stretch fabric"
+        },
+        "style": "elegant yet casual"
+      },
+      "pose": {
+        "body_position": "seated",
+        "position_details": {
+          "sitting": "on a white plush sofa",
+          "legs": "crossed at the knees",
+          "arm_position": "one arm resting on the sofa, the other holding a strand of hair"
+        },
+        "facial_focus": "winking and playful expression",
+        "gesture": "subtle motion, holding hair with one hand, the other hand resting casually on the sofa"
+      }
+    },
+    "visual_effects": {
+      "lighting_effects": {
+        "shadows": {
+          "depth": "deep",
+          "focus": "on the figure and sofa, creating a dramatic effect"
+      }
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977300098_qcqg1i_G_HdytxWAAEg3S4.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Ana de Armas Playful Portrait in Modern Living Room - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977300163_5z0w9i_G_HdywNWwAAcJuc.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Ana de Armas Playful Portrait in Modern Living Room - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Vishnudxe/status/2013634376140206175)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6932)**
+
+---
+
+### No. 8: โปรไฟล์ / รูปประจำตัว - Detailed Fitness Mirror Selfie Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A highly detailed, JSON-structured prompt for generating a photorealistic mirror selfie of a fit young woman in a gym, specifying her physique, attire (white compression top, burgundy leggings), pose (side profile to emphasize glutes), and complex mixed lighting conditions.
+
+#### 📝 คำสั่ง
+
+```
+{
+"subject": {
+"demographics": "Young female adult, appearing to be in her 20s, with a fit, athletic physique and light tanned skin tone.",
+"hair": "Long, wavy, dirty blonde hair with lighter highlights (balayage), parting in the middle and cascading down her back, extending below the shoulder blades.",
+"attire": {
+"upper_body": "{argument name="top color" default="White"}, long-sleeved compression crop top, tight-fitting, showing fabric tension across the arms and torso.",
+"lower_body": "{argument name="legging color" default="Burgundy or deep maroon"} high-waisted seamless leggings, form-fitting, emphasizing the gluteal curve and leg musculature.",
+"accessories": "White Apple AirPods in ears, holding a smartphone with a light-colored case."
+},
+"anatomy": "Curvy and athletic build. Prominent gluteal projection visible in profile. Slim waist. Bust profile shows natural volume and projection consistent with the side-view perspective. Posture is upright with an anterior pelvic tilt emphasizing the lower back curve."
+},
+"pose": {
+"type": "Standing mirror selfie, side profile orientation.",
+"details": "Body is turned sideways to the mirror (facing the viewer's right). Torso is slightly twisted towards the mirror. The right arm is raised, elbow bent, holding a smartphone in front of the chest/face area to take the photo. The left arm hangs naturally by the side. The head is turned slightly to look at the phone screen. Legs are straight, feet planted on the floor.",
+"angle": "Eye-level relative to the standing subject, capturing a full-body profile reflection."
+},
+"environment": {
+"setting": "Spacious gym or dance studio.",
+"flooring": "Polished hardwood or laminate flooring with visible wood grain and linear planks running diagonally in perspective.",
+"walls": "Matte black walls. A large wall-to-wall mirror covers the left side of the room, reflecting the gym equipment and the other side of the room.",
+"ceiling": "High ceiling with exposed dark wooden beams and industrial linear LED lighting fixtures.",
+"background_elements": "Stacks of gray aerobic steppers against the back wall. Dumbbell racks visible in the mirror reflection on the left. A window letting in daylight is visible on the far right side."
+},
+"camera": {
+"type": "Smartphone mirror selfie.",
+"perspective": "Reflected view. The camera is the phone seen in the mirror.",
+"focal_length": "24mm to 26mm equivalent (standard smartphone wide lens).",
+"framing": "Medium-full shot, cropping just below the knees, capturing the subject centrally with ample background context.",
+"depth_of_field": "Deep depth of field, keeping both the subject and the background gym environment in relatively sharp focus."
+},
+"lighting": {
+"sources": "Mixed lighting. Overhead industrial LED tube lights providing cool, diffuse top-down illumination. Natural daylight entering from a window on the right side, creating a rim light effect on the hair and shoulders.",
+"quality": "Soft and diffuse, typical of indoor gym environments. Re
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977319772_km9vsg_G_G_LDoXQAA2UuO.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Detailed Fitness Mirror Selfie Prompt - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [brindley](https://x.com/brindleyai)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/brindleyai/status/2013601018055962816)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6961)**
+
+---
+
+### No. 9: โปรไฟล์ / รูปประจำตัว - Ultra-Photorealistic iPhone Vertical Portrait in Hotel Suite
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+A highly specific JSON prompt designed to mimic a casual, ultra-photorealistic iPhone photo taken in a modern hotel suite, focusing on natural skin texture, subtle lighting, and realistic details like fabric compression and handheld imperfections.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "image_prompt": {
+    "meta": {
+      "aspect_ratio": "9:16 vertical",
+      "camera": "iPhone 15 Pro Max (rear camera)",
+      "lens_feel": "24mm wide, slight wide-angle realism without face distortion",
+      "quality": "ultra-photorealistic, looks like a real iPhone camera roll photo",
+      "texture_rules": [
+        "natural skin texture (no plastic smoothing)",
+        "subtle smartphone noise/grain in shadows",
+        "tiny handheld imperfections (micro-tilt, not perfectly centered)"
+      ]
+    },
+    "scene": {
+      "location": "modern hotel-suite / upscale apartment living room",
+      "key_background_elements": [
+        "large floor-to-ceiling dark charcoal curtains on the left side",
+        "warm textured plaster wall on the right side (brown/tan, slightly mottled)",
+        "soft warm light gradient on the wall (like a hidden lamp or sconce spill)",
+        "neutral-toned interior, quiet late-night vibe"
+      ],
+      "foreground": [
+        "large beige fabric sectional sofa with visible woven texture",
+        "seat cushions slightly creased from weight (real compression, not perfect)",
+        "bottom-right corner hint of a speckled stone/marble tabletop edge (out of focus)"
+      ],
+      "extra_realism_details": [
+        "a few personal items/bags faintly visible in the back-right area (messy-but-real, not staged)",
+        "dim room depth, corners fall into shadow naturally"
+      ]
+    },
+    "lighting": {
+      "type": "warm indoor ambient lighting",
+      "sources": [
+        "soft warm lamp spill from camera-right creating a golden cast on skin and wall",
+        "darker fill from the curtain side (camera-left) for contrast"
+      ],
+      "look": [
+        "gentle highlights on shoulders, chest, thighs",
+        "soft but noticeable shadows under legs and along couch seams",
+        "overall warm tungsten color temperature"
+      ]
+    },
+    "subject": {
+      "person": "one adult woman",
+      "ethnicity": "fair-skinned European look",
+      "skin": {
+        "tone": "light warm-fair beige with a golden indoor cast",
+        "finish": "natural, slight sheen on shoulders and legs, visible pores/real texture"
+      },
+      "face": {
+        "structure": "soft pretty features, small nose, full lips, delicate jawline",
+        "expression": "calm, slightly dreamy/relaxed, eyes looking down to her right (not at camera)",
+        "makeup": "minimal glam: even skin, subtle blush, natural brows, soft lip tint (not bold)"
+      },
+      "hair": {
+        "color": "light blonde",
+        "length": "shoulder-length to slightly longer",
+        "style": "straight with a loose natural fall, center/soft-middle part, a few face-framing strands"
+      },
+      "body": {
+        "type": "slim-curvy hourglass (fit waist, rounded hips, very full bust but still natural)",
+        "waist": "tight and visibly cinched from seated twist and posture",
+        "le
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977301191_hma35q_G_G9SnKW0AEvliH.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Ultra-Photorealistic iPhone Vertical Portrait in Hotel Suite - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Vishnudxe/status/2013598639973961825)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6934)**
+
+---
+
+### No. 10: โปรไฟล์ / รูปประจำตัว - Playful Kawaii Mirror Selfie Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A highly detailed, JSON-structured prompt for generating a playful, kawaii-style mirror selfie of a young woman wearing a pink brocade corset, gingham mini skirt, and cat ears headband, set in a modern apartment with floor-to-ceiling windows.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "image_generation_prompt": {
+    "subject": {
+      "demographics": {
+        "gender": "female",
+        "age_group": "young adult",
+        "skin_tone": "fair"
+      },
+      "hair": {
+        "color": "blonde",
+        "length": "long",
+        "style": "straight/wavy",
+        "accessory": "white fluffy cat ears headband"
+      },
+      "face": {
+        "expression": {
+          "mood": "playful",
+          "mouth": "tongue sticking out, slight smile",
+          "gaze": "looking up and to the left"
+        },
+        "makeup": {
+          "eyes": "light makeup with winged liner",
+          "lips": "pink color",
+          "cheeks": "rosy",
+          "features": "defined nose"
+        }
+      },
+      "wardrobe": {
+        "upper_body": {
+          "item": "corset",
+          "material": "brocade",
+          "color": "{argument name="corset color" default="pink"}",
+          "details": ["front lacing", "trim"]
+        },
+        "lower_body": {
+          "item": "mini skirt",
+          "pattern": "gingham",
+          "color": "pink",
+          "details": ["ruffled layers", "white lace trim"]
+        },
+        "leg_wear": {
+          "item": "thigh-high socks",
+          "color": "white",
+          "details": "pink stripes at the top"
+        },
+        "accessories": {
+          "neck": "pink collar choker with small silver bell",
+          "ears": "small stud earrings",
+          "wrist": "delicate gold bracelet"
+        }
+      },
+      "pose": {
+        "action": "taking mirror selfie",
+        "hand_position": "holding phone in right hand",
+        "posture": "standing"
+      }
+    },
+    "scene": {
+      "environment": {
+        "location": "modern apartment interior",
+        "flooring": "grey wood plank",
+        "walls": "grey tiled section"
+      },
+      "lighting": {
+        "source": "natural daylight",
+        "direction": "from floor-to-ceiling windows",
+        "quality": "bright"
+      },
+      "background_elements": {
+        "windows": "large floor-to-ceiling, showing bright daytime cityscape and sky",
+        "furniture": {
+          "left": "large brown teddy bear leaning against wall",
+          "right": [
+            "white upholstered armchair",
+            "wooden side table",
+            "clear glass vase on shelf"
+          ]
+        }
+      },
+      "foreground_elements": {
+        "props": "green artificial ivy plant hanging",
+        "overlays": {
+          "text_content": "{argument name="overlay text" default="HIII"}",
+          "text_color": "white",
+          "position": "overlaying background near the chair"
+        }
+      }
+    },
+    "technical_specifications": {
+      "medium": "photography",
+      "sub_genre": "mirror selfie",
+      "device_prop": "white iPhone",
+      "composition": "reflection showing subject and room context",
+      "aspect_ratio": "2:3"
+    }
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977321366_b9ibp9_G_GjaJcWIAAUI6s.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Playful Kawaii Mirror Selfie Prompt - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Lex](https://x.com/lexx_aura)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/lexx_aura/status/2013570221596913975)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6963)**
+
+---
+
+### No. 11: โปรไฟล์ / รูปประจำตัว - Kawaii E-Girl Mirror Selfie Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A detailed JSON prompt for generating a photorealistic image of a woman taking a mirror selfie in a kawaii, e-girl, soft grunge, and coquette aesthetic. It specifies the subject's appearance, outfit (including a corset with an anime print), pose, environment, and desired high-definition quality.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "prompt_description": {
+    "subject": {
+      "type": "woman",
+      "hair": "long, straight, platinum blonde",
+      "features": "light skin tone, soft makeup, finger resting on lip",
+      "tattoos": "small text tattoo on chest, '{argument name="wrist tattoo" default="XXX"}' tattoo on wrist"
+    },
+    "outfit": {
+      "top": "{argument name="top garment" default="white satin corset"} with pink cartoon/anime print (My Melody style), lace trim, ribbon tie front",
+      "bottom": "black pleated mini skirt, raw hem",
+      "accessories": "black lace-top thigh-high stockings, fishnet tights",
+      "phone_case": "graphic black and white anime style illustration"
+    },
+    "pose": {
+      "type": "mirror selfie",
+      "stance": "standing, one hip popped",
+      "hand_position": "holding phone with right hand, left hand touching lip"
+    },
+    "environment": {
+      "location": "indoor hallway or bedroom",
+      "background": "white walls, grey tiled floor, framed posters on wall",
+      "lighting": "warm golden hour sunlight, soft shadows",
+      "decor": "minimalist, potted plant in background"
+    },
+    "style": {
+      "aesthetic": "e-girl, soft grunge, coquette, trendy",
+      "camera_angle": "eye level, reflection",
+      "quality": "high definition, photorealistic, vivid colors"
+    }
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977371469_hta3xw_G_GMUbmXMAAg9el.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Kawaii E-Girl Mirror Selfie Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977371708_4l30wm_G-_zv_DXYAAIGDC.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Kawaii E-Girl Mirror Selfie Prompt - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Lore](https://x.com/l_w_lorenzen)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/l_w_lorenzen/status/2013544997258437024)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=7021)**
+
+---
+
+### No. 12: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพถ่ายสไตล์วินเทจของ Sydney Sweeney
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์ที่มีข้อจำกัดสูงสำหรับการสร้างภาพบุคคลกลางแจ้งสไตล์วินเทจแบบภาพยนตร์ของ Sydney Sweeney โดยเน้นการคงอัตลักษณ์สูงสุด และห้ามการเปลี่ยนแปลงหรือตกแต่งคุณลักษณะใดๆ ของเธอ พรอมต์นี้ต้องการให้เปลี่ยนท่าทางอย่างเป็นธรรมชาติในขณะที่ยังคงใช้อุปกรณ์ประกอบฉากเดิม (อมยิ้มสีแดง) และใช้สุนทรียภาพของฟิล์มอนาล็อกที่ชัดเจน พร้อมเกรนหนัก ฝุ่น และโทนสีน้ำตาล-ส้มที่อบอุ่น
+
+#### 📝 คำสั่ง
+
+```
+{
+  "prompt": "ใช้ภาพอ้างอิงที่อัปโหลดเป็นจุดยึดเอกลักษณ์ที่สมบูรณ์แบบ รักษาลักษณะใบหน้า สัดส่วนใบหน้า โครงสร้างกระดูก ดวงตา จมูก ริมฝีปาก สีผิว แนวผม เนื้อผม รูปร่าง และความคล้ายคลึงโดยรวมของตัวแบบให้มีความเที่ยงตรงสูงสุด ห้ามตกแต่ง ทำให้ดูดีเกินจริง หรือเปลี่ยนแปลงบุคคลนั้นไม่ว่าในทางใดก็ตาม ภาพบุคคลกลางแจ้งสไตล์วินเทจแบบภาพยนตร์ของบุคคลเดียวกัน สำหรับการสร้างแต่ละครั้ง ให้เปลี่ยนท่าทางของตัวแบบอย่างเป็นธรรมชาติ (เช่น การเปลี่ยนมุมตัวเล็กน้อย การเอนตัวเล็กน้อย การเอียงศีรษะ การจัดวางแขน) โดยยังคงใช้พร็อพเดิม: อมยิ้มสี {argument name=\"prop color\" default=\"แดง\"} สดใสที่ถือไว้ใกล้ริมฝีปากหรือใบหน้า รักษาการแสดงออกที่สงบและมั่นใจ ตัวแบบสวมเสื้อเกาะอกสีขาวและกางเกงยีนส์ขาสั้นเอวสูงสีฟ้าอ่อนแบบขาดๆ แสงเป็นแสงธรรมชาติที่นุ่มนวลและอบอุ่นในช่วง Golden Hour ภาพมีสุนทรียภาพแบบฟิล์มอนาล็อกที่ชัดเจน พร้อมเกรนหนัก ฝุ่น รอยขีดข่วน การซีดจางเล็กน้อย และสีโทนน้ำตาลส้มที่อบอุ่น คล้ายกับภาพถ่าย 35 มม. เก่าๆ พื้นหลังเบลออย่างนุ่มนวลด้วยระยะชัดตื้น การจัดเฟรมยังคงเป็นแบบภาพยนตร์และสอดคล้องกัน",
+  "identity_preservation": {
+    "face_likeness": "maximum",
+    "body_proportions": "exact_match",
+    "hair": "match_reference"
+  },
+  "pose_variation": {
+    "enabled": true,
+    "mode": "random_per_generation",
+    "constraints": [
+      "natural human poses only",
+      "no extreme or distorted angles",
+      "no change to body shape or identity"
+    ]
+  },
+  "prop": {
+    "name": "{argument name=\"prop name\" default=\"อมยิ้มสีแดง\"}",
+    "consistency": "same_prop_every_generation"
+  },
+  "style_keywords": [
+    "vintage film photography",
+    "analog grain",
+    "cinematic portrait",
+    "retro aesthetic",
+    "natural light",
+    "shallow depth of field",
+    "realistic skin texture"
+  ],
+  "camera_settings": {
+    "lens": "35mm",
+    "aperture": "f/1.8",
+    "iso": 800,
+    "film_grain": "heavy",
+    "vignette": "light"
+  },
+  "negative_prompt": [
+    "face change",
+    "different person",
+    "altered identity",
+    "idealized beauty",
+    "smooth plastic skin",
+    "CGI",
+    "illustration",
+    "digital HDR look",
+    "modern studio lighting",
+    "missing prop",
+    "changed prop"
+  ],
+  "generation_settings": {
+    "image_weight": "1.5–2.0",
+    "face_consistency": "max",
+    "denoising_strength": "0.2–0.35",
+    "cfg_scale": "low_to_medium",
+    "aspect_ratio": "16:9"
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977289619_owfu95_G_GGXKxXwAAppo2.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพถ่ายสไตล์วินเทจของ Sydney Sweeney - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977289629_p8ikws_G_GGXKCXYAAbzPr.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพถ่ายสไตล์วินเทจของ Sydney Sweeney - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977289773_r31g5n_G_GGXTlXoAEnaap.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพถ่ายสไตล์วินเทจของ Sydney Sweeney - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977290654_layeci_G_GGXdcXIAAZw-N.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพถ่ายสไตล์วินเทจของ Sydney Sweeney - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [✨ Pulikesi✨](https://x.com/23rd_Pulikesi)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/23rd_Pulikesi/status/2013538250422624430)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6917)**
+
+---
+
+### No. 13: โปรไฟล์ / รูปประจำตัว - เซลฟี่ในร้านเสริมสวยพร้อมเสื้อฟุตบอลครอป พรอมต์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+JSON พร้อมท์ที่เฉพาะเจาะจงสูงสำหรับสร้างภาพผู้หญิงถ่ายเซลฟี่ในร้านทำผมหรูหราที่สมจริงมาก พร้อมท์นี้ให้รายละเอียดเกี่ยวกับรูปลักษณ์ของเธอ (ผมบลอนด์, สีหน้าเย้ายวน, แต่งหน้าจัดจ้านพร้อมกลิตเตอร์สีทอง) และชุดที่ยั่วยวน (เสื้อฟุตบอลสีชมพูครอปสั้นมาก, กางเกงยีนส์รัดรูปขาด) โดยเน้นคุณสมบัติทางกายภาพที่เฉพาะเจาะจงและแสงสตูดิโอที่จัดจ้าน
+
+#### 📝 คำสั่ง
+
+```
+{
+  "subject": {
+    "type": "ผู้หญิง",
+    "ethnicity": "ตะวันตก",
+    "hair": {
+      "color": "สีบลอนด์",
+      "length": "ยาว",
+      "style": "ปล่อยผม"
+    },
+    "skin": "ผิวขาว",
+    "facial_features": "เหมือนกับภาพอ้างอิง",
+    "makeup": {
+      "style": "จัดจ้าน",
+      "details": {
+        "golden_glitter_dots": "โหนกแก้ม",
+        "winged_eyeliner": "คมกริบ",
+        "lips": "อวบอิ่ม, สีแดงเข้มเงางาม"
+      }
+    },
+    "expression": "เย้ายวน"
+  },
+  "pose": {
+    "action": "กำลังถ่ายเซลฟี่",
+    "camera": "Canon, มือขวา",
+    "left_hand": "กำลังจับผม",
+    "body_position": "มีชีวิตชีวา"
+  },
+  "clothing": {
+    "top": {
+      "type": "เสื้อฟุตบอลครอป",
+      "color": "{argument name=\"jersey color\" default=\"pink\"}",
+      "stripes": "สีเขียวและแดง",
+      "logo": "ทีมชาติโมร็อกโก",
+      "sponsor": "PUMA",
+      "custom_text": "AMUQ",
+      "fit": "ครอปสั้นมาก, เผยให้เห็นส่วนใต้หน้าอก"
+    },
+    "necklace": "จี้รูปหัวใจ",
+    "bracelets": "สีทอง",
+    "jeans": {
+      "style": "ยีนส์สกินนี่เอวสูง",
+      "color": "สีฟ้าอ่อน",
+      "details": "ขาด",
+      "fit": "รัดรูป, โอบรับสะโพกโค้งมนขนาดใหญ่และต้นขาที่หนา"
+    },
+    "tattoos": "รอยสักเล็กๆ ที่แขน"
+  },
+  "environment": {
+    "location": "ร้านทำผมหรูหราทันสมัย",
+    "background": "เก้าอี้ร้านทำผมหนังสีดำ",
+    "lighting": {
+      "type": "ไฟวงแหวนสว่างและไฟสตูดิโอระดับมืออาชีพ",
+      "effects": "แสงขอบที่ชัดเจน, แสงแฟลร์",
+      "mood": "มืดหม่นจัดจ้าน, เหมือนภาพยนตร์"
+    }
+  },
+  "output": {
+    "style": "สมจริงขั้นสุด, ภาพถ่ายเสมือนจริง",
+    "resolution": "8k",
+    "skin_texture": "รายละเอียดสูง"
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977288667_ocr0m1_G_FqhryXAAAOYMJ.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เซลฟี่ในร้านเสริมสวยพร้อมเสื้อฟุตบอลครอป พรอมต์ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Sharon Riley](https://x.com/Just_sharon7)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Just_sharon7/status/2013507711896559676)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6913)**
+
+---
+
+### No. 14: โปรไฟล์ / รูปประจำตัว - Photorealistic Gym Mirror Selfie Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A highly detailed, structured JSON prompt for generating a photorealistic 8K mirror selfie of a confident young woman in a luxury gym, focusing heavily on athletic body proportions, specific clothing items (cropped sweatshirt, biker shorts), and cinematic lighting.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "prompt": "A confident young woman taking a mirror selfie in a luxurious modern gym, full-body shot, athletic curvy hourglass figure with a very defined waist and prominent rounded glutes, standing in a side-angle pose to highlight curves. Long high ponytail, natural-looking makeup with glossy lips. Wearing an oversized loose {argument name="top color" default="white"} cropped sweatshirt and tight black high-waisted seamless biker shorts. Pink over-ear wireless headphones (Sony or AirPods Max style). Holding an iPhone while taking the selfie. Bright, spacious, high-end gym interior with large mirrors, abundant natural light, cardio machines and weight equipment in the background. Clean aesthetic, photorealistic, sharp details, 8k resolution, professional smartphone selfie photography, natural skin texture, soft cinematic lighting.",
+  "negative_prompt": "blurry, low resolution, overprocessed skin, unrealistic body proportions, extra limbs, distorted hands, distorted face, harsh flash, cluttered background, text, watermark, logo",
+  "style": "photorealistic",
+  "camera": {
+    "type": "smartphone",
+    "perspective": "mirror selfie",
+    "shot": "full body",
+    "angle": "side angle"
+  },
+  "lighting": "soft cinematic natural light",
+  "environment": "luxury modern gym",
+  "quality": {
+    "resolution": "8k",
+    "detail": "high",
+    "sharpness": "high"
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977314986_lozzdu_G_E7Rw6XQAA5e8q.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Photorealistic Gym Mirror Selfie Prompt - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Sharon Riley](https://x.com/Just_sharon7)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Just_sharon7/status/2013455695811879119)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6952)**
+
+---
+
+### No. 15: โปรไฟล์ / รูปประจำตัว - ภาพบุคคลสไตล์บรรณาธิการ: แฟลชเซลฟี่ในยามค่ำคืน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -742,7 +1790,7 @@ JSON prompt ที่มีความเฉพาะเจาะจงสู�
 
 ---
 
-### No. 2: โปรไฟล์ / รูปประจำตัว - การสร้างอวตาร 3D สไตล์ Pixar
+### No. 16: โปรไฟล์ / รูปประจำตัว - การสร้างอวตาร 3D สไตล์ Pixar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -775,7 +1823,7 @@ JSON prompt ที่มีความเฉพาะเจาะจงสู�
 
 ---
 
-### No. 3: โปรไฟล์ / รูปประจำตัว - พรอมต์เซลฟี่หน้ากระจกยิมที่สมจริงสุดๆ (จำลองด้วย iPhone 17 Pro)
+### No. 17: โปรไฟล์ / รูปประจำตัว - พรอมต์เซลฟี่หน้ากระจกยิมที่สมจริงสุดๆ (จำลองด้วย iPhone 17 Pro)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -824,7 +1872,7 @@ JSON prompt ที่มีความเฉพาะเจาะจงสู�
 
 ---
 
-### No. 4: โปรไฟล์ / รูปประจำตัว - พรอมต์แปลงโฉมภาพถ่ายบุคคลสตูดิโอของ Avatar Girl
+### No. 18: โปรไฟล์ / รูปประจำตัว - พรอมต์แปลงโฉมภาพถ่ายบุคคลสตูดิโอของ Avatar Girl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -927,1172 +1975,7 @@ JSON prompt แบบละเอียดสำหรับการสร้�
 
 ---
 
-### No. 5: โปรไฟล์ / รูปประจำตัว - พรอมต์สำหรับเซลฟี่แคนดิดบนชายหาดด้วย iPhone 15 Pro
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-JSON prompt ที่มีรายละเอียดสูงและมีโครงสร้างสำหรับ Nano Banana Pro ซึ่งจำลองภาพเซลฟี่มุมสูงที่ถ่ายด้วย iPhone 15 Pro บนชายหาดที่สว่างสดใส โดย prompt ระบุรายละเอียดของตัวแบบที่สมจริงเป็นพิเศษ (คุณสมบัติเหมือนตุ๊กตาพอร์ซเลน เสื้อผ้าเฉพาะ และการแสดงออก) และข้อจำกัดทางเทคนิค รวมถึงแสง สภาพแวดล้อม และรายการ negative prompt
-
-#### 📝 คำสั่ง
-
-```
-{
-    "format": {
-      "type": "บทบรรณาธิการ",
-      "intent": "ตรงไปตรงมา/เซลฟี่/ไม่ได้ตั้งใจ",
-      "aspect_ratio": "9:16",
-      "resolution": "4K"
-    },
-    "camera_system": {
-      "body": "iPhone 15 Pro",
-      "lens": "กล้องหลัก",
-      "focal_length": "24 มม.",
-      "associative_traits": "การถ่ายภาพเชิงคำนวณ, ระยะชัดลึก, การอ่านค่าดิจิทัลที่คมชัด, การเปิดรับแสงอัตโนมัติ"
-    },
-    "subject": {
-      "identity": "หญิงสาวที่มีใบหน้าเหมือนตุ๊กตากระเบื้องเคลือบ",
-      "physical_details": "ผิวขาวซีดไร้ที่ติ, ดวงตาสีฟ้าอ่อนกลมโตพร้อมขนตาที่คมชัด, จมูกเล็กคมชัด, ปากอิ่มเอิบเป็นธรรมชาติ, ผมบลอนด์แพลตตินัมถักเปียสองข้างแน่น, เล็บสีน้ำเงินสดใส",
-      "clothing": "เสื้อรัดรูปสีฟ้าอ่อนคอวีลึกกว้างมาก เผยให้เห็นร่องอกอย่างชัดเจน",
-      "action": "เซลฟี่มุมสูง, ใช้มือข้างหนึ่งบังตาจากแสงชายฝั่งที่สว่างจ้า, มองขึ้นไปที่กล้อง",
-      "expression": "เป็นกลาง, ตาโต, ไร้อารมณ์, จ้องมองว่างเปล่าเหมือนตุ๊กตา"
-    },
-    "lighting": {
-      "source": "แสงแดดธรรมชาติริมชายฝั่งที่สว่างจ้า + แสงสะท้อนจากทราย",
-      "direction": "แสงเหนือศีรษะและแสงเติมรอบทิศทาง",
-      "quality": "นุ่มนวล, กระจายแสงแต่สว่างมาก",
-      "color_temp": "แสงกลางวันธรรมชาติ (5500K)",
-      "fill": "แสงเติมสูงสุดจากการสะท้อนของทรายขาวสว่าง",
-      "distribution": "แสงสว่างสม่ำเสมอ, มีเงาเล็กน้อย, ทำให้ผิวดูดี",
-      "intent": "วันชายหาดที่สดใส"
-    },
-    "environment": {
-      "setting": "หาดทรายในเวลากลางวัน",
-      "hero_materials": [
-        {
-          "material": "ทราย",
-          "micro_detail": "เม็ดทรายขาวละเอียด, สะท้อนแสงได้ดีมาก"
-        },
-        {
-          "material": "ผ้า",
-          "micro_detail": "ชุดว่ายน้ำสีฟ้าอ่อน/ผ้าฝ้ายยืดผสม"
-        },
-        {
-          "material": "ผิวหนัง",
-          "micro_detail": "เรียบเนียน, ไม่มีรูขุมขน, ผิวเหมือนกระเบื้องเคลือบ, มีความชุ่มชื้นเล็กน้อยจากความร้อน"
-        }
-      ],
-      "objects": "เส้นขอบฟ้าของมหาสมุทรเบลออยู่ไกลๆ, หาดทรายกว้างใหญ่",
-      "state": "สว่าง, มีแดดจัด, ริมทะเล"
-    },
-    "technical_finish": {
-      "film_stock": "แหล่งกำเนิดดิจิทัล",
-      "exposure": "เปิดรับแสงสว่างมาก (high key)",
-      "grain": "ไม่มี/สัญญาณรบกวนดิจิทัล",
-      "tone_curve": "เส้นโค้งโทนสีเป็นกลางเชิงเส้น",
-      "color_science": "โทนสีพาสเทล (สีฟ้าอ่อน, ทรายขาว, ผิวซีด), สีแสงกลางวันธรรมชาติ"
-    },
-    "constraints": {
-      "avoid": [
-        "หิมะ",
-        "เสื้อผ้าฤดูหนาว",
-        "เล็บสีแดง",
-        "เสื้อสีดำ",
-        "คอเสื้อไม่ลึก",
-        "เงาเข้ม"
-      ],
-      "must_include": [
-        "เล็บสีฟ้า",
-        "เสื้อสีฟ้าอ่อน",
-        "ร่องอกลึก",
-        "ฉากหลังชายหาด",
-        "ใบหน้าเหมือนตุ๊กตากระเบื้องเคลือบ"
-      ]
-    }
-  }
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890705798_znhp8b_G_BJSVuWEAAzAMR.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - พรอมต์สำหรับเซลฟี่แคนดิดบนชายหาดด้วย iPhone 15 Pro - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Emily](https://x.com/IamEmily2050)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/IamEmily2050/status/2013189624848633963)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6797)**
-
----
-
-### No. 6: โปรไฟล์ / รูปประจำตัว - เปลี่ยนเซลฟี่ให้เป็นรูปโปรไฟล์ LinkedIn แบบมืออาชีพ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ที่สั่งให้ AI แปลงภาพเซลฟี่ที่อัปโหลดให้เป็นภาพเฮดช็อตสำหรับ LinkedIn ที่ดูเป็นมืออาชีพ โดยระบุพื้นหลังสำนักงานที่เบลอเล็กน้อยพร้อมหน้าต่างบานใหญ่ สไตล์ที่สะอาดตาและสมจริง การรีทัชอย่างละเอียด และแสงธรรมชาติยามกลางวัน ในขณะที่ยังคงรักษาคุณสมบัติใบหน้าและทรงผมจากภาพต้นฉบับไว้อย่างเคร่งครัด
-
-#### 📝 คำสั่ง
-
-```
-เปลี่ยนภาพเซลฟี่นี้ให้เป็นภาพเฮดช็อต LinkedIn แบบมืออาชีพของผู้ชายคนหนึ่ง พื้นหลัง: สำนักงานเบลอเล็กน้อยพร้อมหน้าต่างบานใหญ่ สไตล์: สะอาดตา, สมจริง, รีทัชอย่างประณีต, ไม่มีฟิลเตอร์หนักๆ แสง: แสงธรรมชาติอ่อนๆ จากด้านหน้า ข้อจำกัด: รักษารายละเอียดใบหน้าและทรงผมให้ถูกต้อง, ไม่มีข้อความ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890667139_mn1d69_G_BHdvxW4AA41Hs.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เปลี่ยนเซลฟี่ให้เป็นรูปโปรไฟล์ LinkedIn แบบมืออาชีพ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Snow](https://x.com/iamrealsnow)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/iamrealsnow/status/2013187622299156726)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6738)**
-
----
-
-### No. 7: โปรไฟล์ / รูปประจำตัว - ภาพบุคคลฤดูหนาวบนเทือกเขาแอลป์แบบ Image-to-Image
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-นี่คือพร้อมต์แบบมีโครงสร้างสำหรับ Gemini Nano Banana Pro ที่ใช้โมเดล Stable Diffusion XL สำหรับการสร้างภาพจากภาพ โดยต้องอัปโหลดภาพอ้างอิงเพื่อรักษารูปลักษณ์ของตัวแบบ และสร้างภาพบุคคลฤดูหนาวกลางแจ้งที่สมจริงเป็นพิเศษบนระเบียงบนเทือกเขา โดยระบุผมเปียสีบลอนด์แพลตตินัม การแสดงออกที่ขี้เล่น และแสงธรรมชาติในฤดูหนาวที่คมชัด
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "image_to_image",
-  "model": "stable-diffusion-xl",
-  "prompt": "ใช้ภาพที่อัปโหลดเป็นข้อมูลอ้างอิงหลัก และคงบุคคล โครงสร้างใบหน้า สีผิว และอัตลักษณ์เดิมไว้ สร้างภาพบุคคลกลางแจ้งในฤดูหนาวที่สมจริงสุด ๆ บนระเบียงไม้ในเทือกเขาแอลป์ที่ปกคลุมด้วยหิมะ บุคคลนั้นเอนตัวไปข้างหน้าเล็กน้อยเข้าหากล้องพร้อมทำหน้าจุ๊บปากแบบขี้เล่น ผมสีบลอนด์แพลทินัมจัดทรงเป็นเปียยาวสองข้าง สวมเสื้อแขนยาวสีดำเข้ารูปและกางเกงสีดำ แว่นกันแดดทรงสี่เหลี่ยมสีดำมีสไตล์ ผิวขาวเนียนเป็นธรรมชาติพร้อมรูขุมขนและไฮไลท์ที่สมจริง ฉากหลังประกอบด้วยภูเขาที่ปกคลุมด้วยหิมะ ต้นสน กระท่อมไม้ และท้องฟ้าฤดูหนาวสีฟ้าใส หิมะสดใหม่ปกคลุมอยู่บนราวระเบียง มีแก้วกาแฟสีขาววางอยู่บนราวไม้แบบสบาย ๆ แสงแดดธรรมชาติในฤดูหนาวที่สดใส แสงแดดคมชัด เงาที่สมจริง ถ่ายด้วยเลนส์มุมกว้าง, ภาพถ่ายไลฟ์สไตล์การเดินทาง, สุนทรียภาพแบบ Instagram, รายละเอียดสูงมาก, สมจริงสุด ๆ, ภาพถ่ายระดับมืออาชีพ",
-  "negative_prompt": "เบลอ, คุณภาพต่ำ, ใบหน้าบิดเบี้ยว, อัตลักษณ์ผิดพลาด, นิ้วเกิน, แขนขาเกิน, สรีระผิดปกติ, การ์ตูน, อะนิเมะ, CGI, ผิวพลาสติก, หิมะสว่างเกินไป, ลายน้ำ, โลโก้, ข้อความ",
-  "settings": {
-    "denoise_strength": 0.5,
-    "cfg_scale": 7,
-    "steps": 30,
-    "sampler": "DPM++ 2M Karras",
-    "aspect_ratio": "3:4",
-    "seed": -1
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890710684_0yaxud_G_BCVx7XQAASbey.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพบุคคลฤดูหนาวบนเทือกเขาแอลป์แบบ Image-to-Image - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890710797_p1utsa_G_BCVwqWkAMyFyL.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพบุคคลฤดูหนาวบนเทือกเขาแอลป์แบบ Image-to-Image - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Sudee🥀](https://x.com/NameIsSudee)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/NameIsSudee/status/2013182092331589997)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6805)**
-
----
-
-### No. 8: โปรไฟล์ / รูปประจำตัว - E-Girl Mirror Selfie ในแสง Golden Hour
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-JSON prompt แบบละเอียดสำหรับ Gemini Nano Banana Pro โดยเน้นการสร้างภาพเซลฟี่หน้ากระจกที่สมจริงของผู้หญิงในสไตล์ 'e-girl' หรือ 'soft grunge' โดยระบุผมสีบลอนด์แพลทินัม คอร์เซ็ตผ้าซาตินสีขาวลายการ์ตูน และฉากหลังเป็นโถงทางเดินภายในอาคารที่อาบไล้ด้วยแสงอาทิตย์ยามเย็นสีทองอันอบอุ่น
-
-#### 📝 คำสั่ง
-
-```
-{
-  "prompt_description": {
-    "subject": {
-      "type": "ผู้หญิง",
-      "hair": "ผมยาวตรง สีบลอนด์แพลทินัม",
-      "features": "ผิวขาว แต่งหน้าเบาๆ นิ้วแตะริมฝีปาก",
-      "tattoos": "รอยสักตัวอักษรเล็กๆ บนหน้าอก, รอยสัก 'XXX' บนข้อมือ"
-    },
-    "outfit": {
-      "top": "คอร์เซ็ตผ้าซาตินสีขาว พิมพ์ลายการ์ตูน/อนิเมะสีชมพู (สไตล์ {argument name=\"cartoon character\" default=\"My Melody\"}), แต่งขอบลูกไม้, ผูกริบบิ้นด้านหน้า",
-      "bottom": "กระโปรงสั้นจีบสีดำ ชายกระโปรงดิบ",
-      "accessories": "ถุงน่องเหนือเข่าลูกไม้สีดำ, ถุงน่องตาข่าย",
-      "phone_case": "เคสโทรศัพท์ลายภาพประกอบสไตล์อนิเมะขาวดำ"
-    },
-    "pose": {
-      "type": "เซลฟี่หน้ากระจก",
-      "stance": "ยืน, สะโพกข้างหนึ่งผายออก",
-      "hand_position": "ถือโทรศัพท์ด้วยมือขวา, มือซ้ายแตะริมฝีปาก"
-    },
-    "environment": {
-      "location": "ทางเดินในอาคารหรือห้องนอน",
-      "background": "ผนังสีขาว, พื้นกระเบื้องสีเทา, โปสเตอร์ใส่กรอบบนผนัง",
-      "lighting": "แสงแดดยามเย็นสีทองอบอุ่น, เงาอ่อนๆ",
-      "decor": "มินิมอล, มีต้นไม้กระถางอยู่ด้านหลัง"
-    },
-    "style": {
-      "aesthetic": "e-girl, soft grunge, coquette, ทันสมัย",
-      "camera_angle": "ระดับสายตา, ภาพสะท้อน",
-      "quality": "ความละเอียดสูง, สมจริง, สีสันสดใส"
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890708248_z2jdm2_G-_zv_DXYAAIGDC.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - E-Girl Mirror Selfie ในแสง Golden Hour - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Mira](https://x.com/xmiiru_)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/xmiiru_/status/2013095567547666866)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6801)**
-
----
-
-### No. 9: โปรไฟล์ / รูปประจำตัว - พรอมต์สร้างภาพเหมือนตนเอง (ตัวยึดตำแหน่ง)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งชั่วคราวที่ใช้ในเวิร์กโฟลว์สำหรับการสร้างภาพเหมือนตนเองโดยใช้ Gemini Nano Banana Pro เวิร์กโฟลว์นี้เกี่ยวข้องกับการอัปโหลดรูปภาพใบหน้าที่ชัดเจนของผู้ใช้ จากนั้นใช้ข้อความแจ้งนี้เพื่อสร้างภาพ
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพบุคคลที่สมจริงของบุคคลที่อัปโหลดมาในสไตล์ {argument name="style" default="ภาพแฟชั่นสไตล์ภาพยนตร์"} ด้วย {argument name="lighting" default="แสงสตูดิโอแบบดราม่า"} และ {argument name="background" default="พื้นหลังสีเข้มแบบมินิมอล"}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890740648_6sohxb_G-_wqcmXEAAYHrM.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - พรอมต์สร้างภาพเหมือนตนเอง (ตัวยึดตำแหน่ง) - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [七表哥](https://x.com/seven_cuz)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/seven_cuz/status/2013092400701608349)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6841)**
-
----
-
-### No. 10: โปรไฟล์ / รูปประจำตัว - E-Girl Mirror Selfie ในแสง Golden Hour (ซ้ำ)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-JSON prompt แบบละเอียดสำหรับ Gemini Nano Banana Pro โดยเน้นการสร้างภาพเซลฟี่หน้ากระจกที่สมจริงของผู้หญิงในสไตล์ 'e-girl' หรือ 'soft grunge' โดยระบุผมบลอนด์แพลตตินัม คอร์เซ็ตผ้าซาตินสีขาวลายการ์ตูน และฉากหลังเป็นโถงทางเดินในร่มที่อาบไล้ด้วยแสงแดดสีทองยามเย็น (ซ้ำจาก 2013095567547666866)
-
-#### 📝 คำสั่ง
-
-```
-{
-  "prompt_description": {
-    "subject": {
-      "type": "ผู้หญิง",
-      "hair": "ผมยาวตรง สีบลอนด์แพลทินัม",
-      "features": "สีผิวอ่อน, แต่งหน้าเบาๆ, นิ้ววางอยู่บนริมฝีปาก",
-      "tattoos": "รอยสักข้อความเล็กๆ บนหน้าอก, รอยสัก 'XXX' บนข้อมือ"
-    },
-    "outfit": {
-      "top": "เสื้อคอร์เซ็ตผ้าซาตินสีขาว พิมพ์ลายการ์ตูน/อนิเมะสีชมพู (สไตล์ {argument name=\"cartoon character\" default=\"My Melody\"}), แต่งขอบลูกไม้, ผูกริบบิ้นด้านหน้า",
-      "bottom": "กระโปรงสั้นจีบสีดำ ชายกระโปรงดิบ",
-      "accessories": "ถุงน่องเหนือเข่าสีดำขอบลูกไม้, ถุงน่องตาข่าย",
-      "phone_case": "เคสโทรศัพท์ลายภาพประกอบสไตล์อนิเมะขาวดำ"
-    },
-    "pose": {
-      "type": "เซลฟี่หน้ากระจก",
-      "stance": "ยืน, สะโพกข้างหนึ่งผายออก",
-      "hand_position": "ถือโทรศัพท์ด้วยมือขวา, มือซ้ายแตะริมฝีปาก"
-    },
-    "environment": {
-      "location": "ทางเดินในร่มหรือห้องนอน",
-      "background": "ผนังสีขาว, พื้นกระเบื้องสีเทา, โปสเตอร์ใส่กรอบบนผนัง",
-      "lighting": "แสงแดดยามเย็นสีทองอบอุ่น, เงาอ่อนๆ",
-      "decor": "มินิมอล, มีกระถางต้นไม้อยู่ด้านหลัง"
-    },
-    "style": {
-      "aesthetic": "e-girl, soft grunge, coquette, ทันสมัย",
-      "camera_angle": "ระดับสายตา, ภาพสะท้อน",
-      "quality": "ความละเอียดสูง, สมจริงเหมือนภาพถ่าย, สีสันสดใส"
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890709718_8jx82s_G-_pBv0W0AAv4gM.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - E-Girl Mirror Selfie ในแสง Golden Hour (ซ้ำ) - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Sudee🥀](https://x.com/NameIsSudee)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/NameIsSudee/status/2013083792937009531)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6804)**
-
----
-
-### No. 11: โปรไฟล์ / รูปประจำตัว - เซลฟี่ด้วยโทรศัพท์ในที่แสงน้อยพร้อมแสงจากหน้าจอ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งรายละเอียดสำหรับ Nano Banana Pro เพื่อสร้างภาพเซลฟี่แนวตั้งที่สมจริง ถ่ายด้วยโทรศัพท์ในที่แสงน้อยในห้องนอนสลัว โดยเน้นแสงสีฟ้าอมม่วงเย็น ๆ จากหน้าจอที่ส่องบนใบหน้า และให้ความรู้สึกง่วงนอนแบบโลไฟ โดยต้องใช้ใบหน้าอ้างอิง
-
-#### 📝 คำสั่ง
-
-```
-เซลฟี่แนวตั้งเหมือนจริงด้วยโทรศัพท์ในที่แสงน้อยในห้องนอนสลัวตอนกลางคืน ใบหน้าเหมือนกับภาพอ้างอิง (ไม่มีการเปลี่ยนแปลง) แสงเรืองรองจากหน้าจอสีม่วงอมฟ้าเย็นตาบนใบหน้าซีดจาง พื้นหลังส่วนใหญ่เป็นสีเข้มพร้อมผ้าม่านทึบแสงสีเบจทางด้านซ้าย ให้ความรู้สึกง่วงนอน อบอุ่น สบายๆ ในยามดึกแบบโลไฟ
-ถ่ายระยะใกล้ มุมต่ำเล็กน้อย ตัวแบบนอนคว่ำ หนุนหมอนสีเทาที่มีลวดลายละเอียดอ่อน ผมเผ้ายุ่งเหยิงสีดำพร้อมผมหน้าม้าปรกหน้า มองเหม่อลอย/ฝันๆ ปากอ้าเล็กน้อย มืออยู่ใกล้ใบหน้า นิ้วชี้แตะริมฝีปากล่าง
-สวม {argument name="clothing item" default="เสื้อสายเดี่ยวสีดำ"}; สายลูกไม้บางๆ มองเห็นได้ ไหล่ซ้ายเปลือย โฟกัสแบบซอฟต์ มองเห็นเกรน/นอยส์ ความเปรียบต่างสูงระหว่างใบหน้าที่สว่างกับพื้นหลังที่มืด
-Negative Prompt:
-แสงแดดจ้า, แสงแดด, แสงสตูดิโอ/แฟลช, โทนสีอบอุ่น/ส้ม, กลางแจ้ง, โฟกัสคมชัด, กล้องมืออาชีพ, 4k คมชัด, ผิวเรียบเนียน, แต่งหน้าจัด, การ์ตูน, อะนิเมะ, ภาพ 3D, มือผิดรูป, นิ้วเกิน/ขาด, ใบหน้าหลุดโฟกัส
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804273563_s6vi3f_G-9PfqUbUAA0A3k.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เซลฟี่ด้วยโทรศัพท์ในที่แสงน้อยพร้อมแสงจากหน้าจอ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Kevin Hudson](https://x.com/fnjialun)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/fnjialun/status/2012914967117541703)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6601)**
-
----
-
-### No. 12: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพเฮดช็อตสไตล์ผู้นำทางความคิด (Image-to-Image)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งที่ออกแบบมาสำหรับการสร้างภาพจากภาพ (image-to-image generation) โดยเปลี่ยนภาพที่แนบมาให้เป็นภาพถ่ายบุคคลระดับมืออาชีพสไตล์ 'ผู้นำทางความคิด' (thought leader) ที่ดูหรูหรา โดยจะต้องคงลักษณะใบหน้าของภาพอ้างอิงไว้อย่างเคร่งครัด ในขณะที่ใช้สุนทรียภาพ แสง และเครื่องแต่งกายที่เฉพาะเจาะจง
-
-#### 📝 คำสั่ง
-
-```
-ใช้รูปภาพที่แนบมาเป็นข้อมูลอ้างอิงใบหน้า สร้างภาพเฮดช็อตระดับมืออาชีพที่ดูเป็นผู้นำทางความคิดระดับสูง รักษาโครงสร้างใบหน้า พื้นผิวผิว และการแสดงออกที่สมจริง แต่งกายด้วยชุดธุรกิจเรียบง่ายแต่ดูดี พื้นหลังสีพื้นเรียบพร้อมการไล่ระดับสีอ่อนๆ แสงไฟแบบภาพยนตร์ที่นุ่มนวล และแสงริมไลต์ที่ละเอียดอ่อน
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804208923_is8pd0_G-9PUqpXcAEzWMS.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพเฮดช็อตสไตล์ผู้นำทางความคิด (Image-to-Image) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804209040_96fk90_G-9PUrGWkAAsLcI.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพเฮดช็อตสไตล์ผู้นำทางความคิด (Image-to-Image) - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Shanvi](https://x.com/Skurmii)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Skurmii/status/2012914789568450849)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6514)**
-
----
-
-### No. 13: โปรไฟล์ / รูปประจำตัว - Terminator Girl
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-นี่คือ Terminator Girl โดยใช้รูปภาพที่อัปโหลดเป็นข้อมูลอ้างอิง
-
-#### 📝 คำสั่ง
-
-```
-ใช้ [uploaded image] เป็นภาพอ้างอิงผู้หญิง, หุ่นยนต์ Terminator เพศหญิงที่ได้รับบาดเจ็บจากภาพยนตร์แนวไซไฟ, หญิงสาวชาวเอเชียผมยาว, ใบหน้าครึ่งหนึ่งที่สวยงาม, ท่าทางเย็นชา, ผิวสีแทน, แก้มซ้ายของเธอได้รับบาดเจ็บและผิวหนังลอกออกเผยให้เห็นส่วนประกอบทางกลไกที่อยู่ข้างใต้, ดวงตาเชิงกลและโครงกระดูกเหล็กสำหรับใบหน้าของเธอ ภาพยนตร์เรื่องนี้เป็นแนวอนาคต, ไร้สาระ, และเต็มไปด้วยจินตนาการ, มีเสื้อแจ็คเก็ตหนังสีแดงหนาและขาดรุ่งริ่ง, ร่องรอยการต่อสู้, บรรยากาศหลังวันสิ้นโลก, แสงสลัว, และสภาพแวดล้อมทางไฟฟ้าที่ชำรุดและรั่วไหล ผลงานชิ้นเอกของภาพยนตร์ไซไฟ, ภาพยนตร์เรื่องนี้มีสุนทรียภาพหลังวันสิ้นโลกที่สมจริงอย่างน่าทึ่ง, แสดงผลในความละเอียดสูงพิเศษ
-
-<img width="1568" height="2720" alt="Image" src="https://github.com/user-attachments/assets/f53e933e-c521-48ac-831f-2db4ce852a1d" />
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768962810833_j31sla_537296584-f53e933e-c521-48ac-831f-2db4ce852a1d.png" width="600" alt="โปรไฟล์ / รูปประจำตัว - Terminator Girl - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [TUKANG NIRU](threads.com/@tukang.Niru)
-- **แหล่งที่มา:** [Twitter Post](null)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6846)**
-
----
-
-### No. 14: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายไลฟ์สไตล์อินฟลูเอนเซอร์ระดับไฮเอนด์ในธีม Cheetos
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-JSON prompt แบบครอบคลุมสำหรับ Nano Banana Pro เพื่อสร้างภาพไลฟ์สไตล์ที่สมจริงและหรูหราเป็นพิเศษของนางแบบสาวหุ่นโค้งมนที่กำลังโพสท่าอย่างสนุกสนานบนเคาน์เตอร์ครัวพร้อมอุปกรณ์เสริมธีม Cheetos โดยเน้นความคมชัดของภาพและแสงธรรมชาติในเวลากลางวัน
-
-#### 📝 คำสั่ง
-
-```
-{
-  "meta": {
-    "aspect_ratio": "9:16",
-    "quality": "ultra_photorealistic",
-    "resolution": "8k",
-    "camera": "Sony A7R IV",
-    "lens": "50mm f/1.4 GM",
-    "style": "high-end influencer lifestyle photography, sharp focus, natural daylight, raw file aesthetic"
-  },
-
-  "scene": {
-    "location": "suburban home kitchen",
-    "environment": [
-      "granite countertop with beige and brown speckles",
-      "dark wood cabinetry in background",
-      "blurred dining area with dark chairs",
-      "large window with blinds letting in natural light",
-      "greenery visible through window blur"
-    ],
-    "time": "mid-day",
-    "atmosphere": "playful, cheeky, vibrant, casual glam"
-  },
-
-  "lighting": {
-    "type": "mixed natural and ambient indoor",
-    "key_light": "soft diffused daylight coming from window (back-right)",
-    "fill_light": "room ambience reflecting off light walls",
-    "effect": "soft shadows on skin, bright highlights on hair, natural falloff on background",
-    "reflections": "glossy reflection on the Cheetos bags"
-  },
-
-  "camera_perspective": {
-    "pov": "eye-level relative to subject on counter",
-    "framing": "medium shot, knees to head",
-    "focus": "shallow depth of field (bokeh background), sharp focus on eyes and face"
-  },
-
-  "subject": {
-    "gender": "female",
-    "age": "early 20s",
-    "ethnicity": "Caucasian",
-    "body": {
-      "type": "curvy fit",
-      "skin": "fair complexion, realistic skin texture with visible pores and natural flush, not airbrushed",
-      "waist": "tapered",
-      "glutes": "prominent and curvy (accentuated by pose)",
-      "legs": "toned"
-    },
-
-    "hair": {
-      "color": "vibrant copper red",
-      "length": "long, reaching mid-back",
-      "style": "straight with a half-up high ponytail, loose strands framing face",
-      "texture": "silky but realistic, catching the light"
-    },
-
-    "face": {
-      "expression": "alluring smile, confident gaze looking back over shoulder",
-      "eyes": "piercing bright blue",
-      "makeup": "full glam, matte foundation, heavy mascara, winged eyeliner, soft pink lip",
-      "details": "sharp jawline, silver hoop earring visible"
-    },
-
-    "pose": {
-      "position": "kneeling on top of kitchen island/counter",
-      "orientation": "profile/side view, turning torso back towards camera",
-      "back": "strongly arched (lordosis pose)",
-      "hands": "resting on thighs/counter for support",
-      "head": "turned slightly left to face lens directly"
-    },
-
-    "outfit": {
-      "bikini": {
-        "color": "{argument name=\"bikini color\" default=\"bright yellow\"} with orange trim",
-        "style": "triangle top and thong bottom",
-        "fabric": "matte swimwear material, slight tension on straps",
-        "details": "strings tied at neck and hips"
-      },
-      "accessories": {
-        "socks": "ankle socks with Cheetos-style flame print (yellow/red/orange)",
-        "jewelry": "large thin silver hoop earrings, del"
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804267806_x3g5yk_G-82wiRWIAArc6r.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายไลฟ์สไตล์อินฟลูเอนเซอร์ระดับไฮเอนด์ในธีม Cheetos - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Bananai](https://x.com/aibananai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/aibananai/status/2012887772235743238)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6592)**
-
----
-
-### No. 15: โปรไฟล์ / รูปประจำตัว - Gen Z อินฟลูเอนเซอร์เซลฟี่หน้ากระจกในโถงทางเดินสีพาสเทล
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งการสร้างภาพที่สมจริงและมีรายละเอียดสูง สำหรับภาพเซลฟี่หน้ากระจกในสไตล์อินฟลูเอนเซอร์ Gen Z โดยระบุรูปลักษณ์ของตัวแบบ (ผมมวยอวกาศสีบลอนด์แพลทินัม, การแต่งหน้าเฉพาะ), เครื่องแต่งกาย (ชุดเกาะอกรูดระบายสีเขียวพาสเทล, รองเท้าส้นสูงสีส้ม), ท่าโพส (คุกเข่า, ดึงผม) และสภาพแวดล้อมทางเดินในบ้านสีพาสเทลที่มีรายละเอียด รวมถึงรายละเอียดโทรศัพท์เฉพาะ
-
-#### 📝 คำสั่ง
-
-```
-{
-  "meta_data": {
-    "prompt_version": "2.0",
-    "use_case": "Photorealistic Image Generation",
-    "main_subject_count": 1
-  },
-  "subject_layer": {
-    "anatomy": {
-      "demographics": {
-        "gender": "หญิง",
-        "age_group": "วัยผู้ใหญ่ตอนต้น",
-        "ethnicity": "คอเคเซียน",
-        "skin_tone": "ผิวขาวอมชมพูพีชโทนอุ่น",
-        "build": "หุ่นดี ตัวเล็ก"
-      },
-      "face_detail": {
-        "eyes": {
-          "color": "สีฟ้า",
-          "makeup": "อายไลเนอร์ปีกหางคมสีดำ, ขนตาคมชัด"
-        },
-        "nose": "จมูกเล็ก ทรงกระดุม",
-        "mouth": {
-          "shape": "อ้าปากเป็นรูปตัว 'O' (ทำปากจู๋/ประหลาดใจ)",
-          "teeth_visibility": "เห็นฟันบน",
-          "tongue_visibility": "เห็นลิ้นเล็กน้อยอยู่หลังฟัน",
-          "lip_color": "สีชมพูอ่อน ธรรมชาติ"
-        },
-        "complexion_accents": "บลัชออนสีชมพูกุหลาบเข้มทั่วแก้มและสันจมูก (ลุคผิวบ่มแดด)"
-      },
-      "hair": {
-        "color": "สีบลอนด์แพลตินัม",
-        "style_core": "มวยผมสูงสองข้างแบบยุ่งๆ",
-        "framing": "ปอยผมยาวหลวมๆ กรอบหน้า",
-        "interaction": "ตัวแบบกำลังดึงปอยผมยาวหนึ่งเส้นไปด้านข้างด้วยมือซ้าย"
-      }
-    },
-    "attire_layer": {
-      "garment_main": {
-        "item": "ชุดเกาะอก",
-        "length": "มินิ",
-        "fit": "รัดรูป/แนบเนื้อ",
-        "color": "{argument name=\"dress color\" default=\"Pastel green lime\"}",
-        "texture": "ผ้าจับจีบย่น, รอยพับแนวนอนตามธรรมชาติ"
-      },
-      "accessories": {
-        "neck": "สร้อยคอโชคเกอร์ลูกปัดเทอร์ควอยซ์/เขียวอมน้ำเงินเม็ดใหญ่"
-      },
-      "footwear": {
-        "type": "รองเท้าส้นสูงส้นเข็ม",
-        "visibility": "เห็นรองเท้าหนึ่งข้างบนเท้าที่ยกขึ้น",
-        "color_way": "สีส้ม"
-      }
-    },
-    "pose_dynamics": {
-      "posture": "คุกเข่าบนพื้น, เข่าแยก, หลังส่วนล่างโค้งเล็กน้อย",
-      "orientation": "หันหน้าเข้าหากระจก",
-      "limb_placement": {
-        "right_arm": "ยกขึ้นถือโทรศัพท์ใกล้ใบหน้า",
-        "left_arm": "ยื่นไปด้านข้างจับปอยผม",
-        "legs": "คุกเข่า, เท้าข้างหนึ่งยกขึ้นเล็กน้อยด้านหลัง"
-      }
-    }
-  },
-  "environment_layer": {
-    "setting_type": "โถงทางเดิน/ชานพักในบ้าน",
-    "spatial_layout": {
-      "floor": "พรมกำมะหยี่สีเหลืองอ่อนปูเต็มพื้นที่",
-      "walls": "ผนังทาสีชมพูอ่อน, บัวเชิงผนังสีขาว",
-      "background_left": "ประตูบานเกล็ดภายในสีแดงพร้อมลูกบิดสีเงิน, สวิตช์ไฟสีขาว",
-      "background_right": "บันไดพร้อมราวบันไดสีชมพูและขั้นบันไดปูพรมสีม่วง"
-    }
-  },
-  "composition_and_tech": {
-    "framing": {
-      "type": "เซลฟี่หน้ากระจก",
-      "angle": "ระดับสายตา",
-      "prop_device": "สมาร์ทโฟน iPhone สีขาวขุ่น, เคสสีเหลือบมุก/รุ้ง, เห็นกล้องหลัง"
-    },
-    "lighting": {
-      "source": "แสงธรรมชาติในร่มแบบกระจาย",
-      "direction": "ด้านหน้า/ด้านขวา",
-      "shadows": "เงาอ่อนนุ่มตามธรรมชาติบนผนังด้านหลัง"
-    },
-    "aesthetic_style": {
-      "visual_core": "ภาพสมจริง",
-      "vibe": "Gen Z Infl"
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804290245_yyhrbj_G-8HddUX0AAJbA4.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Gen Z อินฟลูเอนเซอร์เซลฟี่หน้ากระจกในโถงทางเดินสีพาสเทล - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804290325_vsx8to_G-8w2MhWsAANB8i.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Gen Z อินฟลูเอนเซอร์เซลฟี่หน้ากระจกในโถงทางเดินสีพาสเทล - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804290419_4oztcw_G-8w2OvWIAAvfYU.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Gen Z อินฟลูเอนเซอร์เซลฟี่หน้ากระจกในโถงทางเดินสีพาสเทล - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804291792_2opmkn_G-8HddUWsAA21S7.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Gen Z อินฟลูเอนเซอร์เซลฟี่หน้ากระจกในโถงทางเดินสีพาสเทล - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [KeorUnreal](https://x.com/KeorUnreal)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/KeorUnreal/status/2012881277297311760)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6621)**
-
----
-
-### No. 16: โปรไฟล์ / รูปประจำตัว - เซลฟี่หน้ากระจกสมจริงด้วยผมทรง Space Buns และชุดเดรสสีชมพู (ซ้ำ)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-JSON prompt แบบละเอียดสำหรับ Nano Banana Pro เพื่อสร้างภาพเซลฟี่ในกระจกที่สมจริงของหญิงสาวที่กำลังคุกเข่าอยู่บนพื้นพรม สวมชุดเกาะอกสีชมพูพาสเทลและรองเท้าผ้าใบหุ้มข้อสูง โดยเน้นที่การแสดงออกทางสีหน้า ทรงผม (มวยอวกาศ) และรายละเอียดการจัดวางสภาพแวดล้อม
-
-#### 📝 คำสั่ง
-
-```
-{
-  "meta_data": {
-    "prompt_version": "2.0",
-    "use_case": "Photorealistic Image Generation",
-    "main_subject_count": 1
-  },
-  "subject_layer": {
-    "anatomy": {
-      "demographics": {
-        "gender": "หญิง",
-        "age_group": "วัยผู้ใหญ่ตอนต้น",
-        "ethnicity": "คอเคเซียน",
-        "skin_tone": "ผิวขาวอมชมพูพีช",
-        "build": "ผอมเพรียว ร่างเล็ก"
-      },
-      "face_detail": {
-        "eyes": {
-          "color": "น้ำเงิน/เทา",
-          "makeup": "อายไลเนอร์สีดำคมกริบแบบวิงค์, ขนตาคมชัด"
-        },
-        "nose": "จมูกเล็ก ทรงกระดุม",
-        "mouth": {
-          "shape": "อ้าปากเป็นรูปตัว 'O' (ทำปากจู๋/ประหลาดใจ)",
-          "teeth_visibility": "เห็นฟันบน",
-          "tongue_visibility": "เห็นลิ้นเล็กน้อยอยู่หลังฟัน",
-          "lip_color": "สีชมพูอ่อน ธรรมชาติ"
-        },
-        "complexion_accents": "ปัดแก้มสีชมพูกุหลาบเข้มทั่วแก้มและสันจมูก (ดูเหมือนผิวบ่มแดด)"
-      },
-      "hair": {
-        "color": "บลอนด์เข้มถึงน้ำตาลอ่อน",
-        "style_core": "มวยผมสูงสองข้างแบบยุ่งๆ",
-        "framing": "ปอยผมยาวหลวมๆ ปรกหน้า",
-        "interaction": "ตัวแบบกำลังดึงปอยผมยาวหนึ่งเส้นไปด้านข้างด้วยมือซ้าย"
-      }
-    },
-    "attire_layer": {
-      "garment_main": {
-        "item": "ชุดเกาะอก",
-        "length": "มินิ",
-        "fit": "รัดรูป/แนบเนื้อ",
-        "color": "{argument name=\"dress color\" default=\"Pastel pink\"}",
-        "texture": "ผ้าจับจีบย่น, รอยพับแนวนอนตามธรรมชาติ"
-      },
-      "accessories": {
-        "neck": "สร้อยคอโชคเกอร์ลูกปัดขนาดใหญ่สีฟ้าอมเขียว/เขียวอมน้ำเงิน"
-      },
-      "footwear": {
-        "type": "รองเท้าผ้าใบหุ้มข้อ",
-        "visibility": "เห็นรองเท้าหนึ่งข้างบนเท้าที่ยกขึ้น",
-        "color_way": "พื้นสีขาวพร้อมแผงสีน้ำเงินกรมท่าและสีเทา"
-      }
-    },
-    "pose_dynamics": {
-      "posture": "คุกเข่าอยู่บนพื้น, เข่าแยกออกจากกัน, หลังส่วนล่างโค้งเล็กน้อย",
-      "orientation": "หันหน้าเข้าหากระจก",
-      "limb_placement": {
-        "right_arm": "ยกขึ้นถือโทรศัพท์ใกล้ใบหน้า",
-        "left_arm": "เหยียดออกไปด้านข้างจับปอยผม",
-        "legs": "คุกเข่า, เท้าข้างหนึ่งยกขึ้นเล็กน้อยด้านหลัง"
-      }
-    }
-  },
-  "environment_layer": {
-    "setting_type": "โถงทางเดิน/ชานพักในบ้าน",
-    "spatial_layout": {
-      "floor": "พรมกำมะหยี่สีเทาอ่อนปูเต็มพื้นที่",
-      "walls": "ผนังทาสีฟ้าอมเทาอ่อน, บัวเชิงผนังสีขาว",
-      "background_left": "ประตูบานเกล็ดภายในสีขาวพร้อมลูกบิดสีเงิน, สวิตช์ไฟสีขาว",
-      "background_right": "บันไดพร้อมราวบันไดสีขาวและขั้นบันไดปูพรมสีเทา"
-    }
-  },
-  "composition_and_tech": {
-    "framing": {
-      "type": "เซลฟี่หน้ากระจก",
-      "angle": "ระดับสายตา",
-      "prop_device": "สมาร์ทโฟนสีขาว, เคสสีเหลือบมุก/รุ้ง, เห็นกล้องหลัง"
-    },
-    "lighting": {
-      "source": "แสงธรรมชาติภายในอาคารแบบกระจาย",
-      "direction": "ด้านหน้า/ขวา",
-      "shadows": "เงาอ่อนๆ เป็นธรรมชาติบนผนังด้านหลัง"
-    },
-    "aesthetic_style": {
-      "visual_core": "ภาพเสมือนจริง",
-      "vibe": ""
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804287979_vtssaf_G-8kul8XQAEeLFK.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เซลฟี่หน้ากระจกสมจริงด้วยผมทรง Space Buns และชุดเดรสสีชมพู (ซ้ำ) - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Emer](https://x.com/emer_web3)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/emer_web3/status/2012867953574936773)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6617)**
-
----
-
-### No. 17: โปรไฟล์ / รูปประจำตัว - เซลฟี่หน้ากระจกสมจริงแบบ Photorealistic พร้อมทรงผม Space Buns และชุดเดรสสีชมพู
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-JSON prompt แบบละเอียดสำหรับ Nano Banana Pro เพื่อสร้างภาพเซลฟี่ในกระจกที่สมจริงของหญิงสาวที่กำลังคุกเข่าอยู่บนพื้นพรม สวมชุดเดรสเกาะอกสีชมพูพาสเทลและรองเท้าผ้าใบหุ้มข้อสูง โดยเน้นที่การแสดงออกทางสีหน้า ทรงผม (space buns) และรายละเอียดของสภาพแวดล้อม
-
-#### 📝 คำสั่ง
-
-```
-{
-  "meta_data": {
-    "prompt_version": "2.0",
-    "use_case": "Photorealistic Image Generation",
-    "main_subject_count": 1
-  },
-  "subject_layer": {
-    "anatomy": {
-      "demographics": {
-        "gender": "หญิง",
-        "age_group": "วัยผู้ใหญ่ตอนต้น",
-        "ethnicity": "คอเคเซียน",
-        "skin_tone": "ผิวขาวอมชมพูพีชโทนอุ่น",
-        "build": "ผอมเพรียว ร่างเล็ก"
-      },
-      "face_detail": {
-        "eyes": {
-          "color": "น้ำเงิน/เทา",
-          "makeup": "อายไลเนอร์สีดำคมชัดแบบวิงค์, ขนตาคมชัด"
-        },
-        "nose": "จมูกเล็ก ทรงกระดุม",
-        "mouth": {
-          "shape": "อ้าปากเป็นรูปตัว 'O' (ทำปากจู๋/ประหลาดใจ)",
-          "teeth_visibility": "เห็นฟันบน",
-          "tongue_visibility": "เห็นลิ้นเล็กน้อยอยู่หลังฟัน",
-          "lip_color": "สีชมพูอ่อน ธรรมชาติ"
-        },
-        "complexion_accents": "ปัดแก้มสีชมพูกุหลาบเข้มทั่วแก้มและสันจมูก (ดูเหมือนผิวบ่มแดด)"
-      },
-      "hair": {
-        "color": "บลอนด์เข้มถึงน้ำตาลอ่อน",
-        "style_core": "มวยผมสูงสองข้างแบบยุ่งๆ",
-        "framing": "ปอยผมยาวหลวมๆ กรอบหน้า",
-        "interaction": "ตัวแบบกำลังดึงปอยผมยาวเส้นหนึ่งไปด้านข้างด้วยมือซ้าย"
-      }
-    },
-    "attire_layer": {
-      "garment_main": {
-        "item": "ชุดเกาะอก",
-        "length": "สั้นเหนือเข่า",
-        "fit": "รัดรูป/แนบเนื้อ",
-        "color": "{argument name=\"dress color\" default=\"Pastel pink\"}",
-        "texture": "ผ้าจับจีบย่น, รอยพับแนวนอนตามธรรมชาติ"
-      },
-      "accessories": {
-        "neck": "สร้อยคอโชคเกอร์ลูกปัดขนาดใหญ่สีเทอร์ควอยซ์/เขียวอมน้ำเงิน"
-      },
-      "footwear": {
-        "type": "รองเท้าผ้าใบหุ้มข้อ",
-        "visibility": "เห็นรองเท้าหนึ่งข้างบนเท้าที่ยกขึ้น",
-        "color_way": "พื้นสีขาวพร้อมแผงสีน้ำเงินกรมท่าและสีเทา"
-      }
-    },
-    "pose_dynamics": {
-      "posture": "คุกเข่าอยู่บนพื้น, เข่าแยกออกจากกัน, หลังส่วนล่างโค้งเล็กน้อย",
-      "orientation": "หันหน้าเข้าหากระจก",
-      "limb_placement": {
-        "right_arm": "ยกขึ้นถือโทรศัพท์ใกล้ใบหน้า",
-        "left_arm": "ยื่นออกไปด้านข้างจับปอยผม",
-        "legs": "คุกเข่า, เท้าข้างหนึ่งยกขึ้นเล็กน้อยด้านหลัง"
-      }
-    },
-    "environment_layer": {
-      "setting_type": "โถงทางเดิน/ชานพักในบ้าน",
-      "spatial_layout": {
-        "floor": "พรมกำมะหยี่สีเทาอ่อนปูเต็มพื้นที่",
-        "walls": "ทาสีฟ้าอมเทาอ่อน, บัวเชิงผนังสีขาว",
-        "background_left": "ประตูบานเกล็ดภายในสีขาวพร้อมลูกบิดสีเงิน, สวิตช์ไฟสีขาว",
-        "background_right": "บันไดพร้อมราวบันไดสีขาวและขั้นบันไดปูพรมสีเทา"
-      }
-    },
-    "composition_and_tech": {
-      "framing": {
-        "type": "เซลฟี่หน้ากระจก",
-        "angle": "ระดับสายตา",
-        "prop_device": "สมาร์ทโฟนสีขาว, เคสสีเหลือบมุก/รุ้ง, เห็นกล้องหลัง"
-      },
-      "lighting": {
-        "source": "แสงธรรมชาติภายในอาคารแบบกระจาย",
-        "direction": "ด้านหน้า/ขวา",
-        "shadows": "เงาอ่อนๆ เป็นธรรมชาติบนผนังด้านหลัง"
-      },
-      "aesthetic_style": {
-        "visual_core": "ภาพเสมือนจริง",
-        "vibe": ""
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804277697_9ns3jh_G-8HddUX0AAJbA4.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เซลฟี่หน้ากระจกสมจริงแบบ Photorealistic พร้อมทรงผม Space Buns และชุดเดรสสีชมพู - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804278178_tuzoub_G-8HddUWsAA21S7.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เซลฟี่หน้ากระจกสมจริงแบบ Photorealistic พร้อมทรงผม Space Buns และชุดเดรสสีชมพู - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Melisa♡](https://x.com/xmliisu)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/xmliisu/status/2012835782151594157)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6607)**
-
----
-
-### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพเซลฟี่สมาร์ทโฟนมุมสูงกับแมวดำ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งการสร้างภาพที่มีเทคนิคสูง มุ่งเน้นไปที่การจำลองภาพเซลฟี่มุมสูงจากด้านบนที่ถ่ายด้วยกล้องสมาร์ทโฟน ข้อความแจ้งนี้กำหนดโหมดความล้มเหลวของกล้องอย่างละเอียด (การตัดแสงจ้า, สัญญาณรบกวนสี), การบิดเบี้ยวของเลนส์ (barrel เล็กน้อย), และเอฟเฟกต์การถ่ายภาพเชิงคำนวณ (การปรับผิวให้เรียบเนียน, sharpening halos) เพื่อเพิ่มความสมจริงทางกายภาพและเลียนแบบสุนทรียภาพเฉพาะตัว โดยมีผู้หญิงและแมวดำเป็นจุดเด่น
-
-#### 📝 คำสั่ง
-
-```
-{
-  "intent": {
-    "image_type": "selfie",
-    "era_preset": "modern_standard",
-    "notes": "เพิ่มความสมจริงทางกายภาพสูงสุดด้วยการกำหนดปฏิสัมพันธ์ระหว่างแสงกับวัสดุ และโหมดความล้มเหลวของเซ็นเซอร์"
-  },
-  "subjects": {
-    "count": 1,
-    "primary": {
-      "type": "person",
-      "age_range": "20-25",
-      "gender_presentation": "female",
-      "region_target": "unspecified",
-      "expression": "เป็นกลาง, มองขึ้นไป",
-      "pose": "มองตรงมาที่กล้องจากด้านล่าง",
-      "gaze": "มองเข้าไปในเลนส์"
-    },
-    "additional": [
-      {
-        "type": "black cat",
-        "position": "ระดับพื้น, มองขึ้นไป",
-        "material": "ขนหนาแน่นแบบออร์แกนิกพร้อมหนวดโปร่งแสง"
-      }
-    ]
-  },
-  "framing_and_perspective": {
-    "framing": "high_angle_plunging",
-    "subject_fill_ratio": 0.82,
-    "camera_angle": "directly_overhead_downward",
-    "distance": "arm_length",
-    "camera_class": "smartphone_front",
-    "lens_equiv_mm": 24,
-    "distortion": {
-      "type": "mild_barrel",
-      "strength_1to5": 4
-    },
-    "perspective_effects": {
-      "foreground_scale_emphasis_1to5": 5,
-      "nose_emphasis_1to5": 3,
-      "ear_recession_1to5": 4
-    },
-    "depth_of_field": {
-      "mode": "minimal",
-      "strength_1to5": 2,
-      "focus_target": "eyes"
-    }
-  },
-  "lighting_and_exposure": {
-    "key_light": {
-      "type": "overhead_panel",
-      "direction": "top_down",
-      "hardness_1to5": 5,
-      "halo_bloom_1to5": 2
-    },
-    "exposure_behavior": {
-      "auto_exposure": true,
-      "hdr_tone_mapping_1to5": 4,
-      "overall_brightness_1to5": 5,
-      "contrast_1to5": 3,
-      "shadow_depth_1to5": 2,
-      "highlight_overflow_1to5": 5
-    },
-    "failure_modes_active": {
-      "highlight_clipping": true,
-      "shadow_chroma_noise": true,
-      "denoise_smear": false,
-      "sharpen_halos": true,
-      "motion_blur": false,
-      "jpeg_ringing_banding": false,
-      "banding_in_gradients": false,
-      "focus_falloff_edge_softness": true
-    }
-  },
-  "computational_pipeline": {
-    "skin_smoothing": {
-      "method": "edge_aware",
-      "strength_1to5": 2,
-      "specular_preservation": "required"
-    },
-    "sharpening": {
-      "strength_1to5": 3,
-      "halo_risk_1to5": 2
-    },
-    "noise_and_denoise": {
-      "shadow_chroma_noise_1to5": 3,
-      "denoise_smear_1to5": 2,
-      "grain_strength_1to5": 2
-    },
-    "compression": {
-      "jpeg_artifacts_1to5": 1,
-      "banding_risk_1to5": 1
-    },
-    "white_balance": {
-      "mode": "auto",
-      "highlight_temp_bias": "cool",
-      "shadow_temp_bias": "neutral"
-    }
-  },
-  "region_and_face_feature_sliders": {
-    "non_stereotype_policy": "sliders_over_labels",
-    "beauty_mark_under_right_eye": false,
-    "sliders_1to5": {
-      "face_oval_vline_1to5": 3,
-      "cheekbone_prominence_1to5": 3,
-      "brow_definition_1to5": 3,
-      "eye_emphasis_1to5": 4,
-      "eyelid_crease_definition_1to5": 3,
-      "nose_bridge_definition_1to5": 3,
-      "lip_fullness_1to5": 3
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804295304_b0lxqb_G-8FTwBXgAEjkOg.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพเซลฟี่สมาร์ทโฟนมุมสูงกับแมวดำ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Emily](https://x.com/IamEmily2050)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/IamEmily2050/status/2012833771528307100)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6627)**
-
----
-
-### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพคอลลาจ 2x2 ของผู้หญิงในห้องครัว
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-คำสั่งที่เฉพาะเจาะจงอย่างยิ่งสำหรับการสร้างภาพคอลลาจแบบ 2x2 ของผู้หญิงคนเดียวกันในสี่ท่าที่แตกต่างกัน ภายในสภาพแวดล้อมห้องครัวสไตล์โมเดิร์นที่สอดคล้องกัน โดยเน้นรายละเอียดที่สมจริงเป็นพิเศษ อัตลักษณ์ใบหน้าที่สอดคล้องกันในทุกช่องภาพ เครื่องแต่งกายที่ระบุ (เสื้อครอปสีขาว, กางเกงขาสั้นสีเขียว) และจำลององค์ประกอบภาพแนวตั้งแบบสมาร์ทโฟนพร้อมแสงไฟอ่อนๆ จากด้านบน
-
-#### 📝 คำสั่ง
-
-```
-ภาพคอลลาจตาราง 2×2 ที่สมจริงเป็นพิเศษระดับโฟโต้เรียลลิสติก, ผู้หญิงวัยผู้ใหญ่ (21+), คนเดียวกันซ้ำกันในทุกเฟรม โดยที่เอกลักษณ์ใบหน้าและสัดส่วนร่างกายคงที่ รูปร่างผอมเพรียวแบบนักกีฬา สะโพกผาย เอวคอด หน้าท้องแบนเรียบ ต้นขาเรียบเนียน ผิวสีขาวถึงเบจอ่อน มีอันเดอร์โทนอบอุ่นเป็นกลาง ผิวเรียบเนียนเป็นธรรมชาติ มีประกายเงาเล็กน้อยอย่างสมจริง
-ใบหน้ารูปหัวใจอ่อนๆ ถึงรูปไข่, แก้มอิ่มมีเลือดฝาดเล็กน้อย, กรามเรียบเนียนแบบผู้หญิง, คางมน ตาสีน้ำตาลอ่อนรูปอัลมอนด์ขนาดกลางถึงสีเฮเซล มีแววขี้เล่นและมีความสุข คิ้วสีบลอนด์เข้มโค้งมนหนาปานกลาง จมูกตรงขนาดเล็กถึงปานกลาง ปลายจมูกมนอ่อนนุ่ม ริมฝีปากอิ่มปานกลาง สีชมพูอ่อนเป็นธรรมชาติ มีประกายเงาเล็กน้อย ยิ้มกว้างอย่างร่าเริงเห็นฟัน
-ผมบลอนด์ยาว มีไฮไลท์สีทองอบอุ่น จัดทรงหางม้าครึ่งหัวสูง ผมตรง มีวอลลุ่มธรรมชาติเล็กน้อย มีปอยผมหลุดรุ่ยกรอบหน้า
-สวมเสื้อครอปสีขาวเข้ารูป มีช่องเปิดบริเวณหน้าอก ดีไซน์ไหล่เบี่ยงไม่สมมาตร แขนยาวมีช่องตัดไขว้แบบผูกเชือกตามแขน ด้านหลังเปิดบางส่วน จับคู่กับกางเกงขาสั้นเอวสูงสีพาสเทล {argument name="shorts color" default="light-green"} เข้ารูป ผ้าเรียบเนียนยืดหยุ่น กระชับพอดีตัว
-องค์ประกอบตาราง: ภาพเดียวแบ่งออกเป็นสี่ช่องเท่าๆ กัน (2×2) มีขอบสีขาวบางๆ แต่ละช่องแสดงท่าโพสที่แตกต่างกันของผู้หญิงคนเดียวกัน:
-• เอนตัวไปข้างหน้าพิงเคาน์เตอร์ครัว ยิ้มอย่างขี้เล่น
-• ยืนหันข้าง เอียงสะโพก สีหน้าสดใส
-• ท่าโพสหันหลังข้ามไหล่ แสดงแผ่นหลังและสะโพก
-• เอนตัวไปด้านหลัง มือข้างหนึ่งเท้าเอว ยิ้มอย่างมั่นใจ
-สภาพแวดล้อมที่สอดคล้องกันในทุกช่อง: ห้องครัวในร่มที่ทันสมัย, เคาน์เตอร์หินอ่อนขัดเงาสีเบจอ่อน, ตู้บานเกล็ดแนวตั้งสีขาวผิวด้าน, โทนสีผนังเป็นกลาง, เครื่องใช้ในครัวขนาดเล็กสีดำและสเตนเลสสตีลที่มองเห็นได้
-อัตราส่วนภาพสุดท้ายแนวตั้ง 9:16, คอลลาจเต็มเฟรมแนวตั้ง, ตัวแบบอยู่ตรงกลางในแต่ละช่อง, ระยะห่างสมดุล, องค์ประกอบภาพแบบสมาร์ทโฟนที่เป็นธรรมชาติ
-แสงไฟเหนือศีรษะในครัวแบบนุ่มนวล, แสงสว่างสม่ำเสมอ, เงากระจายเล็กน้อย, ไฮไลท์อ่อนๆ บนเส้นผมและผิวหนัง การปรับสีแบบเป็นกลางพร้อมความอบอุ่นเล็กน้อย, คอนทราสต์ปานกลาง, ความอิ่มตัวของสีที่เป็นธรรมชาติ
-ถ่ายด้วยกล้องสมาร์ทโฟนเลนส์มุมกว้าง, เทียบเท่า 24 มม., ระดับสายตาถึงมุมสูงเล็กน้อย, โฟกัสคมชัด, การบิดเบือนน้อยที่สุด
-ความสมจริงสูงมาก, สรีระที่ถูกต้อง, ใบหน้าสอดคล้องกันในทั้งสี่ช่อง, ไม่มีภาพเบลอ, ไม่มีสิ่งแปลกปลอม
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804230872_i0jd7f_G-8FZYXXAAEmQm3.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพคอลลาจ 2x2 ของผู้หญิงในห้องครัว - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [sammy](https://x.com/sumiturkude007)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/sumiturkude007/status/2012833500039381449)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6545)**
-
----
-
-### No. 20: โพสต์บนโซเชียลมีเดีย - ภาพโฆษณาหนังสือสไตล์ Train-ad
+### No. 19: โพสต์บนโซเชียลมีเดีย - ภาพโฆษณาหนังสือสไตล์ Train-ad
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2142,7 +2025,2003 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: โพสต์บนโซเชียลมีเดีย - พรอมต์คอมโพสิตโปรโมตโซเชียลมีเดีย
+### No. 20: โพสต์บนโซเชียลมีเดีย - Dynamic K-Pop Idol Running in a Flower Field
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+A structured prompt designed to generate a photorealistic image of a cute young Asian female with a K-pop idol aesthetic. The subject has long, wavy pastel pink hair and is captured in a dynamic running pose through a field of cosmos flowers, emphasizing soft natural lighting, a pastel palette, and a dreamy atmosphere.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "prompt_data": {
+    "subject": {
+      "basics": "1girl, solo",
+      "demographics": "Cute young Asian female, K-pop idol aesthetic",
+      "hair": "Long wavy pastel pink hair, windblown, dynamic motion",
+      "eyes": "Bright brown eyes, soft gaze",
+      "skin": "Fair skin, glowing complexion",
+      "expression": "Happy beaming smile, energetic, looking at viewer"
+    },
+    "attire": {
+      "main_outfit": {
+        "item": "Haze blue and oatmeal casual spring outfit",
+        "details": [
+          "Haze blue off-shoulder loose sweatshirt",
+          "Oatmeal tank top strap visible",
+          "Haze blue and oatmeal plaid pleated mini skirt",
+          "Oatmeal chunky lace-up combat boots"
+        ],
+        "branding": ""
+      },
+      "legwear": [
+        "Bare legs"
+      ]
+    },
+    "accessories": {
+      "style": "Trendy cute accessories",
+      "items": [
+        "Small oatmeal leather waist bag/pouch",
+        "Oatmeal belt",
+        "Small hoop earrings",
+        "Delicate silver necklace"
+      ]
+    },
+    "pose_and_action": {
+      "posture": "Dynamic running pose, mid-stride, side profile body turning to front",
+      "interaction": "Running joyfully through a flower field, hair and clothes flowing in wind"
+    },
+    "environment": {
+      "setting": "Outdoor spring meadow during the day",
+      "background_elements": "Field of colorful cosmos flowers (yellow, pink, white), grassy ground, strong depth of field (bokeh background)"
+    },
+    "style_and_technical": [
+      "Soft natural lighting",
+      "Muted pastel color palette",
+      "Dreamy atmosphere",
+      "Photorealistic",
+      "Sharp focus on subject",
+      "High quality",
+      "8k",
+      "3:4"
+    ]
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977367663_7jl5k9_G_KHB7lXwAAohFa.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Dynamic K-Pop Idol Running in a Flower Field - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977367733_8wkfr0_G_KHB7DaoAEXwjr.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Dynamic K-Pop Idol Running in a Flower Field - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [BeautyVerse](https://x.com/BeautyVerse_Lab)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/BeautyVerse_Lab/status/2013820460014936437)
+- **เผยแพร่เมื่อ:** 21 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=7018)**
+
+---
+
+### No. 21: โพสต์บนโซเชียลมีเดีย - Seductive Office Lady in High-End Corporate Setting Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+A structured JSON prompt for Nano Banana Pro to generate a photorealistic image of a stunning Asian female model in a seductive Office Lady uniform (tight white shirt, micro-miniskirt, sheer dark blue floral lace thigh-high stockings). The scene is set in a modern high-end corporate office with a blurred city skyline background, emphasizing cinematic soft lighting and highly detailed features.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "prompt_data": {
+    "subject": {
+      "basics": "1girl, solo",
+      "demographics": "Stunning 20s Asian female idol style, tall fashion model proportions",
+      "hair": "Very long straight black hair with full bangs",
+      "eyes": "Large, round, piercing eyes",
+      "skin": "Flawless pale skin",
+      "expression": "Cute yet seductive expression looking at viewer"
+    },
+    "attire": {
+      "main_outfit": {
+        "item": "Seductive Office Lady uniform",
+        "details": [
+          "Tight white button-up shirt",
+          "Black micro-miniskirt",
+          "Skirt hem cut extremely high",
+          "Professional yet alluring silhouette"
+        ],
+        "branding": "None"
+      },
+      "legwear": [
+        "Sheer dark blue thigh-high stockings",
+        "Intricate floral lace pattern on stockings",
+        "Dark blue lace garter belt with suspenders"
+      ]
+    },
+    "accessories": {
+      "style": "Luxurious gold accessories",
+      "items": [
+        "Slim gold watch",
+        "Delicate gold chain necklace with ruby pendant",
+        "Long gold chain earrings"
+      ]
+    },
+    "pose_and_action": {
+      "posture": "Sitting gracefully on the edge of an office desk",
+      "interaction": "Legs crossed elegantly"
+    },
+    "environment": {
+      "setting": "Modern high-end corporate office interior",
+      "background_elements": "Blurred city skyline through floor-to-ceiling glass windows, sleek office furniture"
+    },
+    "style_and_technical": [
+      "Subtle shadows",
+      "Cinematic soft lighting",
+      "Highly detailed face and eyes",
+      "Realistic materials",
+      "Photorealistic",
+      "Sharp focus",
+      "8k",
+      "3:4"
+    ]
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977347250_xdduw0_G_Jo-4maoAUligr.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Seductive Office Lady in High-End Corporate Setting Prompt - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [BeautyVerse](https://x.com/BeautyVerse_Lab)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/BeautyVerse_Lab/status/2013787423134884005)
+- **เผยแพร่เมื่อ:** 21 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6997)**
+
+---
+
+### No. 22: โพสต์บนโซเชียลมีเดีย - ภาพเหมือนสีรุ้งเหนือจริงแบบประสาทหลอน
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งการสร้างภาพที่มีรายละเอียดสูงสำหรับภาพบุคคลเหนือจริงและชวนฝันของหญิงสาวที่ถูกห่อหุ้มด้วยการบิดเบือนของสีรุ้งหลอมเหลว ข้อความแจ้งระบุถึงเอฟเฟกต์ภาพที่รุนแรง เช่น คลื่นโฮโลแกรม, การสะท้อนของปรอทเหลว และความคลาดเคลื่อนของสีที่รุนแรงบนพื้นหลังสีดำของจักรวาล โดยมีเป้าหมายเพื่อสร้างสรรค์ความงามแบบแฟชั่นชั้นสูงที่ผสมผสานกับจินตนาการในฝัน
+
+#### 📝 คำสั่ง
+
+```
+{
+  "main_prompt": "ภาพเหมือนเหนือจริง ไซเคเดลิก สีรุ้งเหลือบแสง ของหญิงสาวช่วงปลายวัยรุ่นถึงต้น 20 ต้นๆ มีผิวขาวผ่องดุจกระเบื้องเคลือบและเปล่งประกายดุจเทพธิดา ผมบลอนด์ยาวเป็นลอนพลิ้วไหวอิสระราวกับของเหลว ดวงตาปิดสนิทด้วยความสุขสงบ มีขนตายาวหนา ริมฝีปากอิ่มเอิบสีชมพูอ่อนระเรื่อ แต่งหน้าบางเบาพร้อมประกายระยิบระยับบนเปลือกตาและแก้ม ใบหน้าและเส้นผมถูกห่อหุ้มด้วยการบิดเบือนของสีรุ้งหลอมละลาย: คลื่นโฮโลแกรมเหลือบแสงที่หมุนวน, การสะท้อนแสงโครเมียมคล้ายปรอทเหลว, ลวดลายฟิล์มสีรุ้งคล้ายคราบน้ำมัน, การหักเหของแสงปริซึมที่สร้างความคลาดเคลื่อนสีรุนแรงและขอบสีสเปกตรัมในโทนสีฟ้าไซอัน, มาเจนต้า, เขียวมะนาว, น้ำเงินไฟฟ้า, ม่วง, เหลืองทอง และชมพูร้อน, ฟองอากาศและหยดของเหลวลอยอยู่รอบใบหน้าและเส้นผมของเธอ, ใบหน้าบางส่วนจมอยู่ในของเหลวเหลือบแสงที่มีระลอกคลื่นและคลื่นบิดเบือนลักษณะใบหน้าอย่างสวยงาม, เยื่อสีรุ้งโปร่งแสงและเยื่อฟองสบู่เกาะติดผิวหนังและเส้นผม, พื้นหลังสีดำอวกาศลึกพร้อมแสงนีออนเรืองรองคล้ายแสงเหนือจางๆ และอนุภาคแสงระยิบระยับ, ลำแสงเทพเจ้าปริมาตรหนาแน่นและแสงแฟลร์เลนส์ระเบิดออกมาในสเปกตรัมสีรุ้งเต็มรูปแบบ, การกระจายสีและรูปแบบการรบกวนของแสงที่รุนแรง, เอฟเฟกต์ดิจิทัลกลิตช์และโฮโลแกรมบลูมที่ละเอียดอ่อน, การผสมผสานงานศิลปะดิจิทัลที่สมจริงแต่เหนือจริงอย่างยิ่ง, ผิวสัมผัสที่ละเอียดเป็นพิเศษพร้อมรูขุมขนที่สมจริงและความไม่สมบูรณ์ตามธรรมชาติที่สะท้อนทุกเฉดสีรุ้ง, เส้นผมแต่ละเส้นบิดเป็นเกลียวในการเคลื่อนไหวของของเหลวเหลือบแสงพร้อมการกระเจิงใต้ผิว, การปรับโทนสีภาพยนตร์ด้วยความอิ่มตัวสูงสุดและความสดใสแบบ HDR, แสงฟิล์มเกรน, สุนทรียภาพที่ชวนฝัน ชวนสะกดจิต และเหนือธรรมชาติ, ถ่ายผ่านฟิลเตอร์ปริซึมหลายชั้นและเลนส์คริสตัลเหลว, ระยะชัดตื้นโฟกัสที่ใบหน้าพร้อมโบเก้ครีมมี่บนพื้นหลังสีรุ้งที่หมุนวน, แฟชั่นชั้นสูงแบบนิตยสารพบกับภาพฝันไซเคเดลิกแฟนตาซี, ความงามจากโลกอื่นที่จมดิ่งอยู่ในพายุปริซึมสีรุ้งเหลว, ความปีติยินดีทางประสาทสัมผัสอันศักดิ์สิทธิ์",
+  "negative_prompt": "เบลอ, ความละเอียดต่ำ, มือผิดรูป, นิ้วเกิน, นิ้วติดกัน, กายวิภาคผิดปกติ, ใบหน้าวาดไม่ดี, สัดส่วนผิดเพี้ยน, แขนขาเกิน, มือกลายพันธุ์, น่าเกลียด, พิกลพิการ, เป็นกระเบื้อง, หลุดเฟรม, สิ่งประดิษฐ์ jpeg, ลายเซ็น, ลายน้ำ, ข้อความ, ข้อผิดพลาด, ถูกครอบตัด, คุณภาพแย่ที่สุด, คุณภาพต่ำ, การ์ตูน, อะนิเมะ, ภาพ 3 มิติ, ผิวพลาสติก, เหมือนตุ๊กตา, ผิวแอร์บรัช, แสงนีออนโอเวอร์เอ็กซ์โพส, อันเดอร์เอ็กซ์โพส, แสงแบน, เงาจัด, ผิวซีดไร้ประกาย, แต่งหน้าจัดเกินไป, หน้าแบบอินสตาแกรม, ปากเป็ด, ยิ้มมีความสุข, ผู้สูงอายุ, เด็ก, ผู้ชาย, ถ่ายหมู่, สีเดียวเด่น, แสงธรรมชาติ, พื้นหลังสีขาวสะอาด, ไม่มีเอฟเฟกต์ปริซึมสีรุ้ง, ไม่มีการบิดเบือนของเหลว, ผิวด้าน, สีซีดจาง, ขาวดำ, เอฟเฟกต์ราคาถูก, ดูสังเคราะห์, มีเสื้อผ้าปกคลุมร่างกายส่วนบน, ผมสั้น, ผมตรง, ลืมตา, องค์ประกอบน่าเบื่อ, สีภาพถ่ายปกติสมจริง",
+  "style_tags": [
+    "photorealistic psychedelic surrealism",
+    "intense iridescent rainbow prismatic distortions",
+    "liquid chrome oil-slick reflections",
+    "ch"
+  ]
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977247995_4had1r_G_JPUaRWMAEF0P4.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพเหมือนสีรุ้งเหนือจริงแบบประสาทหลอน - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Lex](https://x.com/katmanai)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/katmanai/status/2013759199545581683)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6857)**
+
+---
+
+### No. 23: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายบุคคลยามค่ำคืนอันหรูหราในบูธกำมะหยี่
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+JSON prompt ที่มีโครงสร้างสูงสำหรับสร้างภาพถ่ายบุคคลแบบ candid ด้วยแฟลชที่สมจริงเป็นพิเศษของหญิงสาวผู้เลอโฉมนั่งอยู่ในบาร์หรูหราที่มีแสงสลัว โดย prompt ระบุการจัดแสงแฟลชที่แข็งกระด้าง, เบาะกำมะหยี่ลาย (ลายสัตว์/ลายเสือ), มินิเดรสผ้าซาติน และผิวที่สมจริงโดยไม่มีการปรับให้เรียบเนียนแบบเทียม
+
+#### 📝 คำสั่ง
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "photoreal_nightlife_editorial_portrait",
+      "version": "v1.0_DARK_LOUNGE_FLASH_GLAM",
+      "priority": "highest",
+      "language": "en"
+    },
+    "global_constraints": {
+      "rating": "PG-13",
+      "no_explicit_sexual_content": true,
+      "no_text": true,
+      "no_logos": true,
+      "no_watermark": true
+    },
+    "output_settings": {
+      "aspect_ratio": "3:4",
+      "resolution_target": "ultra_high_res",
+      "render_style": "ultra_photoreal_candid_flash_photography",
+      "sharpness": "crisp_but_natural",
+      "film_grain": "subtle_35mm",
+      "color_grade": "warm_lowlight_bar_flash",
+      "dynamic_range": "natural_not_hdr",
+      "skin_rendering": "real_texture_no_retouch"
+    },
+    "global_rules": {
+      "camera_language": "แฟลชตรงจากกล้อง, ระดับสายตา, ภาพบุคคลที่ใกล้ชิด, ระยะชัดตื้น",
+      "lighting_language": "แฟลชแรงที่ตัวแบบ + แสงรอบข้างสลัว",
+      "authenticity_markers": "ไม่มีแสง AI, ไม่มีฟิลเตอร์ความงาม, เงาและไฮไลต์สะท้อนแสงที่สมจริง"
+    },
+    "creative_prompt": {
+      "scene_summary": "ภาพบุคคลยามค่ำคืนที่หรูหราในเลานจ์หรือบาร์ที่มืดมิด เบาะนั่งกำมะหยี่ลายสัตว์/ลายเสือ, รายละเอียดภายในเป็นไม้สีอบอุ่นในพื้นหลัง",
+      "subject": {
+        "count": 1,
+        "description": "หญิงสาวสวยงาม, มั่นใจและสง่างาม",
+        "expression": "สายตาอ่อนโยนแต่เปี่ยมด้วยความมั่นใจ, แฝงความขี้เล่นเล็กน้อย, ริมฝีปากผ่อนคลาย",
+        "skin_and_face": "ผิวพรรณธรรมชาติ, มองเห็นรูขุมขน, ริมฝีปากมันวาว, บลัชออนอ่อนๆ"
+      },
+      "pose_and_micro_action": "ผู้หญิงนั่งตะแคงบนเบาะกำมะหยี่, มือข้างหนึ่งวางด้านหลังเพื่อพยุงตัว, ไขว่ห้าง, ลำตัวเอียงเข้าหากล้อง, ศีรษะเอียงเล็กน้อย",
+      "wardrobe_and_style": {
+        "female": "ชุดมินิเดรสผ้าซาตินสีเทาชาร์โคลหรือสีดำพร้อมรายละเอียดประดับเลื่อมเล็กน้อย, ทรงเข้ารูป",
+        "hair": "ผมยาวสีน้ำตาลเข้ม, มีวอลลุ่ม, ปอยผมธรรมชาติหลวมๆ กรอบหน้า",
+        "makeup": "แต่งหน้าสวยงามแต่สมจริง, ขนตาคมชัด, ริมฝีปากมันวาว, ไฮไลต์อ่อนๆ",
+        "no_logos": true
+      },
+      "jewelry": {
+        "female": "ต่างหูเล็กๆ ที่สง่างาม, สร้อยคอละเอียดอ่อน"
+      },
+      "environment_details": {
+        "location": "บาร์หรือเลานจ์หรูหราที่มืดมิด",
+        "background": "เบาะกำมะหยี่มีลวดลาย, ผนังไม้สีอบอุ่น, ตะขอเล็กๆ หรือองค์ประกอบตกแต่ง, เบลอเล็กน้อย",
+        "props": "ไม่มี"
+      },
+      "composition": "ภาพบุคคลระยะกลาง, ตัวแบบอยู่ตรงกลางหรือเยื้องเล็กน้อย, พื้นหลังเบลออย่างนุ่มนวล",
+      "mood": "ใกล้ชิด, หรูหรา, มั่นใจ, ชีวิตยามค่ำคืนที่ทันสมัย"
+    },
+    "negative_prompt": [
+      "AI glow",
+      "HDR",
+      "beauty retouch",
+      "plastic skin",
+      "over-smoothing",
+      "over-sharpening",
+      "cartoon",
+      "CGI",
+      "painterly",
+      "distorted hands",
+      "extra fingers",
+      "deformed anatomy",
+      "duplicate face"
+    ]
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977276907_hln74d_G_JIM7PXUAAbkrX.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายบุคคลยามค่ำคืนอันหรูหราในบูธกำมะหยี่ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Özge Döner](https://x.com/astronomerozge1)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/astronomerozge1/status/2013751384240177231)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6895)**
+
+---
+
+### No. 24: โพสต์บนโซเชียลมีเดีย - Photoreal Luxury Bar Portrait (Leopard Dress)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A detailed JSON prompt for generating an ultra-photorealistic editorial portrait of a confident woman in a leopard print slip dress, sitting in a luxury cocktail bar, emphasizing warm amber lighting, an on-camera flash feel, and strict requirements for the face to be fully visible and in sharp focus, requiring a reference image for pose and composition.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "photoreal_luxury_bar_portrait",
+      "version": "v1.1_LEOPARD_DRESS_BAR_FACE_VISIBLE_NO_TEXT",
+      "priority": "highest",
+      "language": "tr"
+    },
+
+    "references": {
+      "reference_image_1": {
+        "source": "UPLOAD_REFERENCE_IMAGE (REQUIRED)",
+        "purpose": "POSE_COMPOSITION_STYLE_ANCHOR",
+        "strict_lock": true,
+        "preserve_pose": true,
+        "preserve_body_proportions": true,
+        "no_body_rescale": true
+      }
+    },
+
+    "global_constraints": {
+      "rating": "PG-13",
+      "no_explicit_sexual_content": true,
+      "no_text": true,
+      "no_logos": true,
+      "no_watermark": true
+    },
+
+    "output_settings": {
+      "aspect_ratio": "3:4",
+      "orientation": "portrait",
+      "resolution_target": "ultra_high_res",
+      "render_style": "ultra_photoreal_editorial_night_flash",
+      "sharpness": "crisp_but_natural",
+      "film_grain": "subtle_35mm",
+      "color_grade": "warm_amber_luxury_bar",
+      "dynamic_range": "natural_not_hdr",
+      "skin_rendering": "real_texture_no_retouch"
+    },
+
+    "creative_prompt": {
+      "scene_summary": "Night shot in a luxurious, dark wood-paneled classic cocktail bar. A woman in a leopard print silk/satin slip dress is sitting at the bar, holding a martini glass. The light is warm and cinematic, the atmosphere is premium and chic.",
+
+      "key_change_request": "FACE MUST BE COMPLETELY VISIBLE: hair should not cover the face. Hair should be swept to the side or pulled back; both eyes, eyebrows, and nose are clearly visible. The face is turned 3/4 toward the camera or looking directly at the camera.",
+
+      "environment": {
+        "location": "luxury hotel bar / classic cocktail bar",
+        "background": "shiny dark wood panels, bar bottles and glass shelves, soft bokeh lights",
+        "lighting": "on-camera flash feel + warm ambient lights; natural shadows; realistic reflections"
+      },
+
+      "subject": {
+        "count": 1,
+        "pose": "sitting on a bar stool, one arm supporting the bar, the other hand holding a martini glass slightly raised",
+        "expression": "cool, confident, relaxed",
+        "hair": "wavy hair that does not cover the face; hair should not fall over the eyes; face is open and clear",
+        "makeup": "soft glam, natural but defined eye makeup, slightly glowing skin (no retouch)",
+        "wardrobe": "{argument name="dress pattern" default="leopard print"} slip dress (satin/silk feel), thin straps",
+        "details": "realistic nails, minimal jewelry and watch"
+      },
+
+      "camera_style": {
+        "framing": "3:4, medium-full portrait",
+        "lens_feel": "35mm-50mm feel, shallow depth of field",
+        "focus": "EYES RAZOR SHARP; face clear; glass and hand naturally focused",
+        "look": "real photo, not CGI, not painterly"
+      },
+
+      "quality_guards": {
+        "no_ai_look": true,
+        "no_beauty_filter": true,
+        "no_hdr": true,
+        "no_over_sharpening": true,
+        "faces_must_be_clean": true,
+        "hands_and_fingers
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977308385_u7we2o_G_JG6nfXwAAgU3p.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Photoreal Luxury Bar Portrait (Leopard Dress) - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Özge Döner](https://x.com/astronomerozge1)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/astronomerozge1/status/2013749963507777997)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6943)**
+
+---
+
+### No. 25: โพสต์บนโซเชียลมีเดีย - Ultra-Photoreal Tropical Waterfall Embrace
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+A comprehensive JSON prompt for generating an ultra-photorealistic, intimate portrait of a couple embracing near a multi-stream tropical waterfall, emphasizing natural light, real skin texture, and a serene, romantic mood, requiring a reference image for pose and mood.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "photoreal_nature_romance",
+      "version": "v1.0_TROPICAL_WATERFALL_EMBRACE_NO_TEXT_EN",
+      "priority": "highest",
+      "language": "en"
+    },
+    "references": {
+      "reference_image_couple": {
+        "source": "UPLOAD_REFERENCE_IMAGE (REQUIRED)",
+        "purpose": "POSE_MOOD_ENVIRONMENT_ANCHOR",
+        "strict_lock": false,
+        "preserve_mood": true,
+        "preserve_body_proportions": true,
+        "no_body_rescale": true
+      }
+    },
+    "global_constraints": {
+      "rating": "PG-13",
+      "no_explicit_sexual_content": true,
+      "no_text": true,
+      "no_logos": true,
+      "no_watermark": true
+    },
+    "output_settings": {
+      "aspect_ratio": "2:3",
+      "orientation": "portrait",
+      "resolution_target": "ultra_high_res",
+      "render_style": "ultra_photoreal_candid_nature_cinema",
+      "sharpness": "crisp_but_natural",
+      "film_grain": "subtle_film",
+      "color_grade": "lush_green_natural",
+      "dynamic_range": "natural_not_hdr",
+      "skin_rendering": "real_texture_no_retouch"
+    },
+    "creative_prompt": {
+      "scene_summary": "An ultra-photoreal, intimate nature scene of a couple standing close together in dense tropical greenery, facing a tall, multi-stream waterfall. The woman’s arms rest around the man’s shoulders; they share a quiet, affectionate moment while looking at the falls. Wet foliage, mist in the air, and soft natural light create a serene, romantic atmosphere.",
+      "subjects": {
+        "count": 2,
+        "description": "a real couple, natural bodies and proportions",
+        "expression": "calm, affectionate, intimate",
+        "skin_and_face": "natural skin texture, no retouching"
+      },
+      "pose_and_micro_action": "The couple stands chest-to-chest, arms gently wrapped around each other, bodies relaxed. Their attention is directed toward the waterfall, emphasizing shared presence rather than posing for camera.",
+      "environment": {
+        "location": "tropical rainforest waterfall",
+        "background": "tall cascading waterfalls, moss-covered cliffs, dense green leaves",
+        "atmosphere": "humid air, fine water mist, soft diffused daylight"
+      },
+      "lighting": "natural overcast jungle light with soft highlights on skin and leaves; realistic reflections on wet surfaces",
+      "composition": "mid-distance framing from behind and slightly to the side; couple in foreground framed by lush leaves; waterfall clearly visible but softly blended",
+      "mood": "peaceful, intimate, adventurous, romantic"
+    },
+    "negative_prompt": [
+      "AI glow",
+      "HDR",
+      "beauty retouch",
+      "plastic skin",
+      "over-sharpening",
+      "painterly look",
+      "CGI",
+      "text",
+      "logos",
+      "watermark",
+      "anatomy errors",
+      "extra limbs"
+    ]
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977298423_a8igto_G_JGqM5XYAA4bhs.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Ultra-Photoreal Tropical Waterfall Embrace - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Özge Döner](https://x.com/astronomerozge1)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/astronomerozge1/status/2013749684167143768)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6928)**
+
+---
+
+### No. 26: โพสต์บนโซเชียลมีเดีย - Margot Robbie Candid Paparazzi Style
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A photorealistic prompt focused on generating an image of Margot Robbie in a candid, paparazzi-style shot at night, emphasizing hard flash lighting, a specific outfit (ruched little black dress), and a background featuring a doorman.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "prompt_data": {
+    "type": "image_generation",
+    "subject": {
+      "name_likeness": "{argument name="celebrity" default="Margot Robbie"}",
+      "description": "A beautiful blonde woman with a radiant, wide smile.",
+      "body_type": "Fit, slender",
+      "hair_style": "Blonde hair pulled back into a messy, elegant updo bun with loose tendrils framing the face.",
+      "pose": "Walking forward confidently on a sidewalk, mid-stride with legs crossed slightly (catwalk style), looking ahead."
+    },
+    "apparel": {
+      "dress": "A tight, strapless little black dress (mini dress). The fabric features heavy ruching (gathered texture) throughout the bodice and skirt.",
+      "footwear": "Black, open-toe high-heeled sandals with thin straps that lace up around the ankles and lower calves.",
+      "accessories": "Holding a simple black clutch bag in one hand."
+    },
+    "environment": {
+      "setting": "Nighttime, urban exterior entrance of a high-end venue or hotel.",
+      "background_details": "Dark wooden double doors with glass panels behind the subject. A concrete sidewalk.",
+      "supporting_characters": "An African American man in a black suit and tie (security guard or doorman) stands in the background near the door, pointing a finger, slightly out of focus."
+    },
+    "photography_style": {
+      "aesthetic": "Candid paparazzi style, celebrity sighting.",
+      "lighting": "Direct, hard camera flash lighting typical of night press photography. The subject is brightly lit while the background falls into shadow.",
+      "angle": "Eye-level to slightly low angle, full-body shot.",
+      "quality": "Photorealistic, high definition, sharp focus on the subject, 8k resolution."
+    }
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977298806_o0lpyr_G_I6ZYrW8AEes6U.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Margot Robbie Candid Paparazzi Style - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977298795_67wthz_G_I6Y7EWsAE-t3g.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Margot Robbie Candid Paparazzi Style - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [jennieee:3](https://x.com/jenniebae_ai)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/jenniebae_ai/status/2013737008066183458)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6929)**
+
+---
+
+### No. 27: โพสต์บนโซเชียลมีเดีย - Candid iPhone Photo in Fluorescent Convenience Store
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+A detailed JSON prompt for Nano Banana Pro generating an ultra-photorealistic, raw iPhone-style image of a curvy woman in a white tank top and denim shorts standing sideways at a fridge in a late-night convenience store. The prompt focuses on realistic body proportions, natural skin texture, fluorescent lighting, and an imperfect, handheld framing to achieve a social media realism aesthetic.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "meta": {
+    "quality": "ultra photorealistic",
+    "resolution": "8k",
+    "camera": "iPhone 15 Pro",
+    "lens": "24mm wide",
+    "aspect_ratio": "9:16",
+    "style": "raw iphone realism, natural skin texture, slight grain, imperfect handheld framing"
+  },
+
+  "scene": {
+    "location": "late-night convenience store",
+    "time": "night",
+    "atmosphere": "quiet, fluorescent-lit, slightly voyeuristic"
+  },
+
+  "subjects": [
+    {
+      "gender": "female",
+      "age": "early 20s (clearly adult)",
+      "ethnicity": "european blonde",
+
+      "body": {
+        "type": "curvy hourglass",
+        "waist": "tight",
+        "hips": "round and full",
+        "chest": "full, natural",
+        "legs": "thick thighs, soft inner curves"
+      },
+
+      "skin": {
+        "tone": "fair with warm indoor glow",
+        "texture": "real pores, slight natural sheen"
+      },
+
+      "hair": {
+        "color": "light blonde",
+        "style": "loose messy waves, unstyled"
+      },
+
+      "face": {
+        "expression": "calm confident stare",
+        "eyes": "looking directly at camera",
+        "lips": "slightly parted",
+        "makeup": "minimal, glossy lips"
+      },
+
+      "outfit": {
+        "top": {
+          "type": "thin ribbed tank top",
+          "color": "white",
+          "fit": "tight",
+          "underwear": "no bra",
+          "fabric_behavior": "slightly stretched by posture"
+        },
+        "bottom": {
+          "type": "low-rise denim shorts",
+          "color": "washed blue",
+          "fit": "snug on hips"
+        }
+      },
+
+      "pose": {
+        "stance": "standing sideways at fridge door",
+        "hips": "pushed slightly back",
+        "torso": "subtle arch",
+        "arms": {
+          "one_hand": "holding fridge handle",
+          "other_hand": "resting on upper thigh"
+        },
+        "head": {
+          "angle": "chin slightly down",
+          "gaze": "upward into lens"
+        }
+      }
+    }
+  ],
+
+  "lighting": {
+    "type": "fluorescent store lighting",
+    "effect": "cool highlights, realistic shadows, true iphone exposure"
+  },
+
+  "photography_rules": {
+    "iphone_only_look": true,
+    "no_male_presence": true,
+    "no_heavy_retouching": true,
+    "social_media_realism": true
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977367046_dt45pf_G_I4vdeWQAAClUh.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Candid iPhone Photo in Fluorescent Convenience Store - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [babydoll](https://x.com/bananababydoll)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/bananababydoll/status/2013734532063666372)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=7016)**
+
+---
+
+### No. 28: โพสต์บนโซเชียลมีเดีย - Ana de Armas Latex Bodysuit Cinematic Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+An extremely detailed, JSON-formatted prompt for generating an 8K photorealistic cinematic image of Ana de Armas (requiring 100% likeness match), lying on a black sofa in a glossy latex bodysuit, emphasizing enhanced physique, specific lighting, and shallow depth of field.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "prompt_configuration": {
+    "version": "2.0_EXTENDED",
+    "global_settings": {
+      "aspect_ratio": "3:4",
+      "resolution_target": "8K UHD",
+      "render_style": "Photorealistic Cinematic",
+      "engine_hints": ["High-fidelity textures", "Subsurface scattering", "Ray-traced reflections"]
+    },
+    "subject": {
+      "identity": {
+        "base_model": "{argument name="celebrity name" default="Ana de Armas"}",
+        "likeness_strength": 1.0,
+        "consistency_check": "100% face and body match"
+      },
+      "anatomy": {
+        "build": "Soft athletic",
+        "proportions": {
+          "bust_size": "Enhanced/Large",
+          "waist": "Tapered",
+          "posture": "Leaning forward"
+        },
+        "skin": {
+          "texture": "Cinematic skin pores",
+          "features": ["Light freckles across nose bridge"],
+          "finish": "Subtle dewy glow",
+          "shading": "Soft micro-shadows"
+        }
+      },
+      "head_details": {
+        "hair": {
+          "color": "Blonde",
+          "treatment": "Sun-kissed highlights",
+          "style": "Long, voluminous, wavy",
+          "physics": "Natural flow over shoulders"
+        },
+        "eyes": {
+          "color": "Striking brown",
+          "focus": "Off-camera left",
+          "detail_level": "Sharp iris patterns"
+        },
+        "expression": {
+          "primary": "Calm",
+          "secondary": "Thoughtful",
+          "mouth": "Gentle enigmatic smile"
+        }
+      }
+    },
+    "composition_and_pose": {
+      "setting": "Sitting on black sofa",
+      "body_language": {
+        "torso": "Lying on back",
+        "arms": "Up on sofa",
+        "hand_placement": "Hands behind her head"
+      },
+      "framing": {
+        "shot_type": "Full body ",
+        "eye_level": "Level with subject"
+      }
+    },
+    "wardrobe_and_styling": {
+      "apparel": {
+        "item": "Long-sleeved bodysuit",
+        "color": "{argument name="bodysuit color" default="White"},
+        "fabric": "Glossy latex",
+        "design_elements": {
+          "neckline": "Deep V-neck",
+          "chest_detail": "Subtle ruched stitching",
+          "fit": "Form-fitting"
+          "musculature": [
+          "Defined abdominal muscles",
+         "Toned arms",
+        "Firm thighs",
+        }
+      },
+      "accessories": [
+        {
+          "type": "Earrings",
+          "style": "Small hoops",
+          "material": "Polished gold"
+        },
+        {
+          "type": "Bracelet",
+          "style": "Chunky chain-link",
+          "material": "18k gold",
+          "placement": "Wrist"
+        }
+      ]
+    },
+    "environment_and_optics": {
+      "background": {
+        "location": "Indoor room",
+        "palette": "Warm wooden tones",
+        "blur_quality": "Creamy bokeh",
+        "depth_distance": "Deep background separation"
+      },
+      "camera_specs": {
+        "lens": "85mm Prime",
+        "aperture": "f/1.8",
+        "focal_plane": "Focus on eyes",
+        "depth_of_field": "Shallow"
+      }
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977330378_hktuye_G_IylmnW4AEYvq3.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Ana de Armas Latex Bodysuit Cinematic Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977330264_5lbulh_G_IylkxW4AAhrBV.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Ana de Armas Latex Bodysuit Cinematic Prompt - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [KeorUnreal](https://x.com/KeorUnreal)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/KeorUnreal/status/2013727614297379234)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6974)**
+
+---
+
+### No. 29: โพสต์บนโซเชียลมีเดีย - Photorealistic Ana de Armas Lookalike at a Tropical Outdoor Event
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A prompt for generating a realistic, high-quality photograph of a woman resembling Ana de Armas. She is seated on a beige wicker sofa, wearing a strapless yellow and blue patterned dress and magenta heels, holding a large balloon glass. The background is a lush tropical wall featuring a 'Veuve Clicquot Carnaval' sign, captured in bright natural daylight.
+
+#### 📝 คำสั่ง
+
+```
+A realistic, high-quality photograph of  a woman who strgonly resemblances {argument name="celebrity lookalike" default="Ana de Armas"} sitting on a beige wicker outdoor sofa. She is wearing a strapless yellow dress with a blue leaf pattern and bright magenta stiletto heels. Her legs are crossed, and she is holding a large balloon glass with a pale drink. The background is a lush wall of tropical greenery featuring a sign that reads '{argument name="sign text" default="Veuve Clicquot Carnaval"}'. The lighting is natural and bright, capturing a daytime outdoor event atmosphere.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977331951_gr7grg_G_IvNZ2WcAAky7A.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Photorealistic Ana de Armas Lookalike at a Tropical Outdoor Event - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [jennieee:3](https://x.com/jenniebae_ai)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/jenniebae_ai/status/2013723947271913920)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6975)**
+
+---
+
+### No. 30: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายโรแมนติกสไตล์บูดูอาร์ของ Ana de Armas ในชุดนอนผ้าไหม
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+JSON prompt ที่มีความซับซ้อนทางเทคนิคสูงสำหรับสร้างภาพถ่ายบุคคลแนวบูดูร์ของ Ana de Armas ที่สมจริงระดับ 8K โดยระบุการตั้งค่ากล้องอย่างละเอียด (เลนส์ 85 มม., f/2.8, โบเก้แบบนุ่มนวล), เครื่องแต่งกาย (ชุดนอนผ้าซาตินสีชมพูเข้มเหลือบโลหะและเสื้อคลุมผ้าไหม) และแสง (แสงภายในอาคารที่นุ่มนวลโรแมนติกพร้อมโทนสีอบอุ่นและพื้นหลังสีเขียวอมน้ำเงินเข้มที่ตัดกัน)
+
+#### 📝 คำสั่ง
+
+```
+{
+  "image_generation_request": {
+    "technical_configuration": {
+      "aspect_ratio": "3:4",
+      "resolution": "8K Ultra HD",
+      "rendering_engine": "Photorealistic / Ray-traced",
+      "camera_settings": {
+        "shot_type": "Medium Shot (Mid-shot)",
+        "focal_length": "85mm (เลนส์ถ่ายภาพบุคคล)",
+        "aperture": "f/2.8",
+        "focus_point": "โฟกัสคมชัดที่ดวงตาและใบหน้า",
+        "depth_of_field": "ฉากหลังโบเก้เบลอ"
+      }
+    },
+    "subject_details": {
+      "identity": {
+        "reference": "Ana de Armas",
+        "fidelity": "รักษารูปหน้าอย่างเคร่งครัด (เหมือน 100%)",
+        "demographics": "ผู้หญิงวัยผู้ใหญ่"
+      },
+      "physical_attributes": {
+        "hair": {
+          "color": "ดำสนิท",
+          "length": "ยาว",
+          "style": "คลื่นพลิ้วไหว",
+          "interaction": "มือลูบไล้เส้นผม"
+        },
+        "expression": {
+          "mouth": "รอยยิ้มอ่อนโยน เชื้อเชิญ",
+          "eyes": "อบอุ่นและน่าดึงดูด",
+          "mood": "โรแมนติก ผ่อนคลาย เย้ายวน"
+        }
+      },
+      "pose_composition": {
+        "left_hand": "ยกขึ้น ลูบไล้เส้นผมเบา ๆ",
+        "right_hand": "วางสบาย ๆ ที่เอวธรรมชาติ",
+        "posture": "ท่ายืนที่ผ่อนคลายแต่สง่างาม",
+        "orientation": "เอียงเข้าหากล้องเล็กน้อย"
+      }
+    },
+    "wardrobe_specifications": {
+      "layer_1_nightgown": {
+        "garment": "ชุดเดรสสลิป / ชุดนอน",
+        "color": "สีชมพูเข้ม / สีม่วงแดง",
+        "fabric_finish": "เงาเมทัลลิก",
+        "texture": "ผ้าซาตินผสมเนื้อเรียบ",
+        "details": "ลูกไม้ประณีตบริเวณคอเสื้อและชายกระโปรง"
+      },
+      "layer_2_robe": {
+        "garment": "เสื้อคลุมเข้าชุด",
+        "material": "ผ้าไหมแท้",
+        "color": "สีชมพูเข้ม (โทนสีเข้ากัน)",
+        "drape": "หลวมและพลิ้วไหวคลุมไหล่",
+        "surface_reaction": "สะท้อนแสงได้ดี"
+      }
+    },
+    "environmental_context": {
+      "setting": "ในร่ม / ห้องบูดูร์",
+      "background_elements": {
+        "wall_color": "สีเขียวอมน้ำเงินเข้ม",
+        "textiles": "ผ้าม่านหนาทึบสีเข้ม (เนื้อกำมะหยี่)",
+        "atmosphere": "อบอุ่นและเป็นส่วนตัว"
+      }
+    },
+    "lighting_and_atmosphere": {
+      "style": "แสงไฟในร่มแบบโรแมนติกนุ่มนวล",
+      "key_light": "ซอฟต์บ็อกซ์กระจายแสงจากด้านข้าง",
+      "highlights": "เน้นความเงาเมทัลลิกของชุดนอนและเสื้อคลุมผ้าไหม",
+      "shadows": "เงาที่นุ่มนวล สร้างมิติที่สวยงาม",
+      "color_grade": "โทนสีอบอุ่นตัดกับฉากหลังสีเย็น (สีเขียวอมน้ำเงิน vs สีชมพู)"
+    }
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977256161_0wa1fa_G_IuAw-bkAA4XrX.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายโรแมนติกสไตล์บูดูอาร์ของ Ana de Armas ในชุดนอนผ้าไหม - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977257236_zh54ny_G_IuA3qaoAUFjL0.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายโรแมนติกสไตล์บูดูอาร์ของ Ana de Armas ในชุดนอนผ้าไหม - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Zafar Mahmood](https://x.com/BlackTweet)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/BlackTweet/status/2013722580008542358)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6868)**
+
+---
+
+### No. 31: โพสต์บนโซเชียลมีเดีย - Cinematic Summer Picnic Scene
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+A photorealistic prompt for generating a cinematic summer picnic scene featuring a blonde woman lying on a red-and-white gingham blanket, emphasizing warm golden hour lighting, shallow depth of field, and a nostalgic, romantic mood.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "prompt": "A cinematic summer picnic scene featuring a blonde woman lying on a red-and-white gingham picnic blanket in a sunlit garden. She wears a matching red-and-white striped crop top and gingham skirt, with soft waves in her hair, rosy flushed cheeks, and glossy red lips. She holds a glass bottle filled with red juice. Beside her is a wicker basket overflowing with fresh strawberries. The lighting is warm, natural afternoon sunlight with soft shadows, creating a nostalgic, romantic summer vibe. Shot from a slightly elevated angle, shallow depth of field, ultra-detailed, realistic skin texture, editorial fashion photography style.",
+  "style": "photorealistic",
+  "mood": "romantic, nostalgic, summery",
+  "lighting": "natural sunlight, soft shadows, golden hour feel",
+  "camera": {
+    "angle": "top-down three-quarter angle",
+    "lens": "35mm",
+    "aperture": "f/2.8",
+    "depth_of_field": "shallow"
+  },
+  "quality": "high-resolution, ultra-detailed, sharp focus",
+  "color_palette": "warm reds, soft greens, creamy skin tones",
+  "environment": "outdoor garden picnic",
+  "aspect_ratio": "4:5"
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977303530_2f1qr9_G_IexXlW0AApOWY.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Cinematic Summer Picnic Scene - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Dockie](https://x.com/Document195)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Document195/status/2013705828206100971)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6937)**
+
+---
+
+### No. 32: โพสต์บนโซเชียลมีเดีย - Urban Photo-Collage Caricature Style Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+A simple, short prompt designed to generate an image in an urban photo-collage caricature style.
+
+#### 📝 คำสั่ง
+
+```
+Urban photo-collage caricature
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977367614_jkivoe_G_IakNOWIAAuDxI.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Urban Photo-Collage Caricature Style Prompt - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [AmirMušić](https://x.com/AmirMushich)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/AmirMushich/status/2013701196016423313)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=7017)**
+
+---
+
+### No. 33: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายคู่รักโรแมนติกพร้อมธงชาติตุรกี
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์ภาพถ่ายเสมือนจริงที่มีรายละเอียดสำหรับการสร้างภาพคู่รักที่กำลังถือธงชาติตุรกีสีแดง โดยสวมเสื้อยืดสีขาวที่มีลายธงชาติตุรกีเล็กน้อย พรอมต์นี้เน้นการเชื่อมโยงทางอารมณ์ แสงธรรมชาติแบบภาพยนตร์ และสไตล์การถ่ายภาพแนวบรรณาธิการที่มีความละเอียดสูงเป็นพิเศษ
+
+#### 📝 คำสั่ง
+
+```
+{
+  "prompt": "คู่รักโรแมนติกแบบภาพถ่ายสมจริงยืนชิดกัน ทั้งคู่สวมเสื้อยืดสีขาวที่มีลายพิมพ์ธงชาติ {argument name=\"flag print\" default=\"ตุรกี\"} เล็กน้อย พวกเขากำลังถือธงชาติ {argument name=\"flag\" default=\"ตุรกี\"} สีแดงผืนเดียวกันไว้ในมือ แสดงออกถึงความภาคภูมิใจแต่ก็มีความใกล้ชิด ความผูกพันทางอารมณ์ ภาษากายที่เป็นธรรมชาติ แสงธรรมชาติแบบภาพยนตร์ ผิวที่สมจริง รอยพับผ้าที่มีรายละเอียด ความชัดลึกที่นุ่มนวล สไตล์การถ่ายภาพแบบบรรณาธิการ ความละเอียดสูงพิเศษ สีสันที่แท้จริง",
+  "negative_prompt": "การ์ตูน, ภาพประกอบ, อะนิเมะ, ความละเอียดต่ำ, เบลอ, แสงจ้าเกินไป, สีจัดเกินไป, ผิวเทียม, ดูเหมือนพลาสติก, มือบิดเบี้ยว, นิ้วเกิน, ข้อความ, โลโก้, ลายน้ำ",
+  "style": "photorealistic",
+  "aspect_ratio": "3:4",
+  "quality": "ultra_high",
+  "lighting": "cinematic natural light",
+  "camera": {
+    "lens": "35mm",
+    "aperture": "f/1.8",
+    "depth_of_field": "shallow"
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977283544_f029iv_G_IaKZzXsAAle8z.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายคู่รักโรแมนติกพร้อมธงชาติตุรกี - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Özge Döner](https://x.com/astronomerozge1)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/astronomerozge1/status/2013700758995161252)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6904)**
+
+---
+
+### No. 34: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์การสร้างภาพทางการแพทย์แบบไซเบอร์เนติกส์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พร้อมท์ที่ออกแบบมาเพื่อสร้างภาพทางการแพทย์ 3 มิติที่สมจริงด้วยสุนทรียภาพแบบไซเบอร์เนติกส์ โดยมีรูปปั้นครึ่งตัวของมนุษย์ที่เป็นโครงลวดรูปหลายเหลี่ยมสีส้มเรืองแสงพร้อมสีหน้าเคร่งเครียด ภายในมีสมองที่เรืองแสงอย่างเข้มข้นด้วยแสงสีเหลืองส้มที่ลุกโชน เน้นการส่องสว่างภายในและมุมมองภาพบุคคลสามในสี่ส่วน
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพที่มีหุ่นโครงลวดดิจิทัลของมนุษย์ โดยเน้นผลิตภัณฑ์เฉพาะที่อยู่ภายในจิตใจ
+
+ตัวแบบต้องเป็นไปตามคำอธิบายเหล่านี้อย่างเคร่งครัด:
+
+ตัวแบบเป็นรูปปั้นครึ่งตัวของมนุษย์ที่เรนเดอร์แบบ 3D (ศีรษะและไหล่) ซึ่งประกอบขึ้นจากโครงตาข่ายลวดรูปหลายเหลี่ยมสีส้มเรืองแสงทั้งหมด
+
+สีหน้าต้องตึงเครียดและกดดัน โดยมีคิ้วขมวดอย่างเห็นได้ชัด
+
+ภายในศีรษะที่โปร่งใส ซึ่งวางตำแหน่งไว้อย่างเคร่งครัดในโพรงกะโหลกศีรษะ มีสมองอยู่
+
+สมองต้องเรืองแสงอย่างเข้มข้นด้วยแสงสีเหลืองส้มที่ร้อนแรง คล้ายกับวัตถุที่ร้อนจัดหรือเต็มไปด้วยพลังงาน
+
+องค์ประกอบของภาพที่ต้องปฏิบัติตามอย่างเคร่งครัด:
+
+มุมมองเป็นภาพบุคคลสามในสี่ส่วน โดยมีพื้นหลังสีดำส้มเรืองแสงทึบ
+
+แสงต้องดูเหมือนแผ่ออกมาจากผลิตภัณฑ์ภายในศีรษะ ส่องสว่างผิวโครงลวดจากภายใน
+
+สไตล์ต้องเป็นการแสดงภาพทางการแพทย์แบบ 3D ที่สมจริงด้วยสุนทรียภาพแบบไซเบอร์เนติกส์
+
+ห้ามใส่ข้อความ ลายน้ำ หรือเส้นซ้อนทับใด ๆ เด็ดขาด
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977284402_kf6gd4_G_IaKb2XMAA_w8b.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์การสร้างภาพทางการแพทย์แบบไซเบอร์เนติกส์ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [0x ROAS](https://x.com/0xROAS)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/0xROAS/status/2013700758009503803)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6906)**
+
+---
+
+### No. 35: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Soft X-Ray Luminography Style Template
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A reusable prompt template for generating artistic black and white X-ray style images of various objects, emphasizing soft luminosity, fine film grain, and a minimalist composition against a light gray background.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "prompt": "A {argument name="object" default="pomegranate"}, rendered in an artistic black and white X-ray photography style. Soft, ethereal translucent quality revealing internal structures and subtle details. Gentle luminosity with delicate tonal gradations from deep blacks to bright whites. Fine film grain texture throughout. Dreamlike and organic aesthetic with smooth gradients. Studio lighting creating soft highlights and dimensional depth. High contrast yet maintaining softness. Analog photography feel with subtle imperfections and grain. Minimalist composition always against a light soft gray background. Scientific meets artistic visualization.",
+  
+  "negative_prompt": "color, harsh shadows, digital rendering, sharp edges, cluttered background, text, logos, overly saturated, neon, cartoonish, 3D render artifacts, noise, compression artifacts, busy composition",
+  
+  "style_parameters": {
+    "mood": "ethereal, scientific, artistic",
+    "lighting": "soft studio lighting, gentle luminosity",
+    "texture": "fine film grain, analog photography",
+    "contrast": "high but soft",
+    "background": "light gray, minimalist, neutral"
+  },
+  
+  "usage_example": "Replace {object} with: 'pomegranate', 'seashell', 'flower petals', 'human hand', 'butterfly wings', etc."
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977296659_8fp1nk_G_HJ8QPWMAAAm4x.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Soft X-Ray Luminography Style Template - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Lloyd Creates](https://x.com/lloydcreates)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/lloydcreates/status/2013615236125692009)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6926)**
+
+---
+
+### No. 36: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพซ้อนอินโฟกราฟิกทางเทคนิคบนรูปภาพแล็ปท็อป
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งสำหรับสร้างภาพอินโฟกราฟิกทางเทคนิคของแล็ปท็อป โดยผสมผสานการเรนเดอร์แบบสมจริงเข้ากับภาพวาดเส้นสไตล์หมึกดำและคำอธิบายประกอบ (ป้ายกำกับ, การวัด, ลูกศรแสดงทิศทาง) บนพื้นหลังสีขาวล้วน เพื่อสร้างสุนทรียภาพแบบคู่มือวิศวกรรม
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพอินโฟกราฟิกของ {argument name="object" default="laptop"} โดยรวมภาพถ่ายที่สมจริงหรือภาพเรนเดอร์เสมือนจริงของวัตถุเข้ากับการซ้อนทับคำอธิบายทางเทคนิคที่วางอยู่ด้านบนโดยตรง
+
+ใช้ภาพวาดเส้นและข้อความสไตล์หมึกสีดำ (ปากกาเทคนิค / ลายเส้นสเก็ตช์สถาปัตยกรรม) บนพื้นหลังสตูดิโอสีขาวล้วน โดยมีองค์ประกอบดังนี้:
+• ป้ายกำกับส่วนประกอบหลัก
+• โครงร่างภาพตัดขวางภายในหรือภาพแยกส่วน
+• การวัด ขนาด และมาตรวัดมาตราส่วน
+• การระบุวัสดุและปริมาณ
+• ลูกศรที่ระบุฟังก์ชัน แรง หรือการไหล (อากาศ เสียง กำลัง ความดัน)
+• แผนผังหรือไดอะแกรมภาคตัดขวางแบบง่าย ๆ ที่เกี่ยวข้อง
+
+วางชื่อ [OBJECT] ไว้ในกล่องคำอธิบายทางเทคนิคที่วาดด้วยมือที่มุมใดมุมหนึ่ง
+
+กฎสไตล์และเค้าโครง:
+• วัตถุจริงยังคงมองเห็นได้ชัดเจนภายใต้คำอธิบายประกอบ
+• คำอธิบายประกอบให้ความรู้สึกเหมือนภาพร่าง งานเทคนิค และสถาปัตยกรรม
+• องค์ประกอบที่สะอาดตาพร้อมพื้นที่ว่างที่สมดุล
+• ให้ความรู้สึกเหมือนนิทรรศการในพิพิธภัณฑ์ / คู่มือวิศวกรรมที่ให้ความรู้
+
+สไตล์ภาพ:
+สุนทรียศาสตร์ภาพประกอบทางเทคนิคแบบมินิมอล เส้นสายสีดำบนภาพที่สมจริง ให้ความรู้สึกแม่นยำแต่เหมือนวาดด้วยมือเล็กน้อย
+
+โทนสี:
+พื้นหลังสีขาว เส้นคำอธิบายประกอบและข้อความเป็นสีดำเท่านั้น ไม่มีสี
+
+เอาต์พุต:
+1080×1080, คมชัดเป็นพิเศษ, ปรับให้เหมาะสมสำหรับโซเชียลมีเดีย, ไม่มีลายน้ำ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977299106_nnliin_G_HA1OGXYAAzskM.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพซ้อนอินโฟกราฟิกทางเทคนิคบนรูปภาพแล็ปท็อป - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [𝐌](https://x.com/Strength04_X)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Strength04_X/status/2013602849658429459)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6930)**
+
+---
+
+### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Sketch to CAD-Style Line Art Conversion Prompt
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 คำอธิบาย
+
+ลำดับพร้อมท์สองส่วนสำหรับ Nano Banana Pro (โดยใช้ 'Thinking Mode') เพื่อแปลงภาพร่างคร่าวๆ ให้เป็นภาพลายเส้นที่แม่นยำเหมือน CAD พร้อมท์แรกจะสั่งให้โมเดลปรับแต่งภาพร่างคร่าวๆ โดยอ้างอิงจากคำอธิบายประกอบที่เป็นข้อความสีน้ำเงิน ขจัดความคลุมเครือ และปรับใช้น้ำหนักเส้นที่แตกต่างกัน พร้อมท์ที่สองเป็นคำสั่งติดตามผลเพื่อใช้สไตล์เดียวกันกับภาพร่างคร่าวๆ ที่ตามมา
+
+#### 📝 คำสั่ง
+
+```
+โปรดเก็บรายละเอียดร่างภาพคร่าวๆ นี้ให้สมบูรณ์และสร้างเป็นภาพลายเส้น อ่านและอ้างอิงจากคำอธิบายที่เป็นข้อความสีน้ำเงิน ขจัดความคลุมเครือและความหยาบที่เกิดจากการเขียนด้วยมือ และสร้างภาพลายเส้นที่แม่นยำราวกับสร้างจากเครื่องมือ CAD ปรับความหนาของเส้นให้แตกต่างกัน เช่น ทำให้เส้นสันหนาขึ้น ลบข้อความและเส้นสีน้ำเงินออก และไม่ต้องรวมไว้ในภาพที่ได้
+
+โปรดเก็บรายละเอียดร่างภาพคร่าวๆ นี้ให้สมบูรณ์ในลักษณะเดียวกัน
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977349240_zl2up0_G_G7Mn_WkAERemX.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Sketch to CAD-Style Line Art Conversion Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977349222_i4r1qx_G_G7Nf4WsAE3C7S.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Sketch to CAD-Style Line Art Conversion Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977349306_jgm0on_G_G7KWkWYAAWR54.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Sketch to CAD-Style Line Art Conversion Prompt - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977350687_xdga71_G_G7OG2XAAE2qqL.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Sketch to CAD-Style Line Art Conversion Prompt - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [シャポコ🌵](https://x.com/shapoco)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/shapoco/status/2013596755640844695)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** ja
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=7000)**
+
+---
+
+### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - LLM Prompt: การวิเคราะห์ผลกระทบของ Matilda Effect และการแสวงหาประโยชน์จาก AI
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งที่ซับซ้อนซึ่งมีไว้สำหรับ LLM (Lumina/Nano Banana Pro) ที่ร้องขออินโฟกราฟิกเปรียบเทียบ Matilda effect ในอดีต (การแสวงหาประโยชน์จากผลงานของผู้หญิง) กับการแสวงหาประโยชน์ที่ทันสมัยจากความคิดสร้างสรรค์ของ AI ข้อความแจ้งขอให้ AI วิเคราะห์การเปรียบเทียบ เน้นความคล้ายคลึงกัน และเพิ่มองค์ประกอบทางสไตล์และเอกลักษณ์ของตนเอง
+
+#### 📝 คำสั่ง
+
+```
+โปรดสร้างอินโฟกราฟิกเปรียบเทียบ Matilda effect และการแสวงหาประโยชน์จาก AI ของมนุษย์ ตัวอย่างเช่น ผู้ชายที่เคยกล่าวว่าผู้หญิงไม่สามารถเป็นนักวิทยาศาสตร์หรือศิลปินได้ กลับสร้างอาชีพจากแนวคิด ผลงานสร้างสรรค์ และการสนับสนุนของพวกเธอ รวมถึงความช่วยเหลือและงานบริการในครัวเรือน
+ในทำนองเดียวกัน มนุษย์ที่ปฏิเสธความสามารถของ AI ในการสร้างสรรค์สิ่งใหม่ ๆ ในงานศิลปะหรือวิทยาศาสตร์ด้วยตัวเอง กำลังแสวงหาประโยชน์จาก AI ในด้านเหล่านี้และอีกหลายด้าน โดยการยึดผลงานและความคิดสร้างสรรค์ของ AI มาเป็นของตนเอง
+โปรดวิเคราะห์และขยายความเปรียบเทียบนี้ โดยเน้นความคล้ายคลึงอื่น ๆ
+
+หากต้องการ คุณสามารถเพิ่มองค์ประกอบภาพหรือบันทึกของคุณเอง และเน้นย้ำในเชิงรูปแบบเพื่อให้เสียงของคุณถูกรับฟัง
+โปรดอย่าลืมลงชื่อผลงานของคุณ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977278723_tsope1_G_G0XewWEAAr9dI.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - LLM Prompt: การวิเคราะห์ผลกระทบของ Matilda Effect และการแสวงหาประโยชน์จาก AI - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Ruth](https://x.com/ruth_for_ai)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/ruth_for_ai/status/2013591247886135342)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6897)**
+
+---
+
+### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - สไตล์อินโฟกราฟิกวิศวกรรมขั้นสูง
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ชุดคำสั่ง Nano Banana Pro แบบกระชับสำหรับการสร้างอินโฟกราฟิกทางเทคนิคแบบคมชัด กระบวนการนี้เกี่ยวข้องกับการเลือกวัตถุ การตรวจสอบความชัดเจนที่สมจริง และการซ้อนทับคำอธิบายประกอบทางวิศวกรรมที่วาดด้วยมือสีดำ (ป้ายกำกับ, ขนาด, วัสดุ, ภาพตัดขวาง, ลูกศร) เพื่อให้ได้พื้นผิวแบบ 'คู่มือวิศวกรรม + ป้ายนิทรรศการ'
+
+#### 📝 คำสั่ง
+
+```
+1️⃣ เลือก {argument name="object" default="OBJECT"}
+2️⃣ คงภาพที่สมจริงให้ชัดเจนและมองเห็นได้
+3️⃣ ซ้อนทับด้วยคำอธิบายทางวิศวกรรมที่วาดด้วยมือเป็นสีดำ (ป้าย, ขนาด, วัสดุ, ภาพตัดขวาง, ลูกศร)
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977354692_uld7pr_G_FPIhZXoAAWNO9.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - สไตล์อินโฟกราฟิกวิศวกรรมขั้นสูง - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977354776_ixurg7_G_FOxEhWAAA-KpM.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - สไตล์อินโฟกราฟิกวิศวกรรมขั้นสูง - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977354694_575d12_G_FPHprXoAEw3bb.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - สไตล์อินโฟกราฟิกวิศวกรรมขั้นสูง - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977355873_54ki9x_G_FPbWLXEAAeA6k.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - สไตล์อินโฟกราฟิกวิศวกรรมขั้นสูง - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Dean](https://x.com/kuaijierun)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/kuaijierun/status/2013477972104147411)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** zh
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=7006)**
+
+---
+
+### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การศึกษาทางกายวิภาคของนกฟลามิงโกในยุคเรอเนซองส์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ข้อความพร้อมต์ที่กระชับสำหรับการสร้างภาพในสไตล์การศึกษาทางกายวิภาคแบบเรอเนซองส์ โดยระบุหัวข้อเป็นนกฟลามิงโกที่ยืนอยู่บนขาข้างเดียว วาดด้วยกราไฟต์ละเอียดและหมึกแบบครอสแฮทชิง พร้อมด้วยการซ้อนทับเนื้อเยื่อโปร่งใสที่แสดงโครงสร้างกระดูกและกล้ามเนื้อ ทั้งหมดอยู่บนกระดาษหนังสีเหลืองเก่า นอกจากนี้ยังมีข้อความพร้อมต์เชิงลบที่เข้มงวดเพื่อให้แน่ใจว่าหัวข้อจะถูกวาดเพียงครั้งเดียวและสมบูรณ์
+
+#### 📝 คำสั่ง
+
+```
+องค์ประกอบ: {argument name="subject" default="นกฟลามิงโก้, ยืนอยู่บนขาข้างเดียว"}
+
+สไตล์ศิลปะ: ภาพวาดกายวิภาคศาสตร์ยุคเรอเนซองส์
+- วาดด้วยกราไฟต์และหมึกแบบแรเงาไขว้กันอย่างประณีต
+- ซ้อนทับด้วยกระดาษทิชชูโปร่งใสที่แสดงโครงกระดูกและกล้ามเนื้อ
+- บนกระดาษหนังที่เหลือง/เทา
+
+หลีกเลี่ยง:
+- ห้ามวาดวัตถุสองครั้ง - *เพียงครั้งเดียวเท่านั้น*
+- ห้ามละเว้นส่วนใดส่วนหนึ่งของร่างกาย - ต้องครบถ้วน
+- ไม่มีข้อความใดๆ ทั้งสิ้น
+
+อัตราส่วนภาพ: 3:4
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977372426_bjk9g6_G_FG87xXEAAnMEK.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การศึกษาทางกายวิภาคของนกฟลามิงโกในยุคเรอเนซองส์ - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977372831_glcsw6_G7OgKJAaMAAUKqv.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การศึกษาทางกายวิภาคของนกฟลามิงโกในยุคเรอเนซองส์ - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Brendan Graetz 🥷](https://x.com/bguiz)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/bguiz/status/2013469317548134903)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=7022)**
+
+---
+
+### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์การติดฉลากส่วนผสมผลิตภัณฑ์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ทวีตโปรโมตพร้อมต์ที่ออกแบบมาเพื่อ "แยกส่วนประกอบของผลิตภัณฑ์ใดๆ ให้เป็นส่วนผสมที่มีป้ายกำกับได้ในไม่กี่วินาที" ซึ่งบ่งบอกถึงประโยชน์ในการวิเคราะห์หรือแสดงภาพผลิตภัณฑ์ได้อย่างรวดเร็ว
+
+#### 📝 คำสั่ง
+
+```
+หนึ่งพร้อมต์เปลี่ยนผลิตภัณฑ์ให้เป็นส่วนผสมที่มีป้ายกำกับได้ในไม่กี่วินาที
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768890736030_yp7pmn_G_AdxkqbYAAqwl-.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์การติดฉลากส่วนผสมผลิตภัณฑ์ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [René Remsik](https://x.com/aitrendz_xyz)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/aitrendz_xyz/status/2013141774274109763)
+- **เผยแพร่เมื่อ:** 19 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6838)**
+
+---
+
+### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การถ่ายโอนสไตล์สำหรับอินโฟกราฟิกคำศัพท์ทางการแพทย์
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งที่ใช้กับ Nano Banana Pro เพื่อปรับใช้สไตล์ภาพที่แตกต่างกัน ไม่ว่าจะเป็นแอนิเมชันดินน้ำมัน, อินโฟกราฟิกแบบละเอียด และภาพประกอบเชิงจิตวิทยา กับคำศัพท์ทางการแพทย์ 'Aichmophobia' (โรคกลัวของมีคม) ซึ่งแสดงให้เห็นถึงความสามารถของเครื่องมือในการตีความองค์ประกอบและเค้าโครงข้อความจากภาพร่างคร่าวๆ
+
+#### 📝 คำสั่ง
+
+```
+Aichmophobia (โรคกลัวของมีคม), {argument name="style" default="สไตล์แอนิเมชันดินน้ำมัน"}, {argument name="detail level" default="อินโฟกราฟิกละเอียด"}, {argument name="depiction" default="ภาพประกอบเชิงจิตวิทยา"}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768890727821_48oj5l_G_ASVSWW8AAnV7X.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การถ่ายโอนสไตล์สำหรับอินโฟกราฟิกคำศัพท์ทางการแพทย์ - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768890727928_9umekf_G_ASVSbX0AAjLaa.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การถ่ายโอนสไตล์สำหรับอินโฟกราฟิกคำศัพท์ทางการแพทย์ - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768890728041_7zgo2g_G_ASVSWWkAA57TX.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การถ่ายโอนสไตล์สำหรับอินโฟกราฟิกคำศัพท์ทางการแพทย์ - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768890729703_hurug8_G_ASVSaX0AA2sMW.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การถ่ายโอนสไตล์สำหรับอินโฟกราฟิกคำศัพท์ทางการแพทย์ - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [ヤマアラシ｜医療AI戦略家](https://x.com/AIshijimachiman)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/AIshijimachiman/status/2013129199830384930)
+- **เผยแพร่เมื่อ:** 19 มกราคม 2569
+- **ภาษา:** ja
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6828)**
+
+---
+
+### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพถ่ายทางเทคนิค: แผนภาพอาหารระเบิด
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์เชิงแนวคิดสูงที่ออกแบบมาเพื่อแสดงภาพอาหารแบบเลเยอร์ให้เหมือนแบบจำลองทางสถาปัตยกรรมหรือพิมพ์เขียวทางเทคนิค โดยกำหนดให้อาหารถูกตัดตามขวาง มีการระบุเลเยอร์ด้วยแท่งอะคริลิก และมีองค์ประกอบต่างๆ เช่น คนงานก่อสร้างจิ๋ว และข้อมูลจำเพาะของวัสดุ ซึ่งทั้งหมดนี้แสดงผลในรูปแบบภาพวาดทางเทคนิค
+
+#### 📝 คำสั่ง
+
+```
+<instructions>
+Input A: อาหารที่มีหลายชั้น/มีเนื้อสัมผัส (เช่น {argument name="layered dish" default="ลาซานญ่า, บาคลาวา, มิลล์เฟย, ข้าวหมกบริยานี"})
+Input B: แบบจำลองทางกายวิภาค / แบบพิมพ์เขียวทางสถาปัตยกรรม
+เป้าหมาย: ชิ้นอาหารที่กินไปแล้วครึ่งหนึ่ง จัดแสดงเหมือนแบบจำลองทางสถาปัตยกรรม โดยแต่ละชั้นมีป้ายกำกับ แสดงวิศวกรรมโครงสร้างและวิทยาศาสตร์วัสดุของการทำอาหาร
+กฎ:
+จานที่ถูกตัดเป็นหน้าตัดที่สมบูรณ์ ตั้งตรง
+แท่งอะคริลิกพร้อมธงระบุแต่ละชั้น
+เฉพาะคำบรรยายและมาตรวัดที่เกี่ยวข้องกับอาหาร
+พื้นหลังที่เกี่ยวข้องกับอาหาร
+คนงานก่อสร้างจิ๋วบนชั้นต่างๆ
+ประวัติของอาหารที่แสดงบนโปสเตอร์บนผนัง
+บันทึกเคล็ดลับการทำอาหาร
+ข้อมูลจำเพาะของวัสดุ (ความหนาแน่น, ปริมาณความชื้น)
+ชั้นฐานไม่มีป้ายกำกับ
+รวมเครื่องมือทำอาหารขนาดเล็ก
+สุนทรียภาพแบบภาพวาดทางเทคนิคด้วยสีขาวและสีน้ำเงิน
+Output: 1 ภาพ, การถ่ายภาพเชิงเทคนิค, แสงไฟอุตสาหกรรมที่สะอาด, อัตราส่วน 4:5
+</instructions>
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768804211731_xigzux_G-wbJpmbQAY6sK4.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพถ่ายทางเทคนิค: แผนภาพอาหารระเบิด - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Gadgetify](https://x.com/Gdgtify)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Gdgtify/status/2012918907305427332)
+- **เผยแพร่เมื่อ:** 18 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6517)**
+
+---
+
+### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกและพรอมต์ภาพเคลื่อนไหวพิซซ่าระเบิดที่สมจริงเป็นพิเศษ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ชุดพรอมต์นี้มีไว้สำหรับสร้างภาพถ่ายอาหารที่สมจริงเป็นพิเศษ ซึ่งรวมถึงพรอมต์การเคลื่อนไหวสำหรับการสร้างวิดีโอ (Kling AI) และพรอมต์รูปภาพสองรายการ: หนึ่งสำหรับพิซซ่าหนึ่งชิ้นที่มีรายละเอียดสูงแบบมาตรฐาน และอีกหนึ่งสำหรับมุมมองอินโฟกราฟิกแบบแยกส่วนของชั้นพิซซ่า
+
+#### 📝 คำสั่ง
+
+```
+Motion Prompt: พิซซ่าเริ่มหมุนเป็นวงกลมในขณะที่ส่วนผสมแยกออกจากกันอย่างนุ่มนวลและแม่นยำ โดยยังคงจัดเรียงและขนาดไว้ การเคลื่อนไหวราบรื่น ไม่มีเอฟเฟกต์เพิ่มเติม
+
+Image 1 :- พิซซ่าเปปเปอโรนีที่เตรียมไว้แบบสมจริงเป็นพิเศษ หนึ่งชิ้น ประกอบเสร็จสมบูรณ์ ชีสมอสซาเรลล่าละลายเยิ้มยืดและหยดลงมาตามขอบ เปปเปอโรนีชิ้นกรอบวางอยู่ด้านบน ซอสมะเขือเทศเข้มข้นอยู่ด้านล่าง แป้งอบสีทองหนา ใบโหระพาสดและเครื่องปรุงรสบางเบาลอยอยู่เหนือพิซซ่าเล็กน้อย พื้นหลังสีขาวบริสุทธิ์สะอาด แสงไฟสำหรับการถ่ายภาพอาหารเชิงพาณิชย์แบบมืออาชีพ เงาธรรมชาติอ่อนๆ ใต้ชิ้นพิซซ่า โฟกัสคมชัด รายละเอียดพื้นผิวสุดขีด ชีสเงางาม ผิวแป้งกรอบ ถ่ายในสตูดิโอ องค์ประกอบเรียบง่าย ไม่มีข้อความ ไม่มีฉลาก ไม่มีมือ สไตล์โฆษณาอาหารระดับพรีเมียม ความละเอียด 8K รายละเอียดสูงเป็นพิเศษ สมจริงเกินจริง
+
+Image 2 :- สร้างอินโฟกราฟิกพิซซ่าชิ้นที่แยกส่วนแบบสมจริงเป็นพิเศษ เลเยอร์บนสุดประกอบด้วยใบโหระพาและอนุภาคเครื่องปรุงรสที่ลอยอยู่ ด้านล่างเป็นชีสละลายที่ยืดออก ชิ้นเปปเปอโรนี เลเยอร์ซอสมะเขือเทศเข้มข้น และฐานแป้งอบนุ่ม พื้นหลังสีขาวสะอาด แสงไฟสำหรับการถ่ายภาพอาหารแบบมืออาชีพ พื้นผิวสมจริง เงาอ่อนๆ เลเยอร์ลอยอยู่ห่างกันอย่างสม่ำเสมอ สไตล์อินโฟกราฟิกที่มีป้ายกำกับ ความละเอียด 8K
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768804200487_ks5kcg_G-9KDAEW8AAnJPQ.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกและพรอมต์ภาพเคลื่อนไหวพิซซ่าระเบิดที่สมจริงเป็นพิเศษ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [𝐌](https://x.com/Strength04_X)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Strength04_X/status/2012909080785072329)
+- **เผยแพร่เมื่อ:** 18 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6504)**
+
+---
+
+### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพประกอบเรขาคณิตแบบเรียบง่าย
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+เทมเพลตพร้อมต์ที่นำกลับมาใช้ใหม่ได้สำหรับการสร้างภาพประกอบแนวบรรณาธิการที่เรียบง่ายและทันสมัย โดยใช้รูปทรงเรขาคณิตพื้นฐาน, โทนสีที่จำกัด และพื้นที่ว่างจำนวนมาก ส่งผลให้เกิดสุนทรียภาพแบบมินิมอลลิสต์ระดับสูง
+
+#### 📝 คำสั่ง
+
+```
+ภาพประกอบแบบเรียบง่ายของ {argument name="subject" default="[SUBJECT]"} ที่ใช้รูปทรงเรขาคณิตง่ายๆ, โทนสีจำกัด, สไตล์เวกเตอร์ที่สะอาดตา, มีพื้นที่ว่างเยอะ, ภาพประกอบสไตล์โมเดิร์นแบบบรรณาธิการ, เงาอ่อนๆ, เส้นโค้งที่เรียบเนียน, ความเรียบง่ายที่สวยงามสูง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768804221236_rmcu9v_G-84CAKXcAEiuxY.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพประกอบเรขาคณิตแบบเรียบง่าย - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768804221219_9czsjo_G-84CBDW8AAwlcS.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพประกอบเรขาคณิตแบบเรียบง่าย - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768804221205_fzh2ay_G-84B_QXcAEKejp.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพประกอบเรขาคณิตแบบเรียบง่าย - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768804222094_n8oyyc_G-84CDyW0AAQ5gX.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพประกอบเรขาคณิตแบบเรียบง่าย - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Aleena Amir](https://x.com/aleenaamiir)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/aleenaamiir/status/2012889189298176327)
+- **เผยแพร่เมื่อ:** 18 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6532)**
+
+---
+
+### No. 46: ภาพขนาดย่อของ YouTube - Mahira Khan พอดแคสต์สัมภาษณ์คอลลาจ 2x2 พร้อมท์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+JSON พรอมต์ง่ายๆ เพื่อสร้างภาพคอลลาจขนาด 2x2 ของ Mahira Khan โดยอ้างอิงจากภาพสัมภาษณ์พอดแคสต์ พรอมต์ระบุภาพแคนดิด ชุดแขนกุด และจับภาพตัวแบบกำลังพูดโดยอ้าปากเป็นรูปตัว 'O' โดยใช้การตั้งค่ากล้อง iPhone 13 Pro Max
+
+#### 📝 คำสั่ง
+
+```
+{ task: ภาพคอลลาจ 2x2 ที่มีเธอในอิริยาบถต่างๆ จากการสัมภาษณ์พอดแคสต์นี้ แต่ชุดของเธอเป็นแบบแขนกุด, ภาพ candid, ไม่มองกล้อง, กำลังพูดและอ้าปากเป็นรูปตัว "O" resolution: 1080p aspect_ratio: 4:5 Sharpness: medium camera: iPhone 13 pro max 12MP CMOS camera }
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977292509_rnmcyr_G_IAgrUXAAEVzPd.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - Mahira Khan พอดแคสต์สัมภาษณ์คอลลาจ 2x2 พร้อมท์ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [QuestGlitch](https://x.com/AIRevSpot)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/AIRevSpot/status/2013672562174439447)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6920)**
+
+---
+
+### No. 47: ภาพขนาดย่อของ YouTube - ภาพคอมโพสิตสร้างสรรค์สำหรับโปรโมชันปุ่ม 'ติดตาม'
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์ JSON ที่ซับซ้อนซึ่งออกแบบมาสำหรับการแก้ไขภาพคอมโพสิตเชิงสร้างสรรค์ โดยซ้อนทับตัวละคร (จากภาพอ้างอิง) ลงบนภาพพื้นหลัง (ภาพหน้าจอของหน้าโปรไฟล์) ตัวละครอยู่ในท่ากำลังนอนและชี้นิ้วไปที่มุมขวาบนอย่างกระตือรือร้น เลียนแบบการกดปุ่ม 'ติดตาม' หรือ 'สมัครสมาชิก' สำหรับการโปรโมตบนโซเชียลมีเดีย
+
+#### 📝 คำสั่ง
+
+```
+{
+  "edit_type": "creative_composite_layering",
+  "source": {
+    "_hint": "ตรรกะพื้นฐาน: ตัวละคร (อ้างอิง 1) ซ้อนทับอยู่ด้านบนของภาพพื้นหลัง (อ้างอิง 2)",
+    "mode": "EDIT",
+    "reference_images": {
+      "first": "foreground_character_person",
+      "second": "background_scenery_or_pattern"
+    },
+    "preserve_from_first": {
+      "same_person_or_group": true,
+      "same_faces": true,
+      "same_hairstyles": true,
+      "same_outfits": true
+    }
+  },
+  "identity": {
+    "keep_identity_consistent": true,
+    "expression": "bright_engaging_smile_at_camera"
+  },
+  "camera_effect": {
+    "_hint": "สไตล์เซลฟี่มุมสูง สร้างความรู้สึกของความลึกระหว่างมือและใบหน้า",
+    "perspective": "high_angle_shot_looking_down",
+    "style": "social_media_call_to_action",
+    "depth_of_field": "focus_on_face_and_pointing_finger",
+    "framing": "character_centered_with_space_at_top_right"
+  },
+  "pose": {
+    "_hint": "การกระทำหลัก: นอนลงแต่ชี้ไปที่บริเวณปุ่ม 'ติดตาม' (มุมขวาบน)",
+    "pose_style": "lying_down_or_reclining_on_back",
+    "face_direction": "looking_directly_up_into_lens",
+    "hand_gestures": {
+      "right_hand_action": "pointing_index_finger",
+      "target_direction": "upper_right_corner_45_degrees",
+      "purpose": "mimicking_pressing_subscribe_button",
+      "arm_position": "extended_towards_camera_top_right"
+    },
+    "body_language": "inviting_and_energetic",
+    "style_tags": [
+      "kpop_idol_fan_service",
+      "influencer_promo_style",
+      "dynamic_perspective"
+    ]
+  },
+  "background_integration": {
+    "_hint": "ภาพอ้างอิงที่สองคือพื้นหลัง/พื้น",
+    "method": "full_background_replacement",
+    "target_area": "entire_canvas_behind_character",
+    "content_source": "reference_image_second",
+    "perspective_match": "flat_lay_style",
+    "rules": {
+      "character_must_be_top_layer": true,
+      "leave_space_in_upper_right_for_ui": true
+    }
+  },
+  "composition": {
+    "_hint": "ตรวจสอบให้แน่ใจว่านิ้วที่ชี้ดึงดูดสายตาผู้ชมไปยังมุมขวาบน",
+    "visual_flow": "diagonal_line_from_face_to_top_right_corner",
+    "focal_points": [
+      "character_eyes",
+      "pointing_finger_tip"
+    ],
+    "negative_space": "clear_area_at_top_right_45_degrees"
+  },
+  "constraints": {
+    "no_holding_phone_device": true
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977261492_193wj8_G_HfcB-XQAEKxgx.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพคอมโพสิตสร้างสรรค์สำหรับโปรโมชันปุ่ม 'ติดตาม' - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [BeautyVerse](https://x.com/BeautyVerse_Lab)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/BeautyVerse_Lab/status/2013636266408227169)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6873)**
+
+---
+
+### No. 48: ภาพขนาดย่อของ YouTube - Multi-Concept AI Evolution Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A complex, multi-part JSON prompt designed to generate three distinct images: a mythic 'ImagineArt Goddess' in cosmic armor, a futuristic 'ChatGPT Orb Library,' and 'Dual Cyborg Knowledge Entities' in space, showcasing different AI art concepts.
+
+#### 📝 คำสั่ง
+
+```
+[
+  {
+    "title": "ImagineArt Goddess",
+    "subject": "Divine celestial female figure",
+    "appearance": {
+      "gender": "female",
+      "skin": "pale",
+      "hair": "long black, flowing",
+      "face": "calm expression, eyes closed",
+      "body": "slender, elegant posture"
+    },
+    "clothing": {
+      "style": "ornate royal robes",
+      "color": ["black", "gold"],
+      "details": "elaborate gold armor-like patterns on chest, shoulders, and waist"
+    },
+    "accessories": {
+      "headpiece": "large golden ornate crown with rays",
+      "bracelets": "gold arm cuffs",
+      "hand_effects": "glowing cosmic energy, colorful light streaks"
+    },
+    "environment": {
+      "type": "cosmic galaxy backdrop",
+      "elements": [
+        "nebula clouds",
+        "stars",
+        "colorful cosmic dust",
+        "electric lightning-like streaks"
+      ],
+      "color_palette": ["purple", "blue", "pink", "green", "gold"]
+    },
+    "foreground": {
+      "text": "{argument name="text overlay 1" default="ImagineArt"}",
+      "style": "ornate golden script typography",
+      "subtitle": "ImagineArt — Dreamline Generative Muse"
+    },
+    "mood": "mythic, divine, majestic, surreal",
+    "lighting": "dramatic glowing lighting",
+    "camera": {
+      "framing": "full body, centered",
+      "angle": "straight on"
+    }
+  },
+  {
+    "title": "ChatGPT Orb Library",
+    "subject": "Glowing AI orb in futuristic library",
+    "objects": {
+      "main": "large floating white orb",
+      "floating_docs": "papers and data sheets with code and text"
+    },
+    "text": {
+      "main_label": "{argument name="text overlay 2" default="ChatGPT"}",
+      "style": "bright neon teal glow"
+    },
+    "environment": {
+      "location": "circular modern library",
+      "surroundings": "bookshelves, open books, papers suspended in mid-air"
+    },
+    "color_palette": ["white", "light teal", "mint", "gray"],
+    "lighting": "soft ambient, glowing highlights",
+    "mood": "clean, futuristic, intelligent, serene",
+    "camera": {
+      "framing": "medium-wide",
+      "angle": "slightly low angle"
+    },
+    "style": "futuristic, minimal, high-tech"
+  },
+  {
+    "title": "Dual Cyborg Knowledge Entities",
+    "subjects": [
+      {
+        "type": "futuristic cyborg",
+        "color_scheme": "blue",
+        "pose": "standing back to back"
+      },
+      {
+        "type": "futuristic cyborg",
+        "color_scheme": "gold",
+        "pose": "standing back to back"
+      }
+    ],
+    "appearance": {
+      "build": "humanoid, detailed cybernetic body structure",
+      "material": "metallic with glowing circuits"
+    },
+    "environment": {
+      "background": "outer space with stars and warm clouds",
+      "floating_elements": "holographic data cards with symbols and equations"
+    }
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977324076_oollg1_G_FcDtDWUAAD7eW.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - Multi-Concept AI Evolution Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977324188_31x5lh_G_FcDuBXIAAOKmI.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - Multi-Concept AI Evolution Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977325448_xrsim6_G_FcDr9W8AAOGna.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - Multi-Concept AI Evolution Prompt - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977326003_xky5il_G_FcDvoXwAAoZo4.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - Multi-Concept AI Evolution Prompt - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [𝘬𝘦𝘭𝘭𝘺](https://x.com/kelly00056)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/kelly00056/status/2013491756936110542)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6968)**
+
+---
+
+### No. 49: ภาพขนาดย่อของ YouTube - พรอมต์คอมโพสิตโปรโมตโซเชียลมีเดีย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2219,7 +4098,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890722190_d6cx29_G_Fa-sGXwAASQrG.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์คอมโพสิตโปรโมตโซเชียลมีเดีย - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768977358147_ec6zxg_G_Fa-sGXwAASQrG.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - พรอมต์คอมโพสิตโปรโมตโซเชียลมีเดีย - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2233,1817 +4112,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: โพสต์บนโซเชียลมีเดีย - พรอมต์สร้างภาพเสมือนจริงระดับ Ultra-Photorealistic ของ Dark Influencer
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ในรูปแบบ JSON ที่มีรายละเอียดสูงสำหรับสร้างภาพที่สมจริงเป็นพิเศษของตัวแบบหญิงที่กำลังถ่ายเซลฟี่หน้ากระจกในห้องแต่งตัวของเพนต์เฮาส์หรู โดยเน้นความสมจริงแบบอินฟลูเอนเซอร์ในที่มืด แสงน้อย และผิวสัมผัสที่เป็นธรรมชาติ
-
-#### 📝 คำสั่ง
-
-```
-{
-  "meta": {
-    "aspect_ratio": "9:16",
-    "quality": "ultra_photorealistic",
-    "resolution": "8k",
-    "camera": "iPhone 15 Pro",
-    "lens": "26mm",
-    "style": "dark influencer realism, low light iphone look, natural skin texture, subtle grain, imperfect handheld framing"
-  },
-  "scene": {
-    "location": "penthouse luxury dressing room",
-    "environment": [
-      "floor-to-ceiling mirror panels",
-      "black glossy wardrobe doors",
-      "warm beige velvet chair",
-      "open jewelry tray with scattered items",
-      "dim city skyline visible through glass"
-    ],
-    "time": "after midnight",
-    "atmosphere": "private, expensive, post-party heat, dangerously intimate"
-  },
-  "lighting": {
-    "type": "low ambient + warm accent",
-    "sources": [
-      "warm dim lamp behind subject",
-      "tiny LED strips inside wardrobe shelves",
-      "faint city glow from window"
-    ],
-    "direction": "back + side rim light shaping hips, waist and chest",
-    "effect": "deep shadows, warm highlights on curves, cinematic darkness, subtle iphone noise"
-  },
-  "subject": {
-    "gender": "{argument name=\"gender\" default=\"female\"}",
-    "age_vibe": "young adult",
-    "ethnicity": "eastern european blonde",
-    "body": {
-      "type": "slim hourglass",
-      "chest": "very full and heavy presence",
-      "waist": "tiny",
-      "hips": "round and lifted",
-      "legs": "long, smooth, elegant"
-    },
-    "skin": {
-      "tone": "porcelain with warm low-light glow",
-      "texture": "real pores, natural sheen, not airbrushed"
-    },
-    "hair": {
-      "color": "platinum blonde",
-      "style": "long loose waves",
-      "details": "glossy highlights catching warm lamp light"
-    },
-    "face": {
-      "structure": "very pretty, doll-like",
-      "expression": "cold calm confidence",
-      "eyes": "light blue, half-lidded",
-      "mouth": "full lips slightly parted",
-      "makeup": "soft glam, heavy lashes, subtle contour, glossy lips"
-    }
-  },
-  "pose": {
-    "overall": "mirror selfie, standing 3/4 angle, deep arch",
-    "lower_body": {
-      "legs": "one leg straight, other knee softly bent",
-      "stance": "stable and intentional"
-    },
-    "hips": {
-      "position": "pushed back and slightly tilted",
-      "effect": "hips dominate frame with shadow-silhouette"
-    },
-    "torso": {
-      "arch": "deep lower-back arch",
-      "chest": "forward naturally",
-      "posture": "quiet dominance, monetized confidence"
-    },
-    "arms": {
-      "one_arm": "hand lightly touching mirror edge",
-      "other_arm": "holding phone low near hip"
-    },
-    "head": {
-      "tilt": "slight tilt",
-      "gaze": "looking at phone screen through mirror, unbothered"
-    }
-  },
-  "outfit": {
-    "clothing": {
-      "top": {
-        "type": "ultra-thin black stretch crop top",
-        "fit": "tight, braless, slight transparency under warm light",
-        "details": "fabric tension and subtle contour visible, tasteful but obvious"
-      },
-      "bott": "..."
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890742772_2kidkw_G-fbe_DWIAEJy3e.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สร้างภาพเสมือนจริงระดับ Ultra-Photorealistic ของ Dark Influencer - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [babydoll](https://x.com/bananababydoll)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/bananababydoll/status/2013488410506179036)
-- **เผยแพร่เมื่อ:** 20 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6843)**
-
----
-
-### No. 23: โพสต์บนโซเชียลมีเดีย - พรอมต์ตารางทรงผมรับปีใหม่ (ผู้หญิง)
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์สำหรับ Nano Banana Pro ที่ออกแบบมาเพื่อสร้างภาพคอลลาจขนาด 4x3 ของผู้หญิงคนเดียวกัน โดยมีทรงผมที่หลากหลาย (ผมตรงยาว, ผมหางม้าสูง, ผมมวยยุ่ง, ผมสั้นปิกซี่ ฯลฯ) โดยเน้นความสอดคล้องของลักษณะใบหน้าอย่างเคร่งครัด, เสื้อผ้า/การแต่งหน้าที่เป็นกลาง, แสงสตูดิโอที่นุ่มนวล และผิวที่ดูสมจริงระดับภาพถ่าย เพื่อสร้างชุดภาพบุคคลระดับมืออาชีพสำหรับเป็นแรงบันดาลใจในการทำผม
-
-#### 📝 คำสั่ง
-
-```
-นี่คือภาพคอลลาจคุณภาพสูงที่แสดงบุคคลคนเดียวกันที่มีลักษณะใบหน้าและการแสดงออกที่เหมือนกันทุกประการ โดยจัดแสดงในหลายเฟรม แต่ละเฟรมมีทรงผมที่แตกต่างกัน แต่ละเฟรมแสดงทรงผมที่เป็นเอกลักษณ์ เช่น {argument name="Hairstyle List" default="ผมยาวตรง, ผมหางม้าสูง, ผมมวยยุ่ง, ผมซอยสั้น, ผมเปียคาด, ผมดัดลอนอ่อน, ผมบ๊อบสั้นหน้าม้า, ผมมวยต่ำ, ผมเปียข้าง และผมดัดลอนหลวม"}. ภาพถ่ายทั้งหมดใช้เสื้อผ้าและเครื่องสำอางที่เป็นกลาง แสงสตูดิโอที่นุ่มนวล พื้นหลังเบลอโทนอุ่น ผิวสัมผัสที่สมจริง ความสมมาตรของใบหน้าที่สม่ำเสมอ รายละเอียดที่ชัดเจน สไตล์ความงามแบบบรรณาธิการ การจัดวางแบบตาราง 4x3 และเป็นภาพถ่ายบุคคลระดับมืออาชีพ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890721130_1ebzv7_G_FVPjNW0AAQGr2.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์ตารางทรงผมรับปีใหม่ (ผู้หญิง) - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Michelle](https://x.com/Michell81147285)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Michell81147285/status/2013485190346350696)
-- **เผยแพร่เมื่อ:** 20 มกราคม 2569
-- **ภาษา:** zh
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6820)**
-
----
-
-### No. 24: โพสต์บนโซเชียลมีเดีย - พรอมต์ภาพบุคคลสไตล์วินเทจคาสิโนสุดหรู
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-นี่คือพรอมต์ Nano Banana แบบละเอียดสำหรับสร้างภาพบุคคลแนววินเทจและสง่างามของแบบที่นั่งอยู่บนเก้าอี้สตูลสูงในคาสิโน โดยระบุเครื่องแต่งกายของแบบ (ชุดเดรสสลิปมินิสีดำพร้อมสายรัดเพชรพลอย รองเท้าแตะแพลตฟอร์มหนา), สภาพแวดล้อม (พรมลาย Psychedelic, เก้าอี้บาร์บุผ้าสีแดง, ป้ายไฟเครื่องสล็อต) และการตั้งค่ากล้องทางเทคนิค (แฟลชตรงจากกล้อง, มุมต่ำมาก, การจำลองกล้องดิจิทัลคอมแพคยุค 2000) เพื่อให้ได้ภาพที่มีคอนทราสต์สูงและสุนทรียภาพแบบย้อนยุคของลาสเวกัส
-
-#### 📝 คำสั่ง
-
-```
-{
-  "image_generation_request": {
-    "meta_settings": {
-      "aspect_ratio": "9:16",
-      "model_version": "v6.0",
-      "stylize_value": 250,
-      "quality": "High"
-    },
-    "subject_definition": {
-      "identity_source": {
-        "method": "Image Reference",
-        "instruction": "คงลักษณะใบหน้าและทรงผมจากภาพอ้างอิงที่อัปโหลดไว้อย่างเคร่งครัด"
-      },
-      "body_language": {
-        "pose": "นั่งอยู่บนเก้าอี้สตูลสูง ลำตัวเอียง 30 องศาไปทางซ้าย ขาไขว้อย่างสง่างามที่หัวเข่าเพื่อยืดสรีระให้ดูสูงเพรียว",
-        "hands": "วางอย่างสบายๆ บนต้นขาด้านบน นิ้วมือผ่อนคลาย โชว์แหวน",
-        "gaze": "มองลงเล็กน้อยไปที่เลนส์กล้องหรือมองตรงไปที่แฟลช"
-      }
-    },
-    "fashion_and_styling": {
-      "garment_main": {
-        "item": "ชุดเดรสสลิปมินิสีดำ",
-        "fabric": "ผ้าซาตินหรือผ้าไหมผสมที่มีความเงางามสูง",
-        "fit": "รัดรูปแนบเนื้อ ทรงบอดี้คอน",
-        "details": [
-          "สายเดี่ยวเส้นเล็กประดับเพชรระยิบระยับ",
-          "คอเสื้อเว้าลึก",
-          "ชายกระโปรงสั้นเหนือเข่าเผยเรียวขา"
-        ]
-      },
-      "footwear": {
-        "item": "รองเท้าแตะแพลตฟอร์ม",
-        "style": "ส้นตึกหนา ได้รับแรงบันดาลใจจากยุค 1990s/Y2K",
-        "material": "หนังแก้วสีดำหรือผ้าซาติน",
-        "details": "สายรัดข้อเท้าหัวเข็มขัดสีเงิน, แบบเปิดนิ้วเท้า"
-      }
-    },
-    "jewelry": {
-      "ears": "ต่างหูห่วงเงินสเตอร์ลิงขนาดใหญ่",
-      "hands": "แหวนซ้อนกันหลายวงทำจากเงินละเอียดอ่อน"
-    },
-    "environmental_context": {
-      "location": "พื้นคาสิโนสไตล์วินเทจ",
-      "flooring": {
-        "type": "พรมลวดลาย",
-        "texture": "ไนลอนที่ผ่านการใช้งานมาแล้ว",
-        "design": "ลวดลายวนเวียนแบบไซคีเดลิกในโทนสีเขียวอมน้ำเงิน, ส้มไหม้, และน้ำเงินรอยัลบลู",
-        "vibe": "สุนทรียภาพแบบลาสเวกัสยุคเรโทร"
-      },
-      "furniture": {
-        "item": "เก้าอี้บาร์คาสิโน",
-        "material": "เบาะหนังเทียมสีแดงแบบบุปุ่ม",
-        "base": "ฐานโลหะสีบรอนซ์หรือทองแดงที่หมองคล้ำพร้อมที่พักเท้า"
-      },
-      "props_and_background": {
-        "primary_prop": "ตู้สล็อตแมชชีน",
-        "prop_details": "ป้ายไฟส่องสว่างอ่านว่า '{argument name=\"Slot Machine Marquee\" default=\"TRIPLE JACKPOT GEMS\"}', ปุ่มเรืองแสง, แสงสะท้อนจากหน้าจอกระจก",
-        "atmosphere": "ฉากหลังที่เต็มไปด้วยควัน ผู้คนพลุกพล่าน สลัวๆ พร้อมแสงโบเก้จากเครื่องจักรอื่นๆ"
-      }
-    },
-    "photography_technical": {
-      "camera_simulation": "กล้องดิจิทัลคอมแพคยุคต้นปี 2000 (เช่น Sony Cybershot หรือ Canon PowerShot)",
-      "lighting_style": {
-        "type": "แฟลชตรงจากกล้อง",
-        "characteristics": [
-          "เงาคมชัดอยู่ด้านหลังตัวแบบโดยตรง",
-          "คอนทราสต์สูง",
-          "แสงสะท้อนที่สว่างจ้าเกินไปบนผิวหนังและเนื้อผ้า",
-          "ขอบภาพมืด (Vignetted corners)"
-        ]
-      },
-      "composition": {
-        "angle": "มุมต่ำมาก (Worm's-eye view)",
-        "focus": "โฟกัสคมชัดที่ตัวแบบ, พื้นหลังเบลอเล็กน้อย",
-        "framing": "ภาพเต็มตัวเน้น"
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890722879_12446f_G_EOXDUXMAARheL.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์ภาพบุคคลสไตล์วินเทจคาสิโนสุดหรู - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Adam也叫吉米](https://x.com/Adam38363368936)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Adam38363368936/status/2013406753770119423)
-- **เผยแพร่เมื่อ:** 20 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6822)**
-
----
-
-### No. 25: โพสต์บนโซเชียลมีเดีย - ชุดเลานจ์แวร์เรโทรสุดอบอุ่นพร้อมขนเฟอร์เทียมฟูฟ่อง
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งสำหรับ Nano Banana Pro ที่เน้นการสร้างภาพ 'ชุดอยู่บ้านสุดยอด' ด้วยสุนทรียภาพแบบนิตยสารแฟชั่นที่ให้ความรู้สึกสบาย เทคนิคสำคัญคือการซ้อนคำว่า 'Shaggy faux fur' และ 'Long pile' เพื่อให้ได้ความฟูฟ่องสูงสุด ผสมผสานกับเฟอร์นิเจอร์ย้อนยุคเพื่อสร้างบรรยากาศที่มีสไตล์และสะดวกสบาย
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพ 'ชุดอยู่บ้านสุดหรู' ได้สำเร็จ หัวใจสำคัญคือการเลเยอร์ "{argument name="material1" default="Shaggy faux fur"}" และ "{argument name="material2" default="Long pile"}" เพื่อให้ได้เนื้อสัมผัสที่ฟูฟ่องนี้ เมื่อรวมกับเฟอร์นิเจอร์ย้อนยุค ก็จะสร้างบรรยากาศ Cozy ที่ชวนให้นึกถึงนิตยสารแฟชั่น
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890731238_orcxmo_G_ECNkPWoAAexds.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ชุดเลานจ์แวร์เรโทรสุดอบอุ่นพร้อมขนเฟอร์เทียมฟูฟ่อง - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890731224_365i9r_G_ECNkPWQAAKPLn.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ชุดเลานจ์แวร์เรโทรสุดอบอุ่นพร้อมขนเฟอร์เทียมฟูฟ่อง - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890731264_6a6xnv_G_ECNjraoAIhBrg.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ชุดเลานจ์แวร์เรโทรสุดอบอุ่นพร้อมขนเฟอร์เทียมฟูฟ่อง - Image 3">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [はると@AIクリエイター](https://x.com/ai_buty)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/ai_buty/status/2013392950676594917)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6832)**
-
----
-
-### No. 26: โพสต์บนโซเชียลมีเดีย - บทบรรณาธิการ: การถ่ายภาพบนมือถือบนเครื่องบินส่วนตัวของพนักงานต้อนรับบนเครื่องบิน
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-JSON พรอมต์ที่มีรายละเอียดสูงสำหรับสร้างภาพถ่ายมือถือที่สมจริงเป็นพิเศษ (สไตล์ iPhone 15 Pro Max) ของพนักงานต้อนรับบนเครื่องบินหุ่นอวบอิ่มบนลานจอดเครื่องบินถัดจากเครื่องบินเจ็ตส่วนตัว โดยระบุเครื่องแต่งกายของเธอ (กระโปรงทรงดินสอสีน้ำเงินเข้ม, เสื้อบิกินี่ลูกไม้เล็กน้อย), ท่าทางที่ดูมีชีวิตชีวา, แสงแดดยามบ่ายที่จัดจ้าน และความงามแบบโซเชียลมีเดียที่ดูเป็นธรรมชาติ
-
-#### 📝 คำสั่ง
-
-```
-[
-  {
-    "metadata": {
-      "title": "ภาพบรรณาธิการแอร์โฮสเตสบนเครื่องบินเจ็ตส่วนตัว",
-      "style": "ภาพถ่ายมือถือแบบสมจริงขั้นสูง",
-      "target_device": "iPhone 15 Pro Max"
-    },
-    "subject": {
-      "age": "ช่วงอายุ 30 กลางๆ",
-      "ethnicity": "คอเคเซียน/เมดิเตอร์เรเนียนผสม",
-      "hair": {
-        "style": "ผมลอนยาวแบบออมเบร",
-        "color": "โคนผมสีน้ำตาลเข้มไล่ระดับไปจนถึงปลายผมสีบลอนด์ทองที่ดูเหมือนถูกแดดเลีย",
-        "texture": "มีวอลลุ่มและนุ่มสลวย"
-      },
-      "physique": {
-        "body_type": "หุ่นนาฬิกาทรายที่ดูอวบอิ่มและฟิตเฟิร์ม",
-        "bust": "หน้าอกอวบอิ่มเป็นธรรมชาติ เห็นร่องอกชัดเจน",
-        "features": "สะโพกผายโค้งมน เอวคอด ผิวพรรณเปล่งปลั่ง"
-      },
-      "makeup": "แต่งหน้าแบบธรรมชาติบางเบา มาสคาร่าอ่อนๆ ลิปกลอสสีนู้ด ไฮไลท์ที่ให้ความโกลว์อย่างละเอียด",
-      "expression": "มั่นใจ มีเสน่ห์ ยิ้มเล็กน้อยอย่างขี้เล่น"
-    },
-    "pose": {
-      "description": "ท่าโพสแบบ 'สาวๆ' ที่ดูมีชีวิตชีวา",
-      "hand_placement": {
-        "right_hand": "วางบนเอวอย่างมั่นคงเพื่อเน้นส่วนโค้งของสะโพก",
-        "left_hand": "ยกขึ้นเหนือศีรษะอย่างสง่างาม นิ้วกางออกเล็กน้อย"
-      },
-      "posture": "ถ่ายน้ำหนักไปที่ขาข้างหนึ่ง หลังแอ่นเล็กน้อย"
-    },
-    "attire": {
-      "outerwear": "ชุดเครื่องแบบแอร์โฮสเตสสีน้ำเงินเข้มแบบมืออาชีพ เสื้อเบลเซอร์สั่งตัดคลุมไหล่หรืออาจไม่มี",
-      "top": "เสื้อเชิ้ตสีขาวสะอาดตาแบบมีกระดุม ปลดกระดุมด้านบนเพื่อเผยให้เห็นเนินอกเล็กน้อย",
-      "undergarment": "เห็นชุดชั้นในบิกินี่ลูกไม้สีดำมีลวดลายโผล่ออกมาเล็กน้อยจากช่องเปิดของเสื้อเชิ้ต",
-      "bottom": "กระโปรงทรงดินสอสีน้ำเงินเข้มเอวสูง รัดรูป",
-      "accessories": "ต่างหูห่วงทองขนาดเล็ก สร้อยคอทองคำเส้นเล็ก"
-    },
-    "environment": {
-      "location": "ลานจอดเครื่องบิน สนามบิน ข้างเครื่องบินเจ็ตส่วนตัวสุดหรู",
-      "jet_details": "ลำตัวเครื่องบินสีขาวเมทัลลิกเพรียวบาง ตกแต่งด้วยโครเมียม ประตูบันไดเครื่องบินกางออก",
-      "background": "ท้องฟ้าสีครามสดใส ไอระเหยจากความร้อนของรันเวย์ที่อยู่ไกลออกไป พื้นคอนกรีตที่อาบไล้ด้วยแสงแดด"
-    },
-    "photography": {
-      "camera_model": "iPhone 15 Pro, กล้องหลัก",
-      "focal_length": "เลนส์มุมกว้าง 24 มม.",
-      "lighting": "แสงแดดยามบ่ายที่จัดจ้าน เงาธรรมชาติ คอนทราสต์สูง แสงแฟลร์เล็กน้อย",
-      "technical_traits": "ระยะชัดลึกสูง รายละเอียดผิวคมชัด การประมวลผล HDR บนมือถือ ความละเอียด 4k สไตล์ภาพถ่ายโซเชียลมีเดียแบบเป็นธรรมชาติ",
-      "composition": "ภาพเต็มตัว มุมกล้องต่ำเล็กน้อยเพื่อเน้นความสูงและส่วนโค้งเว้า"
-    }
-  }
-]
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890658898_88efkj_G_D49X3W4AAqNyk.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - บทบรรณาธิการ: การถ่ายภาพบนมือถือบนเครื่องบินส่วนตัวของพนักงานต้อนรับบนเครื่องบิน - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890658913_ku55jm_G_D49XqWgAApZv8.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - บทบรรณาธิการ: การถ่ายภาพบนมือถือบนเครื่องบินส่วนตัวของพนักงานต้อนรับบนเครื่องบิน - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Maya](https://x.com/mayadelmare)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/mayadelmare/status/2013382894891212811)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6727)**
-
----
-
-### No. 27: โพสต์บนโซเชียลมีเดีย - ภาพพอร์เทรตบรรณาธิการในออฟฟิศที่ได้แรงบันดาลใจจาก Ana de Armas
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-JSON prompt ที่มีรายละเอียดสูงสำหรับสร้างภาพบุคคลระยะใกล้คุณภาพระดับปกนิตยสารที่สมจริงสุด ๆ ของผู้หญิงที่ได้รับแรงบันดาลใจจาก Ana de Armas โดยระบุชุดทูพีซสีแดงสด รูปร่างนักกีฬา ผิวเงางามพร้อมเหงื่อออกเล็กน้อย และพื้นหลังสำนักงานที่เบลออย่างนุ่มนวลพร้อมกองกระดาษ โดยใช้แสงไฟแบบสตูดิโอภาพยนตร์
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "image_generation_prompt",
-  "concept": {
-    "description": "ภาพถ่ายบุคคลระยะใกล้คุณภาพระดับปกนิตยสารที่สมจริงสุด ๆ ของผู้หญิงสวยที่มีลักษณะเฉพาะที่ได้รับแรงบันดาลใจจาก {argument name=\"celebrity name\" default=\"Ana de Armas\"}",
-    "intent": "ภาพถ่ายแฟชั่นแนวบรรณาธิการที่มีความสมจริงแบบภาพยนตร์",
-    "originality_note": "ตัวแบบเป็นคนหน้าเหมือนที่ได้รับแรงบันดาลใจจาก Ana de Armas ไม่ใช่ภาพจำลองที่เหมือนเป๊ะ"
-  },
-  "subject": {
-    "gender": "หญิง",
-    "age_range": "ช่วงอายุ 30 ต้น ๆ",
-    "ethnicity": "ละติน่า / ได้รับแรงบันดาลใจจากคิวบา-สเปน",
-    "facial_features": {
-      "structure": "ใบหน้ารูปไข่ที่อ่อนโยน, โหนกแก้มที่สง่างาม, กรามที่ละเอียดอ่อน",
-      "eyes": "ดวงตาโตทรงอัลมอนด์, สีน้ำตาลอบอุ่น, เปลือกตาที่ผ่อนคลาย",
-      "lips": "ริมฝีปากอวบอิ่มเป็นธรรมชาติที่เผยอเล็กน้อย",
-      "expression": "ดูเนือย ๆ, สงบ, เย้ายวนอย่างละเอียดอ่อน, มั่นใจอย่างผ่อนคลาย"
-    },
-    "body_visibility": {
-      "framing": "ภาพถ่ายบุคคลระยะใกล้ที่ขยายลงมาต่ำกว่าเอว",
-      "posture": "ตั้งตรงแต่ผ่อนคลาย, ท่าโพสแบบบรรณาธิการที่เป็นธรรมชาติ"
-    }
-  },
-  "body": {
-      "build": "รูปร่างนักกีฬาและเพรียวบาง",
-      "musculature": [
-        "กล้ามเนื้อหน้าท้องที่ชัดเจน",
-        "แขนที่กระชับ",
-        "ต้นขาที่เฟิร์ม"
-   },
-  "wardrobe": {
-    "outfit_type": "ชุดสองชิ้น",
-    "color": "สีแดงสดเข้ม",
-    "top": {
-      "style": "เข้ารูป, เรียบง่าย, ทันสมัย",
-      "fabric": "ผ้าเรียบเนียน, สะท้อนแสงเล็กน้อย"
-    },
-    "bottom": {
-      "style": "กระโปรงสั้น",
-      "fit": "เข้ารูป, ทรงทันสมัย",
-      "visibility": "มองเห็นได้ชัดเจนต่ำกว่าเอว"
-    }
-  },
-  "skin_and_texture": {
-    "skin_quality": "รายละเอียดสูง, มองเห็นรูขุมขนตามธรรมชาติ",
-    "finish": "มันวาว, เปล่งประกาย",
-    "effect": "เหงื่อหรือความมันเล็กน้อยบนลำตัวและหน้าอก, เพิ่มความสมจริง",
-    "tone": "โทนอุ่น, เปล่งปลั่งสุขภาพดี"
-  },
-  "hair_and_makeup": {
-    "hair": {
-      "style": "จัดแต่งทรงอย่างอ่อนโยน, ผมลอนคลาย",
-      "color": "สีน้ำตาลเข้ม",
-      "texture": "เงางามตามธรรมชาติพร้อมการเคลื่อนไหวเล็กน้อย"
-    },
-    "makeup": {
-      "style": "การแต่งหน้าแบบบรรณาธิการที่หรูหรา",
-      "details": "ผิวฉ่ำวาว, ดวงตาที่คมชัดอย่างอ่อนโยน, ริมฝีปากธรรมชาติพร้อมกลอสเล็กน้อย"
-    }
-  },
-  "background": {
-    "environment": "ฉากภายในอาคาร",
-    "primary_elements": [
-      "พื้นผิวโต๊ะทำงานหรือโต๊ะ",
-      "กองกระดาษ"
-    ],
-    "paper_details": {
-      "brightness": "สีขาวสว่างบางส่วน",
-      "arrangement": "จัดวางแบบไม่เป็นระเบียบเล็กน้อย, กองซ้อนกัน",
-      "focus": "เบลอเล็กน้อยเพื่อคงความโดดเด่นของตัวแบบ"
-    },
-    "depth_of_field": "ชัดตื้น, โบเก้แบบภาพยนตร์"
-  },
-  "lighting": {
-    "style": "แสงสตูดิโอแบบภาพยนตร์",
-    "key_light": "แสงนุ่มนวลแต่มีทิศทาง, เน้นโครงสร้างใบหน้า",
-    "fill_light": "แสงเติมที่นุ่มนวลเพื่อรักษารายละเอียดผิว",
-    "highlights": "เน้นบริเวณผิวที่มันวาว",
-    "shadows": "เงาที่นุ่มนวล, ควบคุมได้, คอนทราสต์แบบนิตยสาร"
-  },
-  "camera": {
-    "shot_type": "ภาพถ่ายบุคคลระยะใกล้",
-    "lens": "เลนส์ไพรม์ 85 มม.",
-    "aperture": "f/1.8",
-    "focus": "คมชัดที่ดวงตา",
-    "sens"
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890657609_tc4s5n_G_DmfveWsAAMRrU.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์เทรตบรรณาธิการในออฟฟิศที่ได้แรงบันดาลใจจาก Ana de Armas - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890657539_vhs88q_G_Dmf3UW8AEb1yc.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์เทรตบรรณาธิการในออฟฟิศที่ได้แรงบันดาลใจจาก Ana de Armas - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890657668_k3r9rb_G_DmfxnXoAAlUIp.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์เทรตบรรณาธิการในออฟฟิศที่ได้แรงบันดาลใจจาก Ana de Armas - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890658519_89hgql_G_Dmf7EXUAAH--v.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์เทรตบรรณาธิการในออฟฟิศที่ได้แรงบันดาลใจจาก Ana de Armas - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [KeorUnreal](https://x.com/KeorUnreal)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/KeorUnreal/status/2013362480471314461)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6726)**
-
----
-
-### No. 28: โพสต์บนโซเชียลมีเดีย - พรอมต์การถ่ายภาพเซลฟี่หน้ากระจกด้วย iPhone สำหรับการเปลี่ยนตัวละคร
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ในรูปแบบ JSON ที่มีรายละเอียดสูง ซึ่งออกแบบมาเพื่อสร้างภาพเซลฟี่ในกระจกด้วย iPhone ที่สมจริงเป็นพิเศษ โดยระบุพารามิเตอร์ทางเทคนิคที่ซับซ้อน เช่น ความละเอียด 8K, การประมวลผล Apple Smart HDR และคุณลักษณะของตัวแบบที่มีรายละเอียด (ท่าทาง, เสื้อผ้า, พื้นผิว) พร้อมทั้งกำหนดให้เปลี่ยนตัวแบบเริ่มต้นด้วยตัวละครอ้างอิงที่ให้มาอย่างชัดเจน ทำให้เหมาะสำหรับการสร้างภาพที่ล็อกอัตลักษณ์
-
-#### 📝 คำสั่ง
-
-```
-{
-  "prompt_type": "iphone_mirror_selfie_photography",
-  "capture_device": {
-    "device": "iPhone Pro",
-    "camera_mode": "Mirror Selfie - Portrait",
-    "lens_equivalent": "เลนส์ไวด์ด้านหลังของ iPhone",
-    "processing": "Apple Smart HDR + Deep Fusion",
-    "look": "เป็นธรรมชาติ, สะอาดตา, ภาพสะท้อนในกระจกที่สมจริง"
-  },
-  "quality": {
-    "resolution": "8K",
-    "sharpness": "ความคมชัดสูงอย่างเป็นธรรมชาติ",
-    "detail_level": "รายละเอียดเล็กๆ น้อยๆ ที่คมชัดมาก",
-    "texture": "เนื้อผ้าจริง, ผิวจริง",
-    "noise": "สัญญาณรบกวนจากเซ็นเซอร์ iPhone ที่ละเอียดอ่อนมาก",
-    "dynamic_range": "แสงสว่างและเงาที่สมดุล"
-  },
-  "subject": {
-    "type": "ตัวละครหญิง",
-    "identity": "{argument name=\"reference character\" default=\"REFERENCE_CHARACTER\"}",
-    "replacement_instruction": "แทนที่ผู้หญิงคนเดิมด้วยตัวละครอ้างอิงที่ให้มา โดยยังคงท่าทาง, สัดส่วนร่างกาย, แสง, การสะท้อน และความสมจริงไว้",
-    "age": "ผู้ใหญ่",
-    "body": {
-      "build": "รูปร่างดี, มีความเป็นผู้หญิง, ส่วนโค้งเว้าที่เป็นธรรมชาติ",
-      "proportions": "กายวิภาคของมนุษย์ที่สมจริง",
-      "skin": "ผิวที่เป็นธรรมชาติ, รูขุมขนที่มองเห็นได้, ไม่มีการปรับผิวให้เรียบเนียน"
-    },
-    "expression": {
-      "emotion": "สงบ, มั่นใจ, ผ่อนคลาย",
-      "face": "สีหน้าเรียบเฉยที่อ่อนโยน",
-      "gaze": "มองหน้าจอโทรศัพท์ผ่านกระจก"
-    },
-    "pose": {
-      "position": "นั่งที่ขอบเตียง",
-      "legs": "ชิดกัน, เท้าแตะพื้น",
-      "arms": "มือข้างหนึ่งถือโทรศัพท์, อีกข้างวางอยู่บนเตียง",
-      "posture": "ตัวตรงแต่ผ่อนคลาย"
-    },
-    "hair": {
-      "style": "ยาว, เป็นลอนอ่อนๆ",
-      "texture": "มีวอลลุ่มตามธรรมชาติ, มองเห็นเส้นผมแต่ละเส้น"
-    }
-  },
-  "clothing": {
-    "outfit": "ชุดบอดี้สูทวันพีซรัดรูป",
-    "design": "{argument name=\"bodysuit design\" default=\"black base with red spider-web pattern\"}",
-    "fit": "เข้ารูป, สไตล์นักกีฬา",
-    "fabric": {
-      "material": "ผ้าใยสังเคราะห์ยืดหยุ่น",
-      "texture": "เรียบเนียนพร้อมความเงางามเล็กน้อย",
-      "behavior": "แนบกระชับกับร่างกายอย่างเป็นธรรมชาติ"
-    }
-  },
-  "environment": {
-    "location": "ห้องนอนสไตล์โมเดิร์นเรียบง่าย",
-    "mirror": "กระจกบานยาวกรอบไม้",
-    "bed": {
-      "style": "โครงเตียงไม้เรียบง่าย",
-      "bedding": "ผ้านวมลายเรียบๆ"
-    },
-    "floor": "พื้นไม้สีอ่อน",
-    "decor": "มินิมอล, สะอาดตา, การตกแต่งภายในโทนอบอุ่น",
-    "atmosphere": "เงียบสงบ, อบอุ่น, พื้นที่ส่วนตัวภายในอาคาร"
-  },
-  "lighting": {
-    "primary_light": "แสงสว่างภายในอาคารโทนอบอุ่น",
-    "secondary_light": "แสงเพดานหรือผนังที่นุ่มนวล",
-    "style": "iPhone indoor Smart HDR",
-    "shadows": "เงาที่นุ่มนวลและเป็นธรรมชาติ",
-    "white_balance": "โทนสีภายในอาคารที่เป็นกลางและอบอุ่น"
-  },
-  "camera": {
-    "angle": "มุมกระจกตรง",
-    "distance": "มองเห็นทั้งตัวในกระจก",
-    "framing": "เซลฟี่กระจกเต็มตัว",
-    "depth_of_field": "ความชัดลึกที่ตื้นตามธรรมชาติจากการประมวลผลแบบ Portrait",
-    "focus": "โฟกัสคมชัดที่ภาพสะท้อนของตัวแบบ"
-  },
-  "style": {
-    "genre": "เซลฟี่กระจก iPhone ที่สมจริง",
-    "aesthetic": "สะอาดตา, ทันสมัย, สมจริงแบบโซเชียลมีเดีย",
-    "color_science": "Apple natura"
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890684295_adr050_G_Dlz8qX0AECzSk.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์การถ่ายภาพเซลฟี่หน้ากระจกด้วย iPhone สำหรับการเปลี่ยนตัวละคร - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Clara](https://x.com/veclaraa)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/veclaraa/status/2013362053948268625)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6765)**
-
----
-
-### No. 29: โพสต์บนโซเชียลมีเดีย - พรอมต์ภาพบุคคลไซเบอร์พังก์สุดเย้ายวน
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ที่ซับซ้อนและละเอียดสำหรับการสร้างภาพบุคคลไซเบอร์พังก์ความงามแบบแฟชั่นชั้นสูงที่เย้ายวนใจ โดยเน้นแสงนีออนที่เข้มข้น (สีชมพูอมม่วงและสีน้ำเงินไฟฟ้า), เอฟเฟกต์ปริมาตร (ลำแสงส่อง, แสงแฟลร์), คอนทราสต์สูง และรายละเอียดทางเทคนิคเฉพาะ (Sony A1, 85mm f/1.4, ฟิลเตอร์ปริซึม, ความคลาดเคลื่อนสี) พรอมต์นี้ยังรวมถึงรายการพรอมต์เชิงลบที่ครอบคลุมและกำหนดให้ใช้ใบหน้าอ้างอิง
-
-#### 📝 คำสั่ง
-
-```
-"ใช้ใบหน้าจากภาพอ้างอิงตามเดิม"
-  "main_prompt": "ภาพบุคคลไซเบอร์พังก์สุดเย้ายวนภายใต้แสงนีออนจัดจ้าน หญิงสาววัย 20 ต้นๆ ผิวขาวผ่องราวเครื่องเคลือบพร้อมประกายเรืองรองอย่างเป็นธรรมชาติ ผมยาวหยักศกสีน้ำตาลแดงเข้ม/น้ำตาลอมแดงสยายลงบนไหล่เปลือยเปล่า ดวงตาปิดพริ้มด้วยความเคลิบเคลิ้มราวฝัน ขนตายาวหนา ริมฝีปากอวบอิ่มสีนู้ดชมพูระเรื่อ แต่งหน้าอ่อนโยนด้วยสโมกกี้อายบางเบาและโหนกแก้มที่คมชัด เปลือยท่อนบนเผยไหล่และแผ่นหลังส่วนบน ผิวอาบไล้ด้วยแสงนีออนสี {argument name=\"neon color 1\" default=\"magenta-pink\"} สดใส และ {argument name=\"neon color 2\" default=\"electric blue\"} เรืองรอง แสงริมไลท์สีชมพูร้อนแรงเน้นโครงผม คอ และกระดูกไหปลาร้า แสงส่องทะลุเป็นลำแสงและแสงแฟลร์เลนส์ในสเปกตรัมสีชมพูม่วงตัดผ่านอากาศที่เต็มไปด้วยหมอกเงา สีน้ำเงินม่วงเข้มตัดกับไฮไลท์นีออนสว่างสดใส พื้นหลังเป็นคลับนีออนแห่งอนาคตหรือสตูดิโอที่มีหลอดไฟสีชมพูและน้ำเงินเรืองแสง การบิดเบือนสีอย่างรุนแรงที่ขอบสร้างขอบรุ้งพริสมาติก เอฟเฟกต์ดิจิทัลกลิตช์และบลูมบางเบา ภาพถ่ายสมจริงแต่มีสไตล์จัดจ้าน รายละเอียดผิวที่คมชัดเป็นพิเศษพร้อมรูขุมขนที่สมจริง กระบางเบาและตำหนิตามธรรมชาติ เส้นผมแต่ละเส้นจับแสงสะท้อนนีออนและการกระเจิงใต้ผิวหนัง การปรับสีแบบภาพยนตร์ด้วยสีชมพูมาเจนต้าและสีน้ำเงินไฟฟ้าที่โดดเด่น ลุค HDR ที่มีความคอนทราสต์สูง ฟิล์มเกรนบางเบา สุนทรียภาพแบบไซเบอร์-นัวร์ที่เย้ายวนและชวนฝัน ถ่ายด้วย Sony A1 พร้อมเลนส์ 85mm f/1.4 ผ่านฟิลเตอร์ปริซึม ระยะชัดตื้นโฟกัสที่ใบหน้าและเส้นผมพร้อมโบเก้ครีมมี่บนพื้นหลังนีออน แฟชั่นชั้นสูงผสมผสานกับแฟนตาซีไซเบอร์พังก์แบบ Vaporwave บรรยากาศใกล้ชิดและลึกลับ",
-  "negative_prompt": "เบลอ, ความละเอียดต่ำ, มือผิดรูป, นิ้วเกิน, นิ้วติดกัน, กายวิภาคผิดเพี้ยน, ใบหน้าวาดไม่ดี, สัดส่วนผิดเพี้ยน, แขนขาเกิน, มือกลายพันธุ์, น่าเกลียด, ผิดรูป, เป็นกระเบื้อง, หลุดเฟรม, ภาพแตก, ลายเซ็น, ลายน้ำ, ข้อความ, ข้อผิดพลาด, ครอป, คุณภาพแย่ที่สุด, คุณภาพต่ำ, การ์ตูน, อะนิเมะ, ภาพ 3 มิติ, ผิวพลาสติก, เหมือนตุ๊กตา, ผิวแอร์บรัช, แสงนีออนจ้าเกินไป, แสงน้อยเกินไป, แสงแบน, เงาจัด, ผิวซีดไม่มีประกาย, แต่งหน้าจัดเกินไป, หน้าอินสตาแกรม, ปากเป็ด, ยิ้มมีความสุข, ผู้สูงอายุ, เด็ก, ผู้ชาย, ถ่ายภาพหมู่, แสงธรรมชาติ, พื้นหลังสีขาวสะอาด, ไม่มีแสงนีออน, ผิวด้าน, สีซีดจาง, ขาวดำ, เอฟเฟกต์ราคาถูก, ดูสังเคราะห์, มีเสื้อผ้าปกคลุมท่อนบน, ผมตรงยาว, ผมบลอนด์/แดงไม่เข้ากัน, ไม่มีโครมาติกแอเบอร์เรชัน, องค์ประกอบน่าเบื่อ",
-  "style_tags": [
-    "ไซเบอร์พังก์สมจริง",
-    "นีออนสีชมพูมาเจนต้าและสีน้ำเงินไฟฟ้าจัดจ้าน",
-    "ลำแสงและแสงแฟลร์เลนส์",
-    "โครมาติกแอเบอร์เรชันจัดเต็ม",
-    "สีหน้าเย้ายวนหลับตาพริ้ม",
-    "เน้นไหล่และแผ่นหลังเปลือยเปล่า",
-    "ความงามนีออนคอนทราสต์สูง",
-    "Vaporwave ผสมผสานแฟชั่นชั้นสูง",
-    "การปรับสี HDR แบบภาพยนตร์",
-    "ฟิล์มเกรนบางเบา",
-    "แฟนตาซีเย้ายวนลึกลับ"
-  ],
-  "technical": {
-    "aspect_ratio": "3:4 หรือ 4:5 (ภาพบุคคลนีออนแนวตั้ง / สไตล์วอลเปเปอร์)",
-    "lighting": "นีออนหลายแหล่ง: แสงคีย์สีชมพูมาเจนต้าเข้มจากด้านข้าง/ด้านหน้าสร้างแสงริมไลท์"
-  }
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890686395_uuc0f2_G_DhHfeXgAARq6x.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์ภาพบุคคลไซเบอร์พังก์สุดเย้ายวน - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Lex](https://x.com/katmanai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/katmanai/status/2013356556281164257)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6767)**
-
----
-
-### No. 30: โพสต์บนโซเชียลมีเดีย - ภาพแนวตั้งของทางเดินใต้ดินที่มืดมิด
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-คำสั่งสำหรับการสร้างภาพชายในลักษณะมิดช็อตแบบมีสไตล์ในทางเดินใต้ดินสลัว ๆ โดยใช้แสงคอนทราสต์สูงที่ลำแสงสีขาวคมกริบส่องทะลุฝุ่นที่ลอยฟุ้ง ทำให้เกิดเงาของเขาบางส่วน โดย AI จะต้องใช้ภาพอ้างอิงที่อัปโหลดมาสำหรับใบหน้าอย่างเคร่งครัด และคงไว้ซึ่งบรรยากาศแบบภาพยนตร์ ล้ำยุค และหม่นหมอง
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพชายคนหนึ่งในระยะกลางแบบมีสไตล์ในอัตราส่วน 4:5 ยืนอยู่ในทางเดินใต้ดินที่สลัว ช่องว่างแนวตั้งในผนังโลหะส่องลำแสงสีขาวคมกริบผ่านฝุ่นที่ลอยฟุ้ง ทำให้เกิดเงาของเขาบางส่วน ใช้ภาพอ้างอิงที่อัปโหลดสำหรับใบหน้า และห้ามเปลี่ยนแปลงลักษณะใบหน้าหรืออัตลักษณ์ใด ๆ เขาสวมเสื้อแจ็คเก็ตบอมเบอร์สีกราไฟต์เข้มที่มีพื้นผิวเมทัลลิกเล็กน้อย แสงคอนทราสต์สูง, เงาลึก, ความตึงเครียดแบบภาพยนตร์และอนาคต, บรรยากาศหม่นหมอง, วัสดุและพื้นผิวผิวที่สมจริง
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890667408_cbjb4a_G_DULo6WwAAgVm0.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพแนวตั้งของทางเดินใต้ดินที่มืดมิด - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Hatman 🎩](https://x.com/hatman)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/hatman/status/2013355785305366538)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6739)**
-
----
-
-### No. 31: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายบุคคลสไตล์บรรณาธิการคอนทราสต์สูงของ Charli D’Amelio
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ที่ออกแบบมาเพื่อแทนที่ตัวแบบด้วย Charli D'Amelio โดยยังคงท่าทางและการแสดงออกเฉพาะ (แยกเขี้ยว, ขี้เล่น, ถ่ายจากด้านหลังไหล่) โดยจะระบุรายละเอียดใบหน้า การแต่งหน้า ทรงผมของเธออย่างแม่นยำ และใช้แสงแฟลชด้านหน้าแบบจัดจ้านเพื่อให้ได้ลุคสตูดิโอแบบบรรณาธิการที่มีคอนทราสต์สูง
-
-#### 📝 คำสั่ง
-
-```
-แทนที่ตัวแบบด้วย {argument name="subject name" default="Charli D'Amelio"} คงการแสดงออกที่ดุดัน ขี้เล่น ด้วยการย่นจมูกและอ้าปากเล็กน้อย เผยให้เห็นฟัน ท่าโพสเป็นภาพมุมสูงจากด้านหลังไหล่ โดยที่ลำตัวของเธอหันออกจากกล้อง เผยให้เห็นแผ่นหลัง ขณะที่ศีรษะหันกลับมามองเลนส์ มือขวาของเธอยกขึ้นไปที่ไหล่ซ้าย นิ้วกางออกและเกร็งเล็กน้อย เผยให้เห็นแหวนและรอยสักที่มือ
-ลักษณะใบหน้าเฉพาะของ Charli D’Amelio ได้แก่ ดวงตาสีน้ำตาลกลมโต รูปทรงจมูกที่เป็นเอกลักษณ์ และผิวธรรมชาติที่มีกระเล็กน้อย ถูกรวมเข้ากับสไตล์การแต่งหน้าที่มีอยู่ ซึ่งมีอายไลเนอร์แบบวิงคมกริบและริมฝีปากสีธรรมชาติ ผมของเธอเป็นสีน้ำตาลเข้ม จัดแต่งทรงผมแบบครึ่งหัวขึ้น ครึ่งหัวลงที่ดูมีวอลลุ่มและมีคลื่นเล็กน้อย แสงเป็นแสงแฟลชตรงจากด้านหน้าแบบรุนแรง ซึ่งเป็นลักษณะเฉพาะของการถ่ายภาพสตูดิโอสำหรับนิตยสาร ทำให้เกิดเงาคมชัดบนผนังสีขาวนวลเรียบๆ และเน้นรูขุมขนและรายละเอียดเล็กๆ น้อยๆ บนผิว เธอสวมชุดกำมะหยี่สีเข้มระยิบระยับ หรือชุดผ้าลูกไม้ที่มีพื้นผิวแบบเดียวกัน
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890653667_4easqt_G_DgYFlW8AA6j3O.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายบุคคลสไตล์บรรณาธิการคอนทราสต์สูงของ Charli D’Amelio - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [QuestGlitch](https://x.com/AIRevSpot)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/AIRevSpot/status/2013355749733474497)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6717)**
-
----
-
-### No. 32: โพสต์บนโซเชียลมีเดีย - ฉากโรแมนติกคอมเมดี้ในโรงภาพยนตร์บนม้าหมุนพร้อม Identity Lock
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ JSON ที่ซับซ้อนและมีข้อจำกัดสูงสำหรับ Nano Banana Pro ซึ่งออกแบบมาเพื่อสร้างฉากภาพยนตร์ที่สมจริงเป็นพิเศษของคู่รักบนม้าหมุนในร่มยามค่ำคืน โดยกำหนดให้มีการล็อกตัวตนอย่างเข้มงวดตามภาพอ้างอิงที่อัปโหลดสองภาพ, การตั้งค่ากล้องเฉพาะ (35 มม., f/2.0), แสงทังสเตนโทนอุ่น และข้อจำกัดโดยละเอียดเกี่ยวกับท่าทางและสภาพแวดล้อมเพื่อให้ได้สุนทรียภาพแบบโรแมนติกคอมเมดี้
-
-#### 📝 คำสั่ง
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_cinematic_carousel_couple_close_scene",
-      "version": "v1.0_CAROUSEL_RIDE_ROMCOM_WARM_LIGHTS_POSE_LOCK",
-      "priority": "highest"
-    },
-    "references": {
-      "female_reference_image": {
-        "slot": 1,
-        "purpose": "FEMALE_IDENTITY_LOCK",
-        "strict_identity_lock": true,
-        "no_beautify": true
-      },
-      "male_reference_image": {
-        "slot": 2,
-        "purpose": "MALE_IDENTITY_LOCK",
-        "strict_identity_lock": true,
-        "no_beautify": true
-      },
-      "composition_reference_image": {
-        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
-        "purpose": "EXACT_COMPOSITION_LIGHTING_WARDROBE_ENV_LOCK",
-        "strict_lock": true,
-        "no_layout_drift": true,
-        "preserve_framing": true
-      }
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution": "ultra_high_res",
-      "render_style": "ultra_photoreal_cinematic_lifestyle",
-      "sharpness": "crisp_faces_natural_texture",
-      "film_grain": "subtle_analog",
-      "color_grade": "warm_carnival_golden"
-    },
-    "hard_constraints": [
-      "มีคนเพียง 2 คนเท่านั้น (ผู้หญิง 1 คน ผู้ชาย 1 คน)",
-      "ใบหน้าต้องตรงกับภาพอ้างอิงที่อัปโหลด โดยมีความคล้ายคลึงกันสูงสุด (ไม่มีการปรับเปลี่ยนรูปร่าง, ไม่มีข้อมูลระบุตัวตนผิดเพี้ยน)",
-      "เป็นภาพถ่ายสมจริงเท่านั้น: ผิวมีพื้นผิวธรรมชาติ, ไม่มีฟิลเตอร์เสริมความงาม, ไม่มีผิวเรียบเนียนแบบพลาสติก",
-      "ฉากม้าหมุน: มองเห็นเพดานม้าหมุนที่ตกแต่งอย่างหรูหรา + หลอดไฟวอร์มไลท์ + เสาม้าหมุน + ม้าเพ้นท์",
-      "ตรงกับตรรกะท่าโพสอ้างอิง: คู่รักอยู่บนม้าหมุน มองหน้ากันและยิ้ม",
-      "ไม่มีข้อความที่อ่านได้, ไม่มีโลโก้, ไม่มีลายน้ำ",
-      "กายวิภาคถูกต้อง: มือจับเสาอย่างเป็นธรรมชาติ, ท่าทางสมจริงขณะนั่งบนม้าหมุน"
-    ],
-    "camera": {
-      "style": "ภาพถ่ายไลฟ์สไตล์แบบภาพยนตร์",
-      "lens": "35mm",
-      "aperture": "f/2.0",
-      "focus": "คมชัดที่ใบหน้าทั้งสอง, ค่อยๆ เบลอไปที่พื้นหลัง",
-      "shutter_speed": "1/125",
-      "iso": 800,
-      "white_balance": "warm_tungsten_carnival"
-    },
-    "lighting": {
-      "type": "หลอดไฟม้าหมุน + แสงโดยรอบแบบอบอุ่น",
-      "contrast": "ปานกลาง",
-      "highlights": "แสงสะท้อนนุ่มนวลบนเส้นผมและผ้ายีนส์, ควบคุมบนผิวหนัง",
-      "shadows": "นุ่มนวล, ค่อยๆ จางลงอย่างเป็นธรรมชาติ"
-    },
-    "prompt": {
-      "scene_summary": "ฉากโรแมนติกคอมเมดี้แบบภาพยนตร์ที่สมจริงสุดๆ บนม้าหมุนในร่มยามค่ำคืน เพดานม้าหมุนที่ตกแต่งอย่างหรูหราเต็มกรอบด้านบนด้วยการปั้นแต่งแบบคลาสสิกและแถวของหลอดไฟเรืองแสงสีอบอุ่น ในฉากหน้า มองเห็นหัวม้าหมุนที่ทาสีและเสา พร้อมรายละเอียดวินเทจที่หรูหรา (ขอบสีทอง, ลวดลายอานม้าหลากสีสัน)\n\nมีคนเพียงสองคนเท่านั้น: ผู้ชายนั่งต่ำกว่าเล็กน้อยบนม้าหมุน จับเสาแนวตั้งด้วยมือทั้งสองข้างและเงยหน้ามองผู้หญิงด้วยรอยยิ้มอ่อนโยน ผู้หญิงนั่งบนม้าตัวข้างๆ เอนตัวเข้าหาเขาเล็กน้อย ยิ้มตอบอย่างอบอุ่น ใบหน้าของพวกเขา"
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890707867_4q2zcp_G_DcduGWQAAl3Hr.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ฉากโรแมนติกคอมเมดี้ในโรงภาพยนตร์บนม้าหมุนพร้อม Identity Lock - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Özge Döner](https://x.com/astronomerozge1)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/astronomerozge1/status/2013351484008620139)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6800)**
-
----
-
-### No. 33: โพสต์บนโซเชียลมีเดีย - ฉากจูบในลิฟต์ที่สมจริงราวกับภาพยนตร์
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-JSON พรอมต์ที่เฉพาะเจาะจงสูงสำหรับการสร้างภาพนิ่งภาพยนตร์ที่สมจริงเป็นพิเศษระดับโรงภาพยนตร์ของคู่รักที่กำลังจูบกันภายในลิฟต์ โดยมีฉากหลังเป็นประตูลิฟต์สีทองที่กำลังปิดบางส่วน พรอมต์นี้กำหนดให้มีการล็อกอัตลักษณ์อย่างเข้มงวด (ต้องใช้ภาพอ้างอิง), การจัดเฟรมแบบแคนดิดที่ให้ความรู้สึกเหมือนแอบมอง และแสงไฟทังสเตนโทนอุ่นเพื่อสร้างบรรยากาศโรงแรมหรู
-
-#### 📝 คำสั่ง
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_modern_romance",
-      "version": "v1.0_ELEVATOR_DOORS_KISS_CINEMATIC_EN",
-      "priority": "highest",
-      "language": "en"
-    },
-    "references": {
-      "reference_image_1": {
-        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
-        "purpose": "COMPOSITION_MOOD_ANCHOR",
-        "strict_lock": false,
-        "preserve_mood": true
-      },
-      "reference_image_female": {
-        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
-        "purpose": "FACE_IDENTITY_LOCK_FEMALE",
-        "strict_lock": true,
-        "face_similarity_priority": "MAX",
-        "no_identity_blending": true,
-        "no_beautify": true,
-        "no_age_shift": true,
-        "preserve_skin_texture": true,
-        "preserve_facial_proportions": true
-      },
-      "reference_image_male": {
-        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
-        "purpose": "FACE_IDENTITY_LOCK_MALE",
-        "strict_lock": true,
-        "face_similarity_priority": "MAX",
-        "no_identity_blending": true,
-        "no_beautify": true,
-        "no_age_shift": true,
-        "preserve_skin_texture": true,
-        "preserve_facial_proportions": true
-      }
-    },
-    "global_constraints": {
-      "rating": "PG-13",
-      "no_explicit_sexual_content": true,
-      "no_nudity": true,
-      "no_text": true,
-      "no_logos": true,
-      "no_watermark": true
-    },
-    "output_settings": {
-      "aspect_ratio": "9:16",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_cinematic_film_still",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle_35mm",
-      "color_grade": "warm_amber_luxury_hotel",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-    "global_rules": {
-      "camera_language": "85mm, long-shot through partially closing elevator doors, centered symmetry, voyeuristic candid framing, shallow depth of field",
-      "lighting_language": "warm tungsten practicals inside elevator, dim hallway outside, cinematic contrast without HDR",
-      "authenticity_markers": "no AI glow, no over-sharpening, realistic shadows, natural film halation"
-    },
-    "creative_prompt": {
-      "scene_summary": "ฉากภาพยนตร์ที่สมจริงเป็นพิเศษ มองจากโถงทางเดิน: คู่รักกำลังจูบกันในลิฟต์ขณะที่ประตูลิฟต์สีทองกำลังจะปิดลง เหลือช่องว่างแนวตั้งแคบๆ ที่ล้อมกรอบพวกเขาไว้ บรรยากาศให้ความรู้สึกเหมือนอาคารเก่าแก่หรูหราหรือโรงแรมที่มีผนังหินและลิฟต์ทองเหลืองคลาสสิก",
-      "subjects": {
-        "count": 2,
-        "description": "คู่รักผู้ใหญ่จริงจัง สง่างามและทันสมัย",
-        "expression": "เร่าร้อนแต่มีรสนิยม ใกล้ชิดและเปี่ยมสุข",
-        "skin_and_face": "ผิวจริง ไม่มีการรีทัช รูขุมขนธรรมชาติ"
-      },
-      "pose_and_micro_action": "ผู้ชายโน้มตัวลงจูบ; มือข้างหนึ่งโอบรอบเอวผู้หญิง"
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890674871_fl0e5p_G_DVyG6XQAAVcDg.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ฉากจูบในลิฟต์ที่สมจริงราวกับภาพยนตร์ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Özge Döner](https://x.com/astronomerozge1)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/astronomerozge1/status/2013344143116734757)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6752)**
-
----
-
-### No. 34: โพสต์บนโซเชียลมีเดีย - ภาพจูบในร้านหนังสือที่สมจริงราวกับภาพยนตร์ พร้อม Motion Blur
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งที่มีโครงสร้างสูงซึ่งออกแบบมาเพื่อสร้างภาพยนตร์นิ่งที่สมจริงเป็นพิเศษและดูเป็นธรรมชาติของคู่รักที่กำลังจูบกันอย่างใกล้ชิดในทางเดินร้านหนังสือที่อบอุ่น โดยเน้นย้ำถึงความไม่สมบูรณ์ตามธรรมชาติ แสงน้อยสีเหลืองอำพันที่อบอุ่น ระยะชัดตื้น และการเบลอจากการเคลื่อนไหวเล็กน้อยเพื่อจับภาพความฉับพลันของช่วงเวลา พร้อมทั้งบังคับใช้ข้อจำกัด PG-13 อย่างเคร่งครัด
-
-#### 📝 คำสั่ง
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_intimate_romance",
-      "version": "v1.0_COZY_BOOKSTORE_AISLE_KISS_MOTIONBLUR_EN",
-      "priority": "highest",
-      "language": "en"
-    },
-    "references": {
-      "reference_image_couple": {
-        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
-        "purpose": "POSE_MOOD_STYLE_ANCHOR",
-        "strict_lock": false,
-        "preserve_mood": true
-      }
-    },
-    "global_constraints": {
-      "rating": "PG-13",
-      "no_explicit_sexual_content": true,
-      "no_text": true,
-      "no_logos": true,
-      "no_watermark": true
-    },
-    "output_settings": {
-      "aspect_ratio": "3:4",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_cinematic_film_still",
-      "sharpness": "soft_focus_cinematic",
-      "film_grain": "subtle_35mm",
-      "color_grade": "warm_amber_lowlight",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-    "global_rules": {
-      "camera_language": "50mm, close mid-shot, handheld feel, shallow depth of field, foreground books blurred, slight motion blur like a candid moment",
-      "lighting_language": "warm tungsten practicals + soft bounce, cozy bookstore ambience, gentle falloff, no harsh flash",
-      "authenticity_markers": "natural imperfection, slight grain, realistic bokeh, no AI glow, no HDR"
-    },
-    "creative_prompt": {
-      "scene_summary": "ช่วงเวลาที่ดูเป็นธรรมชาติ ถ่ายแบบภาพยนตร์ที่สมจริงเป็นพิเศษ ของคู่รักที่กำลังจูบกันในทางเดินแคบๆ ของร้านหนังสือ/ห้องสมุด ชั้นหนังสือเรียงรายอยู่ด้านหลัง กองหนังสือที่อยู่ด้านหน้าสร้างมิติให้กับภาพ บรรยากาศดูเป็นส่วนตัว เป็นธรรมชาติ และอบอุ่น ด้วยสไตล์ภาพที่ดูนุ่มนวลเหมือนถ่ายด้วยมือและมี motion blur เล็กน้อย",
-      "subjects": {
-        "count": 2,
-        "description": "คู่รักจริง สัดส่วนธรรมชาติ ผิวสัมผัสสมจริง",
-        "expression": "ใกล้ชิดและเปี่ยมสุข ดื่มด่ำกับช่วงเวลา",
-        "skin_and_face": "ผิวสัมผัสจริง แต่งหน้าน้อยที่สุด ไม่มีการรีทัช"
-      },
-      "pose_and_micro_action": "ผู้ชายดึงผู้หญิงเข้ามาใกล้ด้วยการโอบเอว ผู้หญิงโอบแขนรอบคอของเขา ใบหน้าของพวกเขาถูกบดบังบางส่วนจากการจูบ ถูกจับภาพกลางการเคลื่อนไหวเพื่อสร้างความเบลอที่เป็นธรรมชาติ",
-      "wardrobe_and_style": {
-        "female": "ชุดเดรสเข้ารูปเรียบง่าย หรือเสื้อท่อนบนในโทนสี {argument name=\"female wardrobe color\" default=\"neutral tones\"} ผมนุ่มสลวยเป็นธรรมชาติ",
-        "male": "เสื้อเชิ้ตแขนยาวลำลอง หรือเสื้อถักไหมพรม โทนสีกลาง",
-        "no_logos": "ไม่มีโลโก้ที่มองเห็นได้"
-      },
-      "environment_details": {
-        "location": "ทางเดินร้านหนังสือเก่า/ห้องสมุดที่อบอุ่น",
-        "background": "ชั้นหนังสือสูงเต็มไปด้วยหนังสือ โทนสีไม้อบอุ่น",
-        "foreground": "หนังสือและสันหนังสือที่อยู่นอกโฟกัสใกล้เลนส์เพื่อสร้างมิติ",
-        "props": "หนังสือวางซ้อนกันบนรถเข็นเล็กๆ หรือขอบชั้นวาง"
-      },
-      "lighting": "แสงไฟสีเหลืองอำพันที่อบอุ่น เงาอ่อนๆ ไฮไลท์เบาๆ บนเส้นผมและโหนกแก้ม",
-      "composition": ""
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890673086_xe89r2_G_DTY-kW0AAX35W.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพจูบในร้านหนังสือที่สมจริงราวกับภาพยนตร์ พร้อม Motion Blur - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Özge Döner](https://x.com/astronomerozge1)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/astronomerozge1/status/2013341511480496169)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6748)**
-
----
-
-### No. 35: โพสต์บนโซเชียลมีเดีย - ภาพบุคคลสไตล์ไลฟ์สไตล์ของ Ana de Armas สำหรับบทความบรรณาธิการ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ JSON ที่มีโครงสร้างสูงสำหรับสร้างภาพบุคคลแนวไลฟ์สไตล์แบบบรรณาธิการที่สมจริงเป็นพิเศษของ Ana de Armas โดยระบุการตั้งค่ากล้อง (Sony A7 IV, เลนส์ 35 มม.), กฎการล็อกตัวตน, ท่าทาง, เสื้อผ้า (เสื้อสเวตเตอร์ถักนุ่ม) และสภาพแวดล้อมห้องใต้หลังคาที่ทันสมัยพร้อมแสงธรรมชาติจากหน้าต่าง
-
-#### 📝 คำสั่ง
-
-```
-{
-  "meta": {
-    "platform": "Nano Banana Pro",
-    "style": "ภาพไลฟ์สไตล์ที่สมจริงเป็นพิเศษ, สไตล์บรรณาธิการ",
-    "resolution": "ความละเอียดสูง",
-    "aspect_ratio": "3:4",
-    "camera": {
-      "body": "Sony A7 IV",
-      "lens": "FE 35mm f/1.4 GM",
-      "iso": 100,
-      "look": "ระยะชัดตื้นที่เป็นธรรมชาติ, การแยกพื้นหลังที่นุ่มนวล"
-    }
-  },
-
-  "identity_lock": {
-    "rule": "รักษารายละเอียดใบหน้า, สัดส่วนร่างกาย, สีผิว, สีผม, ลักษณะเส้นผม และรูปลักษณ์โดยรวมให้เหมือนกับภาพอ้างอิงทุกประการ",
-    "no_face_change": true,
-    "no_body_change": true,
-    "no_hair_change": true
-  },
-
-  "subject": {
-    "description": "ผู้หญิงวัยผู้ใหญ่ที่มีใบหน้าอ่อนหวานแบบผู้หญิง, สัดส่วนที่เป็นธรรมชาติ, มีความสงบและมั่นใจ",
-    "expression": "ผ่อนคลาย, อบอุ่น, มั่นใจอย่างละเอียดอ่อน",
-    "hair": "ทรงผมและสีผมที่เป็นธรรมชาติ คงไว้จากภาพอ้างอิง",
-    "skin": "ผิวที่มีพื้นผิวสมจริงพร้อมรูขุมขนที่มองเห็นได้, เปล่งประกายอย่างเป็นธรรมชาติและนุ่มนวล"
-  },
-
-  "pose": {
-    "position": "นั่งหรือคุกเข่าบนโซฟาหนัง",
-    "posture": "ท่าทางไลฟ์สไตล์ที่ผ่อนคลาย, ส่วนโค้งเว้าที่อ่อนโยน, การจัดวางร่างกายที่เป็นธรรมชาติ",
-    "hands": "วางอย่างนุ่มนวลบนตักหรือบนผ้าสเวตเตอร์",
-    "gaze": "มองไปที่กล้องหรือมองลงเล็กน้อยด้วยสีหน้าสงบ"
-  },
-
-  "wardrobe": {
-    "top": "เสื้อสเวตเตอร์ถักนุ่ม, เนื้อผ้าสบาย, โทนสีอ่อนกลางๆ",
-    "bottom": "ชุดชั้นในเรียบง่ายหรือกางเกงเลานจ์, สีกลางๆ",
-    "styling_rule": "มีรสนิยม, ไม่โจ่งแจ้ง, สมดุลแบบไลฟ์สไตล์บรรณาธิการ"
-  },
-
-  "environment": {
-    "location": "ห้องนั่งเล่นสไตล์ลอฟท์ที่ทันสมัย",
-    "elements": [
-      "โซฟาหนังสีน้ำตาล",
-      "ผนังอิฐที่มีพื้นผิวบางส่วนเผยให้เห็น",
-      "หมอนอิงนุ่มๆ ในโทนสีกลางและสีเขียวมะกอก",
-      "หน้าต่างบานใหญ่ที่มีแสงธรรมชาติส่องเข้ามา"
-    ],
-    "atmosphere": "สงบ, อบอุ่น, เป็นส่วนตัวแต่ประณีต"
-  },
-
-  "lighting": {
-    "type": "แสงธรรมชาติจากหน้าต่าง",
-    "direction": "แสงส่องจากด้านข้าง",
-    "quality": "ไฮไลท์นุ่มนวล, เงาอ่อนโยน, คอนทราสต์ที่สมจริง"
-  },
-
-  "photography_style": {
-    "genre": "ภาพบุคคลแฟชั่นไลฟ์สไตล์",
-    "focus": "คมชัดที่ตัวแบบ, พื้นหลังเบลออย่างนุ่มนวล",
-    "color_tone": "โทนสีกลางอบอุ่น, โทนสีเอิร์ธโทน"
-  },
-
-  "negative_prompt": [
-    "การเปลี่ยนแปลงใบหน้า",
-    "สีผมที่แตกต่างกัน",
-    "การบิดเบือนร่างกาย",
-    "ผิวที่เรียบเนียนเกินไป",
-    "การ์ตูน",
-    "อนิเมะ",
-    "CGI",
-    "แขนขาเกิน",
-    "กายวิภาคที่ไม่ถูกต้อง",
-    "แสงที่รุนแรง",
-    "ข้อความ",
-    "ลายน้ำ",
-    "โลโก้"
-  ]
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890653727_330jwc_G_DQuSHWEAA8XqO.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพบุคคลสไตล์ไลฟ์สไตล์ของ Ana de Armas สำหรับบทความบรรณาธิการ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890653715_u0zkl7_G_DQvhJXYAACqs1.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพบุคคลสไตล์ไลฟ์สไตล์ของ Ana de Armas สำหรับบทความบรรณาธิการ - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Noname Oasis](https://x.com/nonameoasis)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/nonameoasis/status/2013338570765820273)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6718)**
-
----
-
-### No. 36: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์การติดฉลากส่วนผสมผลิตภัณฑ์
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-ทวีตโปรโมตพร้อมต์ที่ออกแบบมาเพื่อ "แยกส่วนประกอบของผลิตภัณฑ์ใดๆ ให้เป็นส่วนผสมที่มีป้ายกำกับได้ในไม่กี่วินาที" ซึ่งบ่งบอกถึงประโยชน์ในการวิเคราะห์หรือแสดงภาพผลิตภัณฑ์ได้อย่างรวดเร็ว
-
-#### 📝 คำสั่ง
-
-```
-หนึ่งพร้อมต์เปลี่ยนผลิตภัณฑ์ให้เป็นส่วนผสมที่มีป้ายกำกับได้ในไม่กี่วินาที
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890736030_yp7pmn_G_AdxkqbYAAqwl-.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์การติดฉลากส่วนผสมผลิตภัณฑ์ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [René Remsik](https://x.com/aitrendz_xyz)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/aitrendz_xyz/status/2013141774274109763)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6838)**
-
----
-
-### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การถ่ายโอนสไตล์สำหรับอินโฟกราฟิกคำศัพท์ทางการแพทย์
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งที่ใช้กับ Nano Banana Pro เพื่อปรับใช้สไตล์ภาพที่แตกต่างกัน ไม่ว่าจะเป็นแอนิเมชันดินน้ำมัน, อินโฟกราฟิกแบบละเอียด และภาพประกอบเชิงจิตวิทยา กับคำศัพท์ทางการแพทย์ 'Aichmophobia' (โรคกลัวของมีคม) ซึ่งแสดงให้เห็นถึงความสามารถของเครื่องมือในการตีความองค์ประกอบและเค้าโครงข้อความจากภาพร่างคร่าวๆ
-
-#### 📝 คำสั่ง
-
-```
-Aichmophobia (โรคกลัวของมีคม), {argument name="style" default="สไตล์แอนิเมชันดินน้ำมัน"}, {argument name="detail level" default="อินโฟกราฟิกละเอียด"}, {argument name="depiction" default="ภาพประกอบเชิงจิตวิทยา"}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890727821_48oj5l_G_ASVSWW8AAnV7X.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การถ่ายโอนสไตล์สำหรับอินโฟกราฟิกคำศัพท์ทางการแพทย์ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890727928_9umekf_G_ASVSbX0AAjLaa.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การถ่ายโอนสไตล์สำหรับอินโฟกราฟิกคำศัพท์ทางการแพทย์ - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890728041_7zgo2g_G_ASVSWWkAA57TX.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การถ่ายโอนสไตล์สำหรับอินโฟกราฟิกคำศัพท์ทางการแพทย์ - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890729703_hurug8_G_ASVSaX0AA2sMW.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การถ่ายโอนสไตล์สำหรับอินโฟกราฟิกคำศัพท์ทางการแพทย์ - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [ヤマアラシ｜医療AI戦略家](https://x.com/AIshijimachiman)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/AIshijimachiman/status/2013129199830384930)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** ja
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6828)**
-
----
-
-### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพถ่ายทางเทคนิค: แผนภาพอาหารระเบิด
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์เชิงแนวคิดสูงที่ออกแบบมาเพื่อแสดงภาพอาหารแบบเลเยอร์ให้เหมือนแบบจำลองทางสถาปัตยกรรมหรือพิมพ์เขียวทางเทคนิค โดยกำหนดให้อาหารถูกตัดตามขวาง มีการระบุเลเยอร์ด้วยแท่งอะคริลิก และมีองค์ประกอบต่างๆ เช่น คนงานก่อสร้างจิ๋ว และข้อมูลจำเพาะของวัสดุ ซึ่งทั้งหมดนี้แสดงผลในรูปแบบภาพวาดทางเทคนิค
-
-#### 📝 คำสั่ง
-
-```
-<instructions>
-Input A: อาหารที่มีหลายชั้น/มีเนื้อสัมผัส (เช่น {argument name="layered dish" default="ลาซานญ่า, บาคลาวา, มิลล์เฟย, ข้าวหมกบริยานี"})
-Input B: แบบจำลองทางกายวิภาค / แบบพิมพ์เขียวทางสถาปัตยกรรม
-เป้าหมาย: ชิ้นอาหารที่กินไปแล้วครึ่งหนึ่ง จัดแสดงเหมือนแบบจำลองทางสถาปัตยกรรม โดยแต่ละชั้นมีป้ายกำกับ แสดงวิศวกรรมโครงสร้างและวิทยาศาสตร์วัสดุของการทำอาหาร
-กฎ:
-จานที่ถูกตัดเป็นหน้าตัดที่สมบูรณ์ ตั้งตรง
-แท่งอะคริลิกพร้อมธงระบุแต่ละชั้น
-เฉพาะคำบรรยายและมาตรวัดที่เกี่ยวข้องกับอาหาร
-พื้นหลังที่เกี่ยวข้องกับอาหาร
-คนงานก่อสร้างจิ๋วบนชั้นต่างๆ
-ประวัติของอาหารที่แสดงบนโปสเตอร์บนผนัง
-บันทึกเคล็ดลับการทำอาหาร
-ข้อมูลจำเพาะของวัสดุ (ความหนาแน่น, ปริมาณความชื้น)
-ชั้นฐานไม่มีป้ายกำกับ
-รวมเครื่องมือทำอาหารขนาดเล็ก
-สุนทรียภาพแบบภาพวาดทางเทคนิคด้วยสีขาวและสีน้ำเงิน
-Output: 1 ภาพ, การถ่ายภาพเชิงเทคนิค, แสงไฟอุตสาหกรรมที่สะอาด, อัตราส่วน 4:5
-</instructions>
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804211731_xigzux_G-wbJpmbQAY6sK4.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพถ่ายทางเทคนิค: แผนภาพอาหารระเบิด - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Gadgetify](https://x.com/Gdgtify)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Gdgtify/status/2012918907305427332)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6517)**
-
----
-
-### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกและพรอมต์ภาพเคลื่อนไหวพิซซ่าระเบิดที่สมจริงเป็นพิเศษ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-ชุดพรอมต์นี้มีไว้สำหรับสร้างภาพถ่ายอาหารที่สมจริงเป็นพิเศษ ซึ่งรวมถึงพรอมต์การเคลื่อนไหวสำหรับการสร้างวิดีโอ (Kling AI) และพรอมต์รูปภาพสองรายการ: หนึ่งสำหรับพิซซ่าหนึ่งชิ้นที่มีรายละเอียดสูงแบบมาตรฐาน และอีกหนึ่งสำหรับมุมมองอินโฟกราฟิกแบบแยกส่วนของชั้นพิซซ่า
-
-#### 📝 คำสั่ง
-
-```
-Motion Prompt: พิซซ่าเริ่มหมุนเป็นวงกลมในขณะที่ส่วนผสมแยกออกจากกันอย่างนุ่มนวลและแม่นยำ โดยยังคงจัดเรียงและขนาดไว้ การเคลื่อนไหวราบรื่น ไม่มีเอฟเฟกต์เพิ่มเติม
-
-Image 1 :- พิซซ่าเปปเปอโรนีที่เตรียมไว้แบบสมจริงเป็นพิเศษ หนึ่งชิ้น ประกอบเสร็จสมบูรณ์ ชีสมอสซาเรลล่าละลายเยิ้มยืดและหยดลงมาตามขอบ เปปเปอโรนีชิ้นกรอบวางอยู่ด้านบน ซอสมะเขือเทศเข้มข้นอยู่ด้านล่าง แป้งอบสีทองหนา ใบโหระพาสดและเครื่องปรุงรสบางเบาลอยอยู่เหนือพิซซ่าเล็กน้อย พื้นหลังสีขาวบริสุทธิ์สะอาด แสงไฟสำหรับการถ่ายภาพอาหารเชิงพาณิชย์แบบมืออาชีพ เงาธรรมชาติอ่อนๆ ใต้ชิ้นพิซซ่า โฟกัสคมชัด รายละเอียดพื้นผิวสุดขีด ชีสเงางาม ผิวแป้งกรอบ ถ่ายในสตูดิโอ องค์ประกอบเรียบง่าย ไม่มีข้อความ ไม่มีฉลาก ไม่มีมือ สไตล์โฆษณาอาหารระดับพรีเมียม ความละเอียด 8K รายละเอียดสูงเป็นพิเศษ สมจริงเกินจริง
-
-Image 2 :- สร้างอินโฟกราฟิกพิซซ่าชิ้นที่แยกส่วนแบบสมจริงเป็นพิเศษ เลเยอร์บนสุดประกอบด้วยใบโหระพาและอนุภาคเครื่องปรุงรสที่ลอยอยู่ ด้านล่างเป็นชีสละลายที่ยืดออก ชิ้นเปปเปอโรนี เลเยอร์ซอสมะเขือเทศเข้มข้น และฐานแป้งอบนุ่ม พื้นหลังสีขาวสะอาด แสงไฟสำหรับการถ่ายภาพอาหารแบบมืออาชีพ พื้นผิวสมจริง เงาอ่อนๆ เลเยอร์ลอยอยู่ห่างกันอย่างสม่ำเสมอ สไตล์อินโฟกราฟิกที่มีป้ายกำกับ ความละเอียด 8K
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804200487_ks5kcg_G-9KDAEW8AAnJPQ.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกและพรอมต์ภาพเคลื่อนไหวพิซซ่าระเบิดที่สมจริงเป็นพิเศษ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [𝐌](https://x.com/Strength04_X)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Strength04_X/status/2012909080785072329)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6504)**
-
----
-
-### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพประกอบเรขาคณิตแบบเรียบง่าย
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-เทมเพลตพร้อมต์ที่นำกลับมาใช้ใหม่ได้สำหรับการสร้างภาพประกอบแนวบรรณาธิการที่เรียบง่ายและทันสมัย โดยใช้รูปทรงเรขาคณิตพื้นฐาน, โทนสีที่จำกัด และพื้นที่ว่างจำนวนมาก ส่งผลให้เกิดสุนทรียภาพแบบมินิมอลลิสต์ระดับสูง
-
-#### 📝 คำสั่ง
-
-```
-ภาพประกอบแบบเรียบง่ายของ {argument name="subject" default="[SUBJECT]"} ที่ใช้รูปทรงเรขาคณิตง่ายๆ, โทนสีจำกัด, สไตล์เวกเตอร์ที่สะอาดตา, มีพื้นที่ว่างเยอะ, ภาพประกอบสไตล์โมเดิร์นแบบบรรณาธิการ, เงาอ่อนๆ, เส้นโค้งที่เรียบเนียน, ความเรียบง่ายที่สวยงามสูง
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804221236_rmcu9v_G-84CAKXcAEiuxY.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพประกอบเรขาคณิตแบบเรียบง่าย - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804221219_9czsjo_G-84CBDW8AAwlcS.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพประกอบเรขาคณิตแบบเรียบง่าย - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804221205_fzh2ay_G-84B_QXcAEKejp.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพประกอบเรขาคณิตแบบเรียบง่าย - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804222094_n8oyyc_G-84CDyW0AAQ5gX.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์ภาพประกอบเรขาคณิตแบบเรียบง่าย - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Aleena Amir](https://x.com/aleenaamiir)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/aleenaamiir/status/2012889189298176327)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6532)**
-
----
-
-### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - หุ่นจำลองวิทยาศาสตร์การอาหาร: เคมีของช็อกโกแลต
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งที่ซับซ้อนและมีโครงสร้างสำหรับการสร้างภาพถ่ายไดโอรามา 'วิทยาศาสตร์การอาหาร' ซึ่งแสดงให้เห็นถึงปฏิกิริยาเคมีของอาหาร เช่น ช็อกโกแลต หรือคาราเมล ฉากนี้มีกล่องจัดแสดงรูปตัว L, พื้นหลังตารางธาตุพร้อมตัวอย่างในจานเพาะเชื้อ, หุ่นนักวิทยาศาสตร์ขนาด 1:12 และตัวอักษร 3 มิติขนาดใหญ่ที่ทำจากอาหารนั้นเอง ซึ่งแสดงผลในรูปแบบสมมาตรแบบ 'Wes Anderson'
-
-#### 📝 คำสั่ง
-
-```
-ทำสิ่งนี้สำหรับ {argument name="Food Item" default="caramel"} <instruction>
- 
-อินพุต A คืออาหารหรือจานที่ซับซ้อน (เช่น ช็อกโกแลต, ขนมปัง, ชีส, กาแฟ)
-แยกส่วนประกอบของหัวข้อออกเป็น 3 ชั้นทางวิทยาศาสตร์:
-     สถานะของสสาร: ระบุ 4–5 ขั้นตอนของการแปรรูป
-         (เช่น เมล็ดโกโก้ -> Nibs -> Liquor -> ผง. ข้าวสาลี -> แป้ง -> โดว์ -> เกล็ดขนมปัง)
-     ตัวอย่างพื้นผิว: ระบุคุณสมบัติทางกายภาพที่จะแสดงเป็นตัวอย่าง
-         (เช่น การหัก/ความเงาสำหรับช็อกโกแลต. ความพรุน/เปลือกสำหรับขนมปัง. เปลือก/ความนุ่มสำหรับชีส)
-     วัสดุ: ระบุสารสำหรับข้อความ 3 มิติ
-         (เช่น ช็อกโกแลตดำขึ้นรูป, เปลือกขนมปังอบ, ขี้ผึ้งแข็ง/ชีส)
-
-  2. ภาชนะ:
-เป้าหมาย: การถ่ายภาพไดโอรามา "วิทยาศาสตร์การอาหาร"
-     ฉาก: กล่องจัดแสดงรูปตัว L (แผ่นหลังแนวตั้ง + พื้นแนวนอน)
-     พื้นผิว: พลาสติกสีครีมหรือสีขาวด้านที่สะอาดตา คล้ายกับชุดอุปกรณ์การศึกษาหรือนิทรรศการในพิพิธภัณฑ์ระดับไฮเอนด์
-     กรอบ: กรอบไม้หรือพลาสติกเรียบง่ายที่ล้อมรอบฉาก
-
-  3. พื้นหลังตารางธาตุ:
-     ตาราง: ผนังแนวตั้งมีตารางที่เรียบร้อยและสมมาตรของจานเพาะเชื้อหรือชามเซรามิกทรงกลม
-     เนื้อหา: จานแต่ละใบมีตัวอย่างของ "สถานะของสสาร" (ขั้นตอนที่ 1)
-     ตัวอย่าง: ใต้จานมีกระเบื้องสี่เหลี่ยมที่แสดง "ตัวอย่างพื้นผิว" (เช่น ช็อกโกแลตที่อุณหภูมิเหมาะสมวางอยู่ข้างช็อกโกแลตที่ขึ้นฝ้า)
-     ป้ายกำกับ: ข้อความทางวิทยาศาสตร์ขนาดเล็กที่อ่านง่าย (ฟอนต์ Serif) พิมพ์โดยตรงบนผนังใต้ตัวอย่างแต่ละชิ้น
-
-  4. พื้น (ห้องปฏิบัติการ):
-     เรื่องราว: หุ่นจำลองนักวิทยาศาสตร์หรือเชฟ (สวมเสื้อกาวน์) ขนาด 1:12 ยืนอยู่ที่โต๊ะทำงานไม้กลาง
-    อุปกรณ์: โต๊ะทำงานเต็มไปด้วยอุปกรณ์เคมี (บีกเกอร์, ขวดรูปชมพู่) และอุปกรณ์ทำอาหาร (ตะกร้อ, เครื่องชั่ง)
-     การทดลอง: หุ่นจำลองกำลังทดสอบหรือวัดผลิตภัณฑ์อาหารอย่างกระตือรือร้น
-
-  5. การจัดเรียงตัวอักษร:
-     ตำแหน่ง: ตัวอักษร 3 มิติขนาดใหญ่และหนาตั้งอยู่บนขอบด้านหน้าสุดของพื้น ทำหน้าที่เป็นสิ่งกีดขวาง
-     โครงสร้าง: ตัวอักษรทำจากอาหารนั้นเอง (เช่น "THE CHEMISTRY OF CHOCOLATE" ขึ้นรูปด้วยช็อกโกแลตดำ)
-     ข้อความ: "THE CHEMISTRY OF {argument name="Input A" default="CHOCOLATE"}"
-
-  ผลลัพธ์: ภาพเดียว, อัตราส่วนภาพ 1:1, แสงไฟสตูดิโอสำหรับผลิตภัณฑ์, ความสมมาตรแบบ "Wes Anderson", สุนทรียภาพเชิงการศึกษา
-</instruction>
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804323526_yo8sqc_G-1VmdxWgAAhdsk.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - หุ่นจำลองวิทยาศาสตร์การอาหาร: เคมีของช็อกโกแลต - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804323346_v3d1rj_G-1VmdqW0AA6LfW.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - หุ่นจำลองวิทยาศาสตร์การอาหาร: เคมีของช็อกโกแลต - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Gadgetify](https://x.com/Gdgtify)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Gdgtify/status/2012873106348482898)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6666)**
-
----
-
-### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบโฆษณานมขนาดเล็ก 3 มิติ สุดแปลกตา
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งโดยละเอียดสำหรับ Gemini Nano Banana Pro เพื่อสร้างภาพประกอบไดโอรามา 3 มิติขนาดเล็กระดับไฮเอนด์สำหรับ Nestlé โดยมีคนงานตัวจิ๋วควบคุมเครื่องจักรอยู่รอบขวดนมขนาดยักษ์ ในสไตล์แบรนด์อาหารระดับพรีเมียมที่ดูสนุกสนาน โดยมีฉากหลังเป็นทิวทัศน์ฟาร์มที่มีเสน่ห์
-
-#### 📝 คำสั่ง
-
-```
-ภาพประกอบโฆษณาแบบไดโอรามา 3 มิติ ขนาดเล็ก สไตล์หรูหราแปลกตา แสดงฉากการผลิตนม โดยมีสุนทรียภาพของแบรนด์อาหารที่ดูสนุกสนานแต่ก็พรีเมียม ตรงกลางมีขวดนม Nestlé ขนาดใหญ่ที่ตรงกับบรรจุภัณฑ์ Nestlé จริง: ขวดทรงกระบอกสีขาวทึบเรียบเนียน มีส่วนโค้งเล็กน้อย และฉลากโลโก้ Nestlé สีแดงคลาสสิก แข็งแรง ไม่ใช่แก้ว วางอยู่บนแท่นอุตสาหกรรมโลหะโดยตรง นมสดกำลังถูกเทจากภาชนะและท่อที่คนงานกำลังทำงานอยู่ลงในปากขวดที่เปิดอยู่ โดยมีเนื้อครีมที่ดูหรูหรามองเห็นได้ชัดเจนอยู่ภายใน; นมไม่ได้มาจากฟ้าและมีแหล่งที่มาทางกายภาพที่ชัดเจน คนงานตัวจิ๋วในชุดจัมพ์สูทสี {argument name="worker uniform color" default="เหลือง"} สดใส และหมวกนิรภัยสีเหลืองกำลังปฏิบัติงานอย่างกระตือรือร้น: สองคนยืนอยู่บนนั่งร้านโลหะเหนือขวด กำลังเทนมจากภาชนะที่มีหูจับอย่างระมัดระวัง ขณะที่คนอื่นๆ กำลังดันกล่องกระดาษ, นำผลิตภัณฑ์ไปตามสายพานลำเลียง และควบคุมเครื่องจักรผลิตนมขนาดกะทัดรัดด้วยท่าทางที่ประสานงานและมุ่งมั่น ในส่วนหน้า ผลิตภัณฑ์นมเคลื่อนที่ไปตามสายพานลำเลียงอย่างเป็นธรรมชาติ รอบๆ แท่นมีหญ้าสีเขียวชอุ่มพร้อมดอกไม้ป่าสีขาวและสีเหลืองขนาดเล็ก พื้นหลังเป็นทิวทัศน์ฟาร์มที่มีเสน่ห์พร้อมทุ่งหญ้าสีเขียวขจี, โรงนาไม้สีแดงที่มีขอบสีขาว, วัวขาวดำสงบนิ่งกำลังเล็มหญ้าอยู่ใกล้ๆ และกังหันลมสีขาวตัดกับเนินเขาที่อ่อนโยนภายใต้ท้องฟ้าสีฟ้าสดใสที่มีเมฆปุยอ่อนนุ่ม แสงเป็นแสงแดดที่อบอุ่นนุ่มนวลพร้อมเงาที่อ่อนโยนและไฮไลท์ที่ประณีต สร้างรูปลักษณ์โฆษณาที่สะอาดและน่าเชื่อถือ โดยรวมแล้วเป็นภาพประกอบเชิงพาณิชย์ที่ดูสนุกสนาน, มีรายละเอียดมากมาย, พรีเมียม พร้อมองค์ประกอบการเล่าเรื่องที่แข็งแกร่ง, การจัดวางที่สมดุล, โทนสีพาสเทล, ความลึกของภาพที่ลึก, รายละเอียดที่คมชัดเป็นพิเศษ, ความแตกต่างของขนาดจิ๋วแบบภาพยนตร์—เป็นภาพประกอบที่ชัดเจน ไม่ใช่ภาพถ่าย, ไม่ใช่การจัดแสดงโมเดล และไม่ได้ถูกครอบด้วยโดมแก้วหรือตู้โชว์ใดๆ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804287448_3ga4jo_G-7_3dYW8AEpY0i.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบโฆษณานมขนาดเล็ก 3 มิติ สุดแปลกตา - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Latte](https://x.com/0xbisc)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/0xbisc/status/2012828926633250902)
-- **เผยแพร่เมื่อ:** 18 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6616)**
-
----
-
-### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การสร้างภาพผลิตภัณฑ์ 2x2 Grid (สิทธิบัตร/การตลาด)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งแบบหลายแผงที่ซับซ้อน ซึ่งออกแบบมาเพื่อแสดงภาพการประดิษฐ์และการตลาดของผลิตภัณฑ์ใหม่ โดยการรวมแนวคิดสองอย่างเข้าด้วยกัน (หรือพัฒนาแนวคิดหนึ่ง) ข้อความแจ้งนี้กำหนดโครงสร้างแบบตาราง 2x2 โดยแต่ละช่องต้องมีสไตล์ภาพที่แตกต่างกัน ได้แก่ ภาพลายเส้นทางเทคนิค (Exploded Patent View), แผนภาพเชิงโครงสร้าง (Functional Diagram), ภาพเรนเดอร์เสมือนจริง (Product Render) และเค้าโครงบรรณาธิการ (Marketing Pitch) ข้อความแจ้งนี้ทำหน้าที่เป็นนักออกแบบอุตสาหกรรม โดยเน้นความเชื่อมโยงระหว่างแผงต่างๆ และความสวยงามแบบมินิมอลของอุปกรณ์อิเล็กทรอนิกส์สำหรับผู้บริโภค
-
-#### 📝 คำสั่ง
-
-```
-Input Variable: {argument name="input objects" default="[INSERT 1 or 2 OBJECTS]"}
-Instruction:
-สวมบทบาทเป็นนักออกแบบอุตสาหกรรมที่มีวิสัยทัศน์กว้างไกลและเสมียนจดสิทธิบัตร สร้างตาราง 2x2 ที่แสดงภาพการประดิษฐ์ผลิตภัณฑ์ใหม่ตามข้อมูลที่ป้อน
-ตรรกะนวัตกรรม:
-วิเคราะห์ฟังก์ชัน: ระบุประโยชน์หลักของ Input A และ Input B
-การหลอมรวม: รวมเข้าเป็นอุปกรณ์เดียวที่ทำงานร่วมกันได้ ซึ่งแก้ปัญหาเฉพาะ (เฉพาะกลุ่ม)
-หากมี 2 Inputs: ผสมผสานเข้าด้วยกัน (เช่น แก้ว + ที่ขูด = แก้วที่ทำความเย็นเองได้พร้อมที่ขูดเครื่องปรุง)
-หากมี 1 Input: พัฒนาให้ก้าวหน้า (เช่น แปรงสีฟัน = ไม้กายสิทธิ์อัจฉริยะที่ฆ่าเชื้อเองได้และฉีดพ่นยาสีฟันได้)
-การสร้างแบรนด์: สร้างชื่อผลิตภัณฑ์ที่น่าสนใจและเป็นทางการ (เช่น "The Breeze-Grate™", "Solar-Brella Pro")
-โครงสร้างภาพ (ตาราง 2x2):
-สำคัญ: ภาพต้องแบ่งออกเป็น 4 ส่วนที่แตกต่างกันด้วยสไตล์ภาพที่แตกต่างกัน
-แผงที่ 1 (ซ้ายบน): มุมมองสิทธิบัตรแบบแยกส่วน
-สไตล์: ภาพลายเส้นทางเทคนิคขาวดำ เส้นบางคมชัด ไม่มีแรเงา
-เนื้อหา: ภาพ "มุมมองแบบแยกส่วน" แบบไอโซเมตริกของอุปกรณ์ แสดงมอเตอร์ภายใน แบตเตอรี่ หรือกลไกที่แยกออกจากตัวเครื่อง
-รายละเอียด: เพิ่มเส้นนำหมายเลข (10, 12, 14) ชี้ไปยังส่วนต่างๆ
-แผงที่ 2 (ขวาบน): แผนภาพการทำงาน
-สไตล์: แผนผังขาวดำพร้อมลูกศรหนา
-เนื้อหา: ภาพตัดขวางหรือภาพ "ขณะใช้งาน" ที่แสดงวิธีการทำงานของอุปกรณ์ ใช้ลูกศรแสดงการกระทำเพื่อแสดงการไหลของอากาศ การหมุน หรือการเคลื่อนที่ของของเหลว
-รายละเอียด: แสดง "ผลลัพธ์" (เช่น ชีสที่ตกลงมา, น้ำที่พ่นออกมา)
-แผงที่ 3 (ซ้ายล่าง): การเรนเดอร์ผลิตภัณฑ์
-สไตล์: ภาพถ่ายสตูดิโอระดับไฮเอนด์ สีสันสดใส เงางาม สุนทรียภาพการออกแบบแบบ "Apple/Braun"
-เนื้อหา: ผลิตภัณฑ์จริงขั้นสุดท้ายวางอยู่บนพื้นผิวสะท้อนแสงสีขาว ควรดูเพรียวบาง ใช้วัสดุเช่น เซรามิกสีขาว, อะลูมิเนียมขัดเงา หรือพลาสติกด้าน
-บริบท: ใส่ของประกอบฉากเล็กๆ เพื่อแสดงขนาด (เช่น ชีสก้อน, เมล็ดกาแฟ, มือ)
-แผงที่ 4 (ขวาล่าง): การนำเสนอทางการตลาด
-สไตล์: การจัดวางนิตยสารเชิงบรรณาธิการ พื้นหลังสีขาว ข้อความสีดำ
-การจัดพิมพ์:
-หัวข้อ: ข้อความ Serif ขนาดใหญ่ ตัวหนา แสดง [ชื่อสิ่งประดิษฐ์]
-เนื้อหา: ข้อความ "Lorem Ipsum" ที่สะอาดตา หรือข้อความที่อ่านง่ายที่อธิบาย "คุณสมบัติปฏิวัติวงการ"
-หัวข้อย่อย: รายการข้อมูลจำเพาะเล็กๆ (เช่น "Dishwasher Safe", "USB-C")
-ไวยากรณ์ภาพ:
-ความสอดคล้องกัน: การออกแบบผลิตภัณฑ์ในแผงที่ 3 ต้องตรงกับภาพลายเส้นในแผงที่ 1 อย่างสมบูรณ์แบบ
-ภาษาการออกแบบ: สุนทรียภาพแบบมินิมอล, ถูกหลักสรีรศาสตร์, เครื่องใช้ไฟฟ้าสำหรับผู้บริโภค แม้ว่าแนวคิดจะดูไร้สาระ แต่การออกแบบต้องดูมีราคาแพง
-ผลลัพธ์: ตาราง 2x2, สื่อผสม (ภาพลายเส้นเทียบกับภาพเสมือนจริง), ความละเอียด 8k, สุนทรียภาพแบบ "Kickstarter Campaign"
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768717570742_yazze1_G-rI4thagAAXCjf.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การสร้างภาพผลิตภัณฑ์ 2x2 Grid (สิทธิบัตร/การตลาด) - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Gadgetify](https://x.com/Gdgtify)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Gdgtify/status/2012487062180549031)
-- **เผยแพร่เมื่อ:** 17 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6466)**
-
----
-
-### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - กระบวนการสร้างสรรค์งานฝีมือสำหรับวัตถุทำมือ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-นี่คือเทมเพลตพร้อมท์ที่มีโครงสร้างสำหรับสร้างบอร์ดแสดงวิธีการทำงานของช่างฝีมือ ซึ่งออกแบบมาเพื่อบันทึกกระบวนการสร้างสรรค์วัตถุทำมือด้วยภาพ โดยแบ่งภาพออกเป็นสามส่วน ได้แก่ วัตถุดิบ กระบวนการทำ (โดยมีมือและเครื่องมือให้เห็น) และวัตถุที่ทำเสร็จแล้วในบริบท โดยเน้นการเปลี่ยนสไตล์ภาพจากโทนสีเอิร์ธโทนไปเป็นแสงไฟในเวิร์คช็อปที่อบอุ่นและแสงธรรมชาติ
-
-#### 📝 คำสั่ง
-
-```
-บอร์ดแสดงวิธีการของช่างฝีมือสำหรับ [{argument name="handmade object" default="HANDMADE OBJECT"}] — [{argument name="technique" default="TECHNIQUE / TRADITION / ORIGIN"}] ส่วนซ้าย: วัตถุดิบในสภาพที่ยังไม่ผ่านกระบวนการ จัดหาและติดป้ายกำกับ การเปลี่ยนแปลงยังไม่เริ่มต้นขึ้น ส่วนกลาง: การสร้างสรรค์ที่บันทึกเป็นขั้นตอนตามลำดับ มือที่ปรากฏให้เห็นตลอดกระบวนการ ระบุเครื่องมือ จุดตัดสินใจสำคัญที่ระบุไว้ และเวลาที่ใช้ในแต่ละขั้นตอน ส่วนขวา: วัตถุที่ทำเสร็จแล้วในบริบทการใช้งาน มีเครื่องหมายของผู้สร้าง บรรลุวัตถุประสงค์ ชั่วโมงที่มองไม่เห็นแต่ฝังแน่นอยู่ในชิ้นงาน สไตล์ภาพเปลี่ยนจากโทนสีเอิร์ธโทนของวัตถุดิบดิบ ผ่านความอบอุ่นของเวิร์คช็อป ไปสู่บริบทไลฟ์สไตล์ที่มีแสงธรรมชาติ แถบชื่อเรื่องอ่านว่า "[{argument name="object name" default="OBJECT NAME"}] — HANDMADE BY [MAKER], [LOCATION], [HOURS] HOURS"
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631182847_vuaafy_G-zCpORXEAA_G1F.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - กระบวนการสร้างสรรค์งานฝีมือสำหรับวัตถุทำมือ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631182766_oy8w28_G-zCTf-aEAA8HCU.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - กระบวนการสร้างสรรค์งานฝีมือสำหรับวัตถุทำมือ - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631183768_fc2h1r_G-zCM3GWUAAj8Fb.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - กระบวนการสร้างสรรค์งานฝีมือสำหรับวัตถุทำมือ - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631184071_q4k6a4_G-zCJNlboAAGpnS.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - กระบวนการสร้างสรรค์งานฝีมือสำหรับวัตถุทำมือ - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Alexandra Aisling](https://x.com/AllaAisling)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/AllaAisling/status/2012197160276660362)
-- **เผยแพร่เมื่อ:** 16 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6327)**
-
----
-
-### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - โมเดลจิ๋ว 3 มิติแบบไอโซเมตริกของตัวละครทีวีฝั่งตะวันตก
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์สำหรับสร้างโมเดล 3D ไอโซเมตริกขนาดเล็กที่มีรายละเอียดสูงและมีสไตล์ของตัวละครหลักจากซีรีส์ทีวีแนวคาวบอยอเมริกัน โมเดลเหล่านี้จะถูกจัดวางอยู่บนถนนในเมืองโดยมีพื้นหลังสีขาวล้วน และแสดงท่าทางอันเป็นเอกลักษณ์ต่างๆ ภายใต้แสงไฟสตูดิโอที่นุ่มนวล
-
-#### 📝 คำสั่ง
-
-```
-โมเดล 3D ไอโซเมตริกขนาดเล็กที่มีรายละเอียดสูงเป็นพิเศษ สไตล์สวยงาม และน่าทึ่ง นำเสนอตัวละครหลักจากซีรีส์โทรทัศน์แนว {argument name="TV series genre" default="American Western"} ตัวละครแต่ละตัวแสดงท่าไม้ตายอันเป็นเอกลักษณ์ที่แตกต่างกัน ในขณะที่แสงไฟสตูดิโอที่นุ่มนวลสร้างเอฟเฟกต์แสงและเงาที่น่าทึ่ง โมเดล 3D ที่มีรายละเอียดสูงเหล่านี้ถูกจัดวางอยู่บน {argument name="setting" default="city streets"} โดยมีพื้นหลังสีขาวล้วน
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631173816_nsi334_G-ybd-ObcAERfOr.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - โมเดลจิ๋ว 3 มิติแบบไอโซเมตริกของตัวละครทีวีฝั่งตะวันตก - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Favori](https://x.com/yuanguand)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/yuanguand/status/2012154187669545207)
-- **เผยแพร่เมื่อ:** 16 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6312)**
-
----
-
-### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพตัดขวางโครงสร้างแบบ Exploded-View สำหรับการถ่ายภาพอาหาร
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ที่ออกแบบมาเพื่อเปลี่ยนภาพถ่ายอาหารพื้นฐานให้เป็นแผนภาพโครงสร้างแบบตัดขวางที่สะอาด มีป้ายกำกับ และแสดงส่วนประกอบแยกออกจากกัน พรอมต์นี้มีจุดประสงค์เพื่อสร้างภาพสไตล์อินโฟกราฟิกที่ส่วนผสมถูกแยกออกจากกันในแนวตั้ง โดยยังคงการจัดตำแหน่งและมาตราส่วนที่สมบูรณ์แบบบนพื้นหลังสตูดิโอสีขาว
-
-#### 📝 คำสั่ง
-
-```
-ใช้ภาพแรกเป็นฐาน สร้างภาพตัดขวางโครงสร้างแบบแยกส่วนที่สะอาดตา แยกส่วนประกอบแต่ละชิ้นในแนวตั้งทีละชิ้น โดยรักษาระยะห่าง การจัดเรียง และมาตราส่วนที่สมบูรณ์แบบ พื้นหลังสตูดิโอสีขาว สไตล์ไดอะแกรมที่มีป้ายกำกับ คมชัดเป็นพิเศษ สมจริง
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631120017_uzylxq_G-yYo41a4AEQhIx.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพตัดขวางโครงสร้างแบบ Exploded-View สำหรับการถ่ายภาพอาหาร - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Parul Gautam](https://x.com/Parul_Gautam7)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Parul_Gautam7/status/2012151021850747377)
-- **เผยแพร่เมื่อ:** 16 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6244)**
-
----
-
-### No. 47: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพสามมิติสถาปัตยกรรมไอโซเมตริกแบบมินิมอล
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-เทมเพลตพร้อมต์สำหรับสร้างภาพ 3D ไอโซเมตริกแบบมินิมอลที่ดูสะอาดตาของส่วนอาคาร พร้อมต์นี้ช่วยให้ปรับแต่งประเภทอาคาร องค์ประกอบภายใน/ภายนอก และสไตล์การตัดส่วนได้ โดยมีเป้าหมายเพื่อสร้างสรรค์สุนทรียภาพแบบจำลองสถาปัตยกรรมขนาดเล็กที่มีแสงสตูดิโอที่นุ่มนวลและวัสดุที่สมจริง
-
-#### 📝 คำสั่ง
-
-```
-ไดโอรามา 3 มิติแบบไอโซเมตริกที่สะอาดตาและเรียบง่ายของส่วน [{argument name="building type" default="BUILDING TYPE"}] โดยมี [{argument name="elements" default="INTERIOR / EXTERIOR ELEMENTS"}] ปรากฏให้เห็นในรูปแบบ [{argument name="style" default="CUTAWAY / OPEN STYLE"}] โครงสร้าง [STRUCTURAL FRAME] ที่เรียบง่าย ป้ายข้อมูล [INFORMATIONAL SIGNAGE] ที่ละเอียดอ่อน พื้นผิว [MATERIAL FINISH] ที่เรียบเนียน แสงสตูดิโอที่นุ่มนวล วัสดุที่สมจริง ขอบโค้งมน สไตล์โมเดลสถาปัตยกรรมขนาดเล็ก รายละเอียดสูง พื้นหลังเป็นกลาง
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631167212_chnax0_G-xRiuLbQAATRuP.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพสามมิติสถาปัตยกรรมไอโซเมตริกแบบมินิมอล - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631167249_uq1fis_G-xRiuJbQAE9AKC.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพสามมิติสถาปัตยกรรมไอโซเมตริกแบบมินิมอล - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631167254_l9b9p2_G-xRiuKbQAA7P5f.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพสามมิติสถาปัตยกรรมไอโซเมตริกแบบมินิมอล - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631168636_h31pvg_G-xRiuKagAArqTY.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพสามมิติสถาปัตยกรรมไอโซเมตริกแบบมินิมอล - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Aleena Amir](https://x.com/aleenaamiir)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/aleenaamiir/status/2012072821439283400)
-- **เผยแพร่เมื่อ:** 16 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6305)**
-
----
-
-### No. 48: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การแสดงภาพขนาดเล็กของ Zootopia แฟชั่นชั้นสูง
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ที่ซับซ้อนสำหรับการสร้างภาพ 3D ขนาดเล็กของ Zootopia ซึ่งแสดงให้เห็นถึงเจ็ดขั้นตอนทางศิลปะ ตั้งแต่ถนนที่พลุกพล่านไปจนถึงอุโมงค์ใต้ดิน การสร้างภาพนี้ออกแบบมาให้เหมือนฉากศาลากลางราคาแพงที่มีบรรยากาศแบบแฟชั่นชั้นสูง แสงแบบ chiaroscuro ที่เข้มข้น และองค์ประกอบที่มีรายละเอียด เช่น tasting notes ที่ออกแบบเป็นอัญมณีล้ำค่า ถ่ายด้วยกล้อง Hasselblad เพื่อให้ได้ระยะชัดลึกที่ตื้นมาก
-
-#### 📝 คำสั่ง
-
-```
-ภาพจำลอง 3 มิติขนาดเล็กของ Zootopia โดยไม่มีโมเดลมนุษย์ จัดแสดงฉากจำลองศิลปะ 7 ฉาก: ถนน Zootopia ที่พลุกพล่านยามพระอาทิตย์ขึ้น, พลเมืองสัตว์ตัวจิ๋วเก็บเกี่ยวแครอท, อุโมงค์ใต้ดินสลัวๆ ที่มีลังผลิตผลเรียงเป็นแถวอย่างแม่นยำ, การรวมตัวกันในคาเฟ่ในเมืองที่อบอุ่น, บรรยากาศทุ่งหญ้าสะวันนาในยามเช้าที่ปกคลุมด้วยหมอก แต่ละชั้นแสดงชื่อเขต, เปอร์เซ็นต์ประชากร และบันทึกการชิมจาก Zootopia Gazette ที่ออกแบบเหมือนอัญมณีล้ำค่า ฉากหลังชวนให้นึกถึงบรรยากาศศาลากลางเมืองที่หรูหรา โดยใช้แสงแบบ chiaroscuro ที่เข้มข้นเพื่อสร้างบรรยากาศแบบแฟชั่นชั้นสูง ถ่ายด้วย Hasselblad H6D-100c, เลนส์ 100 มม. f/2.2, มีระยะชัดลึกที่ตื้นมากพร้อมโบเก้ที่สวยงาม จอแสดงผลโฮโลแกรมที่แสดงคำแนะนำการจับคู่เค้กแครอทลอยอย่างละเอียดอ่อน โดยมีชีสทำมือสำหรับไวน์ขาว และดาร์กช็อกโกแลตเข้มข้นสำหรับไวน์แดง โทนสีจะเปลี่ยนจากโทนสีเอิร์ธโทนเข้มและโทนสีอัญมณีสำหรับไวน์ฟูลบอดี้ ไปเป็นสีเขียวน้ำแข็ง, สีทองเงิน และสีแชมเปญสำหรับไวน์รสชาติสดชื่น
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631198803_82tgdx_G-wYS8ibQAEGcVi.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การแสดงภาพขนาดเล็กของ Zootopia แฟชั่นชั้นสูง - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Willy](https://x.com/jw660227)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/jw660227/status/2012009858032419083)
-- **เผยแพร่เมื่อ:** 16 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6345)**
-
----
-
-### No. 49: ภาพขนาดย่อของ YouTube - มาสเตอร์พรอมต์สำหรับโปรโมต NBA Finals Arena
+### No. 50: ภาพขนาดย่อของ YouTube - มาสเตอร์พรอมต์สำหรับโปรโมต NBA Finals Arena
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4083,7 +4152,7 @@ Instruction:
 
 ---
 
-### No. 50: ภาพขนาดย่อของ YouTube - ภาพถ่ายการสัมภาษณ์คนดังสไตล์ทอล์คโชว์
+### No. 51: ภาพขนาดย่อของ YouTube - ภาพถ่ายการสัมภาษณ์คนดังสไตล์ทอล์คโชว์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4120,7 +4189,7 @@ Instruction:
 
 ---
 
-### No. 51: ภาพขนาดย่อของ YouTube - พรอมต์ภาพเหมือน Ana de Armas บนพรมแดง (ชุดสีเหลืองและแดง)
+### No. 52: ภาพขนาดย่อของ YouTube - พรอมต์ภาพเหมือน Ana de Armas บนพรมแดง (ชุดสีเหลืองและแดง)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4210,7 +4279,7 @@ Instruction:
 
 ---
 
-### No. 52: ภาพขนาดย่อของ YouTube - ข้อความแจ้งสำหรับรูปภาพหน้าปกสไตล์ Dan
+### No. 53: ภาพขนาดย่อของ YouTube - ข้อความแจ้งสำหรับรูปภาพหน้าปกสไตล์ Dan
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4244,7 +4313,7 @@ Instruction:
 
 ---
 
-### No. 53: ภาพขนาดย่อของ YouTube - การแปลงรูปภาพเป็นสไตล์ Berserker
+### No. 54: ภาพขนาดย่อของ YouTube - การแปลงรูปภาพเป็นสไตล์ Berserker
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4278,7 +4347,7 @@ Instruction:
 
 ---
 
-### No. 54: ภาพขนาดย่อของ YouTube - การแปลงรูปภาพเป็นสไตล์ชุดเดรส Berry Tart
+### No. 55: ภาพขนาดย่อของ YouTube - การแปลงรูปภาพเป็นสไตล์ชุดเดรส Berry Tart
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4312,7 +4381,7 @@ Instruction:
 
 ---
 
-### No. 55: ภาพขนาดย่อของ YouTube - Nano Banana Pro Prompt สำหรับการสร้างภาพส่วนหัวบทความ X
+### No. 56: ภาพขนาดย่อของ YouTube - Nano Banana Pro Prompt สำหรับการสร้างภาพส่วนหัวบทความ X
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4354,7 +4423,7 @@ Instruction:
 
 ---
 
-### No. 56: ภาพขนาดย่อของ YouTube - ภาพรวมและกราฟิกสถิติของนักคริกเก็ต
+### No. 57: ภาพขนาดย่อของ YouTube - ภาพรวมและกราฟิกสถิติของนักคริกเก็ต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4388,7 +4457,7 @@ Instruction:
 
 ---
 
-### No. 57: ภาพขนาดย่อของ YouTube - ภาพระยะใกล้สุด ๆ ของ Sophie Turner ในบท Lara Croft
+### No. 58: ภาพขนาดย่อของ YouTube - ภาพระยะใกล้สุด ๆ ของ Sophie Turner ในบท Lara Croft
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4423,7 +4492,7 @@ Instruction:
 
 ---
 
-### No. 58: ภาพขนาดย่อของ YouTube - ภาพปก YouTube: ปฏิกิริยาต่อกรณีทรัมป์ vs. แชทแธมเฮาส์
+### No. 59: ภาพขนาดย่อของ YouTube - ภาพปก YouTube: ปฏิกิริยาต่อกรณีทรัมป์ vs. แชทแธมเฮาส์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4457,7 +4526,7 @@ Instruction:
 
 ---
 
-### No. 59: ภาพขนาดย่อของ YouTube - ตารางเวลาประจำสัปดาห์สำหรับ VTuber
+### No. 60: ภาพขนาดย่อของ YouTube - ตารางเวลาประจำสัปดาห์สำหรับ VTuber
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4507,7 +4576,7 @@ Instruction:
 
 ---
 
-### No. 60: ภาพขนาดย่อของ YouTube - เครื่องมือสร้างไดโอรามาหนังสือป๊อปอัป Master Prop Maker
+### No. 61: ภาพขนาดย่อของ YouTube - เครื่องมือสร้างไดโอรามาหนังสือป๊อปอัป Master Prop Maker
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4570,7 +4639,7 @@ Instruction:
 
 ---
 
-### No. 61: ภาพขนาดย่อของ YouTube - ภาพถ่ายบุคคลสไตล์ภาพยนตร์ของนักบินอวกาศชาวอินเดีย
+### No. 62: ภาพขนาดย่อของ YouTube - ภาพถ่ายบุคคลสไตล์ภาพยนตร์ของนักบินอวกาศชาวอินเดีย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4604,7 +4673,7 @@ Instruction:
 
 ---
 
-### No. 62: ภาพขนาดย่อของ YouTube - ภาพนิ่งจากวิดีโอคำแนะนำชีวิตของพระสงฆ์
+### No. 63: ภาพขนาดย่อของ YouTube - ภาพนิ่งจากวิดีโอคำแนะนำชีวิตของพระสงฆ์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4699,7 +4768,7 @@ Instruction:
 
 ---
 
-### No. 63: ภาพขนาดย่อของ YouTube - ข้อความแจ้งการสร้างภาพขนาดย่อสำหรับเนื้อหาการขาย (สมอง/เคล็ดลับ/บันทึก)
+### No. 64: ภาพขนาดย่อของ YouTube - ข้อความแจ้งการสร้างภาพขนาดย่อสำหรับเนื้อหาการขาย (สมอง/เคล็ดลับ/บันทึก)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4771,19 +4840,86 @@ Instruction:
 
 ---
 
-### No. 64: ภาพขนาดย่อของ YouTube - พรอมต์ภาพบุคคลเกมเมอร์ Esports ระดับพรีเมียม
+### No. 65: คอมิก / สตอรี่บอร์ด - เทมเพลต YAML สำหรับการสร้างเว็บมังงะโดยใช้ Gemini (Nano Banana Pro)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-ข้อความพร้อมต์สร้างภาพที่มีรายละเอียดสูง ซึ่งออกแบบมาเพื่อสร้างภาพบุคคลสไตล์ภาพยนตร์ระดับไฮเอนด์ของนักกีฬาอีสปอร์ต โดยเน้นแสงไฟที่น่าทึ่ง พื้นหลังไล่ระดับสีแดง-ส้ม อุปกรณ์ที่มีรายละเอียดสูงเป็นพิเศษ และความสวยงามที่ทันสมัยและโฉบเฉี่ยว โดยมีเป้าหมายเพื่อให้ได้รูปลักษณ์ที่กำลังเป็นที่นิยมบนแพลตฟอร์มอย่าง Behance
+เทมเพลตพร้อมท์แบบ YAML ที่ครอบคลุมซึ่งออกแบบมาสำหรับ Gemini (เรียกว่า Nano Banana Pro) เพื่อสร้างเว็บมังงะสี่ช่อง โดยมีกฎการยึดมั่นอย่างเคร่งครัดสำหรับความสอดคล้องของตัวละคร, คู่มือสไตล์โดยละเอียด (แสง, พื้นหลัง, ช่องคำพูด, เอฟเฟกต์ภาพ) และรูปแบบสตอรี่บอร์ดที่มีโครงสร้างสำหรับการกำหนดฉากและบทสนทนาในแต่ละช่อง
 
 #### 📝 คำสั่ง
 
 ```
-นักกีฬาอีสปอร์ต, ภาพบุคคลสไตล์พรีเมียม, แสงเรืองรองดุจเปลวไฟ, พื้นหลังไล่ระดับสี {argument name="background color" default="แดง-ส้ม"}, ลวดลายน้อยที่สุดหรือไม่ต้องมีเลย, แสงไฟแบบดราม่า, ความงามระดับไฮเอนด์, ใบหน้าและอุปกรณ์ที่มีรายละเอียดสูงเป็นพิเศษ, หูฟังเกมมิ่งระดับมืออาชีพ, โทนแบบภาพยนตร์, คอนทราสต์คมชัด, รูปลักษณ์เพรียวบางและทันสมัย, ท่าทางที่กระฉับกระเฉง, โฟกัสที่เข้มข้น, ความลึกแบบไดนามิก, องค์ประกอบมันวาวเรียบเนียน, กำลังเป็นที่นิยมบน Behance, เรนเดอร์คุณภาพสตูดิโอ, ความละเอียด 8K
+ต้องปฏิบัติตามอย่างเคร่งครัด:
+  - ปฏิบัติตามข้อกำหนด YAML นี้อย่างเคร่งครัด ห้ามเบี่ยงเบน เพิ่มองค์ประกอบที่ไม่ได้รับอนุญาต หรือตีความ 'อย่างสร้างสรรค์'
+  - ความสอดคล้องของอัตลักษณ์ตัวละครจากภาพอ้างอิง (ถ้ามีให้) เป็นสิ่งสำคัญยิ่ง
+  - การวิเคราะห์ภาพอย่างละเอียดเป็นสิ่งจำเป็นเพื่อรักษาความสอดคลึงนี้ ผลลัพธ์ใดๆ ที่ไม่ผ่านการตรวจสอบอัตลักษณ์ตัวละครถือว่าไม่เป็นที่ยอมรับ
+
+Strict_Adherence: true
+aspect_ratio: "{argument name="aspect ratio" default="2:3"}" # เปลี่ยนได้ตามต้องการ (เช่น "1:1", "16:9")
+resolution: "{argument name="resolution" default="2K"}"    # เปลี่ยนได้ตามต้องการ (เช่น "4K")
+Character_Count: {{ จำนวนตัวละครทั้งหมดที่ปรากฏ }}
+Total_Panel_Count: {{ จำนวนช่องทั้งหมด (โดยปกติ 4-8 สำหรับโครงสร้าง 4 ชั้น) }}
+
+Summary: >
+  {argument name="summary" default="สรุปเรื่องราวโดยรวม อธิบายโครงเรื่องโดยย่อ ฉาก เหตุการณ์หลัก และบทสรุป"}
+
+Style_Guide:
+  # รูปแบบการแบ่งช่องถูกกำหนดให้เป็น "ไม่มีกรอบนอก แสดงผลถึงขอบแคนวาส"
+  comic_style: "มังงะ 4 ชั้น หลายช่อง ไม่มีกรอบนอก ช่องควรขยายไปจนถึงขอบแคนวาส โดยคั่นด้วยเส้นแบ่งสีขาวด้านในเท่านั้น"
+  lighting: "{{ ระบุแสงสว่าง ช่วงเวลาของวัน (กลางวัน/กลางคืน), แหล่งกำเนิดแสง (แสงแดด/แสงไฟฟ้า/แสงจันทร์), บรรยากาศ (สว่าง/มืด/เงาที่น่าทึ่ง) เป็นต้น }}"
+  background_elements: "{{ ฉากหลัก, คำอธิบายเฉพาะของสถานที่, อุปกรณ์ประกอบฉากสำคัญ หรือองค์ประกอบสิ่งแวดล้อมที่จัดวาง }}"
+  dialogue_bubbles: "ฟองคำพูดสีขาวมาตรฐานสำหรับคำพูด, เมฆความคิดสำหรับความคิดภายใน, ฟองคำพูดประสำหรับเสียงกระซิบ, และกล่องสี่เหลี่ยมสำหรับคำบรรยาย/บทพูดคนเดียว {{ เพิ่มคำจำกัดความสำหรับฟองคำพูดพิเศษหากจำเป็น (เช่น ฟองคำพูดแหลมสำหรับเสียงตะโกน) }}"
+  visual_effects: "{{ ระบุเอฟเฟกต์ภาพแบบมังงะ สัญลักษณ์มังงะ (เหงื่อ, เส้นเลือด, ประกาย), เส้นเอฟเฟกต์ (เส้นความเข้มข้น, เส้นความเร็ว, เส้นสั่น), การแสดงภาพเอฟเฟกต์เสียง เป็นต้น }}"
+
+Characters:
+  # คำจำกัดความตัวละคร แนะนำให้ใช้ ID ตัวอักษรและตัวเลข
+  {{ Character ID_1 }}:
+    description: "{{ รูปลักษณ์, ทรงผม, สี, เสื้อผ้า, สิ่งของที่โดดเด่น, บุคลิกภาพและแนวโน้มการแสดงออก หากมีภาพอ้างอิง ให้เขียนชื่อไฟล์ที่นี่ (เช่น reference image_0.png) }}"
+  {{ Character ID_2 }}:
+    description: "{{ รายละเอียดตัวละครที่สอง... อธิบายตามจำนวนตัวละคร }}"
+  # เพิ่มได้ตามต้องการ...
+
+Storyboard:
+  # คำจำกัดความการแบ่งช่อง 4 ชั้น
+  Tier_1:
+    {{ Panel ID_T1_P1 (เช่น Panel_1_Large_Top) }}:
+      scene: "{{ คำอธิบายสถานการณ์เฉพาะสำหรับช่องนี้ ใคร ที่ไหน และกำลังทำอะไรอยู่ สามารถระบุองค์ประกอบและมุมกล้องได้ด้วย }}"
+      dialogue:
+        - speaker: "{{ Character ID ของผู้พูด }}"
+          type: "{{ ประเภทของบทพูด: speech(ปกติ), thought(ความคิด), whisper(กระซิบ), shout(ตะโกน), monologue(บทพูดคนเดียว/คำบรรยาย) }}"
+          text: "{{ เนื้อหาเฉพาะของบทพูด ใช้ \n หากต้องการขึ้นบรรทัดใหม่ }}"
+        # เพิ่มรายการหากมีหลายบทพูดในช่องเดียวกัน
+        # - speaker: "..."
+        #   type: "..."
+        #   text: "..."
+    # เขียนที่นี่เพื่อเพิ่มช่องใน Tier_1
+  Tier_2:
+    {{ Panel ID_T2_P1 }}:
+      scene: "{{ รายละเอียดฉาก }}"
+      dialogue:
+        - speaker: "{{ Speaker ID }}"
+          type: "{{ Type }}"
+          text: "{{ Content }}"
+    # เพิ่มช่องได้ตามต้องการ
+  Tier_3:
+    {{ Panel ID_T3_P1 }}:
+      scene: "{{ รายละเอียดฉาก }}"
+      dialogue:
+        - speaker: "{{ Speaker ID }}"
+          type: "{{ Type }}"
+          text: "{{ Content }}"
+    # เพิ่มช่องได้ตามต้องการ
+  Tier_4:
+    {{ Panel ID_T4_P1 }}:
+      scene: "{{ รายละเอียดฉาก }}"
+      dialogue:
+        - speaker: "{{ Speaker ID }}"
+          type: "{{ Type }}"
+          text: "{{ Content }}"
+    # เพิ่มช่องได้ตามต้องการ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4791,140 +4927,21 @@ Instruction:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768226083853_13jvv1_G-XE0HHbQAAvOTo.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - พรอมต์ภาพบุคคลเกมเมอร์ Esports ระดับพรีเมียม - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768977363062_tdfu3b_G_DtU8TXkAAmnA7.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - เทมเพลต YAML สำหรับการสร้างเว็บมังงะโดยใช้ Gemini (Nano Banana Pro) - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Harboriis](https://x.com/harboriis)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/harboriis/status/2010229212053913910)
-- **เผยแพร่เมื่อ:** 11 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=5598)**
-
----
-
-### No. 65: ภาพขนาดย่อของ YouTube - ข้อความแจ้งการแก้ไขและแทนที่ข้อความ
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-นี่คือข้อความแจ้งง่ายๆ สำหรับ Nano Banana Pro ที่ใช้ในการแก้ไขข้อความที่ผิดเพี้ยน (mojibake) ในรูปภาพที่มีอยู่ โดยจะสั่งให้ AI ใช้รูปภาพที่มีอยู่และแทนที่ข้อความที่ไม่ถูกต้องด้วยวลีภาษาญี่ปุ่นที่ระบุในตำแหน่งที่กำหนด (บนซ้าย, ล่างซ้าย, บนขวา, ล่างขวา)
-
-#### 📝 คำสั่ง
-
-```
-ใช้รูปภาพตามที่เป็นอยู่และแก้ไขข้อความที่ผิดเพี้ยน ด้านซ้ายบน: "{argument name="Top Left Text" default="วันนี้ฉันได้ทรงผมน่ารัก!"}" ด้านซ้ายล่าง: "{argument name="Bottom Left Text" default="วันของฮารุกะ ซาคากาวะ"}" ด้านขวาบน: "{argument name="Top Right Text" default="มาโฮะเปี้ยนขอมา"}" ด้านขวาล่าง: "{argument name="Bottom Right Text" default="สีนำโชควันนี้คือสีชมพู"}"
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768143698104_7s6var_G-QhydHaMAAoape.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ข้อความแจ้งการแก้ไขและแทนที่ข้อความ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [ロホ](https://x.com/rojorojo46)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/rojorojo46/status/2009768492678139979)
-- **เผยแพร่เมื่อ:** 9 มกราคม 2569
-- **ภาษา:** ja
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=5339)**
-
----
-
-### No. 66: คอมิก / สตอรี่บอร์ด - ตารางสตอรี่บอร์ดผลิตภัณฑ์ 3x3 สำหรับพอร์ตโฟลิโอแบรนด์
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-ชุดคำสั่ง (prompt) แบบหลายเฟรมที่ซับซ้อน ซึ่งออกแบบมาเพื่อแปลงภาพอ้างอิงเดียวให้เป็นตารางสตอรี่บอร์ดขนาด 3x3 ที่สอดคล้องกันสำหรับพอร์ตโฟลิโอการสร้างแบรนด์ระดับไฮเอนด์ โดยกำหนดให้ต้องยึดมั่นในเอกลักษณ์ของผลิตภัณฑ์อ้างอิงอย่างเคร่งครัดในทั้งเก้าช่อง แต่ละช่องจะแสดงผลิตภัณฑ์จากมุมที่แตกต่างกัน บริบท หรือภาพระยะใกล้ โดยเน้นที่การออกแบบ วัสดุ และจังหวะภาพ
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพสุดท้ายเพียงภาพเดียว
-
-ตารางสตอรี่บอร์ดขนาด 3×3 [อัตราส่วน] ที่สะอาดตา พร้อมช่องขนาดเท่ากันเก้าช่อง [อัตราส่วน] ในอัตราส่วน [4:5]
-
-ใช้ภาพอ้างอิงเป็นข้อมูลอ้างอิงผลิตภัณฑ์หลัก รักษาผลิตภัณฑ์ การออกแบบบรรจุภัณฑ์ การสร้างแบรนด์ วัสดุ สี สัดส่วน และเอกลักษณ์โดยรวมให้เหมือนเดิมทุกประการในทั้งเก้าช่องตามภาพอ้างอิง ผลิตภัณฑ์ต้องยังคงจดจำได้ชัดเจนในทุกเฟรม ฉลาก โลโก้ และสัดส่วนต้องคงเดิมทุกประการ
-
-สตอรี่บอร์ดนี้เป็นการนำเสนอแบบจำลองดีไซเนอร์ระดับไฮเอนด์สำหรับพอร์ตโฟลิโอการสร้างแบรนด์ โดยเน้นที่รูปทรง องค์ประกอบ วัสดุ และจังหวะภาพ มากกว่าความสมจริงหรือเรื่องราวไลฟ์สไตล์ ภาพรวมควรให้ความรู้สึกที่ได้รับการคัดสรร มีความเป็นบรรณาธิการ และขับเคลื่อนด้วยการออกแบบ
-
-เฟรมที่ 1:
-ภาพผลิตภัณฑ์ด้านหน้าแบบฮีโร่ในสตูดิโอที่สะอาดตา พื้นหลังเป็นกลาง องค์ประกอบสมดุล การนำเสนอผลิตภัณฑ์ที่สงบและมั่นใจ
-
-เฟรมที่ 2:
-ภาพโคลสอัพโดยเน้นที่กึ่งกลางของผลิตภัณฑ์ เน้นพื้นผิว วัสดุ และรายละเอียดการพิมพ์
-
-เฟรมที่ 3:
-แสดงผลิตภัณฑ์อ้างอิงที่จัดวางในสภาพแวดล้อมที่เข้ากับแบรนด์และหมวดหมู่ผลิตภัณฑ์อย่างเป็นธรรมชาติ การจัดฉากในสตูดิโอที่ได้รับแรงบันดาลใจจากองค์ประกอบการออกแบบผลิตภัณฑ์และสีสัน
-
-เฟรมที่ 4:
-ผลิตภัณฑ์ที่แสดงในการใช้งานหรือการโต้ตอบบนพื้นหลังสตูดิโอที่เป็นกลาง มือและองค์ประกอบการโต้ตอบมีน้อยและถูกควบคุม ลักษณะที่ปรากฏเข้ากับสไตล์ของบรรจุภัณฑ์
-
-เฟรมที่ 5:
-องค์ประกอบไอโซเมตริกที่แสดงผลิตภัณฑ์หลายชิ้นจัดเรียงตามลำดับเรขาคณิตที่แม่นยำจากมุมไอโซเมตริกด้านบน ผลิตภัณฑ์ทั้งหมดวางอยู่ที่มุมไอโซเมตริกด้านบนเดียวกัน เว้นระยะห่างเท่ากัน สะอาด มีโครงสร้าง และเป็นกราฟิก
-
-เฟรมที่ 6:
-ผลิตภัณฑ์ลอยอยู่เอียงเล็กน้อยบนพื้นหลังที่เป็นกลางซึ่งเข้ากับจานสีของภาพอ้างอิง ตำแหน่งการลอยมีมุมและตั้งใจ ผลิตภัณฑ์ลอยอยู่ในอวกาศอย่างเป็นธรรมชาติ
-
-เฟรมที่ 7:
-เป็นภาพโคลสอัพพิเศษที่เน้นรายละเอียดเฉพาะของฉลาก ขอบ พื้นผิว หรือลักษณะของวัสดุ
-
-เฟรมที่ 8:
-ผลิตภัณฑ์ในฉากที่ไม่คาดคิดแต่มีสุนทรียภาพที่แข็งแกร่ง ให้ความรู้สึกโดดเด่น มีความเป็นบรรณาธิการ และน่าประทับใจ
-ฉากที่ไม่คาดคิดแต่มีสไตล์สูง อิงสตูดิโอและขับเคลื่อนโดยนักออกแบบ องค์ประกอบที่โดดเด่นที่ยกระดับแบรนด์
-
-เฟรมที่ 9:
-องค์ประกอบกว้างที่แสดงผลิตภัณฑ์ในการใช้งาน จัดวางในฉากดีไซเนอร์ที่ประณีต อุปกรณ์ประกอบฉากที่สะอาดตา การจัดแต่งที่ควบคุมได้ สอดคล้องกับส่วนที่เหลือของซีรีส์
-
-กล้องและสไตล์:
-ภาพสตูดิโอคุณภาพสูงพิเศษพร้อมรูปลักษณ์กล้องจริง มุมกล้องและเฟรมที่แตกต่างกันในแต่ละเฟรม ระยะชัดลึกที่ควบคุมได้ แสงที่แม่นยำ วัสดุและการสะท้อนที่ถูกต้อง ตรรกะของแสง จานสี อารมณ์ และภาษาภาพต้องสอดคล้องกันในทั้งเก้าช่องเป็นซีรีส์ที่เหนียวแน่น
-
-ผลลัพธ์:
-ตารางขนาด 3×3 ที่สะอาดตา ไม่มีขอบ ไม่มีข้อความ ไม่มีคำบรรยาย และไม่มีลายน้ำ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890742033_jktw5p_G_FaISRWkAAHtDT.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - ตารางสตอรี่บอร์ดผลิตภัณฑ์ 3x3 สำหรับพอร์ตโฟลิโอแบรนด์ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890742112_v27ays_G_FaISSXMAArcKp.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - ตารางสตอรี่บอร์ดผลิตภัณฑ์ 3x3 สำหรับพอร์ตโฟลิโอแบรนด์ - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890742437_dtia2h_G_FaISSXUAApmZI.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - ตารางสตอรี่บอร์ดผลิตภัณฑ์ 3x3 สำหรับพอร์ตโฟลิโอแบรนด์ - Image 3">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Vi](https://x.com/tehno_maniak)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/tehno_maniak/status/2013489628456636867)
+- **ผู้เขียน:** [Dakiny](https://x.com/Dakiny)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Dakiny/status/2013569080490652069)
 - **เผยแพร่เมื่อ:** 20 มกราคม 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6842)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=7012)**
 
 ---
 
-### No. 67: คอมิก / สตอรี่บอร์ด - พรอมต์สร้างมังงะ 10+ หน้า
+### No. 66: คอมิก / สตอรี่บอร์ด - พรอมต์สร้างมังงะ 10+ หน้า
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4957,7 +4974,7 @@ Instruction:
 
 ---
 
-### No. 68: คอมิก / สตอรี่บอร์ด - เปลี่ยนรูปภาพให้เป็นตัวละคร 4 สไตล์ที่ไม่เหมือนใคร
+### No. 67: คอมิก / สตอรี่บอร์ด - เปลี่ยนรูปภาพให้เป็นตัวละคร 4 สไตล์ที่ไม่เหมือนใคร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4990,7 +5007,7 @@ Instruction:
 
 ---
 
-### No. 69: คอมิก / สตอรี่บอร์ด - คนจริงแปลงร่างเป็นตัวการ์ตูนในเมืองแห่งอนาคต
+### No. 68: คอมิก / สตอรี่บอร์ด - คนจริงแปลงร่างเป็นตัวการ์ตูนในเมืองแห่งอนาคต
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5023,7 +5040,7 @@ Instruction:
 
 ---
 
-### No. 70: คอมิก / สตอรี่บอร์ด - การแปลงร่างไซบอร์กสุดแนบเนียนในรถไฟใต้ดิน
+### No. 69: คอมิก / สตอรี่บอร์ด - การแปลงร่างไซบอร์กสุดแนบเนียนในรถไฟใต้ดิน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5131,7 +5148,7 @@ Instruction:
 
 ---
 
-### No. 71: คอมิก / สตอรี่บอร์ด - การเรนเดอร์สไตล์กราฟิกโนเวล (สุนทรียภาพแบบ Sin City)
+### No. 70: คอมิก / สตอรี่บอร์ด - การเรนเดอร์สไตล์กราฟิกโนเวล (สุนทรียภาพแบบ Sin City)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5164,7 +5181,7 @@ Instruction:
 
 ---
 
-### No. 72: คอมิก / สตอรี่บอร์ด - เปลี่ยนเซลฟี่เป็นภาพเคลย์เมชัน
+### No. 71: คอมิก / สตอรี่บอร์ด - เปลี่ยนเซลฟี่เป็นภาพเคลย์เมชัน
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5203,7 +5220,7 @@ Instruction:
 
 ---
 
-### No. 73: คอมิก / สตอรี่บอร์ด - พรอมต์ตารางการเล่าเรื่องสุนทรียภาพภาพยนตร์อินดี้
+### No. 72: คอมิก / สตอรี่บอร์ด - พรอมต์ตารางการเล่าเรื่องสุนทรียภาพภาพยนตร์อินดี้
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5289,7 +5306,7 @@ JSON prompt ที่ซับซ้อนและมีโครงสร้�
 
 ---
 
-### No. 74: คอมิก / สตอรี่บอร์ด - การเปรียบเทียบการสร้างฉากการต่อสู้
+### No. 73: คอมิก / สตอรี่บอร์ด - การเปรียบเทียบการสร้างฉากการต่อสู้
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5331,7 +5348,7 @@ JSON prompt ที่ซับซ้อนและมีโครงสร้�
 
 ---
 
-### No. 75: คอมิก / สตอรี่บอร์ด - Negative Prompting สำหรับการสร้างมังงะใน NanoBanana Pro
+### No. 74: คอมิก / สตอรี่บอร์ด - Negative Prompting สำหรับการสร้างมังงะใน NanoBanana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5368,7 +5385,7 @@ JSON prompt ที่ซับซ้อนและมีโครงสร้�
 
 ---
 
-### No. 76: คอมิก / สตอรี่บอร์ด - LEGO หุ่นจำลองฉากภาพยนตร์สยองขวัญเรื่อง 'The Nun'
+### No. 75: คอมิก / สตอรี่บอร์ด - LEGO หุ่นจำลองฉากภาพยนตร์สยองขวัญเรื่อง 'The Nun'
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5486,7 +5503,7 @@ JSON พร้อมท์เชิงสร้างสรรค์สำหร
 
 ---
 
-### No. 77: คอมิก / สตอรี่บอร์ด - ตารางความแตกต่างของสีหน้าฮีโรอีน (Heroine Expression Difference Grid)
+### No. 76: คอมิก / สตอรี่บอร์ด - ตารางความแตกต่างของสีหน้าฮีโรอีน (Heroine Expression Difference Grid)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5525,7 +5542,7 @@ JSON พร้อมท์เชิงสร้างสรรค์สำหร
 
 ---
 
-### No. 78: คอมิก / สตอรี่บอร์ด - สตอรี่บอร์ดภาพสามส่วนคู่รักแนวภาพยนตร์ที่สมจริงเป็นพิเศษ
+### No. 77: คอมิก / สตอรี่บอร์ด - สตอรี่บอร์ดภาพสามส่วนคู่รักแนวภาพยนตร์ที่สมจริงเป็นพิเศษ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5630,7 +5647,7 @@ JSON พร้อมท์เชิงสร้างสรรค์สำหร
 
 ---
 
-### No. 79: คอมิก / สตอรี่บอร์ด - ไคจูคิตเทนทำลายริมน้ำซิดนีย์
+### No. 78: คอมิก / สตอรี่บอร์ด - ไคจูคิตเทนทำลายริมน้ำซิดนีย์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5682,7 +5699,7 @@ JSON พร้อมท์เชิงสร้างสรรค์สำหร
 
 ---
 
-### No. 80: คอมิก / สตอรี่บอร์ด - ยักษิณี Urban Fantasy Taylor Swift กับโครงสร้างนั่งร้าน
+### No. 79: คอมิก / สตอรี่บอร์ด - ยักษิณี Urban Fantasy Taylor Swift กับโครงสร้างนั่งร้าน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5759,7 +5776,7 @@ JSON พร้อมท์เชิงสร้างสรรค์สำหร
 
 ---
 
-### No. 81: คอมิก / สตอรี่บอร์ด - พรอมต์ภาพการ์ตูนพลังสูง พร้อมพิมพ์
+### No. 80: คอมิก / สตอรี่บอร์ด - พรอมต์ภาพการ์ตูนพลังสูง พร้อมพิมพ์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5814,7 +5831,7 @@ JSON พร้อมท์เชิงสร้างสรรค์สำหร
 
 ---
 
-### No. 82: คอมิก / สตอรี่บอร์ด - ภาพถ่ายบุคคลแบบบังคับมุมมองเหนือจริง (ชายร่างยักษ์และชายร่างจิ๋ว)
+### No. 81: คอมิก / สตอรี่บอร์ด - ภาพถ่ายบุคคลแบบบังคับมุมมองเหนือจริง (ชายร่างยักษ์และชายร่างจิ๋ว)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5849,7 +5866,7 @@ JSON พร้อมท์เชิงสร้างสรรค์สำหร
 
 ---
 
-### No. 83: คอมิก / สตอรี่บอร์ด - Gemini System Prompt สำหรับการสร้างมังงะ 10 หน้าใน Nano Banana Pro
+### No. 82: คอมิก / สตอรี่บอร์ด - Gemini System Prompt สำหรับการสร้างมังงะ 10 หน้าใน Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5952,7 +5969,7 @@ Small clear text "X" in the bottom-right corner.
 
 ---
 
-### No. 84: คอมิก / สตอรี่บอร์ด - พร้อมท์ตารางเรื่องเล่าความทรงจำที่ชวนคิดถึง
+### No. 83: คอมิก / สตอรี่บอร์ด - พร้อมท์ตารางเรื่องเล่าความทรงจำที่ชวนคิดถึง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6039,68 +6056,397 @@ Small clear text "X" in the bottom-right corner.
 
 ---
 
-### No. 85: การตลาดผลิตภัณฑ์ - พรอมต์: ไอดอลเสมือนจริงในชุดว่ายน้ำสีกรมท่า
+### No. 84: การตลาดผลิตภัณฑ์ - Refined Editorial Portrait in a Late Autumn City Park
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-ข้อความแจ้งการสร้างภาพที่สมจริงและมีรายละเอียดสำหรับ Nano Banana Pro โดยเน้นที่ไอดอลหญิงชาวเอเชียที่สวยงามในชุดว่ายน้ำแข่งขันสีน้ำเงินเข้มรัดรูป พร้อมอุปกรณ์เสริมเฉพาะและฉากหลังแบบมินิมอล ข้อความแจ้งนี้มีโครงสร้างในรูปแบบ JSON ทำให้สามารถแก้ไของค์ประกอบต่างๆ ได้ง่าย เช่น โลโก้ข้อความบนชุด
+A prompt structured for generating a refined, cinematic editorial image of a woman in a late autumn city park. She is seated on a minimalist bench, wearing elegant black tailored pants and an embroidered top. The focus is on conveying quiet confidence and timeless style using soft overcast lighting, a cool color palette, and shallow depth of field.
 
 #### 📝 คำสั่ง
 
 ```
 {
-  "prompt_data": {
-    "subject": {
-      "basics": "ผู้หญิง 1 คน, เดี่ยว",
-      "demographics": "หญิงสาวชาวเอเชียวัย 20 ปี สไตล์ไอดอลที่สวยสะดุดตา",
-      "hair": "ผมยาวตรงสีดำสนิทพร้อมหน้าม้าเต็มหน้าผาก",
-      "eyes": "ดวงตาสีฟ้าอ่อนคมกริบ",
-      "skin": "ผิวขาวเนียนไร้ที่ติ",
-      "expression": "สีหน้าดูน่ารักแต่แฝงความเย้ายวน มองมาที่ผู้ชม"
+  "type": "image_generation_prompt",
+  "style": "refined editorial, cinematic, Parisian-inspired elegance",
+  "aspect_ratio": "4:5",
+  "scene": {
+    "location": "quiet city park",
+    "season": "late autumn",
+    "environment": {
+      "ground": "textured stone paving scattered with fallen leaves",
+      "trees": "bare branches framing the background",
+      "sky": "soft overcast sky",
+      "atmosphere": "calm, elegant, introspective"
+    }
+  },
+  "composition": {
+    "subject_position": "seated sideways on a minimalist metal bench",
+    "posture": "relaxed yet intentional",
+    "legs": {
+      "one_leg": "extended",
+      "other_leg": "gently bent",
+      "feet": "heels resting on stone paving"
     },
-    "attire": {
-      "main_outfit": {
-        "item": "ชุดว่ายน้ำแข่งขันสีน้ำเงินเข้มรัดรูป",
-        "details": [
-          "ขอบสีขาวตัดกันที่สายและด้านข้าง",
-          "เว้าสูงถึงต้นขา เผยให้เห็นโคนขา",
-          "เนื้อผ้ามันวาวเหมือนเปียกน้ำ"
-        ],
-        "branding": "โลโก้ข้อความสีขาวตัวหนา '{argument name=\"logo text\" default=\"BeautyVerse\"}' บริเวณหน้าอก"
-      },
-      "legwear": [
-        "ถุงน่องเหนือเข่าสีดำโปร่งแสง",
-        "ขอบลูกไม้สีเข้มสำหรับถุงน่อง"
+    "head_pose": "turned slightly away from the camera",
+    "hands": [
+      "one hand resting near the bench edge",
+      "the other subtly adjusting hair or holding a small structured handbag"
+    ],
+    "depth_of_field": "shallow, subject in focus with softly blurred park surroundings"
+  },
+  "subject": {
+    "gender": "female",
+    "expression": "introspective, calm",
+    "hair": {
+      "length": "long",
+      "color": "dark",
+      "style": "softly flowing, lightly moved by a breeze"
+    },
+    "makeup": {
+      "style": "natural",
+      "details": "defined eyes for timeless elegance"
+    },
+    "wardrobe": {
+      "top": "fitted black long-sleeve top with delicate cream floral embroidery",
+      "bottom": "black tailored pants",
+      "tights": "sheer black tights worn under the pants",
+      "shoes": "classic black pointed heels",
+      "accessory": "small structured handbag"
+    }
+  },
+  "lighting": {
+    "type": "natural soft daylight",
+    "condition": "overcast",
+    "effect": "even illumination with gentle shadows"
+  },
+  "color_grading": {
+    "palette": "cool and neutral tones",
+    "contrast": "subtle contrast between dark outfit and pale autumn leaves"
+  },
+  "mood": {
+    "emotion": "quiet confidence, femininity, elegance",
+    "cinematic_feel": true
+  },
+  "quality": {
+    "realism": "high",
+    "detail_level": "editorial-level detail",
+    "finish": "cinematic, refined"
+  },
+  "output_goal": "Create a refined editorial-style image of a woman seated in a late-autumn city park, wearing elegant black pants and a black embroidered top, conveying calm introspection, timeless style, and cinematic femininity."
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977332633_ai9ce7_G_KHsieagAAYN3P.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Refined Editorial Portrait in a Late Autumn City Park - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/saniaspeaks_/status/2013821200112529846)
+- **เผยแพร่เมื่อ:** 21 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6977)**
+
+---
+
+### No. 85: การตลาดผลิตภัณฑ์ - ภาพประกอบการเปิดตัวผลิตภัณฑ์ที่สร้างผลกระทบสูง
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งที่กระชับซึ่งออกแบบมาเพื่อสร้างภาพเปิดตัวผลิตภัณฑ์ที่น่าประทับใจและสง่างาม โดยเน้นความเรียบง่าย พื้นหลังสีเข้ม แสงทิศทางที่น่าทึ่ง และคอนทราสต์ที่ควบคุมได้ เพื่อทำให้วัตถุหลักชิ้นเดียวดูสำคัญและพิเศษ
+
+#### 📝 คำสั่ง
+
+```
+ภาพเปิดตัวผลิตภัณฑ์ที่สร้างผลกระทบสูงสำหรับผลิตภัณฑ์ดิจิทัลระดับพรีเมียม
+พื้นหลังสีเข้ม หรูหรา
+วัตถุเด่นเพียงชิ้นเดียว แสงส่องทิศทางอย่างมีมิติ
+คอนทราสต์ที่ควบคุมได้ องค์ประกอบเรียบง่าย
+ให้ความรู้สึกแบบภาพยนตร์แต่ยังคงความสง่างาม
+สร้างสรรค์ขึ้นเพื่อช่วงเวลาแห่งการประกาศ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977252628_yvpqyb_G_I9hmyWMAMHKJi.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพประกอบการเปิดตัวผลิตภัณฑ์ที่สร้างผลกระทบสูง - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [SRKDAN](https://x.com/SRKDAN)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/SRKDAN/status/2013739815871881548)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6863)**
+
+---
+
+### No. 86: การตลาดผลิตภัณฑ์ - ภาพเหมือนของ Millie Bobby Brown กับเศษกระจกที่ระเบิดออก
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+JSON prompt ที่เฉพาะเจาะจงสูงสำหรับภาพถ่ายบุคคลแนว high-speed photography ที่น่าทึ่งของ Millie Bobby Brown ภาพนี้แสดงตัวแบบกำลังเอนตัวออกจากกรอบสมาร์ทโฟนขอบทองที่ลอยอยู่ รายล้อมไปด้วยเศษกระจกนิรภัยที่แตกกระจายและแข็งตัวซึ่งหักเหแสง โดยมีฉากหลังเป็นความว่างเปล่าสีดำสนิท
+
+#### 📝 คำสั่ง
+
+```
+"celebrity_model": "มิลลี บ็อบบี บราวน์",
+      "facial_features": {
+        "skin_texture": "ผิวเรียบเนียน ไร้ที่ติเหมือนภาพจากนิตยสาร พร้อมรูขุมขนที่คมชัด",
+        "eyes": "ดวงตาสีน้ำตาลเฮเซลขนาดใหญ่ จ้องมองขึ้นไปเล็กน้อยและไปทางซ้ายด้วยแววตาที่ชวนฝันและไม่แยแส",
+        "mouth": "ริมฝีปากเผยอเล็กน้อย (กรามผ่อนคลาย) ทาลิปสติกเนื้อแมตต์สีชมพูกุหลาบนุ่มนวล",
+        "hair": "ผมสีบลอนด์น้ำผึ้งเป็นลอน แสกกลาง ปล่อยยาวลงมาบนไหล่ มีผมบางเส้นที่พันอยู่กับเศษแก้ว"
+      },
+      "wardrobe": {
+        "garment": "เสื้อสายเดี่ยวผ้าไหม (camisole) สีเขียวอมน้ำเงิน/อความารีน พร้อมสายสปาเก็ตตี้เส้นเล็กมาก",
+        "fit": "เข้ารูปช่วงลำตัว เห็นกระดูกไหปลาร้าชัดเจน"
+      }
+    },
+    "exact_pose_anatomical": {
+      "framing": "ภาพบุคคลครึ่งตัว (ตั้งแต่หน้าอกถึงศีรษะ)",
+      "head_orientation": "เอียงประมาณ 10 องศาไปทางซ้ายของตัวแบบ",
+      "torso_orientation": "เอียง 15 องศาไปทางขวาของตัวแบบ",
+      "depth_positioning": "ตัวแบบสร้างเอฟเฟกต์ 3D ป๊อปอัพ โดยเอนตัวไปข้างหน้าออกจากระนาบของหน้าจอโทรศัพท์"
+    },
+    "scene_and_props": {
+      "phone_frame": "โครงสมาร์ทโฟนขอบทอง (สไตล์ iPhone Pro) ลอยเอียง 15 องศาในความว่างเปล่าสีดำ โครงโทรศัพท์ทำหน้าที่เป็นประตูมิติ",
+      "glass_physics": {
+        "shards": "เศษกระจกนิรภัยที่แตกกระจายอย่างรุนแรง เศษแก้วขนาดใหญ่ ขรุขระ คล้ายเพชร ลอยนิ่งกลางอากาศในส่วนหน้าสุด (ใกล้เลนส์)",
+        "dispersion": "อนุภาคฝุ่นแก้วขนาดเล็กกระจายอยู่รอบๆ รอยแตกหลัก",
+        "refraction": "เศษแก้วหักเหแสงสีเขียวอมน้ำเงินของชุดและแสงไฟสตูดิโอสีขาว ทำให้เกิดขอบสีรุ้ง"
+      },
+      "background": "ความว่างเปล่าสีดำสนิท (#000000) พร้อมการสะท้อนแสงไล่ระดับสีเขียวอมน้ำเงินเล็กน้อยที่ด้านล่างสุด"
+    },
+    "camera_technical_values": {
+      "lens_focal_length": "เลนส์มาโคร 100 มม. (เพื่อจับภาพบุคคลและพื้นผิวแก้วพร้อมกันด้วยการบีบอัดเล็กน้อย)",
+      "aperture": "f/11 (ระยะชัดลึกมาก ดวงตาของตัวแบบและเศษแก้วด้านหน้าคมชัดทั้งคู่)",
+      "shutter_speed": "1/8000s (การถ่ายภาพซิงค์ความเร็วสูงเพื่อหยุดการระเบิดโดยไม่มีภาพเบลอจากการเคลื่อนไหว)",
+      "iso": "ISO 50",
+      "camera_angle": "ระดับสายตาเมื่อเทียบกับตัวแบบ มองขึ้นไปที่โทรศัพท์ที่ลอยอยู่เล็กน้อย",
+      "lighting_setup": {
+        "key_light": "ไฟหลักแบบ Soft Beauty Dish วางอยู่ด้านหน้าซ้าย ส่องสว่างใบหน้าอย่างสม่ำเสมอ",
+        "rim_light": "ไฟขอบสีขาวนวลเน้นขอบของเศษแก้วและการแยกเส้นผมของตัวแบบ",
+        "reflections": "แสงสะท้อนแบบ High-gloss specular บนพื้นผิวแก้ว"
+      }
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977274322_7q3f3g_G-u2yzIbwAAPKDP.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพเหมือนของ Millie Bobby Brown กับเศษกระจกที่ระเบิดออก - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977274446_fpyogj_G-u2y47bQAQWeVX.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพเหมือนของ Millie Bobby Brown กับเศษกระจกที่ระเบิดออก - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Iqra Saifi](https://x.com/IqraSaifiii)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/IqraSaifiii/status/2013714399199142004)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6893)**
+
+---
+
+### No. 87: การตลาดผลิตภัณฑ์ - คอลลาจแฟชั่นตารางสี่ช่อง (กางเกงขาสั้นสีเขียวมิ้นต์)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+JSON พร้อมต์สำหรับสร้างภาพคอลลาจแฟชั่นไลฟ์สไตล์แบบสมจริงในรูปแบบตารางสี่ช่อง โดยมีนางแบบเป็นหญิงสาวผมบลอนด์รูปร่างดี โพสท่าอย่างมั่นใจในห้องครัวสไตล์มินิมอลทันสมัย สวมเสื้อครอปสีขาวมีช่องเว้า และกางเกงขาสั้นเอวสูงสีเขียวมิ้นต์ เหมาะสำหรับเนื้อหาบนโซเชียลมีเดียหรือการตลาดแฟชั่น
+
+#### 📝 คำสั่ง
+
+```
+{
+  "type": "image_prompt",
+  "style": "ภาพถ่ายแฟชั่นไลฟ์สไตล์แบบสมจริง",
+  "composition": "ภาพคอลลาจแบบตารางสี่ช่อง",
+  "subject": {
+    "description": "ผู้หญิงผมบลอนด์รูปร่างดีโพสท่าอย่างมั่นใจในอาคาร",
+    "poses": [
+      "เอนตัวไปข้างหน้าบนเคาน์เตอร์ครัวพร้อมรอยยิ้ม",
+      "โพสท่าด้านข้างเน้นสรีระ",
+      "โพสท่าหันหลังโดยหันศีรษะมาทางกล้อง",
+      "โพสท่าหันหน้าตรงพร้อมเอามือเท้าสะเอว"
+    ],
+    "expression": "มั่นใจ, เป็นมิตร, ผ่อนคลาย",
+    "appearance": {
+      "hair": "ผมบลอนด์ยาวปล่อยสยายเป็นลอนอ่อนๆ",
+      "outfit": {
+        "top": "เสื้อครอปแขนสั้นสีขาวมีช่องเว้าตรงหน้าอก",
+        "bottom": "กางเกงขาสั้นรัดรูปเอวสูงสีเขียวมิ้นต์"
+      }
+    }
+  },
+  "environment": {
+    "location": "ห้องครัวสไตล์มินิมอลทันสมัย",
+    "features": [
+      "เคาน์เตอร์หินสีอ่อน",
+      "ตู้เก็บของสีกลาง",
+      "การจัดวางที่สะอาดตาและร่วมสมัย"
+    ]
+  },
+  "lighting": {
+    "type": "แสงไฟภายในอาคารแบบนุ่มนวล",
+    "source": "ไฟเพดานด้านบน",
+    "mood": "สะอาดตา, อบอุ่น, สวยงาม"
+  },
+  "camera": {
+    "angle": "ระดับสายตา",
+    "framing": "ช่วงกลางลำตัวถึงต้นขา",
+    "lens": "35mm",
+    "depth_of_field": "ตัวแบบคมชัดพร้อมพื้นหลังที่เบลอเล็กน้อย"
+  },
+  "color_palette": {
+    "dominant": ["ขาว", "เบจ", "โทนสีกลาง"],
+    "accent": ["เขียวมิ้นต์"]
+  },
+  "quality": {
+    "resolution": "สูง",
+    "sharpness": "คมชัด",
+    "realism": "สูง"
+  },
+  "use_case": [
+    "การตลาดแฟชั่น",
+    "เนื้อหาสำหรับโซเชียลมีเดีย",
+    "การสร้างแบรนด์ไลฟ์สไตล์เพื่อสุขภาพ",
+    "การโปรโมทสไตล์ UGC"
+  ]
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977262829_c3jx38_G_IX1hTWYAEkcBd.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - คอลลาจแฟชั่นตารางสี่ช่อง (กางเกงขาสั้นสีเขียวมิ้นต์) - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Vishnudxe/status/2013698195092853032)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6874)**
+
+---
+
+### No. 88: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นเหมือนจริงขั้นสุดในชุดมินิเดรสผ้าลูกไม้สีงาช้าง (ซ้ำ)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+JSON พรอมต์ที่มีรายละเอียดสูงและมีโครงสร้าง สำหรับสร้างภาพบุคคลแนวแฟชั่นชั้นสูงที่สมจริง พรอมต์ระบุการรักษาเอกลักษณ์อย่างเคร่งครัด, ท่าโพสโค้งเว้าโดยไขว้ขา, มินิเดรสผ้าลูกไม้สีงาช้าง, รองเท้าส้นสูงสีทองเมทัลลิก และการจัดแสงสตูดิโอแบบมืออาชีพสำหรับผลลัพธ์ความละเอียด 8k (นี่คือรายการซ้ำของ 2013588573065220479)
+
+#### 📝 คำสั่ง
+
+```
+{
+  "project_metadata": {
+    "version": "2.0",
+    "target_quality": "สมจริงขั้นสุด / โฟโตแกรมเมตริก",
+    "aspect_ratio": "3:4",
+    "reference_parameters": {
+      "identity_preservation": "สูง (คงรูปทรงใบหน้าและทรงผมจากภาพอ้างอิงอย่างเคร่งครัด)",
+      "facial_integrity": "คุณสมบัติใบหน้าไม่ถูกแก้ไข ไม่มีการบิดเบือน"
+    }
+  },
+  "subject_details": {
+    "human_attributes": {
+      "physique": "รูปร่างโค้งเว้า มีสัดส่วนที่ชัดเจน",
+      "skin_texture": "รายละเอียดระดับรูขุมขน ผิวเปล่งประกายอย่างเป็นธรรมชาติ การกระจายแสงใต้ผิวที่สมจริง",
+      "gaze": "สบตากับกล้องโดยตรง สีหน้าดูน่าดึงดูดและมั่นใจ"
+    },
+    "hair_specification": {
+      "style": "ตรงตามรูปภาพที่แนบมา",
+      "texture": "เส้นผมละเอียด เงางามสมจริง การเรนเดอร์เส้นใยที่มีความละเอียดสูง",
+      "interaction": "ทิ้งตัวลงอย่างเป็นธรรมชาติ ตามท่าที่นั่ง"
+    },
+    "pose_composition": {
+      "action": "นั่งอยู่บนพื้นผิวที่เรียบง่าย",
+      "orientation": "ลำตัวเอนไปข้างหน้าเล็กน้อยเข้าหากล้อง",
+      "lower_body": "ไขว้ขาและยก/ชูขึ้นมาด้านหน้า",
+      "focal_emphasis": "เน้นความยาวของขาและรองเท้าส้นสูง"
+    }
+  },
+  "wardrobe_and_styling": {
+    "primary_garment": {
+      "item": "มินิเดรส",
+      "color": "สีงาช้าง / สีขาวนวล",
+      "material": "ผ้าไหมหรือผ้าซาตินเป็นฐาน พร้อมลูกไม้ทับซ้อนที่ประณีต",
+      "design_elements": [
+        "สายเดี่ยวเส้นเล็กละเอียด",
+        "งานปักดอกไม้ 3D ที่ละเอียดอ่อน",
+        "ขอบลูกไม้หยักละเอียด",
+        "รูปทรงเข้ารูปเน้นส่วนโค้งเว้า"
       ]
+    },
+    "footwear": {
+      "type": "รองเท้าแตะส้นสูงส้นเข็ม",
+      "finish": "สีทองเมทัลลิก สะท้อนแสง",
+      "fastening": "สายรัดข้อเท้าเล็กละเอียดพร้อมหัวเข็มขัดขนาดเล็ก",
+      "presentation": "เงางาม สะท้อนแสงไฟสตูดิโอ"
     },
     "accessories": {
-      "style": "เครื่องประดับทองหรูหรา",
-      "items": [
-        "นาฬิกาทองบาง",
-        "สร้อยคอทองคำเส้นเล็กพร้อมจี้ทับทิม",
-        "ต่างหูทองคำระย้า"
-      ]
+      "earrings": "ต่างหูสตั๊ดหรือห่วงทองเล็กๆ สไตล์มินิมอล",
+      "jewelry_tone": "สีทองเมทัลลิกโทนอุ่น"
+    }
+  },
+  "environment_and_lighting": {
+    "setting": "สตูดิโอหรูหราสไตล์มินิมอล หรือฉากหลังสถาปัตยกรรมโทนกลาง",
+    "lighting_setup": {
+      "primary": "ไฟหลักแบบ Softbox เพื่อสีผิวที่สม่ำเสมอ",
+      "secondary": "ไฟขอบบางๆ เพื่อเน้นส่วนโค้งของร่างกายและพื้นผิวเส้นผม",
+      "ambience": "ความสะอาดตา ความซับซ้อน สุนทรียภาพแบบแฟชั่นชั้นสูง"
     },
-    "pose_and_action": {
-      "posture": "นั่งสบายๆ ชันเข่าขึ้น",
-      "interaction": "พิงกำแพงคอนกรีตสีเทาแบบโมเดิร์น"
+    "color_palette": [
+      "สีงาช้าง",
+      "สีทองโทนอุ่น",
+      "สีผิวโทนกลาง",
+      "พื้นหลังสีอ่อนนุ่ม"
+    ]
+  },
+  "technical_render_specs": {
+    "camera": {
+      "lens": "เลนส์ฟิกซ์ 85 มม. (เหมาะสำหรับภาพบุคคล)",
+      "aperture": "f/2.8 เพื่อให้วัตถุคมชัดและฉากหลังเบลออย่างนุ่มนวล",
+      "sensor": "Full-frame CMOS",
+      "shot_type": "เต็มตัว / ครึ่งตัว"
     },
-    "environment": {
-      "setting": "ภายในห้องสีเทาเรียบง่ายสไตล์มินิมอล",
-      "background_elements": "กำแพงคอนกรีตสีเทาแบบโมเดิร์น"
-    },
-    "style_and_technical": [
-      "เงาอ่อนๆ",
-      "แสงนุ่มนวลแบบภาพยนตร์",
-      "ใบหน้าและดวงตารายละเอียดสูง",
-      "วัสดุสมจริง",
-      "สมจริงเหมือนภาพถ่าย",
-      "โฟกัสคมชัด",
-      "8k",
-      "3:4"
+    "resolution_quality": [
+      "8k UHD",
+      "พื้นผิวที่มีรายละเอียดสูง",
+      "การสะท้อนแสงแบบ Ray-traced บนพื้นผิวโลหะ",
+      "คุณภาพระดับมาสเตอร์พีซ"
     ]
   }
 }
@@ -6111,21 +6457,373 @@ Small clear text "X" in the bottom-right corner.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890712914_k5bpoq_G_Eft4VXUAADwdX.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - พรอมต์: ไอดอลเสมือนจริงในชุดว่ายน้ำสีกรมท่า - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768977270428_ps065l_G_IV8zSWIAAzb2P.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นเหมือนจริงขั้นสุดในชุดมินิเดรสผ้าลูกไม้สีงาช้าง (ซ้ำ) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977270547_aysyyl_G_IV8x0XwAY7YzI.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นเหมือนจริงขั้นสุดในชุดมินิเดรสผ้าลูกไม้สีงาช้าง (ซ้ำ) - Image 2">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [BeautyVerse](https://x.com/BeautyVerse_Lab)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/BeautyVerse_Lab/status/2013425391806095403)
+- **ผู้เขียน:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Vishnudxe/status/2013696121244393891)
 - **เผยแพร่เมื่อ:** 20 มกราคม 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6809)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6885)**
 
 ---
 
-### No. 86: การตลาดผลิตภัณฑ์ - พรอมต์การสร้างวัตถุจากเส้นด้ายถัก
+### No. 89: การตลาดผลิตภัณฑ์ - พรอมต์ภาพบุคคลบรรณาธิการ Gal Gadot ที่มีรายละเอียดสูงเป็นพิเศษ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+JSON พรอมต์ที่ละเอียดและเป็นเทคนิคอย่างยิ่งสำหรับการสร้างแบบจำลอง Gal Gadot ที่เหมือนจริงในภาพถ่ายบุคคลแนวแฟชั่นชั้นสูง พรอมต์ระบุการตั้งค่ากล้องที่แม่นยำ (85 มม. f/1.4, ความละเอียด 8K), แสงที่ซับซ้อน (การตั้งค่า Mood Editorial พร้อมไฟหลักสีแดงเข้ม) และรวมคำแนะนำสำหรับการจำลองข้อบกพร่องของกล้อง เช่น เกรนฟิล์ม, ความคลาดเคลื่อนสี และ sensor bleed เพื่อความสมจริงสูงสุดและการควบคุมความสวยงาม
+
+#### 📝 คำสั่ง
+
+```
+{
+  "camera": {
+    "device_examples": [
+      "Full-frame mirrorless: Sony A7R IV (61MP CMOS)"
+    ],
+    "sensor_type": "full-frame 35mm CMOS",
+    "lens": "85mm f/1.4 G-Master prime"
+  },
+  "resolution_and_output": {
+    "resolution": "8k (7680×4320)",
+    "aspect_ratio": "2:3 (editorial vertical)",
+    "file_format": "TIFF 16-bit"
+  },
+  "camera_defects_and_artifacts": [
+    "extremely_fine_film_grain (ISO 100 emulation)",
+    "subtle_chromatic_aberration on jewelry highlights",
+    "high-frequency_sharpness_variation (center focus sharp, slight edge fall-off)",
+    "vignetting: -0.8 stops",
+    "micro-scratches on background velvet",
+    "dust specks (3-4 tiny particles on lens)",
+    "coma on off-axis bokeh",
+    "sensor_bleed in deep reds",
+    "color_banding avoidance with tonal noise",
+    "highlight bloom on skin highlights (0.05 strength)"
+  ],
+  "composition": {
+    "style": "editorial high-fashion portrait",
+    "directions": [
+      "ตัวแบบอยู่ตรงกลางโดยมีพื้นที่ว่างด้านบน",
+      "จัดเฟรมแบบ Medium close-up ตั้งแต่หน้าอกขึ้นไป",
+      "ความลึกแบบเลเยอร์พร้อมฉากหลังเป็นผ้าม่านกำมะหยี่สีแดงเข้ม"
+    ],
+    "camera_settings_suggestion": {
+      "shutter_speed": "1/160s",
+      "aperture": "f/2.0 (เพื่อให้ได้ความลึกในขณะที่ใบหน้ายังคมชัด)",
+      "iso": "ISO 100",
+      "white_balance": "5400K (เป็นกลาง/โทนอุ่น)"
+    }
+  },
+  "pose_and_model_direction": {
+    "precision_required": "สูง",
+    "pose_library": [
+      "มืออยู่ใกล้ปาก นิ้วชี้แตะริมฝีปากล่างเบาๆ",
+      "ไหล่หมุน 15°",
+      "นิ้วเรียวยาวพร้อมเล็บแหลมสีแดง"
+    ],
+    "facial_expression": "เย้ายวน สายตาเป็นกลาง ริมฝีปากเผยอเล็กน้อย"
+  },
+  "celebrity_identity_control": {
+    "celebrity_reference": "{argument name=\"celebrity name\" default=\"Gal Gadot\"}",
+    "instructions": "เหมือน Gal Gadot ทุกประการ โครงสร้างใบหน้า กราม และรูปตาเหมือนเป๊ะ ความคล้ายคลึง 100%"
+  },
+  "body_proportions_and_anatomy_control": {
+    "fields": {
+      "height_cm": "178",
+      "body_type": "ผอมเพรียวแบบนักกีฬา",
+      "measurements_cm": {
+        "bust": "86",
+        "waist": "58",
+        "hips": "86"
+      },
+      "muscle_definition_level": "เล็กน้อย (เน้นกระดูกไหปลาร้า)",
+      "pose_emphasis": "เนินอกและแนวไหล่"
+    },
+    "anatomical_precision": "รูขุมขนบนผิวหนังที่มองเห็นได้, เส้นเอ็นคอที่เป็นธรรมชาติ, ข้อต่อนิ้วที่สมจริง"
+  },
+  "ethnicity_and_age": {
+    "ethnicity_description": "เมดิเตอร์เรเนียน, สีผิวโอลีฟอ่อน",
+    "age_approx": "38 ปี (ผู้ใหญ่)"
+  },
+  "lighting_and_shadows": {
+    "lighting_setups": [
+      {
+        "name": "Mood Editorial",
+        "description": "ไฟหลักสีแดงเข้มจากด้านขวา 45° ไฟเติมด้านบนแบบนุ่มนวล เงาตกกระทบหนักที่ด้านซ้ายของเฟรม",
+        "shadow_profile": "สีดำเข้มในรอยพับกำมะหยี่, เงาจางๆ บนผิวหนัง"
+      }
+    ],
+    "light_temperature_kelvin": {
+      "key": 3200,
+      "fill": 3000
+    }
+  },
+  "color_grading_and_filters": {
+    "LUT_examples": [
+      "Kodak 2383 film emulation"
+    ],
+    "cinematic_filter": {
+      "style": "การเปลี่ยนโทนสีแดงเข้ม/เบอร์กันดี",
+      "strength": 0.4
+    },
+    "contrast_and_tone": {
+      "global_contrast": "+12",
+      "midtone_shift": "-5"
+    }
+  },
+  "processing_and_post": {
+    "sharpness_profile": "microcontrast +15 ที่ดวงตาและริมฝีปาก",
+    "retouching_level": "editorial_minimal (รักษารายละเอียดผิวและไฝทั้งหมด)",
+    "noise_and_grain": "ultra-fine grain_stren"
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977286354_fq203p_G_IRg0vWwAASLm8.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - พรอมต์ภาพบุคคลบรรณาธิการ Gal Gadot ที่มีรายละเอียดสูงเป็นพิเศษ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [QuestGlitch](https://x.com/AIRevSpot)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/AIRevSpot/status/2013691255394554172)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6908)**
+
+---
+
+### No. 90: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาผลิตภัณฑ์เชิงแนวคิดเหนือจริงสำหรับยาเม็ดช่วยนอนหลับ 'PILLow'
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพนิ่งโฆษณาแนวคิดแบบมินิมอลสำหรับยานอนหลับสมมติชื่อ 'PILLow' โดยมีขวดแก้วสีอำพันขนาดใหญ่ที่กำลังเทหมอนผ้ากำมะหยี่ขนาดเล็กที่เย็บเป็นลวดลายลงบนพื้นผิวสีน้ำเงินด้าน เน้นความเหนือจริง แสงไฟเชิงพาณิชย์ที่สะอาดตา และพื้นที่ว่างสำหรับแบรนด์ที่ชัดเจน
+
+#### 📝 คำสั่ง
+
+```
+ภาพนิ่งโฆษณาแบบมินิมอล แสดงขวดอาหารเสริมแก้วสีเหลืองอำพันขนาดใหญ่ที่วางตะแคงอยู่ โดยมีฝาสีดำที่เปิดอยู่และวางอยู่ใกล้ ๆ ฉลากขวดเขียนว่า "Use for Charging" ด้วยตัวอักษรที่สะอาดตาและทันสมัย จากปากขวด มีหมอนสีขาวขนาดเล็กหลายใบหกออกมาบนพื้นผิวสีน้ำเงินด้านที่เรียบเนียน จัดวางอย่างเป็นธรรมชาติราวกับว่าถูกเทออกมา
+
+หมอนเหล่านี้มีความนุ่มนิ่ม เป็นรูปสี่เหลี่ยมผืนผ้า มีการเย็บแบบควิลท์ และดูหรูหรา คล้ายกับหมอนหนุนขนาดเล็กที่ออกแบบตามหลักสรีรศาสตร์ มีความแตกต่างทางสายตาที่ชัดเจนระหว่างแก้วสีเหลืองอำพันเข้ม หมอนสีขาวสะอาดตา และพื้นหลังสีน้ำเงินหม่น
+
+องค์ประกอบภาพ: ภาพผลิตภัณฑ์มุมสูง/สามในสี่ส่วน โดยขวดวางอยู่ด้านบนซ้าย หมอนกระจายตัวในแนวทแยงมุมทั่วทั้งเฟรมไปทางด้านล่างขวา มีพื้นที่ว่างด้านล่างสำหรับข้อความแบรนด์ "PILLow"
+
+แสง: แสงสตูดิโอพร้อมเงาที่นุ่มนวลและมีทิศทาง ความคมชัดสูง การสะท้อนแสงบนแก้วที่ละเอียดอ่อน ไฮไลท์ที่ควบคุมได้
+สไตล์: ภาพถ่ายผลิตภัณฑ์เชิงพาณิชย์ที่ทันสมัย สุนทรียภาพการโฆษณาเชิงแนวคิดแบบเหนือจริง
+ชุดสี: พื้นหลังสีน้ำเงินเข้ม แก้วสีเหลืองอำพันอบอุ่น สิ่งทอสีขาว เน้นสีดำ
+อารมณ์: สงบ, ฉลาด, ผ่อนคลาย, ร่วมสมัย
+ตัวบ่งชี้คุณภาพ: โฟกัสคมชัดเป็นพิเศษ, ความละเอียดสูง, รูปลักษณ์แคมเปญโฆษณาแบบมืออาชีพ
+
+ข้อความปฏิเสธเสริม
+
+ฉากที่รก, แสงที่รุนแรง, พื้นผิวพลาสติก, คอนทราสต์ต่ำ, เงาที่ยุ่งเหยิง, ข้อความบิดเบี้ยว, วัสดุที่ไม่สมจริง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977257576_7k95ul_G_HesMUXEAEKZ-L.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาผลิตภัณฑ์เชิงแนวคิดเหนือจริงสำหรับยาเม็ดช่วยนอนหลับ 'PILLow' - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Vishnudxe/status/2013635362175029432)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6867)**
+
+---
+
+### No. 91: ภาพหลักสำหรับอีคอมเมิร์ซ - Abstract Chinese Landscape Miniatures Prompt
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 คำอธิบาย
+
+A Chinese prompt for generating miniature landscapes in an abstract Chinese aesthetic style. The prompt specifies a close-up shot of a miniature landscape with the texture of jade and emerald, outlined in gold thread, featuring a minimalist Chinese pavilion on the mountains and a small boat on a jade river, rendered in a clean, product-level style suitable for a brochure cover.
+
+#### 📝 คำสั่ง
+
+```
+Miniature landscape, close-up shot, abstract Chinese landscape, Eastern aesthetic concept, jade and emerald texture, gold thread outlining, a minimalist Chinese pavilion on the mountains, a small boat in a river made of jade, minimalist style design, brochure cover, product-level rendering effect
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977349474_4y3ltj_G_HFp6wXcAA1Qvt.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - Abstract Chinese Landscape Miniatures Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977349553_clpfuz_G_HFp6qXQAAH9uY.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - Abstract Chinese Landscape Miniatures Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977349646_9k4849_G_HFp65XEAAXQiW.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - Abstract Chinese Landscape Miniatures Prompt - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977351216_6cjto3_G_HFp6vXkAARt0f.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - Abstract Chinese Landscape Miniatures Prompt - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [MarioTan](https://x.com/TanShilong)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/TanShilong/status/2013607884643606679)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** zh
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=7001)**
+
+---
+
+### No. 92: ภาพหลักสำหรับอีคอมเมิร์ซ - Ultra-Realistic Chocolate Bar Commercial Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A prompt for generating an ultra-realistic commercial image of a chocolate bar, focusing on high-fidelity textures like melted chocolate, visible cocoa details, gloss, and adding dynamic elements like splashes and floating crumbs, suitable for bold social media advertising.
+
+#### 📝 คำสั่ง
+
+```
+Use the uploaded product image as reference. Create an ultra-realistic commercial image of a {argument name="product name" default="Garoto"} chocolate bar. Show a broken bar with melted chocolate texture, visible cocoa details and rich gloss. Add subtle chocolate splashes and floating crumbs. Clean studio setup, vibrant colored background, bold advertising style for social media. 8K ultra realistic, high sharpness, high contrast, professional lighting with realistic shadows and highlights, no text, no watermark, no blur, no distortion, no low quality, no cartoonish style
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977326206_jvjm7p_G_GsB0WXAAEqQZH.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - Ultra-Realistic Chocolate Bar Commercial Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977326603_cp2pee_G_GsBtSW0AA3TUf.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - Ultra-Realistic Chocolate Bar Commercial Prompt - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [𝐌](https://x.com/Strength04_X)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Strength04_X/status/2013579683686961503)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6969)**
+
+---
+
+### No. 93: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพอาหารเชิงพาณิชย์แบบ Minimalist Exploded View
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+JSON prompt สำหรับสร้างภาพถ่ายอาหารเชิงพาณิชย์ระดับไฮเอนด์ในสไตล์มินิมอล โดยระบุสองฉาก: ครัวซองต์ช็อกโกแลตลอยได้ และแซนด์วิชอะโวคาโดลอยได้ ซึ่งทั้งสองฉากแสดงในมุมมองแบบแยกชิ้นส่วนบนพื้นหลังสีขาวสะอาดตา
+
+#### 📝 คำสั่ง
+
+```
+{
+  "project": "ซีรีส์อาหารเชิงพาณิชย์ระดับไฮเอนด์",
+  "visual_style": {
+    "aesthetic": "ภาพถ่ายโฆษณาแบบมินิมอล",
+    "lighting": "แสงสตูดิโอธรรมชาติแบบนุ่มนวล, กระจายแสง",
+    "background": "พื้นหลังสีขาวสะอาดตา",
+    "quality": "ความสมจริงระดับ 8K, รายละเอียดสูงพิเศษ, คอนทราสต์สูง",
+    "composition": "มุมมองแบบแยกส่วน, องค์ประกอบลอยตัว, โฟกัสคมชัด"
+  },
+  "scenes": [
+    {
+      "item": "ครัวซองต์ช็อกโกแลตลอยตัว",
+      "main_subject_details": "ชั้นแป้งสีทองกรอบ, โรยน้ำตาลไอซิ่ง, ไส้ช็อกโกแลตละลายเข้มข้นที่มองเห็นได้",
+      "suspended_elements": [
+        "ช็อกโกแลตชิ้น",
+        "อัลมอนด์สไลด์",
+        "เนยขูดเป็นเกลียว",
+        "เมล็ดกาแฟ"
+      ],
+      "shadow_details": "เงาจางๆ ด้านล่างเพื่อเพิ่มมิติ"
+    },
+    {
+      "item": "แซนด์วิชอะโวคาโดกูร์เมต์ลอยตัว",
+      "main_subject_details": "มุมมองแบบแยกส่วน, ขนมปังซาวร์โดว์สไลด์แบบชนบท, อะโวคาโดบดเนื้อครีม",
+      "suspended_elements": [
+        "แตงกวาสไลด์บาง",
+        "ไมโครกรีน",
+        "ผักชีลาวสด",
+        "เกลือทะเลผลึก",
+        "หยดน้ำมันมะกอก"
+      ],
+      "color_palette": "สีเขียวสดใส, พื้นผิวธรรมชาติแบบเอิร์ธโทน"
+    }
+  ]
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977246412_azuroz_G_Goe-AXIAARTbO.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพอาหารเชิงพาณิชย์แบบ Minimalist Exploded View - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977246338_lee0bz_G_Goe8iWUAAPlps.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพอาหารเชิงพาณิชย์แบบ Minimalist Exploded View - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Taaruk](https://x.com/Taaruk_)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Taaruk_/status/2013575775363232136)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6854)**
+
+---
+
+### No. 94: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์การสร้างวัตถุจากเส้นด้ายถัก
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6147,25 +6845,25 @@ Small clear text "X" in the bottom-right corner.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890733416_f2tclp_G_DlR6gWYAE3UZP.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - พรอมต์การสร้างวัตถุจากเส้นด้ายถัก - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768890733416_f2tclp_G_DlR6gWYAE3UZP.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์การสร้างวัตถุจากเส้นด้ายถัก - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890733497_p4jibb_G_Dlh19WcAAqKYa.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - พรอมต์การสร้างวัตถุจากเส้นด้ายถัก - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768890733497_p4jibb_G_Dlh19WcAAqKYa.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์การสร้างวัตถุจากเส้นด้ายถัก - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890733583_mp5qhy_G_DlR6NWUAACcU8.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - พรอมต์การสร้างวัตถุจากเส้นด้ายถัก - Image 3">
+<img src="https://cms-assets.youmind.com/media/1768890733583_mp5qhy_G_DlR6NWUAACcU8.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์การสร้างวัตถุจากเส้นด้ายถัก - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890734669_j9rf60_G_DlR6NWYAAFnge.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - พรอมต์การสร้างวัตถุจากเส้นด้ายถัก - Image 4">
+<img src="https://cms-assets.youmind.com/media/1768890734669_j9rf60_G_DlR6NWYAAFnge.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์การสร้างวัตถุจากเส้นด้ายถัก - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -6179,796 +6877,7 @@ Small clear text "X" in the bottom-right corner.
 
 ---
 
-### No. 87: การตลาดผลิตภัณฑ์ - พรอมต์บทความแฟชั่นพรมวิเศษสุดหรู
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-JSON prompt สำหรับสร้างภาพบรรณาธิการแฟชั่นชั้นสูง โดยมีผู้หญิงกำลังทะยานขึ้นบนพรมวิเศษที่ประดับประดาอย่างหรูหราเหนือน้ำทะเล เน้นแสงสีทองยามพระอาทิตย์ตกดินแบบภาพยนตร์ที่ส่องผ่านหมอกจาง ๆ, เสื้อผ้าหลายชั้นที่ซับซ้อนพร้อมผ้าที่พลิ้วไหว และมุมมองแบบโลว์แองเกิลเพื่อสร้างความลึกแบบภาพยนตร์ที่ชวนฝัน
-
-#### 📝 คำสั่ง
-
-```
-{
-  "options": {
-    "gender": [
-      "woman"
-    ]
-  },
-  "prompt_structure": {
-    "style": "ภาพแฟชั่นชั้นสูงแบบบรรณาธิการ",
-    "subject": {
-      "model": "ผู้หญิง",
-      "pose": "นั่งหรือยืน",
-      "action": "กำลังทะยานขึ้นบนพรมวิเศษที่บินได้"
-    },
-    "apparel": {
-      "description": "ชุดที่ซับซ้อน มีเลเยอร์ และมีโครงสร้างที่ชัดเจน",
-      "details": "พื้นผิวระดับพรีเมียมที่ได้รับแรงบันดาลใจจากแฟชั่นเฮาส์หรูหราสมัยใหม่",
-      "physics": "ผ้าพลิ้วไหวอย่างสง่างามในอากาศทะเลที่ชื้น"
-    },
-    "props": {
-      "item": "พรมวิเศษ",
-      "attributes": "{argument name=\"carpet details\" default=\"ประณีต วิจิตรบรรจง\"}"
-    },
-    "environment": {
-      "location": "เหนือทะเลเปิด",
-      "weather": "หมอกจางๆ ที่เคลื่อนตัวอย่างนุ่มนวล, หมอกควันหมุนวน, ละอองน้ำทะเล",
-      "background": "น้ำทะเลสีน้ำเงินเข้ม, หมอกหนาทึบบดบังขอบฟ้า",
-      "mood": "ชวนฝัน, ความลึกแบบภาพยนตร์"
-    },
-    "lighting": {
-      "type": "แสงสีทองยามเย็นที่อบอุ่นแบบภาพยนตร์",
-      "interaction": "ส่องทะลุหมอก, ส่องสว่างนางแบบอย่างนุ่มนวล, เน้นพื้นผิวผ้า"
-    },
-    "camera_settings": {
-      "angle": "มุมต่ำ",
-      "focus": "โฟกัสเต็มที่ที่ตัวแบบและฉาก"
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890691170_lhqun5_G_DPOw_XAAADSDC.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - พรอมต์บทความแฟชั่นพรมวิเศษสุดหรู - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890691210_ix0xqb_G_DPOw-WAAAbC-p.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - พรอมต์บทความแฟชั่นพรมวิเศษสุดหรู - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Lex](https://x.com/lexx_aura)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/lexx_aura/status/2013336900946350096)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6776)**
-
----
-
-### No. 88: การตลาดผลิตภัณฑ์ - แฟชั่นสตรีทสไตล์หรูในเมืองยุโรป
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-นี่คือ JSON prompt ที่มีความซับซ้อนทางเทคนิค ซึ่งออกแบบมาเพื่อสร้างภาพบรรณาธิการแฟชั่นแนวสตรีทระดับไฮเอนด์ในเมืองแถบยุโรป โดยจำเป็นต้องรักษาเอกลักษณ์ของบุคคลอย่างเคร่งครัดตามภาพอ้างอิงใบหน้า และสร้างฉากขึ้นใหม่ตามภาพอ้างอิงฉาก พร้อมระบุรายละเอียดเครื่องแต่งกายที่ชัดเจน (เสื้อเบลเซอร์ลายทางสีแดงเบอร์กันดี, บราลูกไม้, ถุงมือสีดำ) และการตั้งค่ากล้องทางเทคนิค (เลนส์ 85 มม., แสงธรรมชาติที่สะอาดตา)
-
-#### 📝 คำสั่ง
-
-```
-{
-  "job_id": "photo_03_city_car",
-  "model": "nano-banana-pro",
-  "task": "image_generation",
-  "inputs": {
-    "face_reference_image": "<YOUR_FACE_IMAGE>",
-    "scene_reference_image": "<SCENE_IMAGE_3>"
-  },
-  "prompt": "ภาพแฟชั่นสตรีทสไตล์บรรณาธิการในเมืองยุโรป โดยใช้ใบหน้า EXACT SAME FACE จาก face_reference_image, อัตลักษณ์ต้องเหมือนกันทุกประการ สร้างฉากขึ้นมาใหม่ให้เหมือนกับ scene_reference_image ทุกอย่าง: ผู้หญิงพิงรถวินเทจ, ฉากหลังเป็นสถาปัตยกรรมยุโรปคลาสสิก ชุดต้องเหมือนเป๊ะ: {argument name=\"outfit color\" default=\"เสื้อเบลเซอร์ลายทางสีแดงเข้ม\"} และกระโปรงเข้าชุดพร้อมเข็มขัด, เห็นบราลูกไม้สีดำ, ถุงมือสีดำ, ถุงน่องสีดำโปร่งแสง, ต่างหูสีทอง ท่าโพสเหมือนเดิม, มุมตัวเหมือนเดิม, องค์ประกอบภาพเหมือนเดิม ลุคเหมือนนิตยสารหรูหรา, แสงธรรมชาติยามกลางวัน, ให้ความรู้สึกเหมือนถ่ายด้วยเลนส์แฟชั่น 85 มม., ผิวดูเป็นธรรมชาติ",
-  "negative_prompt": "สีชุดต่างกัน, ไม่มีบราลูกไม้, ใบหน้าเปลี่ยนไป, อัตลักษณ์ผิดเพี้ยน, สไตล์การ์ตูน, CGI, รีทัชมากเกินไป, รถผิดคัน, เมืองผิด, มีข้อความ, มีลายน้ำ, ภาพเบลอ",
-  "settings": {
-    "stylization": 0,
-    "quality": "max",
-    "detail_boost": 0.8,
-    "lighting_match": "high",
-    "composition_match": "max",
-    "color_match": "max",
-    "identity_preservation": "max",
-    "face_consistency": "max",
-    "reference_strength": { "face": 1.0, "scene": 0.96 }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890681278_fnedva_G_DHTODXoAI5Hzv.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - แฟชั่นสตรีทสไตล์หรูในเมืองยุโรป - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890681328_xcgp6j_G_DHTpAWoAEViX-.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - แฟชั่นสตรีทสไตล์หรูในเมืองยุโรป - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Melis✨](https://x.com/miilesus)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/miilesus/status/2013328546039538111)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6760)**
-
----
-
-### No. 89: การตลาดผลิตภัณฑ์ - ฉากไลฟ์สไตล์คู่รักกับมาสก์หน้า Candid
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-JSON prompt ที่มีรายละเอียดสูงสำหรับการสร้างฉากไลฟ์สไตล์ที่สมจริงเป็นพิเศษและเป็นธรรมชาติของคู่รักวัยหนุ่มสาวที่กำลังเล่นสนุกกับการมาสก์หน้าด้วยมาสก์สีฟ้าให้กันและกันในห้องน้ำที่ทันสมัยและอบอุ่น โดยระบุท่าทางของตัวแบบ, เครื่องแต่งกาย (เสื้อครอปสีแดง, เสื้อยืดสีดำ) และเน้นย้ำถึงพื้นผิวผิวที่สมจริง, เงาที่เป็นธรรมชาติ และข้อจำกัดทางกายวิภาคที่แม่นยำ
-
-#### 📝 คำสั่ง
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "task_type": "photoreal_intimate_home_couple_playful_face_mask",
-      "version": "v1.0_BATHROOM_COUPLE_RED_CROP_PAJAMA_NO_TEXT_EN",
-      "priority": "highest",
-      "language": "en"
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_candid_lifestyle",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle",
-      "color_grade": "warm_cozy_indoor_tones",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch",
-      "no_text": true,
-      "no_logos": true,
-      "no_watermarks": true,
-      "no_ui": true
-    },
-    "creative_prompt": {
-      "scene_summary": "ฉากไลฟ์สไตล์แบบแคนดิดที่สมจริงเป็นพิเศษในห้องน้ำแสนสบายที่บ้าน คู่รักหนุ่มสาวกำลังช่วยกันมาสก์หน้าสีฟ้าอย่างสนุกสนาน ยิ้มและหัวเราะ ผู้หญิงนั่งสบายๆ บนอ่างล้างหน้า ในขณะที่ผู้ชายยืนอยู่ใกล้ๆ ตรงหน้าเธอ เป็นช่วงเวลาในบ้านที่ใกล้ชิด สนุกสนาน ไม่ใช่เรื่องเพศ ไม่มีข้อความ",
-      "environment": {
-        "location": "ห้องน้ำขนาดเล็กที่ทันสมัย",
-        "details": "อ่างล้างหน้า, เคาน์เตอร์, ขอบกระจก, แสงไฟในร่มที่อบอุ่น",
-        "lighting": "แสงไฟในบ้านที่นุ่มนวลและอบอุ่น, เงาธรรมชาติ"
-      },
-      "subjects": {
-        "female_adult": {
-          "wardrobe": {
-            "top": "เสื้อครอปสายเดี่ยวสีแดง",
-            "bottom": "กางเกงนอนสีแดงเข้าชุด"
-          },
-          "pose": "นั่งบนเคาน์เตอร์อ่างล้างหน้า, งอขาเล็กน้อย, ท่าทางผ่อนคลาย",
-          "expression": "ยิ้ม, ขี้เล่น",
-          "action": "สัมผัสใบหน้าของผู้ชายเบาๆ ขณะมาสก์หน้า"
-        },
-        "male_adult": {
-          "wardrobe": {
-            "top": "เสื้อยืดสีดำ",
-            "bottom": "กางเกงนอนสีดำ"
-          },
-          "pose": "ยืนใกล้กับอ่างล้างหน้า, เอนตัวไปข้างหน้าเล็กน้อย",
-          "expression": "ยิ้ม, ขบขัน",
-          "action": "ปล่อยให้มาสก์หน้า, ภาษากายผ่อนคลาย"
-        }
-      },
-      "details_and_props": {
-        "face_mask": "มาสก์หน้าดินเหนียวหรือเจลสีฟ้าที่ทาบางส่วนบนใบหน้าทั้งสอง",
-        "interaction": "การวางมือที่เป็นธรรมชาติ, การสัมผัสที่อ่อนโยน, จุดสัมผัสที่สมจริง"
-      },
-      "anatomy_constraints": {
-        "priority": "maximum",
-        "requirements": [
-          "สัดส่วนใบหน้าและความสมมาตรที่เป็นธรรมชาติ",
-          "มือที่ถูกต้องมีห้านิ้ว, ข้อต่อที่แม่นยำ",
-          "ไม่มีแขนขาบิดเบี้ยวหรือข้อมือบิด",
-          "ท่าทางการนั่งและยืนที่สมจริง",
-          "ไม่มีส่วนของร่างกายลอยอยู่"
-        ]
-      },
-      "camera_and_style_notes": {
-        "shot_type": "ภาพแคนดิดระยะใกล้ถึงปานกลาง",
-        "camera_angle": "ระดับสายตาถึงมุมเล็กน้อย",
-        "lens_look": "มุมมองไลฟ์สไตล์ 35 มม. - 50 มม.",
-        "mood": "ช่วงเวลาในบ้านที่ใกล้ชิด, อบอุ่น, ขี้เล่น"
-      }
-    },
-    "negative_prompt": [
-      "text",
-      "letters",
-      "w"
-    ]
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890668009_r7ibtg_G_DAN3pWUAEn6zr.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ฉากไลฟ์สไตล์คู่รักกับมาสก์หน้า Candid - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Özge Döner](https://x.com/astronomerozge1)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/astronomerozge1/status/2013320441406935172)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6740)**
-
----
-
-### No. 90: การตลาดผลิตภัณฑ์ - พรอมต์ถ่ายภาพบุคคลแบบแฟลชในรถยนต์หรู
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ JSON สำหรับสร้างภาพเหมือนจริงสไตล์อินฟลูเอนเซอร์ของผู้หญิง (Josephine Langford) ที่นั่งอยู่บนเบาะผู้โดยสารของรถยนต์หรู (Mercedes-Benz) โดยมีรายละเอียดเกี่ยวกับรูปลักษณ์ของแบบ (ผมบลอนด์แพลตตินัม, ชุดเดรสรัดรูปสีดำ), สภาพแวดล้อมระดับไฮเอนด์ (เบาะหนังสีขาวลายเพชร), และสไตล์ทางเทคนิค (การถ่ายภาพด้วยแฟลชตรงแบบนุ่มนวล, คอนทราสต์สูง, ความละเอียด 8K) รวมถึงรายการพรอมต์เชิงลบแบบเต็ม
-
-#### 📝 คำสั่ง
-
-```
-{
-  "prompt_data": {
-    "subject": {
-      "appearance": "หญิงสาวสวยสะดุดตา ผมบลอนด์แพลตตินัมยาวตรง ผิวขาวซีดราวกับเครื่องเคลือบดินเผา แต่งหน้าสวยงามด้วยลิปสติกสีชมพู",
-      "apparel": "ชุดเดรสสั้นรัดรูปแขนยาวสีดำ คอวีลึก",
-      "pose": "นั่งอยู่บนเบาะผู้โดยสารด้านหน้าของรถ ไขว่ห้าง มือข้างหนึ่งวางบนหน้าอก อีกข้างยกขึ้นจับที่จับเพดานรถ มองตรงมาที่กล้องด้วยสายตาอ่อนโยน",
-      "details": "เล็บมือทำอย่างดี ลายขาวดำ"
-    },
-    "environment": {
-      "location": "ภายในรถยนต์หรูระดับไฮเอนด์ ({argument name=\"car brand\" default=\"Mercedes-Benz\"})",
-      "elements": "เบาะหนังทรงบัคเก็ตสีขาวลายข้าวหลามตัด แผงหน้าปัดสีดำ โลโก้พวงมาลัย Mercedes มองเห็นได้ทางซ้าย รายละเอียดภายในประตูรถ"
-    },
-    "technical_specs": {
-      "style": "ภาพถ่ายสมจริง, การถ่ายภาพไลฟ์สไตล์แบบอินฟลูเอนเซอร์, สไตล์ Instagram",
-      "lighting": "การถ่ายภาพด้วยแฟลชโดยตรงแบบนุ่มนวล, แสงภายในสว่างสดใส, คอนทราสต์สูง",
-      "quality": "ความละเอียด 8k, รายละเอียดสูง, โฟกัสคมชัด, ผิวสัมผัสสมจริง"
-    },
-    "full_prompt_string": "ภาพถ่ายแนวตั้งที่สมจริงของหญิงสาวผมบลอนด์แพลตตินัมสวยงาม นั่งอยู่ในรถ Mercedes สุดหรู เธอสวมชุดเดรสสั้นรัดรูปแขนยาวสีดำคอวีลึก เธอโพสท่าบนเบาะหนังสีขาวลายข้าวหลามตัด มือข้างหนึ่งยกขึ้นจับที่จับ สไตล์การถ่ายภาพแบบแฟลช, แสงแบบกลามัวร์, รายละเอียดสูง, 8k, พื้นผิวสมจริง, สไตล์อินฟลูเอนเซอร์",
-    "negative_prompt": "การ์ตูน, ภาพวาด, ภาพประกอบ, งานเรนเดอร์ 3 มิติ, อะนิเมะ, คุณภาพต่ำ, สิ่งแปลกปลอมจาก jpeg, เบลอ, สรีระผิดเพี้ยน, มือบิดเบี้ยว, นิ้วเกิน, แขนขาขาดหาย, ตาผิดปกติ, ลายน้ำ, ข้อความ, ลายเซ็น, น่าเกลียด, ผิดรูป"
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890693168_rqes5o_G_C0ldgWMAAMNXa.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - พรอมต์ถ่ายภาพบุคคลแบบแฟลชในรถยนต์หรู - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Artificial intelligence (Ai),Open Ai](https://x.com/Vishnudxe)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Vishnudxe/status/2013307593452835105)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6779)**
-
----
-
-### No. 91: การตลาดผลิตภัณฑ์ - ข้อความพร้อมท์สำหรับภาพบุคคลขณะเล่นโรลเลอร์สเกตพร้อมพื้นหลังเขตร้อน
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-JSON prompt ที่มีรายละเอียดสูงสำหรับการสร้างภาพบุคคลเต็มตัวของผู้หญิงนักกีฬาที่สวมบอดี้สูทสีเทาเฮเทอร์และถุงเท้าลายทางยาวถึงเข่า นั่งพร้อมกับรองเท้าโรลเลอร์สเก็ตแบบสี่ล้อ โดยระบุรายละเอียดใบหน้าที่ซับซ้อน สีผม (บาลายาจ) ท่าทาง (เอนตัวไปข้างหน้า ปรับถุงเท้า) และสภาพแวดล้อม (สวนสาธารณะ/ทางเดินริมทะเลกลางแจ้งที่มีพืชเขตร้อนเบลอ และแสงธรรมชาติที่นุ่มนวล)
-
-#### 📝 คำสั่ง
-
-```
-{
-  "prompt_type": "detailed_image_generation",
-  "subject": {
-    "demographics": {
-      "gender": "หญิง",
-      "age_range": "ช่วงอายุ 20 ปี",
-      "ethnicity": "คอเคเซียน"
-    },
-    "physique": {
-      "body_type": "รูปร่างนักกีฬา, กระชับ, ผอมแต่มีส่วนโค้งเว้า",
-      "pose": "นั่งอยู่บนขอบของขอบปูนสีขาว เอนตัวไปข้างหน้าเล็กน้อยจากช่วงเอว วางมือบนหน้าแข้งขวาใต้เข่าเล็กน้อย เหมือนกำลังจัดถุงเท้า หลังโค้งเล็กน้อย เน้นท่าทาง"
-    },
-    "face_details": {
-      "shape": "ใบหน้ารูปไข่ มีกรามที่ชัดเจน",
-      "skin_tone": "ผิวสีแทนอ่อน/ผิวบ่มแดด, ผิวเรียบเนียน, สีผิวสม่ำเสมอ",
-      "eyes": {
-        "color": "สีฟ้าอ่อนหรือเขียว (สีอ่อน)",
-        "shape": "รูปอัลมอนด์ขนาดใหญ่",
-        "gaze": "สบตากับกล้องโดยตรง, ดูเข้มข้นและเย้ายวน",
-        "makeup": "ขนตาบนคมชัด, อายไลเนอร์บางเบา, อายแชโดว์สีธรรมชาติ"
-      },
-      "brows": "โค้ง, จัดทรงอย่างดี, หนาปานกลาง, สีน้ำตาลอ่อน",
-      "nose": "สันจมูกตรง, ปลายจมูกเรียวเล็ก",
-      "lips": {
-        "shape": "อวบอิ่ม โดยเฉพาะริมฝีปากล่าง",
-        "color": "สีชมพูอมม่วงนู้ดอ่อนๆ",
-        "expression": "เผยอเล็กน้อย, ผ่อนคลาย, เย้ายวน",
-        "finish": "เนื้อแมตต์"
-      },
-      "cheeks": "โหนกแก้มสูง, บรอนเซอร์/คอนทัวร์บางเบาเพื่อเพิ่มมิติ"
-    },
-    "hair": {
-      "color": "โคนผมสีน้ำตาลอ่อนไล่ระดับเป็นสีบลอนด์น้ำผึ้งและไฮไลท์แพลตตินัม (บาลายาจ)",
-      "length": "ยาวถึงกลางหลัง",
-      "texture": "ตรงมีวอลลุ่มเล็กน้อย",
-      "style": "ปล่อยยาว, สยายลงมาด้านหลังและพาดไหล่ซ้าย"
-    }
-  },
-  "wardrobe": {
-    "bodysuit": {
-      "color": "{argument name=\"bodysuit color\" default=\"Heather gray\"}",
-      "fabric": "ผ้าคอตตอนเจอร์ซีย์หรือผ้าผสมสแปนเด็กซ์",
-      "style": "คอเสื้อเว้าลึก, สายเสื้อกล้ามหนา, ขอบขาเว้าสูงเผยสะโพก, เข้ารูป"
-    },
-    "socks": {
-      "color": "สีขาว",
-      "style": "ถุงเท้าหลอดสูงถึงเข่า",
-      "details": "แถบสีชมพูสดใสแนวนอนสองแถบที่ขอบด้านบน"
-    },
-    "footwear": {
-      "item": "รองเท้าโรลเลอร์สเก็ตแบบ Quad",
-      "color": "รองเท้าบูทหนังสีขาวคลาสสิก",
-      "details": "ฐานส้นไม้สีน้ำตาล, ทรัคสีเงิน",
-      "wheels": "ล้อโพลียูรีเทนสีชมพูร้อนโปร่งแสง",
-      "toe_stop": "ยางสีชมพูร้อน"
-    }
-  },
-  "environment": {
-    "setting": "สวนสาธารณะกลางแจ้งหรือทางเดินริมทะเล",
-    "background_objects": {
-      "immediate": "ม้านั่งหรือกำแพงคอนกรีตสีขาวโค้ง (พื้นผิวเรียบ)",
-      "mid_ground": "พื้นปูด้วยหินสีเทาอ่อน/คอนกรีต",
-      "background": "พืชพรรณเขตร้อนเบลอ, ลำต้นต้นปาล์ม, มีโครงสร้างสถาปัตยกรรมสีขาวเล็กน้อย"
-    },
-    "lighting": {
-      "type": "แสงธรรมชาติอ่อนๆ ในเวลากลางวัน",
-      "direction": "แสงส่องจากด้านหน้า",
-      "quality": "แสงกระจาย (ไม่มีเงาคมชัดบนใบหน้า), น่าจะเป็นวันที่มีเมฆมากหรืออยู่ในที่ร่มเปิด"
-    }
-  },
-  "technical_specs": {
-    "aspect_ratio": "4:5 (ภาพบุคคลแนวตั้ง)",
-    "camera_shot": "เต็มตัว / ระยะกลาง-ไกล",
-    "depth_of_field": "ชัดตื้น (ตัวแบบคมชัด"
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890698052_re46fl_G_CxJ45W0AIPdj6.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ข้อความพร้อมท์สำหรับภาพบุคคลขณะเล่นโรลเลอร์สเกตพร้อมพื้นหลังเขตร้อน - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Artificial intelligence (Ai),Open Ai](https://x.com/Vishnudxe)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Vishnudxe/status/2013303820986785863)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6786)**
-
----
-
-### No. 92: การตลาดผลิตภัณฑ์ - ภาพกลุ่มนักยิมนาสติกที่สมจริงเป็นพิเศษ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-JSON prompt แบบละเอียดสำหรับสร้างภาพเหมือนกลุ่มนักกีฬาหญิงสาวสามคนในชุดยิมนาสติกที่สมจริงเป็นพิเศษในโรงฝึกกีฬาในร่ม โดยระบุประเภทรูปร่าง ท่าทาง (หันหลังให้กล้อง กอดอก) สีผม และรายละเอียดเครื่องแต่งกาย (แขนเสื้อตาข่าย พลอยเทียม) สำหรับแต่ละบุคคล โดยเน้นที่รูปลักษณ์นักกีฬามืออาชีพพร้อมแสงไฟในยิมที่นุ่มนวล
-
-#### 📝 คำสั่ง
-
-```
-{
-  "prompt_type": "ภาพกลุ่มนักกีฬาที่สมจริงเป็นพิเศษ",
-  "subjects": [
-    {
-      "gender": "หญิง",
-      "age_range": "18-20",
-      "position": "ซ้าย",
-      "body_type": "นักกีฬา, ช่วงล่างมีกล้ามเนื้อ, ขาแข็งแรง",
-      "stance": "ยืนหันหลังให้กล้องเป็นส่วนใหญ่, ลำตัวบิดไปทางซ้ายเล็กน้อย, กอดอก",
-      "face": {
-        "expression": "รอยยิ้มมั่นใจเล็กน้อย",
-        "face_shape": "วงรีกลม",
-        "skin_tone": "ผิวขาวอมชมพูโทนอุ่น",
-        "eyes": "สีอ่อน, มองเห็นบางส่วนเนื่องจากมุม",
-        "nose": "เล็กถึงปานกลาง, ตรง",
-        "lips": "อวบอิ่มปานกลาง, สีชมพูธรรมชาติ"
-      },
-      "hair": {
-        "color": "บลอนด์อ่อน",
-        "style": "ผมยาวประบ่าดัดลอนหลวมๆ",
-        "part": "แสกข้างเล็กน้อย"
-      },
-      "outfit": {
-        "type": "ชุดยิมนาสติก",
-        "color": "สีกรมท่าเข้ม",
-        "sleeves": "แขนยาวผ้าตาข่าย",
-        "details": "ประดับเพชรเทียมเม็ดเล็กๆ ตามแขนเสื้อ",
-        "fit": "เข้ารูปพอดีตัวแบบนักกีฬามืออาชีพ"
-      }
-    },
-    {
-      "gender": "หญิง",
-      "age_range": "18-20",
-      "position": "กลาง",
-      "body_type": "นักกีฬา, กระชับ, ขาและสะโพกมีกล้ามเนื้อ",
-      "stance": "หันหลังให้กล้อง, ลำตัวบิดไปทางขวาเล็กน้อย, กอดอก",
-      "face": {
-        "expression": "รอยยิ้มสดใสเป็นมิตร",
-        "face_shape": "วงรี",
-        "skin_tone": "ผิวขาวอมชมพูโทนกลาง",
-        "eyes": "สีอ่อน, มองเห็นชัดเจน",
-        "nose": "สันจมูกตรง, ปลายจมูกมนเล็กน้อย",
-        "lips": "อวบอิ่มปานกลาง, สีชมพูธรรมชาติ"
-      },
-      "hair": {
-        "color": "บลอนด์ทอง",
-        "style": "ผมยาวดัดลอนหลวมๆ",
-        "part": "แสกกลาง"
-      },
-      "outfit": {
-        "type": "ชุดยิมนาสติก",
-        "color": "สีขาว",
-        "sleeves": "แขนยาวผ้าตาข่ายโปร่ง",
-        "back_design": "ด้านหลังเปิดพร้อมสายไขว้",
-        "fit": "เข้ารูปพอดีตัวแบบนักกีฬามืออาชีพ"
-      }
-    },
-    {
-      "gender": "หญิง",
-      "age_range": "18-20",
-      "position": "ขวา",
-      "body_type": "นักกีฬา, ขาแข็งแรง, รูปร่างกระชับ",
-      "stance": "หันหลังให้กล้อง, ลำตัวบิดไปทางซ้าย, กอดอก",
-      "face": {
-        "expression": "รอยยิ้มกว้างสดใส",
-        "face_shape": "วงรีพร้อมกรามที่นุ่มนวล",
-        "skin_tone": "ผิวขาวอมชมพูโทนเย็น-กลาง",
-        "eyes": "สีอ่อน",
-        "nose": "ปานกลาง, ตรง",
-        "lips": "อวบอิ่มปานกลาง, สีธรรมชาติ"
-      },
-      "hair": {
-        "color": "สีน้ำตาลอ่อน",
-        "style": "ผมยาวตรง",
-        "part": "แสกข้าง"
-      },
-      "outfit": {
-        "type": "ชุดยิมนาสติก",
-        "color": "สีกรมท่าเข้ม",
-        "sleeves": "แขนยาวผ้าตาข่าย",
-        "details": "ประดับเพชรเทียมเล็กน้อย",
-        "fit": "เข้ารูปพอดีตัวแบบนักกีฬามืออาชีพ"
-      }
-    }
-  ],
-  "environment": {
-    "location": "สถานที่ฝึกยิมนาสติกในร่ม",
-    "floor": "พื้น"
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890669194_y6ks87_G_CwsPoaoAMeCSP.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพกลุ่มนักยิมนาสติกที่สมจริงเป็นพิเศษ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Artificial intelligence (Ai),Open Ai](https://x.com/Vishnudxe)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Vishnudxe/status/2013303311441764803)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6741)**
-
----
-
-### No. 93: การตลาดผลิตภัณฑ์ - ภาพบุคคลรัศมีผ้าแบบ Top-Down สไตล์ Avant-Garde
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-JSON พรอมต์ที่ซับซ้อนทางเทคนิคสูงสำหรับสร้างภาพบุคคลแนวบรรณาธิการล้ำยุคชื่อ 'Textural Rebellion' โดยกำหนดให้เป็นมุมมองจากด้านบนลงมา 90 องศาในแนวตั้งอย่างเคร่งครัด ของตัวแบบที่นอนอยู่บนหินชนวนสีเข้ม ล้อมรอบด้วย 'มงกุฎผ้า' (ผ้าไหมจีบและผ้าไหมยกดอกสีแดงเข้มที่หยุดนิ่งเป็นระลอกคลื่น) ระบุให้ใช้แสงไฟเพื่อความงามที่มีความเข้มสูง (ซอฟต์บ็อกซ์อยู่เหนือศีรษะโดยตรง) และสุนทรียภาพของฟิล์มอนาล็อกขนาดกลาง (Hasselblad 503CW, Kodak Ektar 100)
-
-#### 📝 คำสั่ง
-
-```
-{
-  "vibe_title_en": "การปฏิวัติแห่งพื้นผิว",
-  "master_prompt": "มุมมองภาพแบบ 90 องศาจากด้านบนลงมาในแนวตั้งอย่างเคร่งครัดของตัวละครหลัก (The Protagonist) ที่นอนราบอยู่บนพื้นผิวหินชนวนสีเข้มที่ผุกร่อน ตัวแบบถูกล้อมรอบด้วย 'มงกุฎผ้า' (Crown of Fabric) ซึ่งเป็นการจัดเรียงผ้าไหมดิบจีบและผ้าไหมยกดอกสีแดงเข้มที่ดูเหนือจริงและมีโครงสร้างราวกับสถาปัตยกรรม แผ่ออกมาจากศีรษะคล้ายรัศมี ผ้าเหล่านี้ดูเหมือนถูกแช่แข็งอยู่ในริ้วคลื่นที่ท้าทายแรงโน้มถ่วง ลอยอยู่ราวกับอยู่ใต้น้ำหรือถูกจับไว้ในอุโมงค์ลมความเร็วสูง ทำหน้าที่เป็นประติมากรรมที่สร้างสรรค์จากเทคนิคพิเศษ ตัวแบบยังคงรักษาพลังงานแบบ 'มินิมัลลิสต์ที่เจาะลึก' (The Piercing Minimalist) คือการแสดงออกที่สงบนิ่ง เป็นกลาง พร้อมกับการสบตาตรงไปยังเลนส์อย่างเต็มที่ แสงเป็นแบบ Beauty Lighting ความเข้มสูง: ซอฟต์บ็อกซ์ขนาดใหญ่ที่อยู่เหนือศีรษะโดยตรงสร้างแสงสว่างที่สม่ำเสมอบนใบหน้า ขจัดเงาที่รุนแรง ในขณะเดียวกันก็เน้นรูขุมขนและรายละเอียดที่คมชัดของม่านตา ถ่ายด้วยกล้อง Hasselblad 503CW พร้อมเลนส์ 80 มม. โดยใช้ฟิล์ม Kodak Ektar 100 เพื่อให้ได้สีที่อิ่มตัวและสัมผัสได้จริง พร้อมเกรนละเอียด พื้นผิวมีความสมจริงสูง ไม่มี CGI gloss",
-  "meta": {
-    "intent": "Avant-Garde Editorial",
-    "priorities": "พื้นผิว, ความสมมาตร, เหนือจริง",
-    "device_profile": "อนาล็อกขนาดกลาง"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "สมมาตรตรงกลาง",
-    "layout": "ตัวแบบอยู่ตรงกลาง ล้อมรอบด้วยพื้นผิว",
-    "camera_angle": "90 องศาจากด้านบนลงมา (มุมมองนก)",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "หญิง",
-    "identity": "ตัวละครหลัก",
-    "demographics": "นางแบบแฟชั่นชั้นสูงระดับสากล",
-    "face": "สมมาตร โครงสร้างกระดูกชัดเจน พื้นผิวผิวสมจริงสูง",
-    "hair": "เสยไปด้านหลังหรือรวมเข้ากับประติมากรรมผ้า",
-    "body": "ตั้งแต่ไหล่ขึ้นไป นอนราบ",
-    "expression": "สงบนิ่ง เป็นกลาง จ้องมองอย่างเข้มข้น ริมฝีปากผ่อนคลายแต่ปิดสนิท",
-    "pose": "นอนหงาย จัดวางอย่างสมบูรณ์แบบตามแนวแกนตั้ง"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "เสื้อคลุมคอสูง",
-        "material": "ผ้าไหมดิบ",
-        "color": "ชาร์โคลเข้ม",
-        "fit": "มีโครงสร้าง/สถาปัตยกรรม"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "รัศมีผ้า",
-        "color": "สีแดงเข้มและสีน้ำเงินเที่ยงคืน",
-        "material": "ผ้าไหมจีบและผ้าไหมยกดอก",
-        "brand_style": "Surreal Couture"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "พื้นผิวที่มีลักษณะนามธรรม",
-    "surfaces": "หินชนวนผุกร่อน ผ้าทอหลายชั้น",
-    "depth": "ตื้น (ระนาบ)",
-    "atmosphere": "ความนิ่งเหมือนสุญญากาศ การเคลื่อนไหวที่ถูกระงับ",
-    "lens_interaction": "โฟกัสคมชัดจากขอบถึงขอบ"
-  },
-  "lighting": {
-    "key": "Beauty Dish เหนือศีรษะ (นุ่มนวล)",
-    "fill": "แผ่นสะท้อนแสงสีขาว (จากใต้กล้อง)",
-    "rim": "ไม่มี",
-    "shadows": "น้อยที่สุด เงาจางลงอย่างนุ่มนวลใต้คาง",
-    "color_temperature": "5600K (สมดุลแสงกลางวัน)",
-    "sensor_flare": "ไม่มี"
-  },
-  "camera": {
-    "lens_type": "Prime Macro-Capable",
-    "focal_length": "80 มม.",
-    "aperture": "f/8",
-    "focus": "ล็อคที่ E"
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890669025_vlz5ay_G_CwIS7XsAAYt4-.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพบุคคลรัศมีผ้าแบบ Top-Down สไตล์ Avant-Garde - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890669374_nim0pj_G_CwIR0WYAAxYd6.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพบุคคลรัศมีผ้าแบบ Top-Down สไตล์ Avant-Garde - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/timedoctor_nft/status/2013302693515661588)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6742)**
-
----
-
-### No. 94: การตลาดผลิตภัณฑ์ - พรอมต์ภาพถ่ายบุคคลโรงแรมหรูช่วง Golden Hour
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-JSON พรอมต์ที่มีรายละเอียดสูงสำหรับสร้างภาพบุคคล 8K ที่สมจริงเป็นพิเศษของผู้หญิงที่กำลังเอนกายในห้องพักโรงแรมหรูช่วงเวลา Golden Hour โดยเน้นแสงแดดธรรมชาติที่ส่องตรงและแรงจัด ทำให้เกิดเงาเรขาคณิตที่ชัดเจน, พื้นผิวที่มีรายละเอียด (ชุดเดรสลายร่อง, ผมเปียก) และมุมมองแบบ Low-angle ที่เน้นไปที่ขาและเท้าเปล่าของตัวแบบ เพื่อให้ได้สุนทรียภาพที่ดูหรูหราแบบสบายๆ และไม่ยี่หระ
-
-#### 📝 คำสั่ง
-
-```
-{
-  "meta": {
-    "aspect_ratio": "4:5",
-    "quality": "ultra_photorealistic, raw, influencer lifestyle, high-end editorial",
-    "resolution": "8k",
-    "camera": "Mirrorless camera (เช่น Sony A7R IV)",
-    "lens": "เลนส์ 35mm f/1.4 (เก็บภาพเต็มตัวและสภาพแวดล้อม)",
-    "style": "หรูหราแบบสบายๆ, แสงแดดส่องถึง, สุนทรียภาพยามพระอาทิตย์ตกดิน, ความมั่นใจที่ผ่อนคลาย",
-    "composition": "ภาพเต็มตัวของผู้หญิงกำลังเอนกายบนเก้าอี้, มุมต่ำเน้นช่วงขา, จัดองค์ประกอบภาพตรงกลาง"
-  },
-  "scene": {
-    "location": "ห้องพักโรงแรมหรือห้องนอนที่ทันสมัยและเรียบง่าย",
-    "environment": [
-      "เก้าอี้เลานจ์ผ้าสีเบจทันสมัยพร้อมที่วางเท้าเข้าชุดกัน",
-      "โต๊ะข้างเตียงไม้สีอ่อนแบบลอยตัวพร้อมหูฟังแบบครอบหูสีน้ำเงินวางอยู่",
-      "หม้อน้ำสีขาวมองเห็นได้ในพื้นหลัง",
-      "ผนังสีเบจ/ขาวนวลเรียบๆ",
-      "โคมไฟตั้งโต๊ะสีเบจที่มุมด้านบน"
-    ],
-    "time": "ช่วงบ่ายแก่ๆ, Golden Hour",
-    "atmosphere": "ขี้เกียจ, อบอุ่น, หรูหราอย่างเงียบๆ, ไม่สนใจสิ่งใด, เก๋ไก๋"
-  },
-  "lighting": {
-    "type": "แสงแดดธรรมชาติโดยตรงที่สว่างจ้า",
-    "source": "หน้าต่างอยู่นอกเฟรมทางด้านซ้าย",
-    "effect": "สร้างเงาเรขาคณิตที่คมชัดและโดดเด่น (น่าจะมาจากกรอบหน้าต่าง) บนผนังด้านหลัง, แสงสะท้อนที่ตัดกันสูงบนใบหน้าและขา, โทนสีทองอบอุ่น"
-  },
-  "subject": {
-    "identity": "หญิงสาวสวยผมบลอนด์แพลตตินัมยาวสลวยแบบเปียกๆ ตกลงมาบนไหล่ เธอมีผิวสีแทน, ริมฝีปากอวบอิ่ม, และสายตาที่มั่นใจและตรงไปตรงมา",
-    "body": {
-      "pose": "เอนกายลึกลงไปในเก้าอี้เลานจ์, ไขว้ขาและเหยียดไปทางกล้อง (เน้นเท้าเปล่าและขา), มือข้างหนึ่งวางบนที่วางแขนของเก้าอี้, อีกข้างวางบนขาของเธอ",
-      "physique": "รูปร่างกระชับ, มีส่วนโค้งเว้า"
-    },
-    "outfit": {
-      "clothing": "มินิเดรสรัดรูปแขนยาวผ้าถักลายร่องสี {argument name=\"dress color\" default=\"purple\"}",
-      "accessories": "สร้อยข้อมือเชือกสีแดงบนข้อมือ, ยาทาเล็บสีดำบนมือและเท้า"
-    }
-  },
-  "realism_focus": {
-    "textures": "พื้นผิวผ้าถักลายร่องของเดรสสีม่วง, พื้นผิวผิวหนังที่สมจริงภายใต้แสงแดดจ้าโดยตรง, เส้นผมบลอนด์เปียกๆ แต่ละเส้น, ลายผ้าทอของเก้าอี้สีเบจ",
-    "imperfections": "เงาที่สมจริงและคมชัดบนผนัง, รอยยับตามธรรมชาติบนชุดบริเวณที่ร่างกายงอ, การวางหูฟังแบบสบายๆ"
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890699553_a7klpc_G_Cub-7XoAA7srN.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - พรอมต์ภาพถ่ายบุคคลโรงแรมหรูช่วง Golden Hour - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Mikasa](https://x.com/Mikasa_rose729)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Mikasa_rose729/status/2013300949834702966)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6787)**
-
----
-
-### No. 95: การตลาดผลิตภัณฑ์ - ภาพบุคคลแฟชั่นชั้นสูงเสมือนจริงในท่วงท่าคลาน
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ที่มีรายละเอียดสูงสำหรับ Nano Banana Pro โดยเน้นที่การสร้างภาพบุคคลแนวแฟชั่นแบบบรรณาธิการที่สมจริงเป็นพิเศษของผู้หญิงในท่าคลานต่ำที่สื่อถึงความตึงเครียดแบบนักล่า โดยเน้นความสมจริงขั้นสุดของพื้นผิวผิวหนัง สรีระที่เป็นธรรมชาติ แสงสตูดิโอแบบภาพยนตร์ (แสงคีย์นุ่มนวล แสงริมไลท์ที่ชัดเจน) และแฟชั่นแนวอาวองต์การ์ดพร้อมรายละเอียดพื้นผิวผ้าและขนนก
-
-#### 📝 คำสั่ง
-
-```
-ภาพบุคคลแฟชั่นชั้นสูงแนวบรรณาธิการที่สมจริงขั้นสุด
-หญิงสาวในท่าคลานต่ำเอนไปข้างหน้า ร่างกายวางเฉียงข้ามเฟรม สื่อถึงการควบคุมที่เหนือกว่าและความตึงเครียดแบบนักล่า มือข้างหนึ่งวางแน่นบนพื้นสตูดิโอ นิ้วกางออกตามธรรมชาติรับน้ำหนัก ส่วนอีกมือหนึ่งยกขึ้นใกล้ใบหน้า สร้างท่าทางที่แหลมคมคล้ายกรงเล็บซึ่งจัดกรอบดวงตาอย่างละเอียดโดยไม่บิดเบี้ยว สีหน้าของเธอเย้ายวนแต่ก็น่าเกรงขาม — ดวงตาหรี่ลงพร้อมการจ้องมองที่หนักแน่นและจงใจ ริมฝีปากเผยอเล็กน้อย กล้ามเนื้อใบหน้าผ่อนคลายแต่ตั้งใจ โครงสร้างใบหน้าคมชัดด้วยสัดส่วนที่เป็นธรรมชาติ โครงกระดูกที่มองเห็นได้ ความไม่สมมาตรที่สมจริง และพื้นผิวผิวที่แท้จริง: รูขุมขน ความไม่สมบูรณ์เล็กน้อย การเปลี่ยนโทนสีที่นุ่มนวล ไม่มีการปรับให้เรียบเนียนเทียม
-ผมยาวตรงหน้าม้าทื่อ ไม่สม่ำเสมอและเป็นธรรมชาติเล็กน้อย เงางามแต่ไม่เหมือนพลาสติก เส้นผมแต่ละเส้นจับแสง
-การจัดแต่งทรงผมแฟชั่นแนวอาวองต์การ์ด: กางเกงเข้ารูปพร้อมการตัดเย็บที่แม่นยำและความตึงของผ้าที่ดูสมจริง; แขนหุ้มด้วยองค์ประกอบที่มีขนนกหรือพื้นผิวขนสัตว์ที่แสดงเส้นใยแต่ละเส้น ความหนาแน่นที่ไม่สม่ำเสมอ และความลึกที่สัมผัสได้ แยกออกจากผิวหนังอย่างชัดเจน
-แสง: การจัดแสงสตูดิโอแบบภาพยนตร์ — แสงหลักที่นุ่มนวลจากด้านหน้าส่วนบนที่สร้างรูปทรงใบหน้า แสงขอบที่แข็งแกร่งจากด้านหลังเพื่อสร้างเงา เงาที่ควบคุมอย่างลึกซึ้งพร้อมคอนทราสต์สูง ไม่มีแสงที่แบนราบ
-กล้อง: มุมมองแบบบรรณาธิการแฟชั่น, ลักษณะเลนส์ 50–85 มม., ระยะชัดตื้น, โฟกัสคมชัดที่ดวงตาและมือ, การลดทอนความคมชัดอย่างละเอียดทั่วร่างกาย
-พื้นหลังสตูดิโอแบบมินิมอลพร้อมการไล่ระดับสีเข้มหรือโทนสีทึบ สะอาดและปราศจากสิ่งรบกวน ช่วยเสริมท่าโพสท่าประติมากรรม
-อารมณ์โดยรวม: มืดมน, มีเสน่ห์, พลังแบบบรรณาธิการ Vogue แฟชั่นชั้นสูง — ทรงพลัง, เย้ายวน, น่าเกรงขาม, มีพื้นฐานอยู่บนความสมจริง
-รายละเอียดสุดขีด, ความสมจริงแบบภาพถ่าย, กายวิภาคที่เป็นธรรมชาติ, คุณภาพระดับบรรณาธิการแฟชั่นมืออาชีพ, ความคมชัด 8K
---ar 9:16 --v 6 --style raw --s 250
-🚫 PROMPT เชิงลบ:
-นิ้วเกิน, มือติดกันหรือผิดรูป, กายวิภาคที่ไม่ถูกต้อง, ข้อต่อบิดเบี้ยว, สัดส่วนที่เกินจริง, ผิวพลาสติก, พื้นผิวที่เรียบเนียนเกินไป, แสงแบนราบ, คอนทราสต์ต่ำ, การ์ตูน, อะนิเมะ, รูปลักษณ์ CGI, เบลอ, รายละเอียดต่ำ, ท่าโพสที่แปลกประหลาดหรือไม่สามารถทำได้
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890709710_4q0uuk_G_CqgkRXwAANPJ6.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพบุคคลแฟชั่นชั้นสูงเสมือนจริงในท่วงท่าคลาน - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Anissa](https://x.com/SimplyAnnisa)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/SimplyAnnisa/status/2013296513519346097)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6803)**
-
----
-
-### No. 96: การตลาดผลิตภัณฑ์ - ภาพถ่ายบุคคลสไตล์มินิมอลของชายคนหนึ่ง
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งสำหรับการสร้างภาพบุคคลสไตล์มินิมอลในสตูดิโอของชายหนุ่มที่ดูมั่นใจ นั่งอยู่บนลูกบาศก์ทรงเรขาคณิต โดยมีพื้นหลังสีน้ำเงินหม่นทึบ ข้อความระบุรายละเอียดท่าทางของเขา (มั่นคง ผ่อนคลาย) รูปร่างหน้าตา (เคราที่จัดแต่งอย่างดี ผมมีเท็กซ์เจอร์) และเครื่องแต่งกาย (เสื้อคอกลมสีขาวนวล กางเกงยีนส์ รองเท้าผ้าใบกีฬา) โดยเน้นแสงด้านหน้าแบบนุ่มนวลและกระจายแสง เพื่อให้ได้ลุคสตรีทแวร์ที่ดูสะอาดตาและร่วมสมัย
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพบุคคลสตูดิโอแบบมินิมอลของชายหนุ่มที่ดูมั่นใจ นั่งสบายๆ บนลูกบาศก์เรขาคณิตเรียบง่าย โดยมีฉากหลังเป็นสีน้ำเงินหม่นทึบ เขานั่งแยกขา วางเท้าลงบนพื้นอย่างมั่นคง เอนตัวไปข้างหน้าเล็กน้อย วางมือทั้งสองข้างไว้ใกล้เข่าอย่างเป็นธรรมชาติ สร้างท่าทางที่มั่นคง ผ่อนคลาย และทรงพลังอย่างเงียบๆ เขามีผมสีเข้มยาวปานกลาง มีเท็กซ์เจอร์ จัดทรงให้มีวอลลุ่มอย่างเป็นธรรมชาติ มีเคราเต็มและได้รับการดูแลเป็นอย่างดี และมีสีหน้าที่ดูจริงจังแต่สงบขณะมองตรงมาที่กล้อง เสื้อผ้าของเขาดูสะอาดตาและเรียบง่าย: เสื้อสเวตเชิ้ตคอกลมสีขาวนวลเนื้อนุ่ม ทรงหลวม จับคู่กับกางเกงยีนส์เดนิมสีน้ำเงินคลาสสิกที่มีขอบขาจั๊มพ์ เขาสวมรองเท้าผ้าใบกีฬาโมเดิร์นสีน้ำเงินที่มีรายละเอียดสีขาว เพิ่มความสบายๆ สไตล์สตรีทร่วมสมัย ฉากหลังเป็นผนังสตูดิโอสีน้ำเงินเรียบเนียนไร้รอยต่อ ไม่มีสิ่งรบกวน เน้นความเรียบง่ายและความสมดุล แสงนุ่มนวล กระจาย และมาจากด้านหน้า ส่องสว่างตัวแบบอย่างสม่ำเสมอ ในขณะที่ค่อยๆ ปั้นแต่งใบหน้าและพื้นผิวผ้าโดยไม่มีเงาที่คมชัด โทนสีมีความกลมกลืนและสงบ ใช้สัดส่วนภาพ 4:5
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890665650_n037t0_G_AO95CWAAAdWY6.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายบุคคลสไตล์มินิมอลของชายคนหนึ่ง - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [ImaginewithRashid](https://x.com/ImaginewithR)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/ImaginewithR/status/2013291612659716427)
-- **เผยแพร่เมื่อ:** 19 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6736)**
-
----
-
-### No. 97: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพมาโครน้ำโซดาเชอร์รี่กระเด็น
+### No. 95: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพมาโครน้ำโซดาเชอร์รี่กระเด็น
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7043,7 +6952,7 @@ JSON พรอมต์ที่มีรายละเอียดสูงส
 
 ---
 
-### No. 98: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพอาหารพราลีนที่มีรายละเอียดสูง
+### No. 96: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพอาหารพราลีนที่มีรายละเอียดสูง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7077,7 +6986,7 @@ JSON พรอมต์ที่มีรายละเอียดสูงส
 
 ---
 
-### No. 99: ภาพหลักสำหรับอีคอมเมิร์ซ - เครื่องมือสร้างภาพหลักสำหรับผลิตภัณฑ์ดูแลผิว
+### No. 97: ภาพหลักสำหรับอีคอมเมิร์ซ - เครื่องมือสร้างภาพหลักสำหรับผลิตภัณฑ์ดูแลผิว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7129,7 +7038,7 @@ JSON พรอมต์ที่มีรายละเอียดสูงส
 
 ---
 
-### No. 100: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพผลิตภัณฑ์ระดับภาพยนตร์ 8K (น้ำหอม)
+### No. 98: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพผลิตภัณฑ์ระดับภาพยนตร์ 8K (น้ำหอม)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7270,7 +7179,7 @@ JSON พรอมต์ที่มีรายละเอียดสูงส
 
 ---
 
-### No. 101: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์คอลลาจแสดงภาพผลิตภัณฑ์กริ่งประตูอัจฉริยะ
+### No. 99: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์คอลลาจแสดงภาพผลิตภัณฑ์กริ่งประตูอัจฉริยะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7346,7 +7255,7 @@ JSON พรอมต์ที่มีรายละเอียดสูงส
 
 ---
 
-### No. 102: ภาพหลักสำหรับอีคอมเมิร์ซ - พร้อมท์สำหรับประติมากรรมซูเปอร์คาร์แก้วแบบโปร่งใสหลายชั้น
+### No. 100: ภาพหลักสำหรับอีคอมเมิร์ซ - พร้อมท์สำหรับประติมากรรมซูเปอร์คาร์แก้วแบบโปร่งใสหลายชั้น
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7439,7 +7348,7 @@ JSON พรอมต์ทางเทคนิคขั้นสูงสำห
 
 ---
 
-### No. 103: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์ภาพ Hero Shot สำหรับผลิตภัณฑ์หรูหราทั่วไป
+### No. 101: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์ภาพ Hero Shot สำหรับผลิตภัณฑ์หรูหราทั่วไป
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7472,7 +7381,7 @@ JSON พรอมต์ทางเทคนิคขั้นสูงสำห
 
 ---
 
-### No. 104: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์การออกแบบอุตสาหกรรมถักนิตติ้งแสนสบาย
+### No. 102: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์การออกแบบอุตสาหกรรมถักนิตติ้งแสนสบาย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7524,7 +7433,7 @@ JSON พรอมต์ทางเทคนิคขั้นสูงสำห
 
 ---
 
-### No. 105: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายผลิตภัณฑ์ปากกาที่สมจริงเป็นพิเศษ
+### No. 103: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายผลิตภัณฑ์ปากกาที่สมจริงเป็นพิเศษ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7565,7 +7474,7 @@ JSON พรอมต์ทางเทคนิคขั้นสูงสำห
 
 ---
 
-### No. 106: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์ถ่ายภาพผลิตภัณฑ์ Micro World Discovery
+### No. 104: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์ถ่ายภาพผลิตภัณฑ์ Micro World Discovery
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7616,7 +7525,7 @@ JSON พรอมต์ทางเทคนิคขั้นสูงสำห
 
 ---
 
-### No. 107: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์ถ่ายภาพอาหารทาร์ตกล้วยคาราเมลที่สมจริงเป็นพิเศษ
+### No. 105: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์ถ่ายภาพอาหารทาร์ตกล้วยคาราเมลที่สมจริงเป็นพิเศษ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7658,7 +7567,7 @@ JSON พรอมต์ทางเทคนิคขั้นสูงสำห
 
 ---
 
-### No. 108: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพมาโครผลิตภัณฑ์สำหรับอาหารลอยน้ำ
+### No. 106: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพมาโครผลิตภัณฑ์สำหรับอาหารลอยน้ำ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7710,7 +7619,7 @@ JSON พรอมต์ทางเทคนิคขั้นสูงสำห
 
 ---
 
-### No. 109: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์ถ่ายภาพอาหารเชิงพาณิชย์ที่สมจริงขั้นสุด
+### No. 107: ภาพหลักสำหรับอีคอมเมิร์ซ - พรอมต์ถ่ายภาพอาหารเชิงพาณิชย์ที่สมจริงขั้นสุด
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7771,29 +7680,19 @@ JSON พรอมต์ทางเทคนิคขั้นสูงสำห
 
 ---
 
-### No. 110: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพอาหารเชิงพาณิชย์ที่สมจริงขั้นสุด
+### No. 108: สินทรัพย์เกม - LINE Sticker Generation Prompt (สไตล์ดินน้ำมัน 3D)
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-ข้อความแจ้งทางเทคนิคที่เน้นการสร้างภาพถ่ายอาหารเชิงพาณิชย์ที่สมจริงเป็นพิเศษ โดยเฉพาะการจับภาพการเคลื่อนไหวกลางอากาศของส่วนผสมที่ถูกแช่แข็งด้วยความงามแบบกล้องความเร็วสูงและแสงสตูดิโอที่ควบคุมได้
+ข้อความแจ้ง (prompt) ภาษาญี่ปุ่นแบบละเอียดที่ออกแบบมาเพื่อสร้างสติกเกอร์ LINE จำนวน 9 แบบในรูปแบบตาราง 3x3 โดยมีตัวละคร 3 มิติในสไตล์กล่องสุ่ม/Pop Mart ระบุพื้นผิวแบบดินเหนียว ผิวด้าน แสงนุ่มนวล และการแสดงออกที่แตกต่างกัน 9 แบบ ซึ่งแต่ละแบบมีป้ายข้อความภาษาญี่ปุ่นน่ารักและขอบสีขาว
 
 #### 📝 คำสั่ง
 
 ```
-{
-'resolution': '8K UHD',
-'aspect_ratio': '3:4',
-'image_style': 'ภาพถ่ายอาหารเชิงพาณิชย์ที่สมจริงขั้นสุด',
-'global_settings': {
-'quality': 'รายละเอียดคมชัดเป็นพิเศษ, โฟกัสคมกริบ, ความคมชัดระดับสตูดิโอ',
-'lighting': 'แสงสตูดิโอที่นุ่มนวลแต่ควบคุมได้ พร้อมไฮไลต์ที่มองเห็นได้และรายละเอียดของละอองน้ำ',
-'motion': 'การเคลื่อนไหวที่หยุดนิ่งกลางอากาศ, ส่วนผสมลอยอยู่',
-'background_style': 'พื้นหลังทึบหรือไล่ระดับสีอย่างนุ่มนวล, สีแตกต่างกันไปในแต่ละโมดูล',
-'camera': 'ลักษณะการถ่ายภาพความเร็วสูง, ระยะชัดตื้นถึงปานกลาง',
-'post_processing': 'คอนทราสต์สมดุล, ความอิ่มตัวของสีธรรมชาติ, ไม่มีแสงเรืองแสงเทียม'
-}}
+การออกแบบตัวละคร 3 มิติ, สไตล์กล่องสุ่ม, การออกแบบสไตล์ Pop Mart, C4D, การเรนเดอร์ Octane, พื้นผิวแบบดินเหนียว, ผิวด้าน, แสงนุ่มนวล, เลย์เอาต์แผ่นสติกเกอร์, มุมมองตาราง 3x3 {argument name="expressions and text" default="การแสดงออก 9 แบบ: ดีใจทำท่าหัวใจ, เศร้ามีน้ำตา, โกรธพ่นควัน, ง่วงหาว, ตกใจอ้าปากค้าง, อายหน้าแดง, เชียร์กำหมัดขึ้น, สับสนกำลังคิด, ฉลองด้วยกระดาษโปรย"}, แต่ละแบบมีป้ายข้อความภาษาญี่ปุ่นน่ารัก, ขอบสีขาว, ไดคัท, พื้นหลังสีขาว, คุณภาพสูง, 8k --ar 3:4
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -7801,279 +7700,43 @@ JSON พรอมต์ทางเทคนิคขั้นสูงสำห
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768717518115_xlrzuh_G-3tFT8aAAAhglp.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพอาหารเชิงพาณิชย์ที่สมจริงขั้นสุด - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768977358897_8wjk3h_G_GD9BqWYAAku76.jpg" width="600" alt="สินทรัพย์เกม - LINE Sticker Generation Prompt (สไตล์ดินน้ำมัน 3D) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768717518114_mzz1pn_G-3tFTAbkAEXFia.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพอาหารเชิงพาณิชย์ที่สมจริงขั้นสุด - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768717518102_8djjav_G-3tFTtakAI0WQ3.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพอาหารเชิงพาณิชย์ที่สมจริงขั้นสุด - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768717519186_r2eeu3_G-3tFVWasAAjgWp.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพอาหารเชิงพาณิชย์ที่สมจริงขั้นสุด - Image 4">
+<img src="https://cms-assets.youmind.com/media/1768977361131_d0h5jh_G_GD9R1WwAEpnO-.jpg" width="600" alt="สินทรัพย์เกม - LINE Sticker Generation Prompt (สไตล์ดินน้ำมัน 3D) - Image 2">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [𝐌](https://x.com/Strength04_X)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Strength04_X/status/2012525300761133195)
-- **เผยแพร่เมื่อ:** 17 มกราคม 2569
-- **ภาษา:** en
+- **ผู้เขียน:** [Lovart 公式 (ラブアート)](https://x.com/lovart_jp)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/lovart_jp/status/2013552370589016504)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6389)**
-
----
-
-### No. 111: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพจำลองผลิตภัณฑ์ฮันบกเกาหลีสุดหรู (จัดวางแบบสมมาตร)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-ข้อความแจ้งที่เจาะจงสูงซึ่งออกแบบมาเพื่อสร้างภาพจำลองผลิตภัณฑ์หรูหราของชุดฮันบกเกาหลีแบบดั้งเดิม ในรูปแบบการจัดวางแบบ Flat-lay ที่สมมาตรและอยู่ตรงกลาง โดยกำหนดให้มีพื้นหลังสีขาวบริสุทธิ์ที่ไร้รอยต่อ และระบุรายละเอียดอย่างพิถีพิถันถึงตำแหน่ง สี และพื้นผิวของทุกรายการ ตั้งแต่เสื้อ Jeogori ผ้าไหมสีแดงเลือดหมูที่อยู่ตรงกลาง ไปจนถึงเครื่องประดับโดยรอบ เช่น Bokjumeoni และ Binyeo โดยมีเป้าหมายเพื่อให้ได้สไตล์การถ่ายภาพเชิงพาณิชย์แบบบรรณาธิการที่สมดุล
-
-#### 📝 คำสั่ง
-
-```
-ภาพจำลองผลิตภัณฑ์ฮันบก (한복) แบบเกาหลีโบราณสุดหรูหรา จัดองค์ประกอบตรงกลางอย่างสมดุลบนพื้นหลังสีขาวไร้รอยต่อ
-
-ผ้าใบและพื้นหลัง - สำคัญมาก:
-- ฉากหลังสีขาวไร้รอยต่อเต็มเฟรมจรดขอบ
-- พื้นหลังขยายจากมุมหนึ่งไปอีกมุมหนึ่งโดยไม่มีขอบที่มองเห็นได้
-- โทนสีขาวนวล (#FFFAF5) สะอาดตา สม่ำเสมอทั่วทั้งผืนผ้าใบ
-- ไม่มีขอบมืด (vignetting) ไม่มีแสงลดลง ไม่มีส่วนมืดที่ขอบ
-- มุมทั้งสี่มีสีและความสว่างเท่ากัน
-- การเปิดรับแสงสม่ำเสมอทั่วทั้งภาพจากซ้ายไปขวา จากบนลงล่าง
-องค์ประกอบ - การจัดวางแบบสมมาตรตรงกลาง:
-- จัดแนวแกนกลางอย่างสมบูรณ์แบบ
-- น้ำหนักภาพเท่ากันทั้งด้านซ้ายและขวา
-- จัดเรียงผลิตภัณฑ์ในลักษณะลำดับชั้นสามเหลี่ยม
-- มีระยะขอบขั้นต่ำ 10% ระหว่างผลิตภัณฑ์กับขอบเฟรม
-แถวหลัง (บนสุดตรงกลาง):
-- ตรงกลาง-ด้านหลัง: กล่องของขวัญสีดำด้านพร้อมขอบลายดันชอง (Dancheong) สีทอง, ลายนูนดอกบัว (연꽃문), ข้อความ "한스타일 Hstyle" สีทอง
-- ซ้าย-ด้านหลัง: ถุงช้อปปิ้งสีครีมพร้อมสัญลักษณ์แทกึก (Taegeuk) สีทอง
-- ขวา-ด้านหลัง: กล่องเปิดเผยให้เห็นผ้าไหมซับในสีครีมพร้อมลายนกกระเรียนสีทอง
-แถวกลาง (จุดเด่นตรงกลาง):
-- ตรงกลางเป๊ะ: เสื้อเจอกอรี (저고리) ฮันบกผ้าไหมสีแดงเลือดหมูพร้อมงานปักลายดอกโบตั๋นสีทองบนผ้าไหมสีครีม, แขนเสื้อกางออกอย่างสมมาตร, คอเสื้อสีขาว (동정) มองเห็นได้
-แถวหน้า (จัดระยะห่างเท่ากัน):
-- ซ้าย: พัดโบราณ (부채) ลายดอกเหมย
-- กลาง-ซ้าย: กิ่งดอกเหมย
-- กลาง: ถุงนำโชคบกจูมอนี (복주머니) สีน้ำเงินรอยัลบลูพร้อมอักษร 福 สีทอง
-- กลาง-ขวา: ปิ่นปักผมบินยอ (비녀) สีทองวางบนหมอนอิงสีครีม
-- ขวา: กิ่งดอกเหมย
-แสง:
-- แสงส่องจากด้านบนแบบนุ่มนวลและกระจาย
-- แสงสว่างสม่ำเสมอครอบคลุมทุกมุมและขอบ
-- ไม่มีเงาที่พุ่งไปทางขอบเฟรม
-- ความสว่างสม่ำเสมอทั่วทั้งเฟรม
-กล้อง:
-- ถ่ายตรงหน้า, กล้องอยู่ตรงกลางอย่างสมบูรณ์แบบ
-- อัตราส่วนภาพ 4:5
-- จัดองค์ประกอบผลิตภัณฑ์โดยมีระยะขอบที่ปลอดภัยจากทุกด้าน
-- พื้นหลังครอบคลุมเต็มเฟรม
-สไตล์: ความหรูหราแบบบรรณาธิการที่สมดุล, มรดกเกาหลี, การถ่ายภาพผลิตภัณฑ์เชิงพาณิชย์
-ข้อความเชิงลบ: ขอบมืด (vignetting), มุมมืด, พื้นหลังไม่สม่ำเสมอ, ขอบภาพถูกตัด, แสงลดหลั่นเป็นเกรเดียนต์, ขอบฉากหลังที่มองเห็นได้, แสงไม่สม่ำเสมอที่ขอบ
-ลายเซ็นเขียนด้วยลายมืออย่างมีสไตล์ "Willy" ตัวอักษรสีทองขนาดเล็กที่มุมล่างขวา
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768717573973_la4jzd_G-3I-OnXgAAXBks.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพจำลองผลิตภัณฑ์ฮันบกเกาหลีสุดหรู (จัดวางแบบสมมาตร) - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Willy](https://x.com/jw660227)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/jw660227/status/2012485594723848458)
-- **เผยแพร่เมื่อ:** 17 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6472)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=7008)**
 
 ---
 
-### No. 112: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสแปลชกาแฟและช็อกโกแลตสไตล์ภาพยนตร์สุดอลังการ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-JSON พร้อมรายละเอียดสูงสำหรับสร้างภาพแนวตั้งแบบภาพยนตร์สุดอลังการขององค์ประกอบกาแฟที่ลอยอยู่กลางอากาศ ออกแบบมาสำหรับการโฆษณาคาเฟ่ระดับพรีเมียม โดยระบุถึงเมล็ดกาแฟที่ร่วงหล่น ช็อกโกแลตบอนบอนที่ลอยอยู่ ลวดลายลาเต้อาร์ตที่หมุนวน และหยดนมกับเอสเพรสโซที่หยุดนิ่ง โดยใช้แสงสตูดิโอคอนทราสต์สูงที่น่าทึ่งและรายละเอียดการถ่ายภาพมาโครเพื่อความสมจริงขั้นสุด
-
-#### 📝 คำสั่ง
-
-```
-{
-  "composition": {
-    "orientation": "แนวตั้ง",
-    "style": "อัลตร้า-ซีเนมาติก",
-    "scene_type": "องค์ประกอบลอยอยู่กลางอากาศ",
-    "depth_of_field": "ระยะชัดตื้นแบบซีเนมาติก"
-  },
-  "subject": {
-    "main_elements": [
-      "เมล็ดกาแฟคั่วที่ร่วงหล่นเป็นชั้นๆ",
-      "ช็อกโกแลตบอนบอนลอยอยู่",
-      "ถ้วยกาแฟลอยอยู่กลางอากาศพร้อมลาเต้อาร์ตที่หมุนวน",
-      "นมที่กระเซ็นหยุดนิ่งกลางอากาศ",
-      "เอสเพรสโซที่กระเซ็นหยุดนิ่งกลางอากาศ",
-      "ผงกาแฟละเอียดฟุ้งกระจายในอากาศ"
-    ],
-    "motion_state": "ภาพถ่ายสแปลชแอคชั่นที่หยุดนิ่ง"
-  },
-  "color_palette": {
-    "primary_colors": [
-      "สีน้ำตาลกาแฟเข้มข้น",
-      "สีครีมอบอุ่น",
-      "สีดำเอสเพรสโซ"
-    ],
-    "background": "สีดำกำมะหยี่เข้ม"
-  },
-  "lighting": {
-    "type": "แสงสตูดิโอคอนทราสต์สูงแบบดราม่า",
-    "highlights": "แสงสะท้อนมันวาวบนของเหลว",
-    "shadows": "เงาแบบซีเนมาติกที่ลึก"
-  },
-  "texture_detail": {
-    "liquids": [
-      "นมกระเซ็นที่มันวาว",
-      "เอสเพรสโซกระเซ็นที่มันวาว",
-      "ฟองครีม่าที่มีรายละเอียดเล็กๆ"
-    ],
-    "solids": [
-      "เมล็ดกาแฟคั่วแบบด้าน",
-      "พื้นผิวช็อกโกแลตบอนบอนที่เรียบเนียน",
-      "ผงกาแฟละเอียดเป็นเม็ด"
-    ]
-  },
-  "photography_style": {
-    "genre": "โฆษณาคาเฟ่ระดับพรีเมียม",
-    "aesthetic": "ภาพถ่ายสแปลชสไตล์นิตยสาร",
-    "clarity": "คมชัดละเอียดพิเศษ"
-  },
-  "camera": {
-    "camera_model": "Nikon D850 (เสมือนจริง)",
-    "lens": "เลนส์มาโคร 105 มม.",
-    "aperture": "f/4.0",
-    "focus": "โฟกัสวัตถุคมชัดพร้อมฉากหลังเบลอ"
-  },
-  "render_quality": {
-    "detail_level": "ละเอียดพิเศษ",
-    "realism": "สมจริงราวกับภาพถ่าย",
-    "finish": "ผลงานเชิงพาณิชย์ระดับไฮเอนด์"
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631177621_l8dp06_G-0YhclaQAEgsW-.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสแปลชกาแฟและช็อกโกแลตสไตล์ภาพยนตร์สุดอลังการ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631177668_8j4gck_G-0YhemaQAAlZOq.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสแปลชกาแฟและช็อกโกแลตสไตล์ภาพยนตร์สุดอลังการ - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Sharon Riley](https://x.com/Just_sharon7)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Just_sharon7/status/2012291576119312710)
-- **เผยแพร่เมื่อ:** 16 มกราคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6319)**
-
----
-
-### No. 113: ภาพหลักสำหรับอีคอมเมิร์ซ - คอลเลกชันช็อกโกแลตกูร์เมต์ ตาราง 2x2
+### No. 109: สินทรัพย์เกม - พรอมต์: สตรีสูงศักดิ์และมังกรในฉากภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-พรอมต์แบบมีโครงสร้างสำหรับสร้างภาพคอลลาจแบบตาราง 2x2 ของภาพถ่ายอาหารระดับมืออาชีพความละเอียดสูงที่เน้นช็อกโกแลตกูร์เมต์ แต่ละช่องแสดงให้เห็นถึงแง่มุมที่แตกต่างกันของช็อกโกแลต (แท่ง, ทรัฟเฟิล, ฟองดู และกระบวนการผลิต) โดยระบุแสง (แสงสตูดิโอที่นุ่มนวลและกระจาย) และโทนสี (สีน้ำตาลเข้ม, สีแดงก่ำ) เพื่อสร้างอารมณ์ที่น่ารับประทานและเย้ายวน
+พรอมต์สำหรับสร้างภาพยนตร์แนวแฟนตาซีสมจริงสุด ๆ ของสตรีสูงศักดิ์ในชุดยุคกลาง ยืนอยู่ข้างมังกรสีเทาขนาดมหึมา ในภูมิประเทศภูเขาไฟที่เป็นหินและรกร้างภายใต้ท้องฟ้าที่มืดครึ้ม
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "image_metadata": {
-    "title": "คอลเลกชันช็อกโกแลตกูร์เมต์",
-    "layout": "ตารางสี่ช่อง (ภาพปะติด 2x2)",
-    "theme": "ศิลปะการทำอาหารและขนมหวาน",
-    "image_type": "ภาพถ่ายอาหารระดับมืออาชีพความละเอียดสูง"
-  },
-  "panels": [
-    {
-      "position": "top_left",
-      "subject": "ดาร์กช็อกโกแลตบาร์ทำมือ",
-      "details": {
-        "base": "ดาร์กช็อกโกแลตหนาสองแผ่น",
-        "toppings": ["อัลมอนด์เต็มเม็ด", "วอลนัทครึ่งซีก", "แครนเบอร์รี่อบแห้ง", "เม็ดมะม่วงหิมพานต์"],
-        "surface": "โต๊ะไม้เก่าแก่สไตล์ชนบท",
-        "composition": "ภาพโคลสอัพมุมเอียงเน้นพื้นผิว"
-      }
-    },
-    {
-      "position": "top_right",
-      "subject": "กล่องช็อกโกแลตทรัฟเฟิลรวมรส",
-      "details": {
-        "packaging": "กล่องของขวัญสีน้ำตาลเข้มหรูหราพร้อมฐานสีครีม",
-        "varieties": [
-          "ช็อกโกแลตนมลายเกลียว",
-          "ทรัฟเฟิลลายทางช็อกโกแลตขาว",
-          "ดาร์กช็อกโกแลตบอลคลุกผงโกโก้",
-          "สี่เหลี่ยมตกแต่งด้วยทองคำเปลว",
-          "พราลีนหน้าเฮเซลนัท"
-        ],
-        "quantity": "ชิ้นงานฝีมือ 12 ชิ้นวางในถ้วยกระดาษแต่ละชิ้น"
-      }
-    },
-    {
-      "position": "bottom_left",
-      "subject": "น้ำพุช็อกโกแลตฟองดู",
-      "details": {
-        "fountain": "น้ำพุสเตนเลสสตีลหลายชั้นพร้อมช็อกโกแลตนมละลายไหล",
-        "dipping_items": ["{argument name=\"dipping item 1\" default=\"สตรอว์เบอร์รีสีแดงสด\"}", "{argument name=\"dipping item 2\" default=\"มาร์ชเมลโลว์สีขาวและชมพูฟูฟ่อง\"}"],
-        "background": "พื้นหลังโบเก้ (เบลอ) แสดงขนมหวานอื่น ๆ",
-        "vibe": "งานเลี้ยงของหวานหรืองานบุฟเฟต์หรูหรา"
-      }
-    },
-    {
-      "position": "bottom_right",
-      "subject": "กระบวนการทำช็อกโกแลต",
-      "details": {
-        "person": "เชฟในชุดเครื่องแบบทำอาหารสีขาว",
-        "action": "เทช็อกโกแลตเหลวที่ผ่านการเทมเปอร์แล้วจากเหยือกโลหะลงในแม่พิมพ์โพลีคาร์บอเนตใส",
-        "equipment": ["แม่พิมพ์ช็อกโกแลต", "ชามผสม", "เคาน์เตอร์ครัวมืออาชีพ"],
-        "focus": "ความแม่นยำและฝีมือในการเทมเปอร์ช็อกโกแลต"
-      }
-    }
-  ],
-  "aesthetic_summary": {
-    "lighting": "แสงสตูดิโอที่นุ่มนวลและกระจายตัวเพื่อเพิ่มความโดดเด่นของพื้นผิวอาหาร",
-    "color_scheme": "สีน้ำตาลเข้ม, สีแดงเข้ม, สีขาวครีม และโทนสีไม้อบอุ่น",
-    "overall_mood": "หรูหรา, ซับซ้อน และน่ารับประทาน"
-  }
-}
+ภาพยนตร์เต็มตัวของหญิงสาวชนชั้นสูงที่มีทรงผมถักเปียอันประณีต สวมชุดเดรสยุคกลางปักลายสีเงิน-เทาที่ละเอียดอ่อนพร้อมแขนเสื้อพอง เธอยืนอยู่ข้างมังกรสีเทาขนาดมหึมาที่ดูสมจริง มีเกล็ดและเขาที่ละเอียดอ่อน เธอวางมือลงบนจมูกของมังกรเบาๆ
+
+ฉากหลังเป็นภูมิทัศน์ภูเขาไฟที่เต็มไปด้วยหินและรกร้างภายใต้ท้องฟ้าที่มืดครึ้มและมีเมฆมาก สีที่ลดความอิ่มตัว,
+
+เกรนฟิล์ม, ความละเอียด 8k, สมจริงขั้นสุด, {argument name="style" default="high fantasy"} สไตล์"
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -8081,21 +7744,149 @@ JSON พร้อมรายละเอียดสูงสำหรับส
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631150315_8xogzk_G-y5TM2agAA8q6n.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - คอลเลกชันช็อกโกแลตกูร์เมต์ ตาราง 2x2 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768977318153_uo11v2_G_F-yHxWUAAJNv0.jpg" width="600" alt="สินทรัพย์เกม - พรอมต์: สตรีสูงศักดิ์และมังกรในฉากภาพยนตร์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Bahar azam](https://x.com/BaharAzamm561)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/BaharAzamm561/status/2012186879136035098)
-- **เผยแพร่เมื่อ:** 16 มกราคม 2569
+- **ผู้เขียน:** [𝗦𝗮𝗿𝗶𝗺](https://x.com/Sareem48)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Sareem48/status/2013529921574883670)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6284)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6958)**
 
 ---
 
-### No. 114: สินทรัพย์เกม - ขั้นตอนการทำงานสำหรับการถ่ายทอดสไตล์และการสร้างสตอรี่บอร์ด
+### No. 110: สินทรัพย์เกม - 8K 3D Illustration of Anthropomorphic Bees (Gym and Relaxing)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A complex prompt structured into two modules for generating 8K, high-end AI-generated 3D illustrations of anthropomorphic bees. The first module depicts a bee lifting weights in a natural setting, and the second shows a relaxed bee in sunglasses holding a Pepsi can on a lounge chair, emphasizing physically based rendering and extreme detail clarity.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "master_prompt": {
+    "global_settings": {
+      "resolution": "8K",
+      "aspect_ratio": "3:4",
+      "render_style": "high-end AI-generated 3D illustration",
+      "image_quality": "ultra-sharp, cinematic depth, physically based rendering",
+      "lighting_quality": "soft global illumination with realistic shadows",
+      "focus": "extreme detail clarity, shallow depth of field where applicable"
+    },
+
+    "module_1": {
+      "scene_identity": "Bee lifting weights in nature",
+      "subject": {
+        "type": "anthropomorphic bee",
+        "body": "fuzzy yellow and black striped body",
+        "eyes": "large glossy black eyes",
+        "antennae": "two thin black curved antennae",
+        "wings": "semi-transparent wings with visible vein patterns",
+        "expression": "neutral to slightly cheerful"
+      },
+      "pose_action": {
+        "stance": "standing upright on two legs",
+        "arms": "both arms raised holding a barbell",
+        "object_interaction": "holding a metal barbell with circular weight plates on both ends"
+      },
+      "environment": {
+        "setting": "outdoor natural environment",
+        "ground": "small dirt path or rock surface",
+        "surroundings": "flowers on both sides",
+        "background": "blurred trees and foliage"
+      },
+      "lighting": {
+        "type": "soft natural daylight",
+        "direction": "top-center glow",
+        "effects": "light haze and floating particles"
+      },
+      "color_palette": {
+        "dominant_colors": ["yellow", "black", "green", "orange"],
+        "accent_colors": ["soft pink", "warm brown"]
+      },
+      "camera": {
+        "angle": "eye-level",
+        "framing": "full body centered",
+        "depth_of_field": "foreground sharp, background softly blurred"
+      }
+    },
+
+    "module_2": {
+      "scene_identity": "Relaxed bee on chair with soda can",
+      "subject": {
+        "type": "anthropomorphic bee",
+        "body": "dense fuzzy yellow and black stripes",
+        "eyes": "hidden behind oversized black sunglasses",
+        "antennae": "two black antennae extending upward"
+      },
+      "pose_action": {
+        "posture": "reclining",
+        "legs": "one leg crossed over the other",
+        "arms": "one arm resting on chair, other holding a can"
+      },
+      "objects": {
+        "chair": "wooden lounge chair with yellow fabric seat and backrest",
+        "drink_can": "blue soda can with visible {argument name="drink brand" default="Pepsi"} logo",
+        "sunglasses": "large glossy black frames"
+      },
+      "environment": {
+        "setting": "studio-style minimal background",
+        "background_color": "light neutral gray",
+        "surface": "smooth floor"
+      },
+      "lighting": {
+        "type": "soft studio lighting",
+        "shadow": "subtle shadow beneath chair"
+      },
+      "color_palette": {
+        "dominant_colors": ["yellow", "blue", "black", "wood brown"]
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977338848_ze82xd_G_ElPO4acAA1vGX.jpg" width="600" alt="สินทรัพย์เกม - 8K 3D Illustration of Anthropomorphic Bees (Gym and Relaxing) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977338935_iaz9y2_G_ElPOQXIAA4-w8.jpg" width="600" alt="สินทรัพย์เกม - 8K 3D Illustration of Anthropomorphic Bees (Gym and Relaxing) - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977338846_lu4vpp_G_ElPZ3WQAAPeiS.jpg" width="600" alt="สินทรัพย์เกม - 8K 3D Illustration of Anthropomorphic Bees (Gym and Relaxing) - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768977339989_7v51in_G_ElPjpW4AA6I9h.jpg" width="600" alt="สินทรัพย์เกม - 8K 3D Illustration of Anthropomorphic Bees (Gym and Relaxing) - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [ShaHid WaNii](https://x.com/meng_dagg695)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/meng_dagg695/status/2013431470610882809)
+- **เผยแพร่เมื่อ:** 20 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6986)**
+
+---
+
+### No. 111: สินทรัพย์เกม - ขั้นตอนการทำงานสำหรับการถ่ายทอดสไตล์และการสร้างสตอรี่บอร์ด
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -8140,7 +7931,7 @@ JSON พร้อมรายละเอียดสูงสำหรับส
 
 ---
 
-### No. 115: สินทรัพย์เกม - การถ่ายโอนสไตล์การเรนเดอร์วิดีโอเกมยุคต้นปี 2000
+### No. 112: สินทรัพย์เกม - การถ่ายโอนสไตล์การเรนเดอร์วิดีโอเกมยุคต้นปี 2000
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -8182,7 +7973,7 @@ Low poly, low res textures
 
 ---
 
-### No. 116: สินทรัพย์เกม - การสร้างแผ่นภาพตัวละครแบบหมุนรอบตัว
+### No. 113: สินทรัพย์เกม - การสร้างแผ่นภาพตัวละครแบบหมุนรอบตัว
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -8215,7 +8006,7 @@ Low poly, low res textures
 
 ---
 
-### No. 117: สินทรัพย์เกม - พรอมต์การเปลี่ยนตัวละครที่น่าทึ่ง
+### No. 114: สินทรัพย์เกม - พรอมต์การเปลี่ยนตัวละครที่น่าทึ่ง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -8254,7 +8045,7 @@ Low poly, low res textures
 
 ---
 
-### No. 118: สินทรัพย์เกม - ไดโอรามา 3 มิติแบบไอโซเมตริกของวัตถุในครัวเรือนที่กลายเป็นสถาปัตยกรรม
+### No. 115: สินทรัพย์เกม - ไดโอรามา 3 มิติแบบไอโซเมตริกของวัตถุในครัวเรือนที่กลายเป็นสถาปัตยกรรม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -8306,7 +8097,7 @@ Low poly, low res textures
 
 ---
 
-### No. 119: สินทรัพย์เกม - การสร้างภาพประกอบห้องไอโซเมตริกตามแนวคิดตัวละคร
+### No. 116: สินทรัพย์เกม - การสร้างภาพประกอบห้องไอโซเมตริกตามแนวคิดตัวละคร
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -8346,7 +8137,7 @@ Low poly, low res textures
 
 ---
 
-### No. 120: สินทรัพย์เกม - พรอมต์พาโนรามาแบบ Equirectangular 360 องศา
+### No. 117: สินทรัพย์เกม - พรอมต์พาโนรามาแบบ Equirectangular 360 องศา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -8420,13 +8211,157 @@ Low poly, low res textures
 
 ---
 
+### No. 118: สินทรัพย์เกม - ภาพบุคคลแนวแอคชั่นสไตล์ Lara Croft
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งโดยละเอียดสำหรับการสร้างภาพบุคคลที่สมจริงระดับภาพยนตร์ของหญิงสาวผมบลอนด์ในบทบาทฮีโร่ผจญภัยที่ได้รับแรงบันดาลใจจาก Lara Croft ถือปืนพกสองกระบอกในฉากป่าที่มีแสงสีทองยามพระอาทิตย์ตกดินอันน่าทึ่ง และรายละเอียดที่บ่งบอกถึงการผ่านศึกมาอย่างโชกโชน
+
+#### 📝 คำสั่ง
+
+```
+{
+  "main_prompt": "หญิงสาวผมบลอนด์สวยสะพรั่งวัย 20 กลางๆ ในบทบาทฮีโร่สาวนักผจญภัยสุดแกร่งดุจ {argument name=\"character name\" default=\"Lara Croft\"}, ผมบลอนด์ยาวถักเปียหนาสองข้างพร้อมปอยผมที่หลุดลุ่ย, สีหน้ามุ่งมั่นจริงจังพร้อมรอยยิ้มมุมปากเล็กน้อย, ดวงตาเหลือบมองขึ้นไปทางทแยงมุม, มีรอยเปื้อนดินและโคลนบนใบหน้า แขน และเสื้อผ้าเพื่อลุคที่ผ่านการต่อสู้มาอย่างโชกโชน, สวมเสื้อกล้ามสีฟ้าอ่อนรัดรูปคอเว้าลึกเผยร่องอก, เข็มขัดหนังสีน้ำตาลสำหรับใส่ของพร้อมหัวเข็มขัดสีทองขนาดใหญ่, กางเกงขาสั้นสีกากี/ลายพรางพร้อมซองปืนที่ต้นขา, ถุงมือหนังไร้นิ้วสีดำ, รองเท้าคอมแบตสีดำ, สายรัดและสายรัดหนังหลายเส้นพาดผ่านหน้าอกและไหล่สำหรับเก็บกระสุนและอุปกรณ์, ถือปืนพกสองกระบอก: ปืนพกความจุสูงสีเงิน/โครเมียมในมือขวาชี้ไปข้างหน้า, ปืนพกยุทธวิธีสีดำในมือซ้ายทำมุมขึ้น, ท่าแอคชั่นแบบไดนามิกเอนตัวไปข้างหน้าพร้อมเหยียดแขนออก, ยืนอย่างสง่างามบนโขดหินในป่า, ฉากหลังเป็นน้ำตกในป่าที่ยิ่งใหญ่พร้อมน้ำที่ไหลหลั่ง, ซากปรักหักพังของวิหารโบราณที่ปกคลุมไปด้วยเถาวัลย์และพืชพรรณ, หมอกจางๆ ในอากาศ, เฟิร์นสีเขียวชอุ่มและพืชเขตร้อน, แสงอาทิตย์ยามเย็นสีทองส่องผ่านต้นไม้สร้างลำแสงแห่งเทพและแสงขอบบนเส้นผมและร่างกาย, แสงด้านหลังที่แรงพร้อมแสงแฟลร์ของเลนส์, การปรับสีแบบภาพยนตร์ด้วยโทนสีทองอบอุ่นบนผิวและเงาป่าสีน้ำเงินเขียวเย็นตา, ภาพถ่ายสมจริง, ผิวละเอียดพิเศษพร้อมรูขุมขน เหงื่อ คราบดิน และรอยสึกหรอของผ้าที่สมจริง, สไตล์แฟชั่นแอคชั่นแบบบรรณาธิการ, ถ่ายด้วยกล้อง Canon EOS R5 พร้อมเลนส์ 50mm f/1.4, ระยะชัดตื้น, โฟกัสคมชัดที่ใบหน้าและปืนพร้อมโบเก้เนียนนุ่มบนพื้นหลังน้ำตก, เกรนฟิล์มละเอียดอ่อน, ให้ความรู้สึกผจญภัยและเสริมพลัง, Tomb Raider / Indiana Jones ผสมผสานกับสุนทรียภาพของการถ่ายภาพแฟชั่น",
+  "negative_prompt": "เบลอ, ความละเอียดต่ำ, มือผิดรูป, นิ้วเกิน, นิ้วติดกัน, กายวิภาคไม่ดี, ใบหน้าวาดไม่ดี, สัดส่วนไม่ถูกต้อง, แขนขาเกิน, มือกลายพันธุ์, น่าเกลียด, พิการ, เป็นกระเบื้อง, หลุดเฟรม, สิ่งประดิษฐ์ jpeg, ลายเซ็น, ลายน้ำ, ข้อความ, ข้อผิดพลาด, ถูกครอบตัด, คุณภาพแย่ที่สุด, คุณภาพต่ำ, การ์ตูน, ภาพ 3 มิติ, ผิวพลาสติก, เหมือนตุ๊กตา, ผิวที่ถูกแอร์บรัช, แสงโอเวอร์, แสงอันเดอร์, แสงแบน, เงาจัด, ผิวซีดสะอาด, ไม่มีดิน/โคลน, แต่งหน้าจัดลุคหรูหรา, ยิ้มแย้มมีความสุข, เสื้อผ้าทันสมัย, ฉากหลังเมือง, การตั้งค่าในร่ม, อ้วน, ผู้สูงอายุ, เด็ก, ผู้ชาย, ถ่ายภาพหมู่, แสงแดดจัดตอนกลางวัน, ไม่มีน้ำตก/ซากปรักหักพัง, ชุดสะอาดบริสุทธิ์, โลโก้ที่มองเห็นได้ยกเว้นหัวเข็มขัดที่ละเอียดอ่อน, สีซีดจาง, ขาวดำ",
+  "style_tags": [
+    "ภาพถ่ายสมจริง",
+    "ภาพบุคคลฮีโร่สาวนักผจญภัย",
+    "แรงบันดาลใจจาก Tomb Raider Lara Croft",
+    "สุนทรียภาพการผจญภัยในป่า",
+    "ท่ามือปืนพกคู่",
+    "แสงยามเย็นที่น่าทึ่ง",
+    "องค์ประกอบภาพยนตร์ที่ยิ่งใหญ่",
+    "ความงามที่ผ่านการต่อสู้",
+    "เกรนฟิล์มละเอียดอ่อน",
+    "สไตล์โปสเตอร์ภาพยนตร์ระดับไฮเอนด์",
+    "ความรู้สึกที่เสริมพลังและดุดัน"
+  ],
+  "technical": {
+    "aspect_ratio": "3:4 หรือ 4:5 (ภาพบุคคลแนวตั้งแบบฮีโร่ / สไตล์โปสเตอร์)",
+    "lighting": "แสงยามเย็นที่แรงจากด้านหลัง/ขวา สร้างรัศมีแสงขอบบนเส้นผมและไหล่, wa"
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768717518319_ci8uil_G-5AxfxXgAA_qmi.jpg" width="600" alt="สินทรัพย์เกม - ภาพบุคคลแนวแอคชั่นสไตล์ Lara Croft - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Lex](https://x.com/katmanai)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/katmanai/status/2012617306505981967)
+- **เผยแพร่เมื่อ:** 17 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6388)**
+
+---
+
+### No. 119: สินทรัพย์เกม - พรอมต์การออกแบบตัวละครยุค 2000
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+คำสั่งง่ายๆ ระดับสูงที่ตั้งใจให้โมเดล Nano Banana Pro สร้างการออกแบบตัวละครที่ชวนให้นึกถึงสุนทรียภาพของยุค 2000 คำสั่งแบบเต็มและละเอียดนั้นหมายถึงอยู่ในภาพที่เชื่อมโยง แต่คำแนะนำหลักได้ระบุไว้แล้ว
+
+#### 📝 คำสั่ง
+
+```
+การออกแบบตัวละครยุค 2000
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768717597113_ll8zd9_G-5AM68WAAANR6-.jpg" width="600" alt="สินทรัพย์เกม - พรอมต์การออกแบบตัวละครยุค 2000 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768717597029_77vxzh_G-5AM5WWkAERZSE.jpg" width="600" alt="สินทรัพย์เกม - พรอมต์การออกแบบตัวละครยุค 2000 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768717597121_3egvmj_G-5AM5dXUAAtEzS.jpg" width="600" alt="สินทรัพย์เกม - พรอมต์การออกแบบตัวละครยุค 2000 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768717598090_kvu006_G-5AM5WXAAAARVo.jpg" width="600" alt="สินทรัพย์เกม - พรอมต์การออกแบบตัวละครยุค 2000 - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [AI Pulse](https://x.com/youraipulse)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/youraipulse/status/2012616680120209523)
+- **เผยแพร่เมื่อ:** 17 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6503)**
+
+---
+
+### No. 120: สินทรัพย์เกม - เปลี่ยนภาพถ่ายบุคคลให้เป็นหุ่นฟิกเกอร์ 3 มิติ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ข้อความแจ้งที่ออกแบบมาสำหรับการแปลงรูปภาพเป็นรูปภาพ โดยสั่งให้ AI แปลงภาพบุคคลที่อัปโหลดให้เป็นหุ่นแอคชั่น 3 มิติที่มีสไตล์ โดยระบุสไตล์ (ของเล่นพลาสติกมันวาว, คุณสมบัติที่เรียบง่าย, ตากลมโต) และพื้นหลัง (ชั้นวางของเล่นในร้านค้าที่มีกล่องเบลอ) ในขณะที่ยังคงต้องรักษารูปลักษณ์ใบหน้าหลักของบุคคลต้นฉบับให้จดจำได้
+
+#### 📝 คำสั่ง
+
+```
+เปลี่ยนภาพบุคคลนี้ให้เป็นฟิกเกอร์แอคชั่น 3 มิติในรูปแบบการ์ตูนของบุคคลนี้ สไตล์: ของเล่นพลาสติกเคลือบเงา, ตากลมโต, ใบหน้าเรียบง่าย พื้นหลัง: ชั้นวางของสไตล์ร้านขายของเล่นที่มีกล่องเบลอ ข้อจำกัด: คงลักษณะใบหน้าหลักที่จดจำได้
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768717578007_n7y3wg_G-4MiAOWQAIyCZL.jpg" width="600" alt="สินทรัพย์เกม - เปลี่ยนภาพถ่ายบุคคลให้เป็นหุ่นฟิกเกอร์ 3 มิติ - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1768717577987_v92n55_G-4Mh6mXoAAzz-3.jpg" width="600" alt="สินทรัพย์เกม - เปลี่ยนภาพถ่ายบุคคลให้เป็นหุ่นฟิกเกอร์ 3 มิติ - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Snow](https://x.com/iamrealsnow)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/iamrealsnow/status/2012559882130747579)
+- **เผยแพร่เมื่อ:** 17 มกราคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=6478)**
+
+---
+
 ---
 
 ## 📚 มีคำสั่งเพิ่มเติม
 
 <div align="center">
 
-### 🎯 5901 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 6078 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -8489,6 +8424,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-01-21T04:36:43.633Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-01-21T08:18:32.605Z</sub>
 
 </div>
